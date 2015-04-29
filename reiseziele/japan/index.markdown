@@ -7,6 +7,7 @@ slug: japan
 title: Japan
 hide: true
 wordpress_id: 8
+header-img: img/japan-bg.jpg
 country: Japan
 category: japan
 language: Japanisch

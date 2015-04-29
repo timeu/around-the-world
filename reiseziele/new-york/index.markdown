@@ -6,6 +6,7 @@ layout: country
 title: New York City
 hide: true
 wordpress_id: 13
+header-img: img/newyork-bg.jpg
 category: newyork
 country: NewYorkCity
 language: Englisch

@@ -5,4 +5,5 @@ description: Posts by category
 category: newyork
 hide: true
 permalink: /category/newyork/
+header-img: img/newyork-bg.jpg
 ---

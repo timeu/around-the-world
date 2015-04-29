@@ -7,6 +7,7 @@ slug: kalifornien
 title: Kalifornien
 hide: true
 wordpress_id: 12
+header-img: img/kalifornien-bg.jpg
 category: kalifornien
 country: Kalifornien
 language: Englisch

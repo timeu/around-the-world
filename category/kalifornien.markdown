@@ -5,4 +5,5 @@ description: Posts by category
 category: kalifornien
 hide: true
 permalink: /category/kalifornien/
+header-img: img/kalifornien-bg.jpg
 ---

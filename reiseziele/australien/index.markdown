@@ -7,6 +7,7 @@ slug: australien
 title: Westaustralien
 hide: true
 wordpress_id: 9
+header-img: img/australien-bg.jpg
 category: australien
 country: Westaustralien
 language: Englisch
