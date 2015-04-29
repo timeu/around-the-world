@@ -12,7 +12,7 @@ categories:
 
 <h1>Zusammenfassung der Japan Reise:</h1>
 
-![]({{ site.url }}/assets/images/Japanflag.gif) 
+![]({{ "/assets/images/Japanflag.gif" | prepend : site.baseurl }}) 
 
 
 <h2>Reiseroute</h2>

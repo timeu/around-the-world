@@ -64,7 +64,7 @@
 <script>
 var maps = $("div.map[url]").each(function() {
    map =  L.map(this).setView([51.505, -0.09], 10);  
-   initKML(map,"{{ site.url }}/assets/routen/" + this.getAttribute('url'));   
+   initKML(map,"{{ "/assets/routen/" | prepend : site.baseurl }}" + this.getAttribute('url'));   
 });
 
 </script>

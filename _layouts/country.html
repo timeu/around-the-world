@@ -11,8 +11,8 @@ layout: page
     <table border="0" cellspacing="2" cellpadding="1">
    <tr>
       <td width=190>
-         <a HREF="{{ site.url }}/assets/images/{{ page.country }}.jpg">
-            <img SRC="{{ site.url }}/assets/images/thumb-{{ page.country }}.jpg" ALT="{{ page.country }}"/>
+         <a HREF="{{ "/assets/images/" | prepend : site.baseurl }}{{ page.country }}.jpg">
+            <img SRC="{{ "/assets/images/thumb-" | prepend : site.baseurl }}{{ page.country }}.jpg" ALT="{{ page.country }}"/>
          </a>
       </td>
       <td>

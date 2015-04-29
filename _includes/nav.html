@@ -25,7 +25,7 @@
                 {% endif %}{% endfor %}
                 {% for cat in site.categories %}
 		<li>
-                   <a href="/category/{{ cat[0] | prepend: site.baseurl }}">{{ cat[0] }}</a>
+                   <a href="{{ "/category/" | prepend: site.baseurl }}{{ cat[0] }} ">{{ cat[0] }}</a>
                 </li>
                 {% endfor %}
             </ul>

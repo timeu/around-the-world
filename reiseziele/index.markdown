@@ -18,27 +18,27 @@ Für Ümit bedeutet diese Weltreise ein Semester Auszeit von seiner Dissertation
 
 Folgende Reiseziele werden wir in dieser Reihenfolge besuchen:
 
-**[Japan]({{ site.url }}/reiseziele/japan/)**
+**[Japan]({{ "/reiseziele/japan/" | prepend : site.baseurl }})**
 
 vom 2.10. bis zum 26.10.2005
 
-**[Westaustralien]({{ site.url }}/reiseziele/australien/)**
+**[Westaustralien]({{ "/reiseziele/australien/" | prepend : site.baseurl }})**
 
 vom 27.10. bis zum 20.11.2005
 
-**[Neuseeland]({{ site.url }}/reiseziele/neuseeland/)**
+**[Neuseeland]("{{ /reiseziele/neuseeland/" | prepend : site.baseurl }})**
 
 vom 21.11. bis zum 16.12.2005
 
-**[Fidschi]({{ site.url }}/reiseziele/fijis/)**
+**[Fidschi]({{ "/reiseziele/fijis/" | prepend : site.baseurl }})**
 
 vom 17.12.2005 bis zum 2.1.2006
 
-**[Kalifornien]({{ site.url }}/reiseziele/kalifornien/)**
+**[Kalifornien]({{ "/reiseziele/kalifornien/" | prepend : site.baseurl }})**
 
 vom 2.1. bis zum 24.1.2006
 
-**[New York City]({{ site.url }}/reiseziele/new-york/)**
+**[New York City]({{ "/reiseziele/new-york/" | prepend : site.baseurl }})**
 
 vom 25.1. bis zum 29.1.2006
 
