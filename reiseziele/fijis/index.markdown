@@ -7,6 +7,7 @@ slug: fijis
 title: Fidschi
 hide: true
 wordpress_id: 11
+header-img: img/fiji-bg.jpg
 category: fiji
 country: Fidschi
 language: Englisch, Fidschi

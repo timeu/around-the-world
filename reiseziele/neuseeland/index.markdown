@@ -7,6 +7,7 @@ slug: neuseeland
 title: Neuseeland
 hide: true
 wordpress_id: 10
+header-img: img/neuseeland-bg.jpg
 category: neuseeland
 country: Neuseeland
 language: Englisch, Maori, NZSL (Neuseeländische Gebärdensprache)

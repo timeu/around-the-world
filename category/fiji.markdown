@@ -5,4 +5,5 @@ description: Posts by category
 category: fiji
 hide: true
 permalink: /category/fiji/
+header-img: img/fiji-bg.jpg
 ---

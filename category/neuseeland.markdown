@@ -5,4 +5,5 @@ description: Posts by category
 category: neuseeland
 hide: true
 permalink: /category/neuseeland/
+header-img: img/neuseeland-bg.jpg
 ---

@@ -8,6 +8,7 @@ title: Fiji - 16 Tage Paradies
 wordpress_id: 65
 categories:
 - Fiji
+header-img: img/fiji-bg.jpg
 ---
 
 **Zusammenfassung der Fiji-Reise:******
