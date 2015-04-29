@@ -1,36 +1,355 @@
 ---
 layout: page
-description: "Web Developer and Bootstrap Expert"
+description: "4 Monate um die Welt"
+wordpress_id: 73
 ---
+<div>
 
-{% for post in paginator.posts %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-    </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+  <section>
+   <a name="anfang">
+    <h1>Around the World</h1>
+    <p>
+      <b>Japan - Westaustralien - Neuseeland - Fiji - Kalifornien - New York City</b>  
+      <i>02.10.2005 bis 30.01.2006 (~120 Tage)</i> <a href="{{ site.url }}/reiseziele/">Infos</a>
+    </p>
+     <h2>Die Reise</h2>
+     <p>Am 2. Oktober 2005 begann unser 120 tägiges Abendteuer, dass uns einmal rund um die Welt brachte. Ausgestattet mit einem British Airways Round-The-World-Ticket, 4 Monaten Zeit und viel Motivation stürzten wir uns in das Abenteuer. Die 4 Monate wurden gleichmäßig auf die einzelnen Destination aufgeteilt, jeweils 3 1/2 Wochen Japan, Australien, Neuseeland und Kalifornien. Die verbleibenden 20 Tage wurden dann in Fiji (16 Tage) und New York (4 Tage) verbracht. Manche werden wohl fragen, wie lang wir für die Planung der Reise gebraucht haben. Nicht lang. Zum Einen waren wir beide in diversen anderen Dingen eingespannt und hatten daher nicht allzuviel Zeit für die Planung und zum Anderen kann man eine 4 monatige Reise nicht von Anfang an bis zum Ende durchplanen. Man kann schon, aber wo bleibt dann die Spannung, das Abenteuerliche und das Unbekannte? Lediglich das erste Quartier in Japan, der Japan Rail Pass und das Mietauto in Australien wurden im Vorfeld organisiert. Den Rest haben wir immer spontan erledigt, sozusagen in einer Von-Tag-zu-Tag Planung. Man ist dadurch sehr flexibel, besonders wenn man ein Auto hat. Andererseits kann es schon mal vorkommen, dass man gewisse Dinge nicht sieht, da man zur falschen Zeit am falschen Ort ist und äußere Bedinungen (Wetter) nicht mitspielen. Dennoch hielten wir diese Vorgehensweise für die Beste. 
+Auf unserer Reise haben wir nicht allzuviele Weltreisende getroffen. Die meisten Reisenden sind entweder nur einig Wochen unterwegs oder länger als 1 Jahr. Man könnte uns als Speedtouristen bezeichen, nie länger als 2 Tage an einem Ort, immer auf Achse. </p>
+
+<p>Für die Reise nahmen wir uns vor, ein Online Tagebuch zu führen. Ein Freund (Stefan Z.) stellten uns den Server und ein anderer (Gerald G.) die Domain zur Verfügung und vor genau 4 Monaten wurde der erste Eintrag online gestellt. Seit dem haben wir während der gesamten Reise versucht, dieses Tagebuch zu pflegen und am aktuellsten Stand zu bringen und soweit wir es sagen können, waren wir erfolgreich. Es war nicht immer einfach, vor allem wenn man berücksichtigt, dass wir lediglich einen PDA hatten, der uns das Leben aber nicht wirklich erleichterte. Berücksichtigt man auch, dass in vielen Teilen von Westaustralien weit und breit nichts ist, geschweige denn von einem Internet Cafe, so ist dieses Tagebuch doch eine gewisse Leistung und wir sind natürlich stolz darauf. Nicht unerwähnt soll aber auch das positive Feedback von Freunden, Familien und Verwandten sein, die für uns immer ein Motivationsfaktor waren, dieses Tagebuch am aktuellsten Stand zu halten. Dieses Tagebuch soll nicht nur als Erinnerungsstück für uns dienen, sondern auch  als Leitfaden für andere Reisende, oder vielleicht sogar Weltreisende auf der selben Route.</p> 
+
+<p>Der folgende Eintrag bietet eine Übersicht über die Weltreise, alle Destinationen mit den wichtigsten Fakten und die Liste aller Berichte zu jeder Destination. Somit soll es einfach sein, rasch zu den Informationen zu gelangen, die einen ineteressieren, unabhängig ob das ein spezielles Land oder einen speziellen Bericht in jenem Land betrifft. Zusätzlich wurden die Google Maps mit den Reiserouten für jedes einzelne Land inkludiert, damit man auf einen Blick sehen kann, wo wir waren und wo nicht. 
+Alles in allem soll dieser Eintrag als Inhaltsverzeichnis dienen. </p>
+
+<p>Für Anregungen, Kritik oder Fragen einfach einen Kommentar schreiben oder per Mail melden.</p>
+
+
+
+  </section>
+
+  <section>
+   <div class="map" id="map_world"></div>
+   <h1>Reiseziele:</h1>
+   <ul>
+      <li><a href="#japan">Japan (02.10.2005 - 26.10.2005)</a>
+      </li>
+      <li><a href="#australien">Australien (27.10.2005 - 20.11.2005)</a>
+      </li>
+      <li><a href="#neuseeland">Neuseeland (21.11.2005 - 16.12.2005)</a>
+      </li>
+      <li><a href="#fiji">Fiji (17.12.2005 - 02.01.2006)</a>
+      </li>
+      <li><a href="#kalifornien">Kalifornien (02.01.2006 - 24.01.2006)</a>
+      </li>
+      <li><a href="#newyork">New York City (25.01.2006 - 29.01.2006)</a></li>
+   </ul>
+  </section>
+
+ <section>
+   <center><a name="japan"><font size=8>Japan</font></a> 
+     <br />
+     <img src='{{ site.url }}/assets/images/Japanflag.gif' alt='' /> 
+   </center>
+   <b>Reiseroute</b>
+   <div class="map" id="map_japan" ></div>
+   <table border=0 cellpadding=2 cellspacing=2 width="100%">
+     <tr>
+        <td width="40%" valign="top">
+           <b><a href="{{ site.url }}/reiseziele/japan/" target="_blank">Reiseinformationen</a></b>
+           <table border=0 cellpadding=2 cellspacing=2 width="100%">
+              <tr>
+                 <td valign="top">
+                    <i>Zeitraum:</i>
+                 </td>
+                 <td width="100%">2.10.2005 bis <br /> 26.10.2005</td>
+              </tr>
+              <tr></tr>
+              <tr>
+                 <td valign="top">
+                    <i>Dauer:</i>
+                 </td>
+                 <td width="100%">24 Tage</td>
+              </tr>
+              <tr>
+                 <td valign="top"><i>Strecke:</i> </td>
+                 <td width="100%" valign="top">6000 km</td>
+              </tr>
+              <tr>
+                 <td valign="top"><i>Verkehrsmittel:</i></td>
+                 <td width="100%" valign="top">Japan Rail</td>
+              </tr>
+              <tr>
+                 <td valign="top"><i>Kosten:</i></td>
+                 <td width="100%" valign="top">
+                    ca. 2000 Euro
+                 </td>
+              </tr>
+           </table>
+        </td>
+        <td width="60%">
+           {% assign category = site.categories.japan %}
+           <b>{{ category | size }} Berichte (chronologische Reihenfolge)</b>
+           <ul>
+              {% for post in category reversed %}
+                 <li><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></li>
+              {% endfor %}
+           </ul>
+        </td>
+     </tr>
+    </table>
+  <a href="#anfang">zum Anfang</a>
+  </section>
+
+<section id="australien">
+   <center><a name="australien"><font size=8>Australien</font></a> 
+   <br />
+   <img src='{{ site.url }}/assets/images/australian_flag_s.gif' alt='' /> 
+</center>
+<b>Reiseroute</b>
+<div class="map" id="map_australien" ></div>
+<table border=0 cellpadding=2 cellspacing=2 width="100%">
+   <tr>
+      <td width="40%" valign="top">
+         <b><a href="{{ site.url }}/reiseziele/australien/" target="_blank">Reiseinformationen</a></b>
+         <table border=0 cellpadding=2 cellspacing=2 width="100%">
+            <tr>
+               <td valign="top">
+                  <i>Zeitraum:</i>
+               </td>
+               <td width="100%">27.10.2005 bis 20.11.2005</td>
+            </tr>
+            <tr></tr>
+            <tr>
+               <td valign="top">
+                  <i>Dauer:</i>
+               </td>
+               <td width="100%">24 Tage</td>
+            </tr>
+            <tr>
+               <td valign="top"><i>Strecke:</i> </td>
+               <td width="100%" valign="top">~7200 km</td>
+            </tr>
+            <tr>
+               <td valign="top"><i>Verkehrsmittel:</i></td>
+               <td width="100%" valign="top"><a href="http://www.swissaussie.com/fahrzeug.htm">Toyota Landcruiser</a></td>
+            </tr>
+            <tr>
+               <td valign="top"><i>Verbrauch:</i></td>
+               <td width="100%" valign="top">ca. 1400 Liter (~1240 Euro)</td>
+            </tr>
+            <tr>
+               <td valign="top"><i>Kosten:</i></td>
+               <td width="100%" valign="top">ca. 2200 Euro</td>
+            </tr>
+         </table>
+      </td>
+      <td width="60%">
+         {% assign category = site.categories.australien %}
+         <b>{{ category | size }} Berichte (chronologische Reihenfolge)</b>
+         <ul>
+            {% for post in category reversed %}
+               <li><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></li>
+            {% endfor %}
+         </ul>
+      </td>
+   </tr>
+</table>
+<a href="#anfang">zum Anfang</a>
+</section>
+
+<section id="neuseeland">
+   <center><a name="neuseeland"><font size=8>Neuseeland</font></a> 
+   <br />
+   <img src='{{ site.url }}/assets/images/newzealand.gif' alt='' /> 
+</center>
+<b>Reiseroute</b>
+<div class="map" id="map_neuseeland" ></div>
+<table border=0 cellpadding=2 cellspacing=2 width="100%">
+   <tr>
+      <td width="40%" valign="top">
+         <b><a href="{{ site.url }}/reiseziele/neuseeland/" target="_blank">Reiseinformationen</a></b>
+         <table border=0 cellpadding=2 cellspacing=2 width="100%">
+            <tr>
+               <td valign="top">
+                  <i>Zeitraum:</i>
+               </td>
+               <td width="100%">21.11.2005 bis 16.12.2005</td>
+            </tr>
+            <tr></tr>
+            <tr>
+               <td valign="top">
+                  <i>Dauer:</i>
+               </td>
+               <td width="100%">26 Tage</td>
+            </tr>
+            <tr>
+               <td valign="top"><i>Strecke:</i> </td>
+               <td width="100%" valign="top">~5600 km</td>
+            </tr>
+            <tr>
+               <td valign="top"><i>Verkehrsmittel:</i></td>
+               <td width="100%" valign="top"><a href="LINK_TO_PICTURE">Toyota Corolla</a></td>
+            </tr>
+            <tr>
+               <td valign="top"><i>Vebrauch</i></td>
+               <td width="100%" valign="top">ca. 405 Liter (~325 Euro)</td>
+            </tr>
+<tr>
+               <td valign="top"><i>Kosten</i></td>
+               <td width="100%" valign="top">ca. 2500 Euro</td>
+            </tr>
+         </table>
+      </td>
+      <td width="60%">
+         {% assign category = site.categories.neuseeland %}
+         <b>{{ category | size }} Berichte (chronologische Reihenfolge)</b>
+         <ul>
+            {% for post in category reversed %}
+               <li><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></li>
+            {% endfor %}
+         </ul>
+      </td>
+   </tr>
+</table>
+<a href="#anfang">zum Anfang</a>
+ 
+ 
+</section>
+
+<section id="fiji">
+   <center><a name="fiji"><font size=8>Fiji</font></a> 
+   <br />
+   <img src='{{ site.url }}/assets/images/FIJI0001.GIF' alt='' /> 
+</center>
+<b>Reiseroute</b>
+<div class="map" id="map_fiji" ></div>
+<table border=0 cellpadding=2 cellspacing=2 width="100%">
+   <tr>
+      <td width="40%" valign="top">
+         <b><a href="{{ site.url }}/reiseziele/fiji/" target="_blank">Reiseinformationen</a></b>
+         <table border=0 cellpadding=2 cellspacing=2 width="100%">
+            <tr>
+               <td valign="top">
+                  <i>Zeitraum:</i>
+               </td>
+               <td width="100%">17.12.2005 bis 02.01.2006</td>
+            </tr>
+            <tr></tr>
+            <tr>
+               <td valign="top">
+                  <i>Dauer:</i>
+               </td>
+               <td width="100%">16 Tage</td>
+            </tr>
+            <tr>
+               <td valign="top"><i>Strecke:</i> </td>
+               <td width="100%" valign="top">~1000 km</td>
+            </tr>
+            <tr>
+               <td valign="top"><i>Verkehrsmittel:</i></td>
+               <td width="100%" valign="top">Flugzeug/Taxi/Schiff</td>
+            </tr>
+            <tr>
+               <td valign="top"><i>Verbrauch</i></td>
+               <td width="100%" valign="top">Unbekannt</td>
+            </tr>
+           <tr>
+               <td valign="top"><i>Kosten:</i></td>
+               <td width="100%" valign="top">ca. 1500 Euro</td>
+            </tr>
+         </table>
+      </td>
+      <td width="60%">
+         {% assign category = site.categories.fiji %}
+         <b>{{ category | size }} Berichte (chronologische Reihenfolge)</b>
+         <ul>
+            {% for post in category reversed %}
+               <li><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></li>
+            {% endfor %}
+         </ul>
+      </td>
+   </tr>
+</table>
+<a href="#anfang">zum Anfang</a>
+</section>
+
+<section id="usa"> 
+   <center><a name="kalifornien"><font size=8>USA</font></a> 
+   <br />
+   <img src='{{ site.url }}/assets/images/usaflag.gif' alt='' /> 
+</center>
+<b>Reiseroute</b>
+<div class="map" id="map_usa" ></div>
+<table border=0 cellpadding=2 cellspacing=2 width="100%">
+   <tr>
+      <td width="40%" valign="top">
+         <b><a href="{{ site.url }}/reiseziele/kalifornien/" target="_blank">Reiseinformationen</a></b>
+         <table border=0 cellpadding=2 cellspacing=2 width="100%">
+            <tr>
+               <td valign="top">
+                  <i>Zeitraum:</i>
+               </td>
+               <td width="100%">02.01.2006 bis 25.01.2006</td>
+            </tr>
+            <tr></tr>
+            <tr>
+               <td valign="top">
+                  <i>Dauer:</i>
+               </td>
+               <td width="100%">23 Tage</td>
+            </tr>
+            <tr>
+               <td valign="top"><i>Strecke:</i> </td>
+               <td width="100%" valign="top">4277 miles (~6883 km</td>
+            </tr>
+            <tr>
+               <td valign="top"><i>Verkehrsmittel:</i></td>
+               <td width="100%" valign="top"><a href="LINK_TO_PIC">Rav4</a></td>
+            </tr>
+            <tr>
+               <td valign="top"><i>Verbrauch:</i></td>
+               <td width="100%" valign="top">ca. 750 Liter (~415 Euro)</td>
+            </tr>
+            <tr>
+               <td valign="top"><i>Kosten:</i></td>
+               <td width="100%" valign="top">ca. 2000 Euro</td>
+            </tr>
+         </table>
+      </td>
+      <td width="60%">
+         {% assign category = site.categories.kalifornien %}
+         <b>{{ category | size }} Berichte (chronologische Reihenfolge)</b>
+         <ul>
+            {% for post in category reversed %}
+               <li><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></li>
+            {% endfor %}
+         </ul>
+         <b><a name="newyork">New York</a></b>
+         <ul>
+            {% for post in site.categories.newyork reversed %}
+               <li><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></li>
+            {% endfor %}
+         </ul>
+      </td>
+   </tr>
+</table>
+<a href="#anfang">zum Anfang</a>
+</section>
+<script>
+  var map_japan = L.map('map_japan').setView([51.505, -0.09], 13);  
+  var map_world = L.map('map_world').setView([51.505, -0.09], 13);  
+  var map_australien =  L.map('map_australien').setView([51.505, -0.09], 13);  
+  var map_neuseeland =  L.map('map_neuseeland').setView([51.505, -0.09], 13);  
+  var map_fiji =  L.map('map_fiji').setView([51.505, -0.09], 13);  
+  var map_usa =  L.map('map_usa').setView([51.505, -0.09], 13);  
+  initKML(map_world,"{{ site.url }}/assets/routen/WeltreiseFinal.kml");
+  initKML(map_japan,"{{ site.url }}/assets/routen/Japan/Japan.kml");
+  initKML(map_australien,"{{ site.url }}/assets/routen/Australien/Australien.kml");
+  initKML(map_neuseeland,"{{ site.url }}/assets/routen/Neuseeland/Neuseeland.kml");
+  initKML(map_fiji,"{{ site.url }}/assets/routen/Fiji/Fiji.kml");
+  initKML(map_usa,"{{ site.url }}/assets/routen/Kalifornien/Kalifornien.kml");   
+</script>
+
+  {% include comments.html %}
+
 </div>
-<hr>
-{% endfor %}
-
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-    </li>
-    {% endif %}
-</ul>
-{% endif %}

@@ -12,7 +12,7 @@ layout: default
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
-                    <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+                    <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</span>
                 </div>
             </div>
         </div>
@@ -26,8 +26,8 @@ layout: default
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
 				{{ content }}
+                 {% include comments.html %}
 
-                <hr>
 
                 <ul class="pager">
                     {% if page.previous.url %}
@@ -45,6 +45,8 @@ layout: default
             </div>
         </div>
     </div>
+    {% include gallery.html %}
 </article>
 
 <hr>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Kyoto-Niko_Sapporo</name>
+  <description><![CDATA[]]></description>
+  <NetworkLink>
+    <name>Kyoto-Niko_Sapporo</name>
+    <Link>
+      <href>http://www.google.com/maps/ms?f=d&amp;hl=en&amp;geocode=&amp;saddr=Tokyo&amp;daddr=Nikko&amp;date=7/3/08&amp;time=9:24am&amp;ttype=dep&amp;noexp=1&amp;noal=1&amp;sort=time&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=114985593190328942514.00045113c6106a47422a3&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+</Document>
+</kml>

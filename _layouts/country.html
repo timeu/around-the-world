@@ -1,0 +1,67 @@
+---
+layout: page
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <section class="country-infos">
+    <table border="0" cellspacing="2" cellpadding="1">
+   <tr>
+      <td width=190>
+         <a HREF="{{ site.url }}/assets/images/{{ page.country }}.jpg">
+            <img SRC="{{ site.url }}/assets/images/thumb-{{ page.country }}.jpg" ALT="{{ page.country }}"/>
+         </a>
+      </td>
+      <td>
+         <table border="0" cellspacing="2" cellpadding="1">
+            <caption align="top"><strong>Basisdaten</strong></caption>
+            <tr valign="top">
+               <td>Amtssprache</td>
+               <td>{{ page.language }}</td>
+            </tr>
+            <tr valign="top">
+               <td>Hauptstadt</td>
+               <td>{{ page.capital }}</td>
+            </tr>
+            <tr valign="top">
+               <td>Staatsform</td>
+               <td>{{ page.staatsform }}</td>
+            </tr>
+            <tr valign="top">
+               <td>Fläche</td>
+               <td>{{ page.area }} km²</td>
+            </tr>
+            <tr valign="top">
+               <td>Einwohner</td>
+               <td>{{ page.population }}</td>
+            </tr>
+            <tr valign="top">
+               <td>Bevölkerungsdichte</td>
+               <td>{{ page.densitiy}} Einwohner/km²</td>
+            </tr>
+            <tr valign="top">
+               <td>BIP/Einwohner</td>
+               <td>{{ page.BIP }}</td>
+            </tr>
+            <tr valign="top">
+               <td>Währung</td>
+               <td>{{ page.currency }}</td>
+            </tr>
+            <tr valign="top">
+               <td>Zeitzone</td>
+               <td>{{ page.timezone }}</td>
+            </tr>
+         </table>
+      </td>
+   </tr>
+</table>
+  </section>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>

@@ -1,0 +1,22 @@
+<ul class="listing comments">
+  {% for comment_pages in site.data.comments %}
+    {% capture pageid %}{{ page.wordpress_id | strip }}{% endcapture %}
+    {% if pageid == comment_pages[0] %}
+      {% assign comments =  comment_pages[1] %}
+      {% for comment in comments %}
+        <li>
+          <img src="{{ comment.avatar }}" alt="{{ comment.name }}">
+          <time datetime="{{ comment.created | date_to_xmlschema }}">{{ comment.created | date_to_long_string  }}</time>
+          {% if comment.url and comment.url != '' %}
+	    <a href="{{ comment.url }}" class="commenter">{{ comment.name }}</a>
+          {% else %}
+	    <span class="commenter">{{ comment.name }}</span>
+          {% endif %}
+          <div>
+	    {{ comment.comment }}
+          </div>
+        </li>
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</ul>

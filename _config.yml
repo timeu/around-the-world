@@ -1,13 +1,12 @@
 # Site settings
-title: David Miller
+title: Weltreise von Ümit und Georg
 header-img: img/home-bg.jpg
-email: david@ironsummitmedia.com
-description: "The official blog of David Miller, creator of Start Bootstrap and managing partner of Iron Summit Media Strategies"
-baseurl: "/davidtmiller-website"
-url: "http://davidtmiller.github.io/davidtmiller-website/"
-twitter_username: davidmillerskt
-github_username:  davidtmiller
-facebook_username:  dmironsummit
+email: uemit.seren@gmail.com
+description: "Ein umfassender Bericht über Ümit und Georg's 4 monatige Weltreise 2005/2006"
+baseurl: ""
+url: ""
+github_username:  timeu
+facebook_username:  timeu
 
 # Build settings
 markdown: kramdown

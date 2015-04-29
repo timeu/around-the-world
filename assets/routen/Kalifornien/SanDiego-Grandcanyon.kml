@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>SanDiego-Grandcanyon</name>
+  <description><![CDATA[]]></description>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/blu-circle_maps.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/blu-circle_maps.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/blu-circle_maps.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/blu-circle_maps.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/blu-circle_maps.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/blu-circle_maps.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Placemark>
+    <name>San Diego</name>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-117.121124,32.756676,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>San Diego - Grand Canyon</name>
+    <styleUrl>#style2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -117.122490,32.754940,0.000000
+        -117.093651,32.714512,0.000000
+        -117.040100,32.746849,0.000000
+        -117.003021,32.761871,0.000000
+        -117.005760,32.783810,0.000000
+        -116.970062,32.788422,0.000000
+        -116.959068,32.801121,0.000000
+        -116.923370,32.805740,0.000000
+        -116.875298,32.854210,0.000000
+        -116.817619,32.861130,0.000000
+        -116.798401,32.840359,0.000000
+        -116.751701,32.840359,0.000000
+        -116.687157,32.839211,0.000000
+        -116.622620,32.832291,0.000000
+        -116.595154,32.848438,0.000000
+        -116.577301,32.886501,0.000000
+        -116.582787,32.909561,0.000000
+        -116.564941,32.928009,0.000000
+        -116.588280,32.992531,0.000000
+        -116.562187,33.009811,0.000000
+        -116.567680,33.047810,0.000000
+        -116.602020,33.078880,0.000000
+        -116.588280,33.089241,0.000000
+        -116.593781,33.100739,0.000000
+        -116.552582,33.074280,0.000000
+        -116.475670,33.100739,0.000000
+        -116.416618,33.128342,0.000000
+        -116.365807,33.143291,0.000000
+        -116.298523,33.132950,0.000000
+        -116.251831,33.163990,0.000000
+        -116.037590,33.123749,0.000000
+        -115.853569,33.130650,0.000000
+        -116.001892,33.328232,0.000000
+        -116.089783,33.470390,0.000000
+        -116.103508,33.571152,0.000000
+        -115.966179,33.587158,0.000000
+        -115.894768,33.626049,0.000000
+        -115.804131,33.669491,0.000000
+        -115.826111,33.749458,0.000000
+        -115.757439,33.838482,0.000000
+        -115.867310,33.918289,0.000000
+        -115.996391,33.968410,0.000000
+        -116.026611,34.016239,0.000000
+        -116.037590,34.118622,0.000000
+        -116.037590,34.161812,0.000000
+        -115.735474,34.175449,0.000000
+        -115.716240,34.318481,0.000000
+        -115.688782,34.384239,0.000000
+        -115.749199,34.452209,0.000000
+        -115.757439,34.556332,0.000000
+        -115.642090,34.558590,0.000000
+        -115.666801,34.637730,0.000000
+        -115.677788,34.730320,0.000000
+        -115.611870,34.809292,0.000000
+        -115.661308,34.903950,0.000000
+        -115.642090,34.973751,0.000000
+        -115.653069,35.009750,0.000000
+        -115.496521,35.191761,0.000000
+        -115.504761,35.301670,0.000000
+        -115.427849,35.333050,0.000000
+        -115.386650,35.442768,0.000000
+        -115.444328,35.487511,0.000000
+        -115.372917,35.688530,0.000000
+        -115.268547,35.880150,0.000000
+        -115.164177,36.026890,0.000000
+        -115.191650,36.129002,0.000000
+        -115.153191,36.186661,0.000000
+        -114.971916,36.009109,0.000000
+        -114.845581,35.973560,0.000000
+        -114.785149,36.035770,0.000000
+        -114.669800,35.995781,0.000000
+        -114.614861,35.911289,0.000000
+        -114.515991,35.773251,0.000000
+        -114.367668,35.554569,0.000000
+        -114.252312,35.389050,0.000000
+        -114.076530,35.187271,0.000000
+        -113.950188,35.205231,0.000000
+        -113.582153,35.169312,0.000000
+        -113.378899,35.200741,0.000000
+        -113.115227,35.290470,0.000000
+        -112.873528,35.326321,0.000000
+        -112.648308,35.241131,0.000000
+        -112.335197,35.214211,0.000000
+        -112.137451,35.281502,0.000000
+        -112.197868,35.536690,0.000000
+        -112.126457,35.777710,0.000000
+        -112.120285,36.041603,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Joshua Tree National Park</name>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-115.839844,33.911453,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Anza Borrego Desert State Park</name>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-116.306763,33.151348,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mojave National Preserve</name>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-115.554199,35.101933,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Las Vegas</name>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-115.164185,36.186661,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Grand Canyon</name>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-112.119255,36.042713,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Red Rock Canyon</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-115.504074,36.162827,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Las Vegas - Red Rock Canyon</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -115.160751,36.174465,0.000000
+        -115.238342,36.175575,0.000000
+        -115.275421,36.179455,0.000000
+        -115.321426,36.192753,0.000000
+        -115.340652,36.193310,0.000000
+        -115.337219,36.167259,0.000000
+        -115.337219,36.160606,0.000000
+        -115.355759,36.158943,0.000000
+        -115.369492,36.152290,0.000000
+        -115.392838,36.143696,0.000000
+        -115.399704,36.142311,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+</Document>
+</kml>

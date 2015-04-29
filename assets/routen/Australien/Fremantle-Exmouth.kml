@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Fremantle-Exmouth</name>
+  <description><![CDATA[]]></description>
+  <Style id="style8">
+  </Style>
+  <Style id="style3">
+  </Style>
+  <Style id="style1">
+  </Style>
+  <Style id="style5">
+  </Style>
+  <Style id="style7">
+  </Style>
+  <Style id="style4">
+  </Style>
+  <Style id="style2">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style6">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Placemark>
+    <name>Fremantle</name>
+    <Snippet>go 77&amp;#160;m</Snippet>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <address>Fremantle WA, Australia</address>
+    <Point>
+      <coordinates>115.745872,-32.053131,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nambung</name>
+    <styleUrl>#style3</styleUrl>
+    <address>Nambung WA, Australia</address>
+    <Point>
+      <coordinates>115.228783,-30.569349,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kalbarri</name>
+    <styleUrl>#style1</styleUrl>
+    <address>Kalbarri WA, Australia</address>
+    <Point>
+      <coordinates>114.164421,-27.710569,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Carnarvon</name>
+    <styleUrl>#style5</styleUrl>
+    <address>Carnarvon WA, Australia</address>
+    <Point>
+      <coordinates>113.656960,-24.883720,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Coral Bay</name>
+    <styleUrl>#style7</styleUrl>
+    <address>Coral Bay WA, Australia</address>
+    <Point>
+      <coordinates>113.770828,-23.142790,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Exmouth</name>
+    <styleUrl>#style4</styleUrl>
+    <address>Murat Rd </address>
+    <Point>
+      <coordinates>114.129913,-21.937611,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kalbarri-Exmouth</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        114.136963,-21.937950,0.000000
+        114.065552,-22.141621,0.000000
+        114.098511,-22.233175,0.000000
+        114.043579,-22.405951,0.000000
+        114.005127,-22.553146,0.000000
+        113.955688,-22.776182,0.000000
+        113.851318,-23.145411,0.000000
+        113.774414,-23.150461,0.000000
+        113.867798,-23.180763,0.000000
+        113.944702,-23.342257,0.000000
+        113.950195,-23.513626,0.000000
+        114.005127,-23.765238,0.000000
+        113.999634,-23.885838,0.000000
+        114.038086,-24.081573,0.000000
+        114.032593,-24.246965,0.000000
+        113.955688,-24.552120,0.000000
+        113.796387,-24.706915,0.000000
+        113.757935,-24.726875,0.000000
+        113.757935,-24.836596,0.000000
+        113.659058,-24.891418,0.000000
+        113.994141,-25.373810,0.000000
+        114.268799,-25.740528,0.000000
+        114.334717,-26.066652,0.000000
+        114.532471,-26.578703,0.000000
+        114.653320,-26.902477,0.000000
+        114.598389,-27.254629,0.000000
+        114.708252,-27.508270,0.000000
+        114.675293,-27.790491,0.000000
+        114.620361,-28.352734,0.000000
+        114.235840,-28.149504,0.000000
+        114.125977,-27.722437,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Line 6</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style6</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        115.749207,-32.059299,0.000000
+        115.793152,-31.984783,0.000000
+        116.015625,-31.879890,0.000000
+        116.018372,-31.611288,0.000000
+        115.897522,-31.384125,0.000000
+        115.826111,-31.259769,0.000000
+        115.795898,-31.151707,0.000000
+        115.565186,-30.734755,0.000000
+        115.452576,-30.645000,0.000000
+        115.485535,-30.481817,0.000000
+        115.230103,-30.576450,0.000000
+        115.485535,-30.481817,0.000000
+        115.521240,-30.268557,0.000000
+        115.301514,-30.050077,0.000000
+        115.257568,-29.630772,0.000000
+        115.059814,-29.544788,0.000000
+        114.971924,-29.305561,0.000000
+        114.642334,-28.796547,0.000000
+        114.609375,-28.314053,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+</Document>
+</kml>

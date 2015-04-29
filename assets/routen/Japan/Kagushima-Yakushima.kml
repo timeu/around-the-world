@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Kagushima-Yakushima</name>
+  <description><![CDATA[]]></description>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/blu-circle_maps.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/blu-circle_maps.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Kagoshima</name>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>130.540924,31.574734,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kagoshima-Yakushima</name>
+    <styleUrl>#style3</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        130.542648,31.573271,0.000000
+        130.546417,31.588772,0.000000
+        130.569763,31.594622,0.000000
+        130.575256,31.587311,0.000000
+        130.602722,31.466154,0.000000
+        130.635681,31.367708,0.000000
+        130.698853,31.290287,0.000000
+        130.704346,31.165810,0.000000
+        130.632935,31.109388,0.000000
+        130.580750,31.031755,0.000000
+        130.556030,30.881012,0.000000
+        130.531311,30.656816,0.000000
+        130.597229,30.434465,0.000000
+        130.561523,30.415520,0.000000
+        130.512085,30.327843,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Yakushima</name>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>130.517578,30.320730,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

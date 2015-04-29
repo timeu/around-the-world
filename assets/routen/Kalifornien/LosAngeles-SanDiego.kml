@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>LosAngeles-SanDiego</name>
+  <description><![CDATA[]]></description>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Placemark>
+    <name>Los Angeles</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-118.278809,34.002583,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>San Diego</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-117.120781,32.755520,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Los Angeles-San Diego</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -117.126961,32.759850,0.000000
+        -117.140350,32.784100,0.000000
+        -117.174683,32.842960,0.000000
+        -117.248840,32.939541,0.000000
+        -117.262573,33.001755,0.000000
+        -117.301025,33.082336,0.000000
+        -117.355957,33.185837,0.000000
+        -117.479553,33.312168,0.000000
+        -117.594910,33.401638,0.000000
+        -117.688293,33.479565,0.000000
+        -117.652588,33.532238,0.000000
+        -117.726746,33.591743,0.000000
+        -117.866821,33.648922,0.000000
+        -118.012390,33.747181,0.000000
+        -118.094788,33.792843,0.000000
+        -118.295288,33.868134,0.000000
+        -118.281555,34.000305,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+</Document>
+</kml>

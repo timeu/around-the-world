@@ -55,5 +55,16 @@
 <!-- Bootstrap Core JavaScript -->
 <script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
 
+<script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
+<script src="{{ "/js/bootstrap-image-gallery.min.js" | prepend: site.baseurl }}"></script>
+
+
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
+<script>
+var maps = $("div.map[url]").each(function() {
+   map =  L.map(this).setView([51.505, -0.09], 10);  
+   initKML(map,"{{ site.url }}/assets/routen/" + this.getAttribute('url'));   
+});
+
+</script>

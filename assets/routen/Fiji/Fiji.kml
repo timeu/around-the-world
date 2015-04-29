@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Fiji</name>
+  <description><![CDATA[]]></description>
+  <Style id="style6">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style7">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Nadi-Yasawa Islands</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style6</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        177.409973,-17.819302,0.000000
+        177.258911,-17.672812,0.000000
+        177.190247,-17.544535,0.000000
+        177.165527,-17.392578,0.000000
+        177.184753,-17.237875,0.000000
+        177.234192,-17.119793,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Yasawa Islands</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>177.234192,-17.135542,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nadi</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>177.415466,-17.819302,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wanawa Resort</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>178.154556,-17.360531,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nadi-Wanawa</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style8</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        177.414093,-17.821917,0.000000
+        177.459412,-17.747379,0.000000
+        177.451172,-17.625698,0.000000
+        177.555542,-17.547153,0.000000
+        177.679138,-17.534060,0.000000
+        177.780762,-17.479052,0.000000
+        177.920837,-17.446302,0.000000
+        178.030701,-17.417477,0.000000
+        178.156357,-17.366367,0.000000
+        178.154984,-17.360470,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Nadi-Mana Island</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style7</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        177.415466,-17.821917,0.000000
+        177.029572,-17.718601,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Mana Islands</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>177.028198,-17.718601,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nadi-Kadavu Island</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style9</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        177.418213,-17.821917,0.000000
+        178.188629,-18.988115,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Kadavu Island</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>178.190002,-18.989414,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

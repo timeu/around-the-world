@@ -1,0 +1,37 @@
+---
+layout: page
+---
+
+{% if site.categories[page.category] %}
+    {% for p in site.pages %}
+      {% if p.category == page.category and p.path != page.path %}  
+        <div class="post-preview">
+            <a href="{{ p.url | prepend: site.baseurl }}">
+                <h2 class="post-title">            {{ p.title }}
+                </h2>
+                {% if p.subtitle %}
+                <h3 class="post-subtitle">
+                    {{ p.subtitle }}
+                </h3>
+                {% endif %}
+            </a>
+            <p class="post-meta">Posted by {% if p.author %}{{ p.author }}{% else %}{{ site.title }}{% endif %} on {{ p.date | date: "%B %-d, %Y" }} | <span class="time">{{ p.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
+        </div>
+      {% endif %}
+    {% endfor %}
+    {% for post in site.categories[page.category] reversed %}
+        <div class="post-preview">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <h2 class="post-title">            {{ post.title }}
+                </h2>
+                {% if post.subtitle %}
+                <h3 class="post-subtitle">
+                    {{ post.subtitle }}
+                </h3>
+                {% endif %}
+            </a>
+            <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }} | <span class="time">{{ post.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
+        </div>
+    {% endfor %}
+{% endif %}
+

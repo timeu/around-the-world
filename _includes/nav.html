@@ -15,14 +15,19 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li>
+                <!--<li>
                     <a href="{{ site.baseurl }}/">Home</a>
-                </li>
-                {% for page in site.pages %}{% if page.title %}
+                </li>-->
+                {% for page in site.pages %}{% if page.title and page.hide != true %}
                 <li>
                     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>
                 {% endif %}{% endfor %}
+                {% for cat in site.categories %}
+		<li>
+                   <a href="/category/{{ cat[0] | prepend: site.baseurl }}">{{ cat[0] }}</a>
+                </li>
+                {% endfor %}
             </ul>
         </div>
         <!-- /.navbar-collapse -->
