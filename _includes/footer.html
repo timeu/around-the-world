@@ -56,8 +56,9 @@
 <script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
 
 <script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
-<script src="{{ "/js/bootstrap-image-gallery.min.js" | prepend: site.baseurl }}"></script>
 
+<script src="{{ "/js/bootstrap-image-gallery.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/salvattore.min.js" | prepend: site.baseurl }}"></script>
 
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
@@ -67,4 +68,13 @@ var maps = $("div.map[url]").each(function() {
    initKML(map,"{{ "/assets/routen/" | prepend : site.baseurl }}" + this.getAttribute('url'));   
 });
 
+$(document).ready(function() {
+    blueimp.Gallery(document.getElementById('foto_links').getElementsByTagName('a'),
+        {
+            container: '#gallery-carousel',
+            carousel: true,
+            useBootstrapModal:false
+        }
+    );
+});
 </script>

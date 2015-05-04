@@ -1,0 +1,24 @@
+<br>
+<div class="grid" data-columns>
+  {% for foto_pages in site.data.fotos %}
+    {% capture pageid %}{{ page.wordpress_id | strip }}{% endcapture %}
+    {% if pageid == foto_pages[0] %}
+      {% assign fotos =  foto_pages[1] %}
+        {% for foto in fotos %}
+          <div>
+            {% unless foto.video %}
+            <a href="{{ foto.img }}"  title="{{ foto.title }}"  data-gallery >
+                <img src="{{ foto.img | replace : '/s2048/','/s480/' }}"  />
+            </a>
+            {% else %}
+            <a href="{{ foto.video }}" type="video/mp4"  data-poster="{{ foto.img }}"  data-gallery>                     
+                  <img src="{{ foto.img }}"/>                                                                                                                     
+              </a> 
+            {% endunless %}
+
+          </div>
+        {% endfor %}
+    {% endif %}#
+  {% endfor %}
+</div>
+

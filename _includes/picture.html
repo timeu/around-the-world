@@ -1,0 +1,9 @@
+{% unless include.dim %}
+  {% assign size = '/s288/' %}
+{% else %}
+  {% capture size %}/s{{ include.dim }}/ {% endcapture %}
+{% endunless %}
+<a href="{{ include.img }}"  title="{{ include.title }}" class="thumbnail" data-gallery >
+  <img src="{{ include.img | replace : '/s2048/',size }}" class="img-responsive" style="margin:0 auto;" />
+</a>
+

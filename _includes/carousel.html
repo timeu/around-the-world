@@ -1,0 +1,17 @@
+<div id="foto_links" style="display:none">
+  {% for foto_pages in site.data.fotos %}
+    {% capture pageid %}{{ page.wordpress_id | strip }}{% endcapture %}
+    {% if pageid == foto_pages[0] %}
+      {% assign fotos =  foto_pages[1] %}
+      {% for foto in fotos %}
+        {% unless foto.dim %}
+	  {% assign size = '/s288/' %}
+	{% else %}
+	  {% capture size %}/s{{ include.dim }}/ {% endcapture %}
+	{% endunless %}
+      <a href="{{ foto.img }}" title="{{ foto.title}}" ><img src="{{ foto.img | replace:'/s2048/',size }}"></a>
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</div>
+

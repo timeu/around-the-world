@@ -4,6 +4,46 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
+    <style type="text/css">
+        .grid_4[data-columns]::before {
+            content: '4 .column.size-1of4';
+        }
+	@media screen and (max-width: 480px){
+		.grid[data-columns]::before {
+			content: '1 .column.size-1of1';
+		}
+	}
+
+	@media screen and (min-width: 481px) and (max-width: 675px) {
+		.grid[data-columns]::before {
+			content: '2 .column.size-1of2';
+		}
+	}
+	@media screen and (min-width: 676px) and (max-width: 768px) {
+		.grid[data-columns]::before {
+			content: '3 .column.size-1of3';
+		}
+	}
+	@media screen and (min-width: 769px) and (max-width: 1100px) {
+		.grid[data-columns]::before {
+			content: '4 .column.size-1of4';
+		}
+	}
+	@media screen and (min-width: 1101px) {
+		.grid[data-columns]::before {
+			content: '7 .column.size-1of7';
+		}
+	}
+
+	.column { float: left; }
+	.size-1of1 { width: 100%; }
+	.size-1of2 { width: 50%; }
+	.size-1of3 { width: 33.333%; }
+	.size-1of4 { width: 25%; }
+        .size-1of5 { width: 20%;}
+        .size-1of6 { width: 16.667%;}
+        .size-1of7 { width: 14.258%;}
+    </style>
 
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
@@ -33,7 +73,6 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
     <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
     <script src="{{ "/assets/scripts/KML.js" | prepend: site.baseurl }}"></script>
