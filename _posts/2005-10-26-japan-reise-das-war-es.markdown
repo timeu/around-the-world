@@ -8,6 +8,7 @@ title: Japan-Reise; Das war es!
 wordpress_id: 45
 categories:
 - Japan
+header-img: img/japan-bg.jpg
 ---
 
 <h1>Zusammenfassung der Japan Reise:</h1>
