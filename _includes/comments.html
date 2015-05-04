@@ -1,8 +1,12 @@
+{% capture pageid %}{{ page.wordpress_id | strip }}{% endcapture %}
+{% assign comment_count = 0 %}
+{% if site.data.comments[pageid] %}
+  {% assign comment_count = site.data.comments[pageid].size  %}
+{% endif %}  
+{% if comment_count > 0 %}
+<h3>{{ comment_count }} Responses to "{{ page.title }}"</h3>
 <ul class="listing comments">
-  {% for comment_pages in site.data.comments %}
-    {% capture pageid %}{{ page.wordpress_id | strip }}{% endcapture %}
-    {% if pageid == comment_pages[0] %}
-      {% assign comments =  comment_pages[1] %}
+  {% assign comments =  site.data.comments[pageid] %}
       {% for comment in comments %}
         <li>
           <img src="{{ comment.avatar }}" alt="{{ comment.name }}">
@@ -17,6 +21,5 @@
           </div>
         </li>
       {% endfor %}
-    {% endif %}
-  {% endfor %}
 </ul>
+{% endif %}
