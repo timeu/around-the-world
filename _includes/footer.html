@@ -69,7 +69,12 @@ var maps = $("div.map[url]").each(function() {
 });
 
 $(document).ready(function() {
-    blueimp.Gallery(document.getElementById('foto_links').getElementsByTagName('a'),
+    $('#fotoLink').on('click', function() {
+       window.scrollTo(0,0);
+       $('.nav-tabs a[href=#fotos]').tab('show'); 
+    });
+
+    blueimp.Gallery($('#foto_links a'),
         {
             container: '#gallery-carousel',
             carousel: true,

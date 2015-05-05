@@ -1,17 +1,27 @@
-<div id="foto_links" style="display:none">
-  {% for foto_pages in site.data.fotos %}
-    {% capture pageid %}{{ page.wordpress_id | strip }}{% endcapture %}
-    {% if pageid == foto_pages[0] %}
-      {% assign fotos =  foto_pages[1] %}
-      {% for foto in fotos %}
-        {% unless foto.dim %}
-	  {% assign size = '/s288/' %}
-	{% else %}
-	  {% capture size %}/s{{ include.dim }}/ {% endcapture %}
-	{% endunless %}
-      <a href="{{ foto.img }}" title="{{ foto.title}}" ><img src="{{ foto.img | replace:'/s2048/',size }}"></a>
-      {% endfor %}
-    {% endif %}
-  {% endfor %}
-</div>
-
+{% capture pageid %}{{ page.wordpress_id | strip }}{% endcapture %}
+{% assign comment_count = 0 %}
+{% if site.data.fotos[pageid] %}
+  {% assign fotos_count = site.data.fotos[pageid].size  %}
+{% endif %}  
+{% if fotos_count > 0 %}
+  <h2><a id="fotoLink" style="text-decoration:underline;cursor:pointer;" >Mehr Fotos ({{ fotos_count }}) von {{ page.title }}</a></h2>
+  <div id="gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel"  data-use-bootstrap-modal="false">
+      <div class="slides"></div>
+      <h3 class="title"></h3>
+      <a class="prev">‹</a>
+      <a class="next">›</a>
+      <a class="play-pause"></a>
+      <ol class="indicator"></ol>
+  </div>
+  <div id="foto_links" style="display:none">
+    {% assign fotos =  site.data.fotos[pageid] %}
+    {% for foto in fotos %}
+  	    {% unless foto.dim %}
+	         {% assign size = '/s288/' %}
+	      {% else %}
+	         {% capture size %}/s{{ include.dim }}/ {% endcapture %}
+    	  {% endunless %}
+        <a href="{{ foto.img }}" title="{{ foto.title}}" ><img src="{{ foto.img | replace:'/s2048/',size }}"></a>
+     {% endfor %}
+  </div>
+{% endif %}

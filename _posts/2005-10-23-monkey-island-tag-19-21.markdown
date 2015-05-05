@@ -180,13 +180,4 @@ Fukuoka erreichten wir um 21 Uhr und nachdem wir unser Gepaeck in unserem Hotel 
 <h3>Reiseroute</h3>
 <div class="map" url="Japan/Yakushima-Fukuoka.kml"></div>
 <br>
-<h2>Mehr Fotos von Tag 19 bis 21</h2>
-<div id="gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel"  data-use-bootstrap-modal="false">
-    <div class="slides"></div>
-    <h3 class="title"></h3>
-    <a class="prev">‹</a>
-    <a class="next">›</a>
-    <a class="play-pause"></a>
-    <ol class="indicator"></ol>
-</div>
 

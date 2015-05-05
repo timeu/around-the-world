@@ -22,7 +22,7 @@ layout: default
 <!-- Post Content -->
 <article>
     <div role="tabpanel">
-        <ul class="nav nav-tabs" role="tablist">
+        <ul class="nav nav-tabs nav-justified" role="tablist">
             <li role="presentation" class="active"><a href="#bericht" aria-controls="bericht" role="tab" data-toggle="tab">Bericht</a></li>
             {% capture pageid %}{{ page.wordpress_id | strip }}{% endcapture %}
             {% if site.data.fotos[pageid] and site.data.fotos[pageid].size > 0 %}
