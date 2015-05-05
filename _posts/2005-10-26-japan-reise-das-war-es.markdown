@@ -40,13 +40,13 @@ header-img: img/japan-bg.jpg
     </dl>
   </div>
   <div class="col-xs-12 col-lg-7">
-    <div class="row">
+    <div class="row cities">
       <div class="col-xs-12">
         <b>Besuchte Staedte (chronologisch)</b>
         <hr />
       </div>
       <div class="col-xs-4">
-        <ol >
+        <ol>
           <li><a href="http://maps.google.com/maps?q=35.547871+139.784546+(Tokyo)&hl=en&t=h&z=10" target="_blank">Tokyo</a></li>
           <li><a href="http://maps.google.com/maps?q=36.728979+139.610138+(Nikko)&hl=en&t=h&z=10" target="_blank">Nikko</a></li>
           <li><a href="http://maps.google.com/maps?q=43.081928+141.427002+(Sapporo)&hl=en&t=h&z=10" target="_blank">Sapporo</a></li>
