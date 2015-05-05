@@ -28,7 +28,7 @@ Alles in allem soll dieser Eintrag als Inhaltsverzeichnis dienen. </p>
   </section>
 
   <section>
-   <div class="map" id="map_world"></div>
+    <iframe class="map" src="https://www.google.com/maps/d/embed?mid=zInSVQCQXdqY.kaVhu-4qZLDo" width="640" height="480"></iframe>
    <h1>Reiseziele:</h1>
    <ul>
       <li><a href="#japan">Japan (02.10.2005 - 26.10.2005)</a>
@@ -51,7 +51,7 @@ Alles in allem soll dieser Eintrag als Inhaltsverzeichnis dienen. </p>
      <img src='{{ "/assets/images/Japanflag.gif" | prepend: site.baseurl }}' alt='Flag of Japan' /> 
    </center>
    <b>Reiseroute</b>
-   <div class="map" id="map_japan" ></div>
+   <iframe class="map" src="https://mapsengine.google.com/map/embed?mid=zInSVQCQXdqY.kI3Vq95ddWoQ"  height="480"></iframe>
    <table border=0 cellpadding=2 cellspacing=2 width="100%">
      <tr>
         <td width="40%" valign="top">
@@ -97,7 +97,7 @@ Alles in allem soll dieser Eintrag als Inhaltsverzeichnis dienen. </p>
         </td>
      </tr>
     </table>
-  <a href="#anfang">zum Anfang</a>
+<p><a href="#anfang">zum Anfang</a></p>
   </section>
 
 <section id="australien">
@@ -106,7 +106,7 @@ Alles in allem soll dieser Eintrag als Inhaltsverzeichnis dienen. </p>
    <img src='{{ "/assets/images/australian_flag_s.gif" | prepend : site.baseurl }}' alt='' /> 
 </center>
 <b>Reiseroute</b>
-<div class="map" id="map_australien" ></div>
+<iframe class="map" src="https://mapsengine.google.com/map/embed?mid=zInSVQCQXdqY.kWGlLYR92V2I"  height="480"></iframe>
 <table border=0 cellpadding=2 cellspacing=2 width="100%">
    <tr>
       <td width="40%" valign="top">
@@ -154,7 +154,7 @@ Alles in allem soll dieser Eintrag als Inhaltsverzeichnis dienen. </p>
       </td>
    </tr>
 </table>
-<a href="#anfang">zum Anfang</a>
+<p><a href="#anfang">zum Anfang</a></p>
 </section>
 
 <section id="neuseeland">
@@ -163,7 +163,7 @@ Alles in allem soll dieser Eintrag als Inhaltsverzeichnis dienen. </p>
    <img src='{{ "/assets/images/newzealand.gif" | prepend : site.baseurl }}' alt='' /> 
 </center>
 <b>Reiseroute</b>
-<div class="map" id="map_neuseeland" ></div>
+<iframe class="map" src="https://mapsengine.google.com/map/embed?mid=zInSVQCQXdqY.kiRiImWX8T2Q"  height="480"></iframe>
 <table border=0 cellpadding=2 cellspacing=2 width="100%">
    <tr>
       <td width="40%" valign="top">
@@ -211,7 +211,7 @@ Alles in allem soll dieser Eintrag als Inhaltsverzeichnis dienen. </p>
       </td>
    </tr>
 </table>
-<a href="#anfang">zum Anfang</a>
+<p><a href="#anfang">zum Anfang</a></p>
  
  
 </section>
@@ -222,7 +222,7 @@ Alles in allem soll dieser Eintrag als Inhaltsverzeichnis dienen. </p>
    <img src='{{ "/assets/images/FIJI0001.GIF" | prepend : site.baseurl }}' alt='' /> 
 </center>
 <b>Reiseroute</b>
-<div class="map" id="map_fiji" ></div>
+<iframe class="map" src="https://www.google.com/maps/d/embed?mid=zInSVQCQXdqY.kcAbTBrXCmb4" height="480"></iframe>
 <table border=0 cellpadding=2 cellspacing=2 width="100%">
    <tr>
       <td width="40%" valign="top">
@@ -270,7 +270,7 @@ Alles in allem soll dieser Eintrag als Inhaltsverzeichnis dienen. </p>
       </td>
    </tr>
 </table>
-<a href="#anfang">zum Anfang</a>
+<p><a href="#anfang">zum Anfang</a></p>
 </section>
 
 <section id="usa"> 
@@ -279,7 +279,7 @@ Alles in allem soll dieser Eintrag als Inhaltsverzeichnis dienen. </p>
    <img src='{{ "/assets/images/usaflag.gif" | prepend : site.baseurl }}' alt='' /> 
 </center>
 <b>Reiseroute</b>
-<div class="map" id="map_usa" ></div>
+<iframe class="map" src="https://mapsengine.google.com/map/embed?mid=zInSVQCQXdqY.kDC_8VqHII_E" height="480"></iframe>
 <table border=0 cellpadding=2 cellspacing=2 width="100%">
    <tr>
       <td width="40%" valign="top">
@@ -333,22 +333,8 @@ Alles in allem soll dieser Eintrag als Inhaltsverzeichnis dienen. </p>
       </td>
    </tr>
 </table>
-<a href="#anfang">zum Anfang</a>
+<p><a href="#anfang">zum Anfang</a></p>
 </section>
-<script>
-  var map_japan = L.map('map_japan').setView([51.505, -0.09], 13);  
-  var map_world = L.map('map_world').setView([51.505, -0.09], 13);  
-  var map_australien =  L.map('map_australien').setView([51.505, -0.09], 13);  
-  var map_neuseeland =  L.map('map_neuseeland').setView([51.505, -0.09], 13);  
-  var map_fiji =  L.map('map_fiji').setView([51.505, -0.09], 13);  
-  var map_usa =  L.map('map_usa').setView([51.505, -0.09], 13);  
-  initKML(map_world,"{{ "/assets/routen/WeltreiseFinal.kml" | prepend : site.baseurl }}");
-  initKML(map_japan,"{{ "/assets/routen/Japan/Japan.kml" | prepend : site.baseurl }}");
-  initKML(map_australien,"{{ "/assets/routen/Australien/Australien.kml" | prepend : site.baseurl }}");
-  initKML(map_neuseeland,"{{ "/assets/routen/Neuseeland/Neuseeland.kml" | prepend : site.baseurl }}");
-  initKML(map_fiji,"{{ "/assets/routen/Fiji/Fiji.kml" | prepend : site.baseurl }}");
-  initKML(map_usa,"{{ "/assets/routen/Kalifornien/Kalifornien.kml" | prepend : site.baseurl }}");   
-</script>
 
   {% include comments.html %}
 

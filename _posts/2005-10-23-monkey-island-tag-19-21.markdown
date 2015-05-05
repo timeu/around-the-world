@@ -20,7 +20,7 @@ In der Frueh, nach einem kurzen Fruehstueck in der Jugendherberge, versuchten wi
 </div>
 Die Fahrt von <a href="http://maps.google.com/maps?q=30.339422+130.500182+(Yakushima)&hl=en&t=h&z=10" target="_blank">Kagoshima</a> zur Insel Yakushima sollte 4 Stunden dauern. 
 
-<div class="map" url="Japan/Kagushima-Yakushima.kml"></div>
+<iframe class="map" src="https://mapsengine.google.com/map/embed?mid=zInSVQCQXdqY.kb8n4FtXxcH4" height="400"></iframe>
 
 Yakushima ist eine ca. 40 Quadratkilometer grosse Insel, die 60 km suedlich der suedlichsten Hauptinsel von Japan (Kyushu) liegt. Sie ist bekannt fuer ihr besonders feuchtes Klima. Im Inneren der Insel regnet es im Durchschnitt 10 Meter/Jahr. 
 
@@ -178,6 +178,6 @@ Stressig wurde es erst als wir am Festland ankamen, denn unser Shinkansen Richtu
 Fukuoka erreichten wir um 21 Uhr und nachdem wir unser Gepaeck in unserem Hotel (Das war das erste Mal in einem **richtigen** Hotel in Japan ;-)) ging es ab ins beruehmte Nightlife von Fukuoka.
 
 <h3>Reiseroute</h3>
-<div class="map" url="Japan/Yakushima-Fukuoka.kml"></div>
+<iframe class="map" src="https://mapsengine.google.com/map/embed?mid=zInSVQCQXdqY.kWsPed-9zZ08" width="100%" height="480"></iframe>
 <br>
 

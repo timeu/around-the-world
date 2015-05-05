@@ -18,7 +18,8 @@ header-img: img/japan-bg.jpg
 
 <h2>Reiseroute</h2>
 
-<div class="map" url="Japan/Japan.kml"></div>
+<iframe class="map" src="https://mapsengine.google.com/map/embed?mid=zInSVQCQXdqY.kI3Vq95ddWoQ"  height="480"></iframe>
+
 
 <div class="row">
   <div class="col-xs-12 col-lg-5">
