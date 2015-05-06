@@ -26,7 +26,7 @@ layout: default
             <li role="presentation" class="active"><a href="#bericht" aria-controls="bericht" role="tab" data-toggle="tab">Bericht</a></li>
             {% capture pageid %}{{ page.wordpress_id | strip }}{% endcapture %}
             {% if site.data.fotos[pageid] and site.data.fotos[pageid].size > 0 %}
-               <li role="presentation"><a href="#fotos" aria-controls="fotos" role="tab" data-toggle="tab">Fotos</a></li>
+               <li role="presentation"><a href="#fotos" aria-controls="fotos" role="tab" data-toggle="tab">Fotos <span class="badge">{{ site.data.fotos[pageid].size }}</span></a></li>
             {% endif %}
         </ul>
     </div>
