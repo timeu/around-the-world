@@ -306,7 +306,7 @@ Nach dem Besuch im angrenzenden Museum  fuhren wir mit der Strassenbahn zum letz
 Gegen spaeten Nachmittag verliessen wir Nagasaki Richtung Kagoshima. Aehnlich wie in Nagasaki hatte die Jugendherberge eine sehr fruehe Checkin-Deadline (8 Uhr). Gegen 19 Uhr erreichten wir schliesslich Kagoshima, waren aber nicht in der Lage eine Wegbeschreibung zu erhalten, weder von den Passanten noch sonstwie. In unserer Verzweiflung gingen wir zu einer Police-Box (der ueblich Weg um eine Adresse in Japan zu finden), wo eine nette Polizistin bei der Jugendherberge anrief (wir kamen telefonisch nie durch). Daraufhin holte uns Besitzer von der Police-Box ab. Dieser war ein exzentrischer, etwas rundlicher Japaner mit Schnurrbart, der uns zur Jugendherberge (wo wir ganz allein waren) brachte.
 
 {% include picture.html title='Jugendherberge' img='https://lh3.googleusercontent.com/-5bYXzQa57_o/VUINi8LvCmI/AAAAAAAALIw/7yQI_-WEEAU/s2048/0515%252520-%252520Kagoshima.jpg' %}
-1337
+
 
 <h3>Reiseroute (Osaka- Kagushima)</h3>
 
