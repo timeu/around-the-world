@@ -12,7 +12,7 @@ layout: default
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
-                    <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</span>
+                    <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}{% if page.location %} from <a target="_blanl" style="text-decoration:underline;" href="http://www.google.com/maps/place/{% if page.latlong %}{{ page.latlong }}{% else %}{{ page.location }}{% endif %}">{{ page.location }}</a>{% endif %} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</span>
                 </div>
             </div>
         </div>

@@ -9,6 +9,7 @@ wordpress_id: 42
 categories:
 - Japan
 header-img: img/tag_16_18.jpg
+location: Nagasaki
 ---
 
 Nach dem 3-taegigen Aufenthalt in Osaka ging es in der Frueh des 16ten  Tages Richtung Hiroshima. Die Rush-Hour von Osaka ist zwar nicht so schlimm, wie in Tokyo, doch das Gedraenge war nicht zu unterschaetzen. 

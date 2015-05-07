@@ -30,7 +30,7 @@ layout: page
                 </h3>
                 {% endif %}
             </a>
-            <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }} | <span class="time">{{ post.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
+            <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}{% if post.location %} from <a target="_blanl" style="text-decoration:underline;" href="http://www.google.com/maps/place/{% if page.latlong %}{{ page.latlong }}{% else %}{{ page.location }}{% endif %}">{{ post.location }}</a>{% endif %} | <span class="time">{{ post.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
         </div>
     {% endfor %}
 {% endif %}
