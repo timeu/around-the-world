@@ -9,10 +9,11 @@ wordpress_id: 34
 kml: 
 categories:
 - Japan
+location: Nikko
 ---
 
 Wir haben heute in der Frueh Tokyo verlassen und sind mit einem Shinkansen (die japanischen Highspeed Bullettrains heissen so) nach Nikko gefahren. In Tokyo durften wir noch die Rush-Hour mit vollem Gepaeck erleben - die Hineinschieber in der U-Bahn, die Leute reinstopfen  gibt es wirklich!!
 
 In Nikko angekommen haben wir (leider bei Regen) einen Schrein besichtigt. Morgen geht es weiter nach Sapporo in Hokkaido (noerdliche Insel), um dort einen Nationalpark zu besuchen. Bilder gibt es leider erst ein anderes Mal... :-(
 
-<div class="map" url="Japan/Kyoto-Sapporo.kml"></div>
+<iframe src="https://www.google.com/maps/d/embed?mid=zInSVQCQXdqY.kBGjD2FaKIoE" class="map" height="480"></iframe>
