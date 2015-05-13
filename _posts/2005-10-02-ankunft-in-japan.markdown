@@ -8,6 +8,7 @@ title: Ankunft in Japan
 wordpress_id: 29
 categories: Japan
 header-img: img/japan-bg.jpg
+location: Tokyo
 ---
 
 Wir sind trotz Verspätung (2 Stunden) in London-Heathrow (aufgrund technischer Probleme beim Flugzeug) wohl behalten in Japan/Tokyo angekommen. 

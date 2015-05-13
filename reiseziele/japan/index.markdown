@@ -19,6 +19,7 @@ density: 337
 BIP: 33.678 US$ (2004)
 currency: YEN
 timezone: GMT+9
+location: Vienna
 ---
 
 
