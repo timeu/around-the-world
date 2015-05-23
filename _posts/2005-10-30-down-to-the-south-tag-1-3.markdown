@@ -9,6 +9,7 @@ wordpress_id: 47
 categories:
 - Australien
 header-img: img/australien/tag_1_3.jpg
+location: Perth
 ---
 
 Der Flug von Tokyo nach Perth war relativ ereignislos. Das Service der Quantas Airline war ausgezeichnet und begeistern konnte das Movie on Demand System des Airbusses, das sogar auch alte ATARI Spiele in Petto hatte. Zusaetzlich kam der Umstand hinzu, dass wir seit einem Monat wieder einmal Filme sehen konnten, die wir auch verstanden ;-). Gegen 6 Uhr Frueh landeten wir in Perth. Zuerst ging es durch die Personenkontrollen und Gepaeckchecks. Dabei kam es zu einem kleinen Zwischenfall, denn Uemit hatte anscheinend vergessen, im Einreiseformular die beiden Taschenmesser in seinem Reisegepaeck als gefaehrliche "Waffen" zu deklarieren. 
