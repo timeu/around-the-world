@@ -276,7 +276,7 @@ Westaustralien ist mit 32,9 % der australischen Gesamtfläche der größte Bunde
         </div>
       </div>
       <div class="col-sm-4">
-         {% include picture.html title='Bungle Bungles' caption='true' img='https://lh3.googleusercontent.com/-GglwXIY-Cgo/VWMBVlfcKFI/AAAAAAAAQWQ/9joWv_nHyv8/s2048/IMG_0048%252520_720%252520x%252520480_.jpg' %}
+         {% include picture.html title='Bungle Bungles' caption='true' img='https://lh3.googleusercontent.com/-h_NTfvb_ALY/VVBlzhhAidI/AAAAAAAAQLM/1nptPp7Udn0/s2048/0465%252520-%252520Bungle%252520Bungles.jpg' %}
       </div>
       <div class="col-sm-4">
          {% include picture.html title='Amphitheater' caption='true' img='https://lh3.googleusercontent.com/-EsTnatNTOec/VVBltecPtmI/AAAAAAAAQLM/DkM2BhaUlQ0/s2048/0457%252520-%252520Bungle%252520Bungles.jpg' %}

@@ -247,7 +247,7 @@ Wir wollten das weitere Wetter abwarten, um die endgültige Entscheidung für/ge
 
 <div class="row">
   <div class="col-sm-3">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-GglwXIY-Cgo/VWMBVlfcKFI/AAAAAAAAQWQ/9joWv_nHyv8/s2048/IMG_0048%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-h_NTfvb_ALY/VVBlzhhAidI/AAAAAAAAQLM/1nptPp7Udn0/s2048/0465%252520-%252520Bungle%252520Bungles.jpg' %}
   </div>
   <div class="col-sm-3">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-ABYBdhOeb2g/VVBlsU9_fqI/AAAAAAAAQLM/IaGrJwLQ6Yc/s2048/0456%252520-%252520Bungle%252520Bungles.jpg' %}
