@@ -8,493 +8,293 @@ title: Australien, Das wars!
 wordpress_id: 54
 categories:
 - Australien
+header-img: img/australien-bg.jpg
+location: Darwin, Northern Territory, Australien
 ---
 
-**Zusammenfassung der Westaustralien Reise:******
+<h1>Zusammenfassung der Westaustralien Reise:</h1>
+
+![]({{ "/assets/images/australian_flag_s.gif" | prepend : site.baseurl }}) 
+
+<h2>Reiseroute</h2>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=zInSVQCQXdqY.kWGlLYR92V2I" class="map" height="480"></iframe>
+
+<div class="row">
+  <div class="col-xs-12 col-lg-5">
+    <b>Reiseinformationen</b>
+    <hr />
+    <dl class="dl-horizontal">
+      <dt>Zeitraum</dt>
+      <dd>27.10.2005 bis   
+20.11.2005</dd>
+      <dt>Dauer</dt>
+      <dd>24 Tage</dd>
+      <dt>Strecke</dt>
+      <dd>~7200 km</dd>
+      <dt>Verkehrsmittel</dt>
+      <dd><a href="http://www.swissaussie.com/fahrzeug.htm" target="_blank" style="text-decoration:underline;">Toyota Landcruiser</a></dd>
+      <dt>Verbrauch</dt>
+      <dd>ca. 1400 Liter (~1240 Euro)</dd>
+      <dt>Kosten</dt>
+      <dd>ca. 2200 Euro</dd>
+    </dl>
+  </div>
+  <div class="col-xs-12 col-lg-7">
+    <div class="row cities">
+      <div class="col-xs-12">
+        <b>Besuchte Staedte (chronologisch)</b>
+        <hr />
+      </div>
+      <div class="col-xs-4">
+        <ol>
+          <li><a href="https://goo.gl/maps/VcWcM" target="_blank">Perth</a></li>
+          <li><a href="https://goo.gl/maps/vB12l" target="_blank">Pemberton</a></li>
+          <li><a href="https://goo.gl/maps/BsXcd" target="_blank">Fremantle</a></li>
+          <li><a href="https://goo.gl/maps/g6ZUG" target="_blank">Nambung</a></li>
+          <li><a href="https://goo.gl/maps/OUvxQ" target="_blank">Kalbarri</a></li>
+          <li><a href="https://goo.gl/maps/IrqhW" target="_blank">Carnarvon</a></li>
+          <li><a href="https://goo.gl/maps/Cf6Wi" target="_blank">Coral Bay</a></li>
+          <li><a href="https://goo.gl/maps/OMEyg" target="_blank">Exmouth</a></li>
+        </ol>
+      </div>
+      <div class="col-xs-4">
+        <ol start="9">
+          <li><a href="https://goo.gl/maps/RyKTk" target="_blank">Karijini NP (Tom Price)</a></li>
+          <li><a href="https://goo.gl/maps/RFUML" target="_blank">Millstream-Chichester NP</a></li>
+          <li><a href="https://goo.gl/maps/Nco5R" target="_blank">Karratha</a></li>
+          <li><a href="https://goo.gl/maps/Cuqhv" target="_blank">Port Headland</a></li>
+          <li><a href="https://goo.gl/maps/GJqmM" target="_blank">Broome</a></li>
+          <li><a href="https://goo.gl/maps/PlHq7" target="_blank">Derby</a></li>
+         <li><a href="https://goo.gl/maps/bIJ7T" target="_blank">Windjana Gorge NP</a></li>
+        </ol>
+      </div>
+      <div class="col-xs-4">
+        <ol start="15">
+          <li><a href="https://goo.gl/maps/118d3" target="_blank">Tunnel Creek NP</a></li>
+          <li><a href="https://goo.gl/maps/QD4E4" target="_blank">Fitzroy Crossing</a></li>
+          <li><a href="https://goo.gl/maps/zNr4C" target="_blank">Geiko Gorge NP</a></li>
+          <li><a href="https://goo.gl/maps/Axxz7" target="_blank">Halls Creek</a></li>
+          <li><a href="https://goo.gl/maps/B1PaS" target="_blank">Purnululu NP (Bungle Bungles)</a></li>
+          <li><a href="https://goo.gl/maps/6zO09" target="_blank">Kununurra</a></li>
+          <li><a href="https://goo.gl/maps/zTLLf" target="_blank">Timber Creek</a></li>
+          <li><a href="https://goo.gl/maps/yiEAs" target="_blank">Katherine</a></li>
+          <li><a href="https://goo.gl/maps/25dEK" target="_blank">Darwin</a></li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</div>
+<hr />
+
+
+
+<h2>Unser Resume</h2>
 
-![](http://www.weltreiseblog.com/wp-content/australian_flag_s.gif) 
-
-
-**Reiseroute**
-
-[Australien[width=500;align=center;]](http://www.seren.at/weltreise/wp-content/routen/Australien/Australien.kml)
-
-
-
-<table cellpadding="2" cellspacing="2" border="0" width="100%" >
-<tr >
-
-<td width="40%" valign="top" >
-**Reiseinformationen**
-
-<table cellpadding="2" cellspacing="2" border="0" width="100%" >
-<tr >
-
-<td valign="top" >
-_Zeitraum:_
-
-</td>
-<td width="100%" >27.10.2005 bis   
-20.11.2005
-</td>
-</tr>
-<tr >
-</tr><tr >
-
-<td valign="top" >
-_Dauer:_
-
-</td>
-<td width="100%" >24 Tage
-</td>
-</tr>
-<tr >
-
-<td valign="top" >_Strecke:_
-</td>
-<td width="100%" valign="top" >~7200 km
-</td>
-</tr>
-<tr >
-
-<td valign="top" >_Verkehrsmittel:_
-</td>
-
-<td width="100%" valign="top" >[Toyota Landcruiser](http://www.swissaussie.com/fahrzeug.htm)
-</td>
-</tr>
-<tr >
-
-<td valign="top" >_Verbrauch:_
-</td>
-
-<td width="100%" valign="top" >ca. 1400 Liter (~1240 Euro) 
-</td>
-</tr>
-
-<tr >
-
-<td valign="top" >_Kosten:_
-</td>
-
-<td width="100%" valign="top" >
-ca. 2200 Euro
-</td>
-</tr>
-</table>
-
-</td>
-
-<td width="60%" >
-**Besuchte Staedte (chronologische Reihenfolge)**
-<table cellpadding="2" cellspacing="2" border="0" width="100%" >
-<tr >
-
-<td width="33%" valign="top" >
-
-
-
-	
-  1. Perth
-
-                    
-  2. Pemberton
-
-                    
-  3. Fremantle
-
-                    
-  4. Nambung
-
-
-	
-  5. Kalbarri
-
-                    
-  6. Carnarvon
-
-                    
-  7. Coral Bay
-
-
-  8. Exmouth
-
-	
-
-
-</td>
-
-<td width="33%" valign="top" >
-
-
-
-
-
-
-
-  9. Karijini NP (Tom Price)
-
-
-  10. Millstream-Chichester NP
-
-
-  11. Karratha
-
-
-  12. Port Headland
-
-
-  13. Broome
-
-                   
-  14. Derby
-
-
-  15. Windjana Gorge NP
-
-
- 
-
-</td>
-
-<td width="33%" valign="top" >
-
-
-
-
-  15. Tunnel Creek NP
-
-
-  16. Fitzroy Crossing
-
-
-
-  17. Geiko Gorge NP
-
-
-  18. Halls Creek
-
-
-  19. Purnululu NP (Bungle Bungles)
-
-
-  20. Kununurra
-
-
-  21. Timber Creek
-
-
-  22. Katherine
-
-
-  23. Darwin
-
-
-
-
-</td>
-</tr>
-</table>
-
-</td></tr></table>
-
-
-**Unser Resume**
 
 Westaustralien ist mit 32,9 % der australischen Gesamtfläche der größte Bundesstaat und gemeinsam mit dem Northern Territory umfasst es die Hälfte des Festlandes. Auf der einen Seite ist es mit einer Fläche von 2.525.400 km2 größer als Europa und auf der anderen Seite leben nur 1.851.252 Bewohner, davon 70% in der Hauptstadt Perth, auf dieser gewaltigen Fläche. Aus diesem Grund zählt Westaustralien wohl zu den unberührtesten Gebieten. Das erkennt man schon, wenn man versucht mit dem Handy zu telefonieren. Sogar mit dem Ex Monopolisten hat man nur in den größeren Städten Empfang. Weiter im Norden trifft man auch auf dem 1er Highway nur selten auf entgegenkommende Autos und falls dem so ist, grüßt man diese beim Vorbeifahren. Trotz alledem oder gerade deswegen fahren immer mehr Touristen nach Westaustralien. Auf unserer Reise vom Süden in den Norden trafen wir ständig auf deutschsprachige Touristen, besonders auf Campingplätzen. Campen ist hier überhaupt die primäre Reisemethode und in den 3,5 Wochen haben wir die meiste Zeit auf Campingplätzen oder einfachen Campsites übernachtet. Dies gehört natürlich zu einem typischen Australienurlaub dazu und erlaubt es, nicht nur flexibel zu sein, sondern ist auch Quell neuer Erfahrungen. Auf der anderen Seite ist dies auf Dauer sehr ermüdend, vor allem wegen dem hektischen Kochen bei schlechtem Licht und der Tatsache, dass man dem Wetter total ausgeliefert ist. Am schwierigsten zu verkraften ist aber der Umstand, dass man am Abend nichts tun kann, ausser früh schlafen zu gehen. Nichtsdesto trotz war es eine Erfahrung, die wir nicht missen wollen. Zur Reise selbst ist zu sagen, dass besonders die Natur in Form der verschiedenartigen Landschaften, die von den grünen Wäldern im Süden, über die Meereswelt am Ningaloo Reef bis hin zu den gewaltigen Felsformationen in den Kimberleys bzw. in den Bungle Bungles reicht. Hinzu kommt eine artenreiche Tier- und Pflanzenwelt, wovon uns nur die Fliegen negativ aufgefallen sind. Die Menschen, sofern man welche antrifft, sind sehr freundlich und hilfsbereit. Alles in allem war es eine sehr spannende, aber auch anstrengende Reise.
 
 
-**Highlights**
-
-<table cellpadding="2" cellspacing="2" border="0" width="100%" >
-<tr >
-  
-<td >
-      <table cellpadding="0" cellspacing="0" border="1" >
-         <tr >
-            
-<td colspan="1" align="center" >Perth
-</td>   
-<td colspan="1" align="center" >Warren NP
-</td>     
-
-<td colspan="1" align="center" >Fremantle
-</td>       
-  </tr>
-            
-          <tr >
-            
-<td align="center" >1754  
-**_Skyline_**
-            
-</td>
-            
-<td align="center" >1802  
-**_Bicentennial Tree _**
-            
-</td>
-            
-<td align="center" >1934  
-**_Gefaengnis_**
-            
-</td>
-                          </tr>
-       </table>
-      
-</td>
-    </tr>
- <tr >
-       
-<td >
-      <table cellpadding="0" cellspacing="0" border="1" >
-         <tr >
-            
-<td colspan="3" align="center" >Pinnacles
-</td>
-     
-         </tr>
-          <tr >
-            
-<td align="center" >1964  
-**_Kalksteinformen_**
-            
-</td>
-            
-<td align="center" >1984  
-**_Sandduenen_**
-            
-</td>
-
-        
-<td align="center" >2002  
-**_Leaning Tree_**
-            
-</td>
-          </tr>
-       </table>
-      
-</td>
-    </tr>
- <tr >
-       
-<td >
-      <table cellpadding="0" cellspacing="0" border="1" >
-         <tr >
-           
-<td colspan="3" align="center" >Kalbarri
-</td>
-       
-         </tr>
-          <tr >
-          
-    
-<td align="center" >2018  
-**_Rosa Meer_**
-            
-</td>
-
-            
-<td align="center" >2022  
-**_Bucht_**
-            
-</td>
-            
-<td align="center" >2040  
-**_Natural Window_**
-            
-</td>
-                  
-
-          </tr>
-       </table>
-      
-</td>
-    </tr>
-
-<tr >
-       
-<td >
-      <table cellpadding="0" cellspacing="0" border="1" >
-         <tr >
-         
-<td colspan="3" align="center" >Ningaloo Reef
-</td>
-
-         </tr>
-          <tr >
-        
-<td align="center" >2409  
-**_Buckelwal_**
-            
-</td>
-   
-<td align="center" >2417  
-**_Octopus_**
-            
-</td>
-            
-<td align="center" >2175  
-**_Korallen_**
-            
-</td>
+<h2>Highlights [<a href="https://plus.google.com/photos/101210127595276027387/albums/6147520119417247505?authkey=COHbrZnpiOCTzAE" target="_blank" style="text-decoration:underline;">alle Fotos</a>]</h2>
 
 
-           
-          </tr>
-       </table>
-      
-</td>
-    </tr>
-<tr >
-       
-<td >
-      <table cellpadding="0" cellspacing="0" border="1" >
-         <tr >
-         
-<td colspan="3" align="center" >Cape Range NP
-</td>
+<div class="row">
+  <div class="col-sm-4 text-center">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="thumbnail">
+          <a href="https://goo.gl/maps/VcWcM" target="_blank">Perth</a>
+        </div>
+        {% include picture.html title='Skyline' caption='true' img='https://lh3.googleusercontent.com/-IYiXVpaBJeg/VVBhHqjXqPI/AAAAAAAAQLM/_fb_WJZ4Kx4/s2048/0017%252520-%252520Perth.jpg' %}
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4 text-center">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="thumbnail">
+          <a href="https://goo.gl/maps/cCkJx" target="_blank">Warren NP</a>
+        </div>
+        {% include picture.html title='Bicentennial Tree' caption='true' img='https://lh3.googleusercontent.com/-JB8_9Zt6ZQM/VVBhVYWgOcI/AAAAAAAAQLM/p90eMI8F_Hg/s2048/0039%252520-%252520Gloucester%252520Nationalpark.jpg' %}
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4 text-center">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="thumbnail">
+          <a href="https://goo.gl/maps/BsXcd" target="_blank">Fremantle</a>
+        </div>
+        {% include picture.html title='Gefägnis' caption='true' img='https://lh3.googleusercontent.com/-f8F-18HalcI/VVBhvvvBKDI/AAAAAAAAQLM/SEPBLLIWP5c/s2048/0078%252520-%252520Fremantle.jpg' %}
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-12 text-center">
+    <div class="thumbnail">
+      <a href="https://goo.gl/maps/xGjNx" target="_blank">Pinnacles</a>
+    </div>
+  </div>
+  <div class="col-sm-4 text-center">
+    {% include picture.html title='Kalksteinformen' caption='true' img='https://lh3.googleusercontent.com/-udoE8X_1PKg/VVBh04k-bBI/AAAAAAAAQLM/qDeV_uYIjS8/s2048/0090%252520-%252520Pinnacles.jpg' %}
+  </div>
+  <div class="col-sm-4 text-center">
+    {% include picture.html title='Sanddünen' caption='true' img='https://lh3.googleusercontent.com/-lSOBQ6GGHYU/VWBjByEalPI/AAAAAAAAQOY/R84tl2GX06M/s2048/IMG_0085%252520_720%252520x%252520480_.jpg' %}
+  </div>
+  <div class="col-sm-4 text-center">
+    {% include picture.html title='Leaning Tree' caption='true' img='https://lh3.googleusercontent.com/-8mOEN0maMTk/VVBiALlJl8I/AAAAAAAAQLM/4X6H7rlafsc/s2048/0106%252520-%252520Leaning%252520Tree.jpg' %}
+  </div>
+</div>
 
-         </tr>
-          <tr >
-   
-            
-<td align="center" >2292  
-**_Canyon_**
-            
-</td>
-          
-<td align="center" >2304  
-**_Kaenguru_**
-            
-</td>
+<div class="row">
+  <div class="col-sm-12 text-center">
+    <div class="thumbnail">
+      <a href="https://goo.gl/maps/OUvxQ" target="_blank">Kalbarri</a>
+    </div>
+  </div>
+  <div class="col-sm-4 text-center">
+    {% include picture.html title='Rosa Meer' caption='true' img='https://lh3.googleusercontent.com/-YVQy6RFb9A0/VVBiBV-FAxI/AAAAAAAAQLM/6ZjjqNb2hLY/s2048/0109%252520-%252520Hutt%252520Lagoon.jpg' %}
+  </div>
+  <div class="col-sm-4 text-center">
+    {% include picture.html title='Bucht' caption='true' img='https://lh3.googleusercontent.com/-Z7FWlnIwkos/VVBiHGhdw2I/AAAAAAAAQLM/nYjVj3bPoGM/s2048/0117%252520-%252520entlang%252520der%252520Westk%2525D0%252591ste.jpg' %}
+  </div>
+  <div class="col-sm-4 text-center">
+    {% include picture.html title='Natural Window' caption='true' img='https://lh3.googleusercontent.com/-yasUYKCKZjY/VVBiLc5JpVI/AAAAAAAAQLM/pcCE53HfFEo/s2048/0124%252520-%252520Kalbarri%252520Nationalpark.jpg' %}
+  </div>
+</div>
 
-<td align="center" >2286  
-**_Strand_**
-            
-</td>
+<div class="row">
+  <div class="col-sm-12 text-center">
+    <div class="thumbnail">
+      <a href="https://goo.gl/maps/vYsWl" target="_blank">Ningaloo Reef</a>
+    </div>
+  </div>
+  <div class="col-sm-4 text-center">
+    {% include picture.html title='Buckelwal' caption='true' img='https://lh3.googleusercontent.com/-WPBipLMTmbA/VWCCMFOZweI/AAAAAAAAQRY/pW_erT1mbmM/s2048/IMG_0098.JPG' %}
+  </div>
+  <div class="col-sm-4 text-center">
+    {% include video.html title='Octopus' caption='true' img='https://lh3.googleusercontent.com/-ZDFQXdQ0h_g/VVBjS4jVlKI/AAAAAAAAQLM/zDJ_tqzLEMI/s800/0246%252520-%252520Video%2525202.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=3bebe660d45513ff&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435152263&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=D806DB599B68F28BE129E170FBFCADC0FD324C25.2332DF9A1A311ED32FA4ABF8D090FC90F1023BF7&key=lh1&cpn=6n94_1PobduQ0D6O&c=WEB&cver=html5' %}
+  </div>
+  <div class="col-sm-4 text-center">
+    {% include picture.html title='Korallen' caption='true' img='https://lh3.googleusercontent.com/-Y569UcNhKLk/VVBii3GtmDI/AAAAAAAAQLM/kDrZ2TKC0LQ/s2048/0168%252520-%252520Ningaloo%252520Reef.jpg' %}
+  </div>
+</div>
 
-          </tr>
-       </table>
-      
-</td>
-    </tr>
-  <tr >
-       
-<td >
-      <table cellpadding="0" cellspacing="0" border="1" >
-         <tr >
-           
-<td colspan="1" align="center" >Tom Price
-</td>
+<div class="row">
+  <div class="col-sm-12 text-center">
+    <div class="thumbnail">
+      <a href="https://goo.gl/maps/iC3X4" target="_blank">Cape Range NP</a>
+    </div>
+  </div>
+  <div class="col-sm-4 text-center">
+    {% include picture.html title='Canyon' caption='true' img='https://lh3.googleusercontent.com/-7NhQwGTobAU/VVBi2l5P4OI/AAAAAAAAQLM/N4M7n3xcxnw/s2048/0207%252520-%252520Cape%252520Range%252520Nationalpark.jpg' %}
+  </div>
+  <div class="col-sm-4 text-center">
+    {% include picture.html title='Känguru' caption='true' img='https://lh3.googleusercontent.com/-ED2MREKzBdM/VVBi5eTv_vI/AAAAAAAAQLM/oTyadaKRwqQ/s2048/0213%252520-%252520Cape%252520Range%252520Nationalpark.jpg' %}
+  </div>
+  <div class="col-sm-4 text-center">
+    {% include picture.html title='Strand' caption='true' img='https://lh3.googleusercontent.com/-VTdbMWy5fDE/VVBi0UoranI/AAAAAAAAQLM/Jxu2f4gs7h4/s2048/0204%252520-%252520Cape%252520Range%252520Nationalpark.jpg' %}
+  </div>
+</div>
 
-<td colspan="2" align="center" >Karijini NP
-</td>
 
-<td colspan="2" align="center" >>Millstream-Chichester NP
-</td>
+<div class="row">
+  <div class="col-sm-3 text-center">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="thumbnail">
+          <a href="https://goo.gl/maps/I7a39" target="_blank">Tom Price</a>
+        </div>
+        {% include picture.html title='Hemersley Iron' caption='true' img='https://lh3.googleusercontent.com/-VpKxjfWb8Es/VVBjsTY1CPI/AAAAAAAAQLM/cA_Yfz__QYQ/s2048/0280%252520-%252520Hamersley%252520Eisenerzmine.jpg' %}
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6 text-center">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="thumbnail">
+          <a href="https://goo.gl/maps/RyKTk" target="_blank">Karijini NP</a>
+        </div>
+        <div class="col-sm-6">
+            {% include picture.html  img='https://lh3.googleusercontent.com/-w2uhXp3jAuY/VVBkBM8BhDI/AAAAAAAAQLM/AQ-iWc0PpiQ/s2048/0312%252520-%252520Karijini%252520Nationalpark.jpg' %}
+         </div>
+        <div class="col-sm-6">
+            {% include picture.html  img='https://lh3.googleusercontent.com/-H2TUZ4FQ7Dg/VVBj0ybfdMI/AAAAAAAAQLM/tvaIHe_KuAg/s2048/0295%252520-%252520Karijini%252520Nationalpark.jpg' %}
+         </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3 text-center">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="thumbnail">
+          <a href="https://goo.gl/maps/RFUML" target="_blank">Millsttream-Chichester</a>
+        </div>
+        {% include picture.html  img='https://lh3.googleusercontent.com/-CpVZmFvO-DU/VVBkXhcSF1I/AAAAAAAAQLM/qX2jDCaxhaQ/s2048/0341%252520-%252520Millstream-Chichester.jpg' %}
+      </div>
+    </div>
+  </div>
+</div>
 
-                    </tr><tr >
-   
-<td align="center" >2514  
-**_Hemersley Iron_**
-            
-</td>
-            
-<td align="center" >2602  
-**__**
-            
-</td>
-            
-<td align="center" >2578  
-**__**
-            
-</td>
-            
-<td align="center" >2708  
-**__**
-            
-</td>
+<div class="row">
+  <div class="col-sm-3 text-center">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="thumbnail">
+          <a href="https://goo.gl/maps/GJqmM" target="_blank">Broome</a>
+        </div>
+        {% include picture.html title='Kamelreiten' caption='true' img='https://lh3.googleusercontent.com/-ZxIjq8MCe18/VVBkrOpxDTI/AAAAAAAAQLM/eQyokwhMjUY/s2048/0367%252520-%252520Broome.jpg' %}
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-9 text-center">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="thumbnail">
+          <a href="https://goo.gl/maps/YCLej" target="_blank">Kimberleys</a>
+        </div>
+      </div>
+       <div class="col-sm-4">
+    {% include picture.html title='Windjana Gorge NP' caption='true' img='https://lh3.googleusercontent.com/-MaL1jztOzaw/VVBk-okpxOI/AAAAAAAAQUw/Ctl_RyDPvPo/s2048/0389%252520-%252520Windjana%252520Gorge.jpg' %}
+  </div>
+  <div class="col-sm-4">
+    {% include picture.html title='Tunnel Creek NP' caption='true' img='https://lh3.googleusercontent.com/-fXEFRdENvck/VWL9_kdPs9I/AAAAAAAAQVU/xFwGX_p_4wk/s2048/IMG_0170%252520_720%252520x%252520480_.jpg' %}
+  </div>
+  <div class="col-sm-4">
+    {% include picture.html title='Geiko NP' caption='true' img='https://lh3.googleusercontent.com/-1FFqoE3Ej0k/VVBllX9_rXI/AAAAAAAAQLM/IvJtprgzJJk/s2048/0444%252520-%252520Geiko%252520Gorge.jpg' %}
+  </div>
+   </div>
+</div>
 
-          </tr>
-       </table>
-      
-</td>
-    </tr>
-
- <tr >
-       
-<td >
-      <table cellpadding="0" cellspacing="0" border="1" >
-         <tr >
-  
-<td colspan="1" align="center" >Broome
-</td>
-           
-<td colspan="3" align="center" >Kimberleys
-</td>
-  </tr><tr >
-    
-<td align="center" >2815  
-**_Kamelreiten_**
-            
-</td>
-            
-<td align="center" >2902  
-**_Windjana Gorge NP_**
-            
-</td>
-            
-<td align="center" >2964  
-**_Tunnel Creek NP_**
-            
-</td>
-            
-<td align="center" >3008  
-**_Geiko NP_**
-            
-</td>
- </tr>
-       </table>
-      
-</td>
-    </tr>
- <tr >
-       
-<td >
-      <table cellpadding="0" cellspacing="0" border="1" >
-         <tr >
-            
-<td colspan="4" align="center" >Purnululu NP
-</td>
-           
-          </tr><tr >
-           
-<td align="center" >3030  
-**_Bungle Bungles_**
-            
-</td>
-            
-<td align="center" >3026  
-**_Amphitheater_**
-            
-</td>
-            
-<td align="center" >3064  
-**_Scherenpalmen_**
-            
-</td>
-
-            
-<td align="center" >3068  
-**_Steilwaende (Norden)_**
-            
-</td>
-            
-          </tr>
-       </table>
-      
-</td>
-    </tr>
-
- </table>
+<div class="row">
+  <div class="col-sm-9 text-center">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="thumbnail">
+          <a href="https://goo.gl/maps/B1PaS" target="_blank">Purnululu NP</a>
+        </div>
+      </div>
+      <div class="col-sm-4">
+         {% include picture.html title='Bungle Bungles' caption='true' img='https://lh3.googleusercontent.com/-GglwXIY-Cgo/VWMBVlfcKFI/AAAAAAAAQWQ/9joWv_nHyv8/s2048/IMG_0048%252520_720%252520x%252520480_.jpg' %}
+      </div>
+      <div class="col-sm-4">
+         {% include picture.html title='Amphitheater' caption='true' img='https://lh3.googleusercontent.com/-EsTnatNTOec/VVBltecPtmI/AAAAAAAAQLM/DkM2BhaUlQ0/s2048/0457%252520-%252520Bungle%252520Bungles.jpg' %}
+      </div>
+      <div class="col-sm-4">
+         {% include picture.html title='Steilwände (Norden)' caption='true' img='https://lh3.googleusercontent.com/-h9bbNYYMoJQ/VVBl7317s_I/AAAAAAAAQLM/6zH5GOJPQhs/s2048/0477%252520-%252520Purnululu%252520Nationalpark.jpg' %}
+       </div>
+    </div>
+   </div>
+   <div class="col-sm-3 text-center">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="thumbnail">
+          <a href="https://goo.gl/maps/25dEK" target="_blank">Darwin</a>
+        </div>
+        {% include picture.html title='Krokodile' caption='true' img='https://lh3.googleusercontent.com/-ercNOU5YvyQ/VVBmIXN80TI/AAAAAAAAQLM/sll7dk7iTAM/s2048/0493%252520-%252520Crocodile%252520Jumping.jpg' %}
+      </div>
+    </div>
+  </div>
+</div>
 
