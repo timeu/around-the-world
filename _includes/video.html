@@ -1,3 +1,10 @@
-<a href="{{ include.video }}" type="video/mp4" class="thumbnail" data-poster="{{ include.img }}" class="thumbnail" data-gallery>
-  <img src="{{ include.img }}"/>
-</a>
+<div class="thumbnail">
+    <a href="{{ include.video }}" type="video/mp4"  data-poster="{{ include.img }}" class="thumbnail" data-gallery>
+      <img src="{{ include.img }}"/>
+    </a>
+    {% if include.title and include.caption %}
+	<div class="caption">
+    <h5>{{ include.title }}</h5>
+  </div>
+	{% endif %}
+</div>
