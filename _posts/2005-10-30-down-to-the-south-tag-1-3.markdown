@@ -14,13 +14,13 @@ location: Perth
 
 Der Flug von Tokyo nach Perth war relativ ereignislos. Das Service der Quantas Airline war ausgezeichnet und begeistern konnte das Movie on Demand System des Airbusses, das sogar auch alte ATARI Spiele in Petto hatte. Zusaetzlich kam der Umstand hinzu, dass wir seit einem Monat wieder einmal Filme sehen konnten, die wir auch verstanden ;-). Gegen 6 Uhr Frueh landeten wir in Perth. Zuerst ging es durch die Personenkontrollen und Gepaeckchecks. Dabei kam es zu einem kleinen Zwischenfall, denn Uemit hatte anscheinend vergessen, im Einreiseformular die beiden Taschenmesser in seinem Reisegepaeck als gefaehrliche "Waffen" zu deklarieren. 
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-gW510lnm274/VVoMbNRJavI/AAAAAAAAQLM/ucc3AVey1Pc/s2048/IMG_0004.JPG' %}
+{% include picture.html title='' img='https://lh3.googleusercontent.com/-abhx9IfF458/VWQ9BN6WQMI/AAAAAAAAQcQ/6lkZYQiUu3k/s2048/IMG_0004.jpg' %}
 
 Daher kam eine "nette" Sicherheitsbeamtin zu ihm, massregelte ihn, wie einen kleinen Schueler und machte ihn auf den Satz "if you fail to provide correct information, this may have **serious consequences**" aufmerksam. Seit den Anschlaegen am 9/11 reagieren die etwas uebertrieben. Was waere wohl gewesen, wenn Uemit mit dem Buschmesser nach Australien gereist waere und nicht mit 2 harmlosen Taschenmessern.
 Uemit entschuldigte sich mehrmals und versicherte ihr, dass er das Messer versehentlich nicht angegeben hatte (in Wirklichkeit haben wir natuerlich alle Fragen nach moeglichen kriminellen Vergangenheiten und sonstigen Absurditaeten, ohne sie genau durchgelesen zu haben, mit nein angekreuzt). Letztlich durfte Uemit doch die Kontrollstation passieren. In der Lobby reservierten wir ein Quartier fuer den Tag und nahmen den Shuttle Bus in die Stadt. 
 
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-pPcHvLWQsf0/VVoMbPinbaI/AAAAAAAAQLM/X0cJBJ_a2Gs/s2048/IMG_0001.JPG' %}
+{% include picture.html title='' img='https://lh3.googleusercontent.com/-HS4GHeUI9AE/VWQ9BMcAA-I/AAAAAAAAQcA/BMVwaCTDWpQ/s2048/IMG_0001.jpg' %}
 
 
 Nach einem verfruehten Mittagessen (geschmacksneutraler australischer Kebab) gings zur Stadtbesichtung. Perth ist eine mittelgrosse Stadt, in der einige alte Haeuser (wobei man alt hier etwas relativieren muss) neben beeindruckenden Hochhaeusern stehen. Es gibt einige nette Parks und sehr viele Shopping Arcaden. Das eigentlich Interessante an der Stadt ist, dass 80 % der Ampeln und 70% der Bevoelkerung von Westaustralien sich in dieser Stadt befinden. Dementsprechend duenn besiedelt ist der Rest ;-).
@@ -43,12 +43,12 @@ Nach einem verfruehten Mittagessen (geschmacksneutraler australischer Kebab) gin
 
 Den Abend verbrachten wir in unserer Herberge, da es relativ stark zu regnen begann. 
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-PWJSh5XMqog/VVoOdu3R_6I/AAAAAAAAQLc/I1LAynM4-Dg/s2048/IMG_0006.JPG' %}
+{% include picture.html title='' img='https://lh3.googleusercontent.com/-He6Nye2L4fk/VWQ9CKmudjI/AAAAAAAAQcE/ZapQv3KchKw/s2048/IMG_0006.jpg' %}
 
 
 Am naechsten Morgen suchten wir einen Supermarkt auf und es war ueberwaeltigend, sich in einem  Supermarkt mit Gemuese und Obst aufzuhalten. Wir fanden sogar einige persische Spezialitaeten, die wir uns nicht engehen lassen konnten (Laboshak und Chorma). 
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-pGGKh8mZ4_Y/VVoOdq97oVI/AAAAAAAAQLY/x_YxfVo9kmc/s2048/IMG_0005.JPG' %}
+{% include picture.html title='' img='https://lh3.googleusercontent.com/-jIg1N7kHMYE/VWQ9BPTSWVI/AAAAAAAAQcM/26qHkTjio2Y/s2048/IMG_0005.jpg' %}
 
 
 Nach dem Fruehstueck, dass wir ebenfalls in dem Supermarkt einnahmen, fuhren wir mit dem Taxi zur Autovermietung, wo wir unseren Campervan in Empfang nehmen sollten. Der Vermieter, ein Schweizer, zeigte uns alle Funktionen dieses maechtigen Gefaehrts, das uns die naechsten 3 1/2 Wochen staendig begleiten wird.  (2 Dieseltanks, 1 Wassertank, 2 Batterien, 1 Kuehlschrank, 2 Dachzelte und vieles mehr).

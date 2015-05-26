@@ -32,7 +32,7 @@ Aufgrund der anstrengenden Fahrt am Vortag, standen wir erst um halb 10 auf. Nac
 
 Man sieht auch eine Reihe von bewachsenen Sandduenen inmitten der Landschaft. 
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-lSOBQ6GGHYU/VWBjByEalPI/AAAAAAAAQOY/R84tl2GX06M/s2048/IMG_0085%252520_720%252520x%252520480_.jpg' %}
+{% include picture.html title='' img='https://lh3.googleusercontent.com/-Biy4il0G5Wg/VWQ9CRw4mPI/AAAAAAAAQcI/lz8G8azXs4g/s2048/IMG_0085.jpg' %}
 
 Nach diesem beeindruckenden Bild, legten wir direkt am Meer eine kurze Pause ein und kochten unser Fertigessen ueber dem kleinen mobilen Gasherd, der Teil der coolen Autoaustattung war. 
 

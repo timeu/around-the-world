@@ -140,7 +140,7 @@ Westaustralien ist mit 32,9 % der australischen Gesamtfläche der größte Bunde
     {% include picture.html title='Kalksteinformen' caption='true' img='https://lh3.googleusercontent.com/-udoE8X_1PKg/VVBh04k-bBI/AAAAAAAAQLM/qDeV_uYIjS8/s2048/0090%252520-%252520Pinnacles.jpg' %}
   </div>
   <div class="col-sm-4 text-center">
-    {% include picture.html title='Sanddünen' caption='true' img='https://lh3.googleusercontent.com/-lSOBQ6GGHYU/VWBjByEalPI/AAAAAAAAQOY/R84tl2GX06M/s2048/IMG_0085%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='Sanddünen' caption='true' img='https://lh3.googleusercontent.com/-Biy4il0G5Wg/VWQ9CRw4mPI/AAAAAAAAQcI/lz8G8azXs4g/s2048/IMG_0085.jpg' %}
   </div>
   <div class="col-sm-4 text-center">
     {% include picture.html title='Leaning Tree' caption='true' img='https://lh3.googleusercontent.com/-8mOEN0maMTk/VVBiALlJl8I/AAAAAAAAQLM/4X6H7rlafsc/s2048/0106%252520-%252520Leaning%252520Tree.jpg' %}
