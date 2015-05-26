@@ -97,7 +97,7 @@ Am nächsten Morgen verliessen wir in aller Herrgottsfruehe Coral Bay in Richtun
 
 Einzig und allein  die australischen Tiere liessen sich nicht blicken. Wir waren kurz vor dem verzweifeln. 
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-3ec1UNeLNq0/VWB7PTMA_qI/AAAAAAAAQQQ/xekY78Q82SY/s2048/IMG_0037_001.JPG' %}
+{% include picture.html title='' img='https://lh3.googleusercontent.com/-nB9rjp44VMM/VWQpo12rAYI/AAAAAAAAQaA/3P3l0ZeqaMg/s2048/IMG_0037.jpg' %}
 
 
 Doch dann tauchten die ersten Kaengurus auf.
@@ -132,7 +132,7 @@ Fotos:
 
 Um Tiere zu beobachten, hatten wir bis zum spaeten Nachmittag gewartet, da dies die beste Zeit dafuer ist. Daher begannen unsere Rückfahrt erst bei Einbruch der Dunkelheit.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-7I-nz8ofQl8/VWB9x-kUf1I/AAAAAAAAQQk/aHIwUgZuhH0/s2048/IMG_0155.JPG' %}
+{% include picture.html title='' img='https://lh3.googleusercontent.com/-E3v8yBgp93Y/VWQplwhmylI/AAAAAAAAQZU/6MwwICehDPE/s2048/IMG_0155.jpg' %}
 
 
 Jetzt wissen wir auch warum man uns vor dem Autofahren während der Dämmerung bzw. der Nacht gewarnt hat, denn entlang der Strasse standen alle paar Meter Kaengurus, die manchmal direkt vor dem Auto die Strasse querten. Nach 2 Vollbremsungen und einer Reisegeschwindigkeit von 50 km/h statt 110 erreichten wir gegen halb 9 Exmouth, aber ohne dass ein Kaenguru zu Schaden gekommen waere. Da wir am nächsten Morgen um 6 Uhr aufstehen mussten, gingen wir früh schlafen. Am Morgen musste alles relativ schnell von statten gehen. Schnell war eine Eierspeise gekocht und kurz darauf waren wir bereit fuer den ersten von 2 Tauchtagen in Exmouth. 

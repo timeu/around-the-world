@@ -23,7 +23,7 @@ Die Strecke, die wir vom Autovermieter aus fahren dürfen, reicht 100 km in die 
 
 <div class="row">
   <div class="col-sm-6">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-5dCxWM3K5uc/VWL5Zq6m55I/AAAAAAAAQUM/17bOOrWmo9I/s2048/IMG_0002%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-LU63onEQlG4/VWQpf-R6AfI/AAAAAAAAQaM/rfXUhR6PNes/s2048/IMG_0002.jpg' %}
   </div>
   <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-06uRIbiT7tc/VVBkvIZtnHI/AAAAAAAAQLM/L4K3uSRlmp8/s2048/0373%252520-%252520Kimberleys.jpg' %}
@@ -35,13 +35,13 @@ Gegen 5 Uhr Abends erreichten wir unser Tagesziel, den Bell Gorge Campingplatz. 
 
 <div class="row">
   <div class="col-sm-3">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-sDwuLMtbpMw/VWL6E0eG0vI/AAAAAAAAQUc/N4o3oDo_GGE/s2048/IMG_0035%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-YI_vnxl90uw/VWQpgFb8G4I/AAAAAAAAQYE/NrDftWbCGgU/s2048/IMG_0035.jpg' %}
   </div>
   <div class="col-sm-3">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/--828yC2ncGI/VVBk82soX_I/AAAAAAAAQLM/KfD29_E27AE/s2048/0387%252520-%252520Kimberleys.jpg' %}
   </div>
   <div class="col-sm-3">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-l6i48XqzOvY/VWL6FJk1BGI/AAAAAAAAQUg/MrzShygdFfo/s2048/IMG_0037%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-zwoL7IcHbqo/VWQph1quXeI/AAAAAAAAQYY/_ZJEUAwzFNY/s2048/IMG_0037a.jpg' %}
   </div>
   <div class="col-sm-3">
      {% include video.html title='' img='https://lh3.googleusercontent.com/-uqUp7hO0x2M/VVBk-IP6GsI/AAAAAAAAQLM/LD0nwc9SJkw/s800/0387%252520-%252520Video.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=8fc8f493e4136ae9&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435142008&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=D6D3E978D7DEAC880F454674D87F1B0BFF5872A2.36D620184C0E341BCD3A969C3C9E64828793B02&key=lh1&cpn=AjO8_0VIBcDsIW26&c=WEB&cver=html5' %}
@@ -142,10 +142,10 @@ Ein weiteres Highlight waren die australischen Flusskrokodile, die faul in dem P
 
 <div class="row">
   <div class="col-sm-6">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-fwo87dpVlsA/VWL9eiLI-BI/AAAAAAAAQU8/NCZIiSif0JA/s2048/IMG_0121%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-YuBaayPuKTs/VWQplPU8WsI/AAAAAAAAQZE/M4LWq3ayrWY/s2048/IMG_0123.jpg' %}
   </div>
   <div class="col-sm-6">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/--0nSI94hXPA/VWL9eu8CogI/AAAAAAAAQVA/bbKvPl7fIt0/s2048/IMG_0123%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/--S6XQv16aaM/VWQpkRDp0oI/AAAAAAAAQY8/OTpTebjdn2Y/s2048/IMG_0121.jpg' %}
   </div>
 </div>
 
@@ -153,10 +153,10 @@ Da uns die unglaubliche Hitze zu schaffen machte, beschlossen wir weiter zum Tun
 
 <div class="row">
   <div class="col-sm-6">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-fXEFRdENvck/VWL9_kdPs9I/AAAAAAAAQVU/xFwGX_p_4wk/s2048/IMG_0170%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-raJYxWw_72E/VWQpnUUZXqI/AAAAAAAAQZ0/F4K24HE595c/s2048/IMG_0170.jpg' %}
   </div>
   <div class="col-sm-6">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-c2Q8Nt0dF-o/VWL9_mtUMmI/AAAAAAAAQVY/gU--wjEL8V8/s2048/IMG_0159%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-U7FezkfER2A/VWQpmy7k-9I/AAAAAAAAQZ4/H2t7c3htD_U/s2048/IMG_0159.jpg' %}
   </div>
 </div>
 
@@ -202,7 +202,7 @@ Unglücklicherweise verpassten wir die Bootstour und mussten daher in brütender
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-rVo6L8SLA6c/VVBlkqRwHBI/AAAAAAAAQLM/nY7qSO-Q6P0/s2048/0443%252520-%252520Geiko%252520Gorge.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-kMxHevRDloU/VWL_J9LCRsI/AAAAAAAAQVs/2L-Kx9Sl9Yw/s2048/IMG_0225%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-Y0AMPGymS7g/VWQpoNfHHdI/AAAAAAAAQZs/87XpuOitUyE/s2048/IMG_0225.jpg' %}
   </div>
 </div>
 
@@ -238,7 +238,7 @@ In Halls Creek informierten wir uns ueber den Zustand der Zufahrtsstrasse zu dem
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-ihuSIHW4sRw/VVBlp-LTFYI/AAAAAAAAQLM/ZT_rU4eNu4s/s2048/0451%252520-%252520Sonnenuntergang.jpg' %}
   </div>
   <div class="col-sm-6">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/--JCou4uA5lM/VWMAEgoTI0I/AAAAAAAAQV8/T_e960hEp_I/s2048/IMG_0246%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-uiCETtJAlCA/VWQpohKc-vI/AAAAAAAAQZw/PmLbjsrduTA/s2048/IMG_0246.jpg' %}
   </div>
 </div>
 

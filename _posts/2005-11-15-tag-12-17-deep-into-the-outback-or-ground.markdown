@@ -89,7 +89,7 @@ Am Ende des Klasse 5 Weges fanden wir den natürlich entstandenen Handrail Pool 
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-5Bvy3xTPr7M/VVBjt6D_gEI/AAAAAAAAQLM/C92bt0qvIuY/s2048/0285%252520-%252520Karijini%252520Nationalpark.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-FBq0Zbf2Eos/VWCMwBWlmAI/AAAAAAAAQSE/zzOd81Ak4Y0/s2048/IMG_0038%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-orvE84X9ikk/VWQpiL-SFpI/AAAAAAAAQYk/LcV_OTRqgdw/s2048/IMG_0038.jpg' %}
   </div>
   <div class="col-sm-4">
     {% include video.html title='' img='https://lh3.googleusercontent.com/-y925Xe3qUv4/VVBjueksQ5I/AAAAAAAAQLM/ZKqjDnoptVs/s800/0286%252520-%252520Video.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=34ee610996e37f1b&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1434982725&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=39962F97CBE448B4879BB6F964000C4F9DFC2C9D.2174867A2B7F9AE0295D037A8EB328DBB3CF626B&key=lh1&cpn=BVmdKNUgRqqMCSck&c=WEB&cver=html5' %}

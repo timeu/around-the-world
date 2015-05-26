@@ -61,7 +61,7 @@ Als Beilage gab es Hauptsalat mit Karotten und Zitronensaft & Olivenoel als Dres
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-ASiHQyAx-W8/VVBh-I1N9KI/AAAAAAAAQLM/pDeRaI14Gik/s2048/0104%252520-%252520entlang%252520der%252520Westk%2525D0%252591ste.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-0zazj9iBAKE/VWBmfMtrVOI/AAAAAAAAQO4/TQ2x0QQC9-4/s2048/IMG_0098%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-pTbnYkDEDP8/VWQpjAcIk-I/AAAAAAAAQYw/bla6VTsrEr8/s2048/IMG_0098.jpg' %}
   </div>
   <div class="col-sm-4">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-2pqsb8g4sH4/VVBh_joD9eI/AAAAAAAAQLM/_wZBRP-XnSk/s2048/0105%252520-%252520entlang%252520der%252520Westk%2525D0%252591ste.jpg' %}
@@ -76,7 +76,7 @@ Am naechsten Morgen wurden wir durch den Regen in der Frueh geweckt. Nach einem 
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-8mOEN0maMTk/VVBiALlJl8I/AAAAAAAAQLM/4X6H7rlafsc/s2048/0106%252520-%252520Leaning%252520Tree.jpg' %}
   </div>
   <div class="col-sm-6">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-YGOaGj5nXtM/VWBnLe9gWWI/AAAAAAAAQPM/AkC_XxSL_nQ/s2048/IMG_0100%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-y0GPpCKFQ_8/VWQpkGgKzOI/AAAAAAAAQaE/4imC0yBJyJ4/s2048/IMG_0100.jpg' %}
   </div>
 </div>
 
@@ -125,7 +125,7 @@ Am Anfang des Trails war auch die wichtigste Sehenswuerdigkeit, das Natural Wind
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-yasUYKCKZjY/VVBiLc5JpVI/AAAAAAAAQLM/pcCE53HfFEo/s2048/0124%252520-%252520Kalbarri%252520Nationalpark.jpg' %}
   </div>
   <div class="col-sm-6">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-suAMgpyWu5A/VWBpuhDKiTI/AAAAAAAAQPg/UCIT_vDHaPE/s2048/IMG_0134%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-akfbyDJDVlA/VWQpldeAjkI/AAAAAAAAQZM/W_nuyDeYpcY/s2048/IMG_0134.jpg' %}
   </div>
 </div>
 
