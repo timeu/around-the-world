@@ -295,10 +295,10 @@ Nach dem Besuch im angrenzenden Museum  fuhren wir mit der Strassenbahn zum letz
 
 <div class="row">
   <div class="col-sm-6">
-    {% include picture.html title='Dejima' img='https://lh3.googleusercontent.com/-WT9chIVtfGE/VUpAwcdBTKI/AAAAAAAALSU/51Dxc0pUq34/s2048/IMG_0061.JPG' %}
+    {% include picture.html title='Dejima' img='https://lh3.googleusercontent.com/-Y3i6mZZONSo/VWQi6IvCoJI/AAAAAAAAQXM/6ilBYYkyDT8/s2048/IMG_0061-2.jpg' %}
   </div>
   <div class="col-sm-6">
-    {% include picture.html title='Dejima' img='https://lh3.googleusercontent.com/-kABPUtFeSvs/VUpAwVaUUcI/AAAAAAAALSI/In6i-nK0cAU/s2048/IMG_0063.JPG' %}
+    {% include picture.html title='Dejima' img='https://lh3.googleusercontent.com/-UjrKFlpDXe8/VWQi6CAIMCI/AAAAAAAAQXE/eJOU1ZI9UyA/s2048/IMG_0063-2.jpg' %}
   </div>
 </div>
 
