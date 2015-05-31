@@ -26,9 +26,6 @@ Fotos:
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-i1L_UnaQRw4/VVBmWiRJesI/AAAAAAAAQLM/L478xSv8wdE/s2048/0505%252520-%252520Crocodile%252520Jumping.jpg' %}
   </div>
 </div>
-3139
-3141
-3143
 
 Videos:
 
