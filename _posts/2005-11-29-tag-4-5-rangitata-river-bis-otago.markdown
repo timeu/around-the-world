@@ -32,7 +32,7 @@ Dieser lag inmitten eines dichten, modrigen und urigen Waldes.
 Gegen 11 Uhr kehrten wir zur Rafting Base zurück, wo wir mit dem Mittagessen auf einen Bus mit Studenten aus den USA warteten. Nach dem Essen und einem kurzen Briefing warfen wir uns in Schale.
 
 {% include picture.html title='' img='https://lh3.googleusercontent.com/-CczoK-YMPVM/VVBsgVNM1EI/AAAAAAAAQjI/kHSw-z_BC7w/s2048/0030%252520-%252520Rangitata%252520River%252520Rafting.jpg' %}
-3289
+
 
 Man will ja beim Raften nicht wie ein Lump aussehen. Danach ging es schon zum Anfang des Rangitata Flusses, der in der Maori Sprache aufgrund seiner Farbe "Fluß aus dem Himmel" genannt wird.
 
@@ -54,7 +54,7 @@ Der Rangitata River zählt zu den besten White Water Rafting Flüssen in ganz Ne
 Die ersten 25 Minuten waren sehr ruhig, was auch gut war, weil uns Steve die Grundlagen, Kommandos und Sicherheitsaspekte erkärte. Unsere erste Stromschnelle war eine der Stufe 2, was als Einstieg ganz gut war. Danach kam aber schon eine 4er Stromschnelle, welche uns ganz schön durch die Luft wirbeln ließ. Nach diesem ersten Härtetest, sollte die erste der beiden 5er Stromschnellen in Angriff genommen werden.
 
 {% include picture.html title='' img='https://lh3.googleusercontent.com/-X_K9aIAs6Fs/VWskPYndoFI/AAAAAAAAQms/xSGJtbZT-Jw/s2048/100N-0001_DSC%252520_720%252520x%252520480_.jpg' %}
-3316
+
 
 Zuvor sahen wir uns diese von Land aus an und unser Guide Steve fragte nochmals nach, ob irgendwer aussteigen will. Natürlich waren alle dabei. Somit war alles gesagt und wir fuhren mutig und ohne zu Kentern durch diese kurze aber heftige Stromschnelle.
 
