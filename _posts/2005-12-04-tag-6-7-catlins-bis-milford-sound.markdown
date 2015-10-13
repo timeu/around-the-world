@@ -51,7 +51,7 @@ Danach gings weiter mit dem nicht so überwältigenden Jack´s Blowhole, einem 2
 Purakaunui Wasserfälle
 
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-ImQLfy-W0lk/VVBtkc9w_rI/AAAAAAAAQjI/Mrf8Q3Kl-NA/s2048-Ic42/0130%252520-%252520Catlins.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-ImQLfy-W0lk/VVBtkc9w_rI/AAAAAAAAQjI/Mrf8Q3Kl-NA/s2048-Ic42/0130%252520-%252520Catlins.jpg' %}
 
 Matai Wasserfälle
 
@@ -132,7 +132,7 @@ Danach setzten wir unsere Reise landeinwärts fort und kamen gegen 4 Uhr in der 
 
 Per Rückwärtsrolle gings ins Wasser. Während des 30-minütigen Tauchgangs sahen wir die berühmten schwarzen Korallen, die eigentlich weiß sind (die abgestorbenen schwarzen Teile am unteren Ende der Korallen werden zu wertvollem Schmuck verarbeitet).
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-FuXdqn5kbXQ/VVBt0IedYnI/AAAAAAAAQjI/c8qbfawveqQ/s2048-Ic42/0161%252520-%252520Milford%252520Sound%252520-%252520Tauchen.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-FuXdqn5kbXQ/VVBt0IedYnI/AAAAAAAAQjI/c8qbfawveqQ/s2048-Ic42/0161%252520-%252520Milford%252520Sound%252520-%252520Tauchen.jpg' %}
 
 Darüber hinaus sahen wir auch etliche Tiefwasser-Meerestiere, die man nur hier - aufgrund der besonderen Verhältnisse - in ca. 18 Metern Tiefe sieht.
 

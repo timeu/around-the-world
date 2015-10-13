@@ -168,7 +168,7 @@ Ziel unserer Reise war der Franz Josef Gletscher, dessen Name ebenfalls auf dess
 
 Nach der Ueberquerung des Haast Pass, westlich der Suedlichen Alpen, fuhr man durch regelrechte Urwaelder. Die feuchtwarme Luft aus Australien regnet sich an den hohen Alpen ab, was zu durchschnittlichen Niederschlagswerten von 8 Meter pro Jahr fuehrt. Nach ca. 5 Stunden kamen wir endlich in der Stadt Franz Josef am Fusse des gleichnamigen Gletschers an. Die Quartiersuche war etwas schwierig, da die Stadt aufgrund der vielen Touristen aus allen Naehten zu platzen drohte. Das zeichnete sich bereits auf der Strecke ab. An einem schoenen und kleinen Lookout, hielten ploetzlich 3 grosse Reisebusse an, sodass unser Auto eingeparkt war und wir warten mussten bis alle Passagiere ihr Standardfoto gemacht hatten und die Busse wieder abfahren konnten. Nach dem Abendessen gingen wir an jenem Tag etwas frueher schlafen, da wir das Schlafdefizit der  letzten Tage aufholen mussten und am naechsten Tag einiges am Programm stand. Den naechsten Morgen starteten wir mit einem deftigen Fruehstueck (Eierspeise) und danach meldeten wir uns bei unseren Guides fuer das Ice Climbing am Franz Josef Gletscher. Nachdem wir alles notwendige eingepackt hatten, ging es zum Fusse des Gletschers.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-mB851rsgv6Y/VVBuimikFAI/AAAAAAAAQjI/KkeNBHMELB8/s2048-Ic42/0232%252520-%252520Franz%252520Josef%252520Gletscher.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-mB851rsgv6Y/VVBuimikFAI/AAAAAAAAQjI/KkeNBHMELB8/s2048-Ic42/0232%252520-%252520Franz%252520Josef%252520Gletscher.jpg' %}
 
 Das Besondere an dem Gletscher ist, dass er sich - im Gegensatz zu vielen anderen Gletschern - in einer Phase der Expansion befindet und zum anderen inmitten eines Regenwaldes liegt.
 
@@ -183,7 +183,7 @@ Das Besondere an dem Gletscher ist, dass er sich - im Gegensatz zu vielen andere
 
 Kurz bevor wir aufs Eis gelangten, montierten wir unsere Steigeisen an den Schuhen.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-kuINFSEwmDc/VVBujZL7ItI/AAAAAAAAQjI/SkQXVgS4p6E/s2048-Ic42/0233%252520-%252520Franz%252520Josef%252520Gletscher.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-kuINFSEwmDc/VVBujZL7ItI/AAAAAAAAQjI/SkQXVgS4p6E/s2048-Ic42/0233%252520-%252520Franz%252520Josef%252520Gletscher.jpg' %}
 
 Danach ging es erstmals ueber von Hand ins Eis geschlagene Stufen hinauf.
 
@@ -213,7 +213,7 @@ Die ersten 2 Stunden  marschierten wir hinter den Halb- und Ganztagsgruppen, wel
 
 Dort, wo wir uns entlang von Gletscherspalten bewegen mussten, gab es Seile zum anhalten.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-Mnvrr3uWofs/Vhosd6vJ-_I/AAAAAAAARxo/x8vcRuxTgpM/s2048-Ic42/IMG_0032.JPG' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-Mnvrr3uWofs/Vhosd6vJ-_I/AAAAAAAARxo/x8vcRuxTgpM/s2048-Ic42/IMG_0032.JPG' %}
 
 Irgendwann verliessen wir den normalen Pfad und auch die anderen Gruppen und suchten uns eine geeignete Eiswand zum Eisklettern.
 
@@ -292,7 +292,7 @@ Wir beschlossen, den restlichen Tag mit Autofahren zu verbringen. Unser naechste
 
 Der Abel Tasman Nationalpark wurde nach dem hollaendischen Seefahrer, der im 17. Jahrhundert die Kuesten von Neuseeland und - um genau zu sein - jenen Kuestenabschnitt, der heute den Nationalpark darstellt, als erster Europaeer entdeckte, benannt. Damals glaubte man noch, dass Neuseeland und Australien Teile des grossen suedlichen Kontinents waeren, den man verzweifelt suchte. Obwohl Abel Tasman als erster Europaeer Neuseeland entdeckte, war es ihm nicht moeglich anzulegen, da dies die Ureinwohner zu verhindern wussten. Nach einigen Verlusten auf beiden Seiten legte er wieder ab. Der erste Europaeer, der Neuseeland auch betrat, war bekanntlich James Cook. Das Besondere an diesem Nationalpark ist, dass man diesen nur zu Fuss per Kajak oder per Wassertaxi erreichen kann. Zu Fuss muss man mehrere Tage einplanen und das Kajak war uns zu umstaendlich. Daher blieb uns nur das Wassertaxi als Alternative.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-0Kvqqynpx6Q/VVBu6kKfyAI/AAAAAAAAQjI/_dKsTVgb-RA/s2048-Ic42/0263%252520-%252520Abel%252520Tasman%252520Nationalpark.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-0Kvqqynpx6Q/VVBu6kKfyAI/AAAAAAAAQjI/_dKsTVgb-RA/s2048-Ic42/0263%252520-%252520Abel%252520Tasman%252520Nationalpark.jpg' %}
 
 Dieses bringt einen an eine gewuenschte Bucht und holt einen wieder an einer anderen ab. Den Weg dazwischen legt man in Form einer Wanderung zurueck. Wir wurden in Tonga Bay abgesetzt und machten uns auf die 4 Stunden dauernde Wanderung ueber Bark Bay nach Torrent Bay, wo wir wieder abgeholt werden sollten.
 
@@ -342,7 +342,7 @@ Dabei kamen wir an unglaublich schoenen Buchten und Kuestenabschnitten vorbei.
 
 Leider ist der Nationalpark touristisch geradezu ueberlaufen und dementsprechend vielen deutschsprachigen Touristen begegneten wir auf unserem Weg auch :-( . Nach der 4-stuendigen Wanderung und der Rueckfahrt mit dem Wassertaxi, ging es in Richtung Picton, wo wir am naechsten Tag einen Wracktauchgang zu einem russischen Passagierschiff geplant hatten. Das russische Luxusschiff Lermontov lief irgendwann in den 80ern in der Cook Strait auf ein Riff auf und ging vor der Kueste der Suedinsel unter. Ein Maschinist starb dabei. Die Passagiere wurden alle gerettet. Die Unfallursache war menschliches Versagen des neuseelaendischen Lotsen, der das Schiff zu diesem Zeitpunkt steuerte. Er verwendete eine Fahrtroute, die fuer ein Schiff dieser Groesse ueberhaupt nicht geeignet ist. Picton sollte unsere letzte Station auf der Suedinsel sein. Gleich nach dem Tauchgang wollten wir die Faehre nach Wellington nehmen. Am naechsten Tag in der Frueh fuhren wir zum Tauchshop. Leider mussten wir erfahren, dass am Cape Jackson starke Winde gingen und die Wahrscheinlichkeit, zum russischen Passagierschiff zu gelangen lediglich 50 zu 50 sei. Da dieses grosse Passagierschiff zu den besten Wracks gehoert, wollten wir uns diese Gelegenheit nicht entgehen lassen und nahmen das Risiko auf uns.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-DJHV7h6Vse0/VVBvLbKwpmI/AAAAAAAAQjI/xkKuWCQv5MQ/s2048-Ic42/0287%252520-%252520Picton.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-DJHV7h6Vse0/VVBvLbKwpmI/AAAAAAAAQjI/xkKuWCQv5MQ/s2048-Ic42/0287%252520-%252520Picton.jpg' %}
 
 Obwohl es anfangs waehrend der Bootsfahrt noch gut ausgesehen hatte, beschloss der Skipper, dass es zu gefaehrlich sei und wir mussten auf einen alternativen Tauchplatz ausweichen, anstelle eines russischen Passagierschiffs tauchten wir zum Wrack eines im 19. Jahrhundert untergegangen Segelschiffs. Leider war das Wrack dermassen ueberwachsen und auseinandergefallen, dass es kaum als Wrack zu erkennen war (Video).
 

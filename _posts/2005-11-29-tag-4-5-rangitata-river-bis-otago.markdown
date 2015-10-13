@@ -14,7 +14,7 @@ location: Dunedin, Otago, New Zealand
 
 Am nächsten Morgen wurden wir mehrfach vom Wecker geweckt. Wir stellten ihn aber mehrfach um eine halbe Stunde zurück, da die klirrende Kälte im ungeheizten Zimmer uns nicht gerade dazu motivierte, aufzustehen. Um 9 Uhr rafften wir uns auf und nach einem schnell organisierten Frühstück in Peel Forrest machten wir uns auf, den gleichnamigen Wald anzusehen. Highlight war ein 2000 Jahre alter Baum.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-9V6_xdqBA2I/VVBsfGqe8mI/AAAAAAAAQjI/onB87uG0LTU/s2048/0028%252520-%252520Peel%252520Forrest.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-9V6_xdqBA2I/VVBsfGqe8mI/AAAAAAAAQjI/onB87uG0LTU/s2048/0028%252520-%252520Peel%252520Forrest.jpg' %}
 
 
 Dieser lag inmitten eines dichten, modrigen und urigen Waldes.
@@ -31,7 +31,7 @@ Dieser lag inmitten eines dichten, modrigen und urigen Waldes.
 
 Gegen 11 Uhr kehrten wir zur Rafting Base zurück, wo wir mit dem Mittagessen auf einen Bus mit Studenten aus den USA warteten. Nach dem Essen und einem kurzen Briefing warfen wir uns in Schale.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-CczoK-YMPVM/VVBsgVNM1EI/AAAAAAAAQjI/kHSw-z_BC7w/s2048/0030%252520-%252520Rangitata%252520River%252520Rafting.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-CczoK-YMPVM/VVBsgVNM1EI/AAAAAAAAQjI/kHSw-z_BC7w/s2048/0030%252520-%252520Rangitata%252520River%252520Rafting.jpg' %}
 
 
 Man will ja beim Raften nicht wie ein Lump aussehen. Danach ging es schon zum Anfang des Rangitata Flusses, der in der Maori Sprache aufgrund seiner Farbe "Fluß aus dem Himmel" genannt wird.
@@ -48,12 +48,12 @@ Man will ja beim Raften nicht wie ein Lump aussehen. Danach ging es schon zum An
 
 Der Rangitata River zählt zu den besten White Water Rafting Flüssen in ganz Neuseeland, da er 2 5er Stromschnellen hat - unabhängig vom Wasserstand. Beim Raften werden die Stromschnellen von 1 bis 6 klassifiziert. 1 ist die leichteste und 5 die schwierigste. Die 6er Stromschnellen kann man nur mit dem Kajak überwinden. Wir teilten uns das Schlauchbot mit 2 Holländern, 2 Schweden, einem Amerikaner und unserem Guide Steve.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-SsWEhv4FYzA/VVBskl_tJQI/AAAAAAAAQjI/X_bQoHOWCbM/s2048/0038%252520-%252520Rangitata%252520River%252520Rafting.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-SsWEhv4FYzA/VVBskl_tJQI/AAAAAAAAQjI/X_bQoHOWCbM/s2048/0038%252520-%252520Rangitata%252520River%252520Rafting.jpg' %}
 
 
 Die ersten 25 Minuten waren sehr ruhig, was auch gut war, weil uns Steve die Grundlagen, Kommandos und Sicherheitsaspekte erkärte. Unsere erste Stromschnelle war eine der Stufe 2, was als Einstieg ganz gut war. Danach kam aber schon eine 4er Stromschnelle, welche uns ganz schön durch die Luft wirbeln ließ. Nach diesem ersten Härtetest, sollte die erste der beiden 5er Stromschnellen in Angriff genommen werden.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-X_K9aIAs6Fs/VWskPYndoFI/AAAAAAAAQms/xSGJtbZT-Jw/s2048/100N-0001_DSC%252520_720%252520x%252520480_.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-X_K9aIAs6Fs/VWskPYndoFI/AAAAAAAAQms/xSGJtbZT-Jw/s2048/100N-0001_DSC%252520_720%252520x%252520480_.jpg' %}
 
 
 Zuvor sahen wir uns diese von Land aus an und unser Guide Steve fragte nochmals nach, ob irgendwer aussteigen will. Natürlich waren alle dabei. Somit war alles gesagt und wir fuhren mutig und ohne zu Kentern durch diese kurze aber heftige Stromschnelle.
@@ -215,7 +215,7 @@ Sie konnte nämlich den Rückstoß vom Abschuss der Geschosse dazu verwenden, si
 
 Uebrigens steht das Castle auf dem hoechsten Punkt der Halbinsel und dementsprechend ist die Aussicht:
 
-{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-x-B9DEniv78/VVBs3HnDIeI/AAAAAAAAQjI/8ixOmMGIfXg/s2048-Ic42/0065%252520-%252520Otago%252520Peninsula.jpg' %}
+{% include picture.html title='' dim="750" dim="750" img='https://lh3.googleusercontent.com/-x-B9DEniv78/VVBs3HnDIeI/AAAAAAAAQjI/8ixOmMGIfXg/s2048-Ic42/0065%252520-%252520Otago%252520Peninsula.jpg' %}
 
 Die Ironie der Geschichte: trotz all seines Reichtums beging er im Parlament Selbstmord. Womit bewiesen waere, dass man Glücklichsein nicht kaufen kann! (dieser Blog hat hiermit eine gewisse moralisch erzieherische Komponente :-) )
 Nach diesem kurzen Abstecher, ging es zum eigentlichen Ziel, einer Offroad-Tour entlang der Küste, wo besonders viele Robben, Seelöwen und Pinguine zu sehen sind.

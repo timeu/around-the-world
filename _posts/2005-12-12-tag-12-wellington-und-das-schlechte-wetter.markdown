@@ -28,7 +28,7 @@ Am 12. Tag, einem Sonntag, nach einer laengeren Nacht am Samstag davor, konnten 
 
 Dem folgte eine Fahrt mit dem Cable Car zu einem Huegel, von wo man einen schoenen Ausblick auf die Stadt hatte.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-klK5WRAdYw8/VVBvWQ3tMyI/AAAAAAAAQjI/Q-SaTyMIiFo/s2048-Ic42/0303%252520-%252520Wellington.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-klK5WRAdYw8/VVBvWQ3tMyI/AAAAAAAAQjI/Q-SaTyMIiFo/s2048-Ic42/0303%252520-%252520Wellington.jpg' %}
 
 Danach ging es auch zum bekanntesten Highlight von Wellington, dem Te Papa Museum, das einige interessante Ausstellungen ueber die Maori und andere wissenschaftliche, geschichtliche und kulturelle Themengebiete hat. Der Eintritt ist uebrigens frei. Der Sonntag Abend verlief verhaeltnismaessig unspektakulaer. Am naechsten Morgen verliessen wir Wellington Richtung Norden mit einem anfaenglich undefinierten Ziel. Nachdem wir unseren Reisefuehrer zu Rate zogen, beschlossen wir, einer Scenic Road entlang des Wanganui Flusses, die durch einige Maori Doerfer fuehrt, zu folgen.
 
@@ -72,7 +72,7 @@ Wir mussten auch einige anstregende Hoehenmeter ueberwinden, bevor wir an der Sp
 
 Entlang des Wanderweges waren auch einige Tafeln mit historischen Informationen ueber die Holzindustrie in diesem Gebiet. Der Abstieg war naturgemaess etwas leichter und fuehrte auch durch dichtere Vegetation.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-yTEHVvcumYs/VVBve3QvjNI/AAAAAAAAQjI/F44tYaFbmi4/s2048-Ic42/0314%252520-%252520Coromandel%252520Peninsula.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-yTEHVvcumYs/VVBve3QvjNI/AAAAAAAAQjI/F44tYaFbmi4/s2048-Ic42/0314%252520-%252520Coromandel%252520Peninsula.jpg' %}
 
 Entgegen aller Erwartungen zog waehrend des letzten Abschnittes des Abstieges schlechtes Wetter auf (die Wetterverhaeltnisse koennen sich in diesem Gebiet rasant aendern). Aufgrund der Tatsache, dass es zu Mittag noch sehr schoen ausgesehen hatte und die Parkverantwortliche uns versichert hatte, dass es nicht regnen wuerde, hatten wir natuerlich keinen Regenschutz mit. Die letzten 15 Minuten mussten wir in monsunartigem Regen zuruecklegen und dementsprechend sahen wir dann unten auch aus (Video).
 
@@ -143,7 +143,7 @@ Zu sehen waren auch sogenannte Hot Mud Pools (Video). Ein Schlammbad darin ist w
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-PGB8cOcfJG4/VVBv1l7QF7I/AAAAAAAAQjI/RdSB-ET-JhU/s2048-Ic42/0346%252520-%252520Roturua%252520-%252520Wai-O-Tapu%252520Thermal%252520Wonderland.jpg' %}
   </div>
   <div class="col-sm-4">
-  	{% include video.html title='' img='https://lh3.googleusercontent.com/-o4r7zVo6mdc/VVBv16v77hI/AAAAAAAAQkI/qftrbP9SGPs/s800-Ic42/0346%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/izH0xVi7ZYs5Ws0h9MeTgBhuODntdJ7-7yArmZsmHONg=m18?cpn=G_d9gnnaKRA0iRKV&c=WEB&cver=html5' %}
+  	{% include video.html title=''  img='https://lh3.googleusercontent.com/-o4r7zVo6mdc/VVBv16v77hI/AAAAAAAAQkI/qftrbP9SGPs/s800-Ic42/0346%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/izH0xVi7ZYs5Ws0h9MeTgBhuODntdJ7-7yArmZsmHONg=m18?cpn=G_d9gnnaKRA0iRKV&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -411,7 +411,7 @@ Nach dem ersten schwierigen Stueck, kam ein einfacheres, wo wir genauer auf die 
 
 Das mit den Fotos ist uebrigens auch eine Besonderheit dieses Unternehmen, weil de facto alle anderen Unternehmen im Bereich Adventure-Tourismus keine Kameras erlauben und dann Unsummen fuer ihre eigenen Fotos verlangen. Hier bekamen wir sogar ihre Fotos gratis auf CD. Der letzte Teil der ersten Halbzeit war wieder eine Herausforderung fuer unsere Kletterkuenste.
 In der Halbzeit der Expedition legten wir eine kurze Teepause ein.
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-J9rWd2I6FlU/VVBwbBFXmsI/AAAAAAAAQjI/d5XVYX0f3Wg/s2048-Ic42/0391%252520-%252520Waitomo%252520Caves.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-J9rWd2I6FlU/VVBwbBFXmsI/AAAAAAAAQjI/d5XVYX0f3Wg/s2048-Ic42/0391%252520-%252520Waitomo%252520Caves.jpg' %}
 
 Kurz darauf nahmen wir den Rueckweg in Angriff. Diesmal nahmen wir aber einen komplett anderen Weg zum Ausgang. Diese verlief meist kriechend am Boden im Fluss.
 
@@ -477,7 +477,7 @@ Nach ca. 2 Stunden fahrt kamen wir in Auckland an und checkten im Youth Hostel e
 
 Von oben hat man eine praechtige Aussicht auf die Stadt, die sowohl am Pazifik als als auch am Tasmanischen Meer liegt.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-PS89osO_jFc/VVBw7uq7__I/AAAAAAAAQjI/UBZG-K8dSMA/s2048-Ic42/0430%252520-%252520Auckland.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-PS89osO_jFc/VVBw7uq7__I/AAAAAAAAQjI/UBZG-K8dSMA/s2048-Ic42/0430%252520-%252520Auckland.jpg' %}
 
 Es gibt uebrigens die Moeglichkeit vom Skytower einen Skyjump zu absolvieren. Ist sicher nichts fuer schwache Nerven. Da es aber kein echter Bungyjump ist, sondern man an Seilen hinuntergelassen wird, war es fuer uns nicht interessant genug :-)
 
