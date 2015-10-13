@@ -215,14 +215,7 @@ Sie konnte nämlich den Rückstoß vom Abschuss der Geschosse dazu verwenden, si
 
 Uebrigens steht das Castle auf dem hoechsten Punkt der Halbinsel und dementsprechend ist die Aussicht:
 
-<div class="row">
-  <div class="col-sm-6">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-me1kmmxgpFg/VhkUgNMWymI/AAAAAAAARrY/mXVCps57Jes/s2048-Ic42/IMG_0038.JPG' %}
-  </div>
-  <div class="col-sm-6">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-ROQprwaMx88/VhkUmAcobVI/AAAAAAAARro/solJzmIbnFQ/s2048-Ic42/IMG_0040.JPG' %}
-  </div>
-</div>
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-x-B9DEniv78/VVBs3HnDIeI/AAAAAAAAQjI/8ixOmMGIfXg/s2048-Ic42/0065%252520-%252520Otago%252520Peninsula.jpg' %}
 
 Die Ironie der Geschichte: trotz all seines Reichtums beging er im Parlament Selbstmord. Womit bewiesen waere, dass man Glücklichsein nicht kaufen kann! (dieser Blog hat hiermit eine gewisse moralisch erzieherische Komponente :-) )
 Nach diesem kurzen Abstecher, ging es zum eigentlichen Ziel, einer Offroad-Tour entlang der Küste, wo besonders viele Robben, Seelöwen und Pinguine zu sehen sind.

@@ -153,17 +153,7 @@ Anscheinend waren viele Chinesen waehrend des Goldrausches in Neuseeland taetig.
 Am Anfang waren sie willkommen, spaeter wurden sie Opfer rassistischer Vorurteile und staatlicher Diskriminierung.
 Der weitere Weg fuehrte uns ueber den Haast Pass, welcher nach einem oesterreichischen Bergsteiger, der diesen zum ersten Mal ueberquerte, benannt wurde.
 
-<div class="row">
-  <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-tkw9Qch9QRY/Vhoqo1L_xUI/AAAAAAAARxI/nAN0sC-vyfY/s2048-Ic42/IMG_0010.JPG' %}
-  </div>
-  <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-hMSh1W7Jb9k/Vhoqox3jaLI/AAAAAAAARw8/iF7YpjS0l-w/s2048-Ic42/IMG_0011.JPG' %}
-  </div>
-  <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-41YmMv-N--k/Vhoqo-6uoQI/AAAAAAAARxI/jIO2NQa53Fs/s2048-Ic42/IMG_0012.JPG' %}
-  </div>
-</div>
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-f2M-Eb42VYE/VVBufM_e0rI/AAAAAAAAQjI/Pq1nCPa90NQ/s2048-Ic42/0227%252520-%252520Haast%252520Pass.jpg' %}
 
 Ziel unserer Reise war der Franz Josef Gletscher, dessen Name ebenfalls auf dessen Entdecker, Haast zurueckgeht. Die Strecke ist sehr idyllisch und zeichnet sich durch wechselnde Vegetation aus.
 

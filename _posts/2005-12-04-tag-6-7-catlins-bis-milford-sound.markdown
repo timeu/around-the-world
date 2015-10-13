@@ -68,11 +68,11 @@ Matai Wasserfälle
 
 Florence Hill Outlook über die Tautuku Bay
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-QUDDRrV2JeU/VVBtl8BQswI/AAAAAAAAQjI/1HZa0oQ1I2U/s2048-Ic42/0135%252520-%252520Catlins.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-QUDDRrV2JeU/VVBtl8BQswI/AAAAAAAAQjI/1HZa0oQ1I2U/s2048-Ic42/0135%252520-%252520Catlins.jpg' %}
 
 Lake Wilkie, ein ruhiger See unweit von der Tautuku Bay.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-iqRNgw8XPo4/VVBtmQsY-SI/AAAAAAAAQjI/SwwHGP7WGIY/s2048-Ic42/0136%252520-%252520Catlins.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-iqRNgw8XPo4/VVBtmQsY-SI/AAAAAAAAQjI/SwwHGP7WGIY/s2048-Ic42/0136%252520-%252520Catlins.jpg' %}
 
 Cathedral Caves, einige begehbare Höhlen direkt am Ozean, die nur bei Ebbe zu erreichen sind.
 
@@ -92,16 +92,16 @@ Cathedral Caves, einige begehbare Höhlen direkt am Ozean, die nur bei Ebbe zu e
 
 Curio Bay, ein Küstenabschnitt, auf dem man bei Ebbe pflanzliche Fossilien sieht.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-LZjNDYQBQ4M/VVBtrJ6Q3hI/AAAAAAAAQjI/laR2-QOw0Mo/s2048-Ic42/0144%252520-%252520Catlins.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-LZjNDYQBQ4M/VVBtrJ6Q3hI/AAAAAAAAQjI/laR2-QOw0Mo/s2048-Ic42/0144%252520-%252520Catlins.jpg' %}
 
 Waipapa Point, ein Leuchturm, der aufgrund der zweit schlimmsten Schiffs-Katastrophe mit 64 Toten, nahe des südlichsten Punktes des neuseeländischen Festlandes, b
 ekannt ist.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-z3bKqi_Uzfo/VhkatTz_vFI/AAAAAAAARsY/YiJgdhTZ7bE/s2048-Ic42/IMG_0061%252520_720%252520x%252520480_.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-uEHn9Ym7rfg/VVBts9Sh7_I/AAAAAAAAQjI/BdtKk5MXMkA/s2048-Ic42/0146%252520-%252520Catlins.jpg' %}
 
 Ebenfalls zu sehen waren die aus Australien bekannten Leaning Trees.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-9-rNNYUMZy4/VVBtsTa1ohI/AAAAAAAAQjI/F8xiHmtBhMw/s2048-Ic42/0145%252520-%252520Catlins.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-9-rNNYUMZy4/VVBtsTa1ohI/AAAAAAAAQjI/F8xiHmtBhMw/s2048-Ic42/0145%252520-%252520Catlins.jpg' %}
 
 Gegen 22 Uhr erreichten wir Invercargill. Die Quartiersuche stellte sich als äußerst schwierig heraus, da die Backpackers keine Plätze hatten und die Rezeptionen der meisten Motels bereits geschlossen hatten. Nach einer Stunde Fahrt quer durch die Stadt fanden wir doch ein Motel und verbrachten die Nacht in einem für unsere gewohnten Verhältnisse luxuriösen Zimmer mit en suite Badezimmer. Georg hätte das Zimmer am liebsten mitgenommen.
 Am nächsten Morgen sahen wir uns die Sehenswürdigkeiten der Stadt - einen großen englischen Park, ein Museum und einen Wasserturm - an.
@@ -120,7 +120,7 @@ Danach setzten wir unsere Reise landeinwärts fort und kamen gegen 4 Uhr in der 
 
 <div class="row">
   <div class="col-sm-4">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-tuC-KrhlzdI/VhkcEqPEncI/AAAAAAAARsw/JKlznDo4I5I/s2048-Ic42/IMG_0001.JPG' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-udSIskfjPnI/VVBt1lqbviI/AAAAAAAAQjI/aJIVKl1H69E/s2048-Ic42/0163%252520-%252520Milford%252520Sound.jpg' %}
   </div>
   <div class="col-sm-4">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-QOZISBMUJa4/VVBt89HyUFI/AAAAAAAAQjI/-p1RJEELWbo/s2048-Ic42/0178%252520-%252520Milford%252520Sound.jpg' %}

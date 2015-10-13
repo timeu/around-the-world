@@ -126,7 +126,7 @@ Danach unternahmen wir eine 3 km Wanderung durch den angesprochenen Park und dab
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-_mGacLdTr4Y/VVBvrnejuoI/AAAAAAAAQjI/LZR3Hi7osDo/s2048-Ic42/0331%252520-%252520Roturua%252520-%252520Wai-O-Tapu%252520Thermal%252520Wonderland.jpg' %}
   </div>
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-uDaxt9zUcrU/VhpGl5e3S9I/AAAAAAAAR7E/Yc4sN6BOQsI/s2048-Ic42/IMG_0034.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-U0aYBxzWg4s/VVBvonMvXvI/AAAAAAAAQjI/QxAKlKnTuFo/s2048-Ic42/0328%252520-%252520Roturua%252520-%252520Wai-O-Tapu%252520Thermal%252520Wonderland.jpg' %}
   </div>
   <div class="col-sm-4">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-zItQuubAOok/VVBv0Lr6AKI/AAAAAAAAQjI/m5rHlLHFGcE/s2048-Ic42/0344%252520-%252520Roturua%252520-%252520Wai-O-Tapu%252520Thermal%252520Wonderland.jpg' %}
