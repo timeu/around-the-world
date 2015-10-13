@@ -70,16 +70,20 @@ Auf dem Weg zwischen den einzelnen Tempel, besuchten wir auch den wohl schoenste
 
 
 <div class="row">
- <div class="col-sm-3">
+ <div class="col-sm-6">
    {% include picture.html title='' img='https://lh3.googleusercontent.com/-wYBcSdii09E/VUII6eWQ7bI/AAAAAAAALIw/uN-UdbzP6vA/s2048/0073%252520-%252520Tokyo.jpg' %}
  </div>
-<div class="col-sm-3">
+<div class="col-sm-6">
    {% include picture.html title='' img='https://lh3.googleusercontent.com/-nsVKL4AACSU/VVCkUo9RWDI/AAAAAAAAP-w/aabJpqyhGMk/s2048/ds_IMG_0421.jpg' %}
  </div>
-<div class="col-sm-3">
+
+</div>
+
+<div class="row">
+ <div class="col-sm-6">
    {% include picture.html title='' img='https://lh3.googleusercontent.com/-tx3K6fLK6Po/VUII44ZX8KI/AAAAAAAALIw/Kzub8aDGKKk/s2048/0071%252520-%252520Tokyo.jpg' %}
  </div>
-<div class="col-sm-3">
+<div class="col-sm-6">
    {% include picture.html title='' img='https://lh3.googleusercontent.com/-FGbO_mvZVGw/VUII7bGo5vI/AAAAAAAALIw/Pgj_e42fCjg/s2048/0075%252520-%252520Tokyo.jpg' %}
  </div>
 </div>
@@ -93,16 +97,20 @@ Da es bereits Mittag war und das Sushi-Fruehstueck gut aber nicht ausgiebig war,
 Die vermeintlich letzte Sehenswuerdigkeit sollte der Schrein des Kaisers und der Kaiserin,genannt Meiji- jingu sein.
 
 <div class="row">
- <div class="col-sm-3">
+ <div class="col-sm-6">
    {% include picture.html title='' img='https://lh3.googleusercontent.com/-32Bnz4ZUoFw/VUII-TJlwnI/AAAAAAAALIw/2FISX3qZUdc/s2048/0080%252520-%252520Tokyo.jpg' %}
  </div>
-<div class="col-sm-3">
+<div class="col-sm-6">
    {% include picture.html title='' img='https://lh3.googleusercontent.com/-VvV9_aSiZAA/VUIIwYjSuQI/AAAAAAAALIw/k0kKNfCpO24/s2048/0058%252520-%252520Tokyo.jpg' %}
  </div>
-<div class="col-sm-3">
+
+</div>
+
+<div class="row">
+<div class="col-sm-6">
    {% include picture.html title='' img='https://lh3.googleusercontent.com/-DR3jhhi-8NQ/VUII_0mkE7I/AAAAAAAALIw/ZQyz0u9ZURw/s2048/0081%252520-%252520Tokyo.jpg' %}
  </div>
-<div class="col-sm-3">
+<div class="col-sm-6">
    {% include picture.html title='' img='https://lh3.googleusercontent.com/-S0laByhDWvM/VUIJA8qk-KI/AAAAAAAALIw/_SfskeChLKA/s2048/0083%252520-%252520Tokyo.jpg' %}
  </div>
 </div>
