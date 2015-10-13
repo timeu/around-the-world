@@ -130,7 +130,7 @@ Das Wetter haette nach dem regnerischen Norden nicht besser sein koennen. Wir be
 
 <div class="row">
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-IRJLMAA9eqQ/VhzqZ1CSRHI/AAAAAAAAScU/nvyBe2kqHKQ/s2048-Ic42/IMG_0147%252520_720%252520x%252520480_.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-l8Xdh1MCFho/VVCSLReGpnI/AAAAAAAASNI/DAxihF6vN2U/s2048-Ic42/0295%252520-%252520North-West%252520Coast.jpg' %}
   </div>
   <div class="col-sm-6">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-a7s89mY7n_8/VVCSLlh9jDI/AAAAAAAASNI/c2RURvr9dQk/s2048-Ic42/0296%252520-%252520North-West%252520Coast.jpg' %}

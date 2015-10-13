@@ -37,7 +37,7 @@ Sogar unser 4WD Auto kam fuer die Fahrt entlang einer Sandpiste zu einem schoene
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-dPy7Wr-cqPc/Vhy60sSjx6I/AAAAAAAASR0/rRBw2TWZ264/s2048-Ic42/IMG_0061.JPG' %}
   </div>
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-54WWuBCJ2Ak/Vhy6kRzh1CI/AAAAAAAASRg/uTBuxretg3I/s2048-Ic42/IMG_0067.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-ch01jlfhxaw/VVCP6fVQELI/AAAAAAAASNI/OAnN0zqbW04/s2048-Ic42/0067%252520-%252520Anza-Borrego%252520Desert%252520State%252520Park.jpg' %}
   </div>
 </div>
 
@@ -176,17 +176,10 @@ Am Tag danach ging es abermals gemaechlich los. Gegen 12 Uhr verliessen wir schl
 Am naechsten Morgen war es dann endlich soweit. Der grosse und maechtige Grand Canyon stand am Programm. In der Frueh mussten wir aber der Kaelte Tribut zollen und beschlossen, uns so warm wie moeglich anzuziehen. Obwohl es wolkenlos und sonnig war, war es relativ kalt, vor allem im Schatten.
 Doch der Anblick des Grand Canyon liess alle Beschwerden verschwinden (Video).
 
-<div class="row">
-  <div class="col-sm-4">
-	 {% include video.html title='' img='https://lh3.googleusercontent.com/-OgQS519dUHU/VVCQfcKNpjI/AAAAAAAASN8/5lvo9l_tnRk/s800-Ic42/0127%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/e_-gmEDmAs1_4X1Bvapp0XzZFkERyQjgIcptE6zGYO2I=m18?cpn=AfEdFtDdcgmGZZmh&c=WEB&cver=html5' %}
-  </div>
-  <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-izZQqcNL1to/VhzIi5IRNUI/AAAAAAAASWI/HR7xneNo4oY/s2048-Ic42/IMG_0011.JPG' %}
-  </div>
-  <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-RKwwVj4U7Y4/VhzImG_4GxI/AAAAAAAASWY/-A-uJ2obnZs/s2048-Ic42/IMG_0012.JPG' %}
-  </div>
-</div>
+{% include video.html title='' img='https://lh3.googleusercontent.com/-OgQS519dUHU/VVCQfcKNpjI/AAAAAAAASN8/5lvo9l_tnRk/s800-Ic42/0127%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/e_-gmEDmAs1_4X1Bvapp0XzZFkERyQjgIcptE6zGYO2I=m18?cpn=AfEdFtDdcgmGZZmh&c=WEB&cver=html5' %}
+
+
+{% include picture.html dim="750" title='' img='https://lh3.googleusercontent.com/-t8Iu6fZzerM/VVCQc1W-nGI/AAAAAAAASNI/Iud3PrZiGr4/s2048-Ic42/0125%252520-%252520Grand%252520Canyon.jpg' %}
 
 
 Das Zitat klingt zwar abgedroschen. Aber die Fotos sagen mehr als 1000 Worte.
@@ -201,10 +194,10 @@ Das Zitat klingt zwar abgedroschen. Aber die Fotos sagen mehr als 1000 Worte.
 </div>
 
 
-{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-c4Pcsr43yyg/VhzHhoHwBkI/AAAAAAAASVI/EiXfv8KC8R4/s2048-Ic42/IMG_0029.JPG' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-tGwoIVWJBmw/VVCQwbeujfI/AAAAAAAASNI/Jp_ND1UthSU/s2048-Ic42/0152%252520-%252520Grand%252520Canyon.jpg' %}
 
 
-{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-dlDWbsMUvHA/VhzHs6M0BKI/AAAAAAAASVc/IZRztqXKOxk/s2048-Ic42/IMG_0041.JPG' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-fovAdzt2L8o/VVCQhaK9tXI/AAAAAAAASNI/CjtCb6NBQgk/s2048-Ic42/0130%252520-%252520Grand%252520Canyon.jpg' %}
 
 <div class="row">
   <div class="col-sm-6">
@@ -252,14 +245,7 @@ Nach dem Aufstieg ging es noch an einigen Aussichtspunkten und einigen indianisc
 
 Die letzte Station war ein alter Aussichtsturm am oestlichen Eingang des Grand Canyon.
 
-<div class="row">
-  <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-7MAP3xeygwU/VhzEJoQ6zHI/AAAAAAAASTw/YA6VOYtjcv8/s2048-Ic42/IMG_0101_001.JPG' %}
-  </div>
-  <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-cQOhgyk06C4/VVCQvAzgaHI/AAAAAAAASNI/0B-HSb1EXBw/s2048-Ic42/0151%252520-%252520Grand%252520Canyon.jpg' %}
-  </div>
-</div>
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-cQOhgyk06C4/VVCQvAzgaHI/AAAAAAAASNI/0B-HSb1EXBw/s2048-Ic42/0151%252520-%252520Grand%252520Canyon.jpg' %}
 
 
 Danach ging es ueber den beleuchteten Hoover Damm zurück nach Las Vegas und weiter Richtung Red Rock Canyon.

@@ -100,22 +100,15 @@ Zabriskie Point.
 
 Devil's Cornfield.
 
-<div class="row">
-  <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-wpyk5-SlwVM/VhzQHExqg2I/AAAAAAAASXY/5KHlbXGNVac/s2048-Ic42/IMG_0167%252520_720%252520x%252520480_.jpg' %}
-  </div>
-  <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/--KzMYSSAyl8/VhzQLyjeYhI/AAAAAAAASXs/EIlZcAuopds/s2048-Ic42/IMG_0165%252520_720%252520x%252520480_.jpg' %}
-  </div>
-</div>
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-sLaktOpD9Eg/VVCRCFYGNkI/AAAAAAAASNI/ZhGHgLhnNWM/s2048-Ic42/0180%252520-%252520Death%252520Valley.jpg' %}
 
 Sandduenen.
 
-{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-nngmjEHHM2I/VhzP6XeTBpI/AAAAAAAASXI/A24lEmJ72YM/s2048-Ic42/IMG_0161%252520_720%252520x%252520480_.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-81BzLSU1gos/VVCRBFat3aI/AAAAAAAASh4/T4ytlV_8qmE/s2048-Ic42/0179%252520-%252520Death%252520Valley.jpg' %}
 
 Ubhebe Krater.
 
-{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-CL3CN6ewf7o/VhzQQf55xoI/AAAAAAAASYA/rhw6kEbWhHg/s2048-Ic42/IMG_0171%252520_720%252520x%252520480_.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-D1DDtWFKUg4/VVCRCnY4p2I/AAAAAAAASNI/mHnjlYWB5DI/s2048-Ic42/0181%252520-%252520Death%252520Valley.jpg' %}
 
 Wir hatten auf der Strecke auch die erste Begegnung mit der Exekutive, einem Ranger, der uns wegen ueberhoehter Geschwindigkeit aufhielt. Dank unseres Touristenbonus liess er uns aber - mit dem Ratschlag langsamer zu fahren - gehen. Das letzte Highlight im Death Valley war Scotty's Castle.
 

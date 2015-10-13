@@ -170,7 +170,7 @@ Alles in allem bietet Kalifornien sehr viel und waere fuer alle, die dem Winter 
         <div class="thumbnail">
           <a href="https://goo.gl/maps/YuVJ6HCFzR72" target="_blank">Anza-Borrego Desertpark</a>
         </div>
-        {% include picture.html title='Badlands' caption='true' img='https://lh3.googleusercontent.com/-54WWuBCJ2Ak/Vhy6kRzh1CI/AAAAAAAASRg/uTBuxretg3I/s2048-Ic42/IMG_0067.JPG' %}
+        {% include picture.html title='Badlands' caption='true' img='https://lh3.googleusercontent.com/-ch01jlfhxaw/VVCP6fVQELI/AAAAAAAASNI/OAnN0zqbW04/s2048-Ic42/0067%252520-%252520Anza-Borrego%252520Desert%252520State%252520Park.jpg' %}
       </div>
     </div>
   </div>
@@ -190,7 +190,7 @@ Alles in allem bietet Kalifornien sehr viel und waere fuer alle, die dem Winter 
         <div class="thumbnail">
           <a href="https://goo.gl/maps/kYqwfhuwFFA2" target="_blank">Mohave Desert</a>
         </div>
-        {% include picture.html title='Sand Dunes' caption='true' img='https://lh3.googleusercontent.com/-y4XO__mmVpU/Vh0Duj7G3mI/AAAAAAAAShk/f7vkoiBPcaY/s2048-Ic42/IMG_0168.JPG' %}
+        {% include picture.html title='Sand Dunes' caption='true' img='https://lh3.googleusercontent.com/-gDE-HFw8hok/VVCQQ6AAkHI/AAAAAAAASNI/rnHqvhOXhFI/s2048-Ic42/0104%252520-%252520Mojave%252520Desert%252520Park.jpg' %}
       </div>
     </div>
   </div>
@@ -224,10 +224,10 @@ Alles in allem bietet Kalifornien sehr viel und waere fuer alle, die dem Winter 
     {% include picture.html title='' caption='true' img='https://lh3.googleusercontent.com/-bICzN6UhKKk/VhzH2RiDXKI/AAAAAAAASVw/K6hRr0FvTxA/s2048-Ic42/IMG_0057.JPG' %}
   </div>
   <div class="col-sm-4 text-center">
-    {% include picture.html title='' caption='true' img='https://lh3.googleusercontent.com/-RKwwVj4U7Y4/VhzImG_4GxI/AAAAAAAASWY/-A-uJ2obnZs/s2048-Ic42/IMG_0012.JPG' %}
+    {% include picture.html title='' caption='true' img='https://lh3.googleusercontent.com/-t8Iu6fZzerM/VVCQc1W-nGI/AAAAAAAASNI/Iud3PrZiGr4/s2048-Ic42/0125%252520-%252520Grand%252520Canyon.jpg' %}
   </div>
   <div class="col-sm-4 text-center">
-    {% include picture.html title='' caption='true' img='https://lh3.googleusercontent.com/-7MAP3xeygwU/VhzEJoQ6zHI/AAAAAAAASTw/YA6VOYtjcv8/s2048-Ic42/IMG_0101_001.JPG' %}
+    {% include picture.html title='' caption='true' img='https://lh3.googleusercontent.com/-cQOhgyk06C4/VVCQvAzgaHI/AAAAAAAASNI/0B-HSb1EXBw/s2048-Ic42/0151%252520-%252520Grand%252520Canyon.jpg' %}
   </div>
 </div>
 
