@@ -12,33 +12,35 @@ header-img: img/australien/tag_5_7.jpg
 location: Coral Bay, Western Australia, Australia
 ---
 
-Aufgrund der anstrengenden Fahrt am Vortag, standen wir erst um halb 10 auf. Nachdem wir das Dachzelt abgebaut und alles eingepackt hatten, statteten wir einem Supermarkt einen Besuch ab. Dort besorgten wir uns Proviant fuer das Mittag- und Abendessen und fuer die naechsten paar Tage. Danach ging es zum Nambung Nationalpark, in dem die Pinnacles liegen. Die Pinnacles sind die Reste einer wegerodierten Kalksteinschicht. Sie entsprechen duerren, seltsam verformten Gebilden in einer Sandwueste, wie in einem surrealen Bild von Salvador Dali. 
+Aufgrund der anstrengenden Fahrt am Vortag, standen wir erst um halb 10 auf. Nachdem wir das Dachzelt abgebaut und alles eingepackt hatten, statteten wir einem Supermarkt einen Besuch ab. Dort besorgten wir uns Proviant fuer das Mittag- und Abendessen und fuer die naechsten paar Tage. Danach ging es zum Nambung Nationalpark, in dem die Pinnacles liegen. Die Pinnacles sind die Reste einer wegerodierten Kalksteinschicht. Sie entsprechen duerren, seltsam verformten Gebilden in einer Sandwueste, wie in einem surrealen Bild von Salvador Dali.
 
 <div class="row">
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-P__URp0b7uE/VVBh0HN9yXI/AAAAAAAAQLM/XywvHFs3zvo/s2048/0088%252520-%252520Pinnacles.jpg' %}
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-udoE8X_1PKg/VVBh04k-bBI/AAAAAAAAQLM/qDeV_uYIjS8/s2048/0090%252520-%252520Pinnacles.jpg' %}
   </div>
-  <div class="col-sm-3">
+</div>
+
+<div class="row">
+<div class="col-sm-6">
     {% include video.html title='' img='https://lh3.googleusercontent.com/-of7GadpcAb4/VVBh591cpOI/AAAAAAAAQLM/C6fkPF3uUSA/s800/0096%252520-%252520Pinnacles.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=d847ca095cceb281&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1434971686&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=5F54E709240C48B90155C2E483E9F1F986D17E50.486FE1A13A53C3CAEE92EEBACACC3D287BB4237F&key=lh1&cpn=LpfAJIoVWSWbU6VM&c=WEB&cver=html5' %}
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-_LcDk6WlZkY/VVBh4lrxSFI/AAAAAAAAQLM/l0Bq6lP_Keo/s2048/0095%252520-%252520Pinnacles.jpg' %}
   </div>
 </div>
 
+Man sieht auch eine Reihe von bewachsenen Sandduenen inmitten der Landschaft.
 
-Man sieht auch eine Reihe von bewachsenen Sandduenen inmitten der Landschaft. 
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-Biy4il0G5Wg/VWQ9CRw4mPI/AAAAAAAAQcI/lz8G8azXs4g/s2048/IMG_0085.jpg' %}
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-Biy4il0G5Wg/VWQ9CRw4mPI/AAAAAAAAQcI/lz8G8azXs4g/s2048/IMG_0085.jpg' %}
+Nach diesem beeindruckenden Bild, legten wir direkt am Meer eine kurze Pause ein und kochten unser Fertigessen ueber dem kleinen mobilen Gasherd, der Teil der coolen Autoaustattung war.
 
-Nach diesem beeindruckenden Bild, legten wir direkt am Meer eine kurze Pause ein und kochten unser Fertigessen ueber dem kleinen mobilen Gasherd, der Teil der coolen Autoaustattung war. 
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-37y57OSxmpw/VVBh61kuyFI/AAAAAAAAQLM/0i8FZsQVBdU/s2048/0098%252520-%252520Pinnacles.jpg' %}
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-37y57OSxmpw/VVBh61kuyFI/AAAAAAAAQLM/0i8FZsQVBdU/s2048/0098%252520-%252520Pinnacles.jpg' %}
-
-Nach dem staerkenden Mahl ging es weiter Richtung Norden. Auf dem Weg zu unserem naechsten Campingplatz kamen wir noch an einigen sehenswerten Plaetzen vorbei. 
+Nach dem staerkenden Mahl ging es weiter Richtung Norden. Auf dem Weg zu unserem naechsten Campingplatz kamen wir noch an einigen sehenswerten Plaetzen vorbei.
 
 
 <div class="row">
@@ -53,8 +55,8 @@ Nach dem staerkenden Mahl ging es weiter Richtung Norden. Auf dem Weg zu unserem
   </div>
 </div>
 
-60 km vor der letzten groesseren Stadt fuer einen laengeren Zeitraum, stellten wir unsere Zelte fuer die Nacht auf. Da wir diesmal mehr Zeit hatten als beim letzten Mal, konnten wir uns relativ entspannt der Zubereitung unseres Abendessens widmen. "Chefkoch" Uemit hatte Zwiebelrostbraten mit Kartoffeln (oder sowas aehnliches) fuer den heutigen Tag vorgesehen. 
-Als Beilage gab es Hauptsalat mit Karotten und Zitronensaft & Olivenoel als Dressing. Waehrend Uemit die Zwiebels anroestete, widmete sich Georg der "hohen Kunst des Kartoffelschneidens". 
+60 km vor der letzten groesseren Stadt fuer einen laengeren Zeitraum, stellten wir unsere Zelte fuer die Nacht auf. Da wir diesmal mehr Zeit hatten als beim letzten Mal, konnten wir uns relativ entspannt der Zubereitung unseres Abendessens widmen. "Chefkoch" Uemit hatte Zwiebelrostbraten mit Kartoffeln (oder sowas aehnliches) fuer den heutigen Tag vorgesehen.
+Als Beilage gab es Hauptsalat mit Karotten und Zitronensaft & Olivenoel als Dressing. Waehrend Uemit die Zwiebels anroestete, widmete sich Georg der "hohen Kunst des Kartoffelschneidens".
 
 <div class="row">
   <div class="col-sm-4">
@@ -68,8 +70,8 @@ Als Beilage gab es Hauptsalat mit Karotten und Zitronensaft & Olivenoel als Dres
   </div>
 </div>
 
-Nach gut 1 1/2 Stunden und einigen Schweisstropfen (die Kartoffeln brauchten laenger als erwartet und die Nachtfalter stuerzten sich wie Kamikaze Piloten in das Essen) war das Essen angerichtet. Es dauerte auch nicht lang ehe die Teller leergegessen waren. Nach dem Abwasch und den ueblichen hygienischen Routinetaetigkeiten, legten wir uns relativ frueh schlafen, da wir am naechsten Morgen etwas frueher loslegen wollten. 
-Am naechsten Morgen wurden wir durch den Regen in der Frueh geweckt. Nach einem reichhaltigen Fruehstueck (Eierspeise mit Tomaten, Schinken und Weissbrot) setzten wir unsere Reise in den Norden fort, das naechste Ziel war der Kalbarri Nationalpark. Unterwegs konnten wir die bekannten leaning (gebeugten) Trees bewundern. 
+Nach gut 1 1/2 Stunden und einigen Schweisstropfen (die Kartoffeln brauchten laenger als erwartet und die Nachtfalter stuerzten sich wie Kamikaze Piloten in das Essen) war das Essen angerichtet. Es dauerte auch nicht lang ehe die Teller leergegessen waren. Nach dem Abwasch und den ueblichen hygienischen Routinetaetigkeiten, legten wir uns relativ frueh schlafen, da wir am naechsten Morgen etwas frueher loslegen wollten.
+Am naechsten Morgen wurden wir durch den Regen in der Frueh geweckt. Nach einem reichhaltigen Fruehstueck (Eierspeise mit Tomaten, Schinken und Weissbrot) setzten wir unsere Reise in den Norden fort, das naechste Ziel war der Kalbarri Nationalpark. Unterwegs konnten wir die bekannten leaning (gebeugten) Trees bewundern.
 
 <div class="row">
   <div class="col-sm-6">
@@ -81,7 +83,7 @@ Am naechsten Morgen wurden wir durch den Regen in der Frueh geweckt. Nach einem 
 </div>
 
 
-Diese entstehen durch starke salzhaltige Meereswinde. Der Weg zum Nationakpark fuehrte an der hutt lagoon vorbei. Diese zeichnete sich durch die speziellen Meeresalgen aus, die fuer die unglaubliche rosa Farbe des Wassers verantwortlich sind. Es glich einem Bild aus Wasserfarben. 
+Diese entstehen durch starke salzhaltige Meereswinde. Der Weg zum Nationakpark fuehrte an der hutt lagoon vorbei. Diese zeichnete sich durch die speziellen Meeresalgen aus, die fuer die unglaubliche rosa Farbe des Wassers verantwortlich sind. Es glich einem Bild aus Wasserfarben.
 
 <div class="row">
   <div class="col-sm-6">
@@ -92,7 +94,7 @@ Diese entstehen durch starke salzhaltige Meereswinde. Der Weg zum Nationakpark f
   </div>
 </div>
 
-Auf den letzten 20 km zum Nationalpark kamen wir an einigen sehenswerten Lookouts vorbei, von wo aus wir im Norden die Sandstraende und im Sueden die Sandsteinklippen bestaunen konnten. 
+Auf den letzten 20 km zum Nationalpark kamen wir an einigen sehenswerten Lookouts vorbei, von wo aus wir im Norden die Sandstraende und im Sueden die Sandsteinklippen bestaunen konnten.
 
 <div class="row">
   <div class="col-sm-4">
@@ -106,7 +108,7 @@ Auf den letzten 20 km zum Nationalpark kamen wir an einigen sehenswerten Lookout
   </div>
 </div>
 
-Im Kalbarri Nationalpark legten wir gegen 3 Uhr ein schnelles, verspaetetes, Mittagessen ein und starteten mit dem 8 km langen Loop Trail. Dieser fuehrte entlang eines Canyons und eines Flussbettes. 
+Im Kalbarri Nationalpark legten wir gegen 3 Uhr ein schnelles, verspaetetes, Mittagessen ein und starteten mit dem 8 km langen Loop Trail. Dieser fuehrte entlang eines Canyons und eines Flussbettes.
 
 <div class="row">
   <div class="col-sm-6">
@@ -130,7 +132,7 @@ Am Anfang des Trails war auch die wichtigste Sehenswuerdigkeit, das Natural Wind
 </div>
 
 
-Waehrend der 8 km trafen wir auf wilde Ziegen, verschiedene Voegel und eine wirklich furchterregende, grosse Spinne in einem entsprechend grossen Spinnennetz. 
+Waehrend der 8 km trafen wir auf wilde Ziegen, verschiedene Voegel und eine wirklich furchterregende, grosse Spinne in einem entsprechend grossen Spinnennetz.
 
 <div class="row">
   <div class="col-sm-4">
@@ -145,7 +147,7 @@ Waehrend der 8 km trafen wir auf wilde Ziegen, verschiedene Voegel und eine wirk
 </div>
 
 
-Darueber hinaus gab es einige interessante geologische Formationen zu bewundern (zumindest fuer uns Laien). 
+Darueber hinaus gab es einige interessante geologische Formationen zu bewundern (zumindest fuer uns Laien).
 
 <div class="row">
   <div class="col-sm-6">
@@ -156,7 +158,7 @@ Darueber hinaus gab es einige interessante geologische Formationen zu bewundern 
   </div>
 </div>
 
-Mit Einbruch der Dunkelheit erreichten wir wieder unser Auto. Viel laenger sollte man in dieser Gegend nicht herumirren. Man weiss ja nicht, welche nachtaktiven Tiere ihr Unwesen treiben und Spinnennetze sieht man in der Nacht noch schlechter als am Tag ;-). 
+Mit Einbruch der Dunkelheit erreichten wir wieder unser Auto. Viel laenger sollte man in dieser Gegend nicht herumirren. Man weiss ja nicht, welche nachtaktiven Tiere ihr Unwesen treiben und Spinnennetze sieht man in der Nacht noch schlechter als am Tag ;-).
 
 <div class="row">
   <div class="col-sm-6">
@@ -192,7 +194,7 @@ Sie kommen einfach in einer groesseren Anzahl zurueck. Aber zurueck zum Tagesver
 
 
 Nach ca. 700 km Fahrt entlang unendlich scheinender, gerader Strassen, ueberquerten wir den Wendekreis des Steinbocks. Dieser markiert den Beginn der Tropen und somit auch eines heissen und feuchten Klimas (vor allem zu der Zeit, wo wir dort sind). Dabei musste Uemit in einem waghalsigen Manoever einer Emu Mutter, mitsamt Emu-Baby ausweichen, die gerade die Strasse querten. Unser Auto hat somit den Elch bzw. Emu Test ueberstanden, trotz des hohen Schwerpunktes ;-)
-Schlussendlich erreichten wir das Ningaloo Reef und schlugen unsere Zelte auf. Als Abendmahl gab es diesmal Buritos mit eigens zubereiteten Beilagen, wobei sich Georg an der Avocado Sauce versuchte. 
+Schlussendlich erreichten wir das Ningaloo Reef und schlugen unsere Zelte auf. Als Abendmahl gab es diesmal Buritos mit eigens zubereiteten Beilagen, wobei sich Georg an der Avocado Sauce versuchte.
 
 <div class="row">
   <div class="col-sm-4">

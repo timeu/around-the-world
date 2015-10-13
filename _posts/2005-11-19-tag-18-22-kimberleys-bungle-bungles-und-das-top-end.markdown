@@ -12,14 +12,14 @@ header-img: img/australien/tag_18_22.jpg
 location: Darwin, Northern Territory, Australien
 ---
 
-Am 18. Tag, einem Sonntag, nach einer längeren Samstag Nacht, verliessen wir Broome um in das Innere der Kimberleys vorzustossen. 
+Am 18. Tag, einem Sonntag, nach einer längeren Samstag Nacht, verliessen wir Broome um in das Innere der Kimberleys vorzustossen.
 Zuvor besorgten wir uns ausreichend Proviant, Wasser und Treibstoff, damit wir in einem der unberührtesten Gebiete Australiens überleben koennen. Erst unlängst hatten wir in der Zeitung gelesen, dass eine Deutsche Touristin, die sich in einem Nationalpark in den Kimberleys verirrt hatte - wahrscheinlich aufgrund Wassermangels - umgekommen ist.  Eine Sehenswuerdigkeit besuchten wir aber noch auf dem Weg, naemlich einen hohlen Boab Tree, der einmal als Gefaengnis diente. Dort wurden frueher Aboriginals von den weissen Siedlern eingesperrt.
 
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-b2Xoo-xa34o/VVBkuPoFuEI/AAAAAAAAQLM/cM52tNXjNLo/s2048/0372%252520-%252520Kimberleys.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-b2Xoo-xa34o/VVBkuPoFuEI/AAAAAAAAQLM/cM52tNXjNLo/s2048/0372%252520-%252520Kimberleys.jpg' %}
 
 
-Die Strecke, die wir vom Autovermieter aus fahren dürfen, reicht 100 km in die Kimberleys hinein und führt entlang der Gibb River Road, einer Gravel Road, die zur Regenzeit unpassierbar ist. 
+Die Strecke, die wir vom Autovermieter aus fahren dürfen, reicht 100 km in die Kimberleys hinein und führt entlang der Gibb River Road, einer Gravel Road, die zur Regenzeit unpassierbar ist.
 
 <div class="row">
   <div class="col-sm-6">
@@ -34,16 +34,19 @@ Die Strecke, die wir vom Autovermieter aus fahren dürfen, reicht 100 km in die 
 Gegen 5 Uhr Abends erreichten wir unser Tagesziel, den Bell Gorge Campingplatz. Dazu mussten wir aber erst einen Bach durchqueren (Video).
 
 <div class="row">
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-YI_vnxl90uw/VWQpgFb8G4I/AAAAAAAAQYE/NrDftWbCGgU/s2048/IMG_0035.jpg' %}
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/--828yC2ncGI/VVBk82soX_I/AAAAAAAAQLM/KfD29_E27AE/s2048/0387%252520-%252520Kimberleys.jpg' %}
   </div>
-  <div class="col-sm-3">
+</div>
+
+<div class="row">
+ <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-zwoL7IcHbqo/VWQph1quXeI/AAAAAAAAQYY/_ZJEUAwzFNY/s2048/IMG_0037a.jpg' %}
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-6">
      {% include video.html title='' img='https://lh3.googleusercontent.com/-uqUp7hO0x2M/VVBk-IP6GsI/AAAAAAAAQLM/LD0nwc9SJkw/s800/0387%252520-%252520Video.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=8fc8f493e4136ae9&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435142008&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=D6D3E978D7DEAC880F454674D87F1B0BFF5872A2.36D620184C0E341BCD3A969C3C9E64828793B02&key=lh1&cpn=AjO8_0VIBcDsIW26&c=WEB&cver=html5' %}
   </div>
 </div>
@@ -51,9 +54,9 @@ Gegen 5 Uhr Abends erreichten wir unser Tagesziel, den Bell Gorge Campingplatz. 
 
 Da das Wetter auf ein Unwetter schliessen ließ, verschoben wir die Besichtigung der gleichnamigen Schlucht auf den nächsten Tag. Der Campingplatz war menschenleer. Überhaupt kann man davon ausgehen, dass man im Umkreis von 100km - mit Ausnahme der Tiere - allein war. Nach dem Abendessen bauten wir das Dachzelt auf, hatten jedoch ein ungutes Gefuehl dabei, da es in der Ferne sehr stark blitzte und ein Dachzelt auf einem relativ hohen Campervan einen guten Blitzableiter abgeben würde.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-KKjCO5gzAgY/VVBkv_IDLeI/AAAAAAAAQLM/MKbxPs7QEIU/s2048/0375%252520-%252520Kimberleys.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-KKjCO5gzAgY/VVBkv_IDLeI/AAAAAAAAQLM/MKbxPs7QEIU/s2048/0375%252520-%252520Kimberleys.jpg' %}
 
-Nachdem das Unwetter nicht näher zu kommen schien, beschlossen wir doch im Dachzelt zu schlafen und zum ersten Mal blieb es auch in der Nacht relativ warm. Am nächsten Tag wurden wir durch einen leichten Regen geweckt. Nach einem gemütlichen Frühstück fuhren wir zu den beiden Gorges, die wir am Vortag aufgrund des Zeitmangels auslassen mussten. 
+Nachdem das Unwetter nicht näher zu kommen schien, beschlossen wir doch im Dachzelt zu schlafen und zum ersten Mal blieb es auch in der Nacht relativ warm. Am nächsten Tag wurden wir durch einen leichten Regen geweckt. Nach einem gemütlichen Frühstück fuhren wir zu den beiden Gorges, die wir am Vortag aufgrund des Zeitmangels auslassen mussten.
 
 <div class="row">
   <div class="col-sm-6">
@@ -94,7 +97,7 @@ Man merkte bereits am Vormittag wie heiß der Tag noch werden würde. Wenn ihr e
 </div>
 
 
-Nach den Schluchten ging es zum Windjana Gorge Nationalpark und gleichzeitig zurück Richtung 1er Highway. Der Nationalpark besteht aus einer 3,5 km langen Schlucht entlang von 100 Meter hohen Felswänden. 
+Nach den Schluchten ging es zum Windjana Gorge Nationalpark und gleichzeitig zurück Richtung 1er Highway. Der Nationalpark besteht aus einer 3,5 km langen Schlucht entlang von 100 Meter hohen Felswänden.
 
 <div class="row">
   <div class="col-sm-4">
@@ -109,7 +112,7 @@ Nach den Schluchten ging es zum Windjana Gorge Nationalpark und gleichzeitig zur
 </div>
 
 
-Inmitten des Flussbettes findet man grüne Oasen bestehend aus Eukalypten, Feigenbäumen und vielem anderen. 
+Inmitten des Flussbettes findet man grüne Oasen bestehend aus Eukalypten, Feigenbäumen und vielem anderen.
 
 <div class="row">
   <div class="col-sm-4">
@@ -124,7 +127,7 @@ Inmitten des Flussbettes findet man grüne Oasen bestehend aus Eukalypten, Feige
 </div>
 
 
-Darüber hinaus  sieht man auch sogenannten Flughunde (Video). 
+Darüber hinaus  sieht man auch sogenannten Flughunde (Video).
 
 <div class="row">
   <div class="col-sm-4">
@@ -149,7 +152,7 @@ Ein weiteres Highlight waren die australischen Flusskrokodile, die faul in dem P
   </div>
 </div>
 
-Da uns die unglaubliche Hitze zu schaffen machte, beschlossen wir weiter zum Tunnel Creek Nationalpark zu fahren und dort das Mittagessen vorzubereiten. Der Tunnel Creek ist - wie der Name schon sagt - ein 700 Meter langer großer Tunnel, mit einem Durchmesser von ca. 22 Meter. 
+Da uns die unglaubliche Hitze zu schaffen machte, beschlossen wir weiter zum Tunnel Creek Nationalpark zu fahren und dort das Mittagessen vorzubereiten. Der Tunnel Creek ist - wie der Name schon sagt - ein 700 Meter langer großer Tunnel, mit einem Durchmesser von ca. 22 Meter.
 
 <div class="row">
   <div class="col-sm-6">
@@ -161,7 +164,7 @@ Da uns die unglaubliche Hitze zu schaffen machte, beschlossen wir weiter zum Tun
 </div>
 
 
-Diesen Tunnel kann man nur mit einer Taschenlampe erkunden und darüber hinaus muss man je nach Wassermenge knie- oder oberschenkelhoch durchs Wasser waten. 
+Diesen Tunnel kann man nur mit einer Taschenlampe erkunden und darüber hinaus muss man je nach Wassermenge knie- oder oberschenkelhoch durchs Wasser waten.
 Auf der Infotafel vor dem Tunneleingang war interessanterweise zu lesen, dass sich in den Pools, die man durchquert, Krokodile aufhalten können. Zum Glück trafen wir keine, dafür eine Reihe von andere Tieren.
 
 <div class="row">
@@ -176,7 +179,7 @@ Auf der Infotafel vor dem Tunneleingang war interessanterweise zu lesen, dass si
   </div>
 </div>
 
-Da wir die Zeit etwas übersehen hatten, mussten wir die restlichen 40 km zum Highway im Dunkel absolvieren, was Georg - angesichts der Kühe und Kaengurus am Strassenrand und auf der Strasse - einige Schwierigkeiten bereitete. 
+Da wir die Zeit etwas übersehen hatten, mussten wir die restlichen 40 km zum Highway im Dunkel absolvieren, was Georg - angesichts der Kühe und Kaengurus am Strassenrand und auf der Strasse - einige Schwierigkeiten bereitete.
 
 <div class="row">
   <div class="col-sm-6">
@@ -187,12 +190,12 @@ Da wir die Zeit etwas übersehen hatten, mussten wir die restlichen 40 km zum Hi
   </div>
 </div>
 
-Gegen halb 8 kamen wir in Fitzroy Crossing, einer Stadt mit einem höheren Anteil an Aboriginals als Weißen, an. Nach einem ausgiebigen Abendessen (selbst zubereitete Burger mit Salat) und einer wohltuenden Dusche ging es ins Bett. Am nächsten Morgen verließen wir Fitzroy Crossing relativ zeitig, um unser letztes Highlight in den Kimberleys zu besuchen, den Geiko Gorge Nationalpark. 
+Gegen halb 8 kamen wir in Fitzroy Crossing, einer Stadt mit einem höheren Anteil an Aboriginals als Weißen, an. Nach einem ausgiebigen Abendessen (selbst zubereitete Burger mit Salat) und einer wohltuenden Dusche ging es ins Bett. Am nächsten Morgen verließen wir Fitzroy Crossing relativ zeitig, um unser letztes Highlight in den Kimberleys zu besuchen, den Geiko Gorge Nationalpark.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-fLLxrQvPMDU/VVBldIchCLI/AAAAAAAAQLM/9Dj6MiQmUuQ/s2048/0433%252520-%252520Geiko%252520Gorge.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-fLLxrQvPMDU/VVBldIchCLI/AAAAAAAAQLM/9Dj6MiQmUuQ/s2048/0433%252520-%252520Geiko%252520Gorge.jpg' %}
 2984
 
-Unglücklicherweise verpassten wir die Bootstour und mussten daher in brütender Hitze den Wanderweg, entlang des für die Trockenzeit relativ mächtigen Flusses, benutzen. Der Fluss floß entlang einer farbintensiven Steilwand. 
+Unglücklicherweise verpassten wir die Bootstour und mussten daher in brütender Hitze den Wanderweg, entlang des für die Trockenzeit relativ mächtigen Flusses, benutzen. Der Fluss floß entlang einer farbintensiven Steilwand.
 
 <div class="row">
   <div class="col-sm-4">
@@ -219,7 +222,7 @@ Darüber hinaus bekamen wir einige interessante und scharfkantige Kalksteinforma
 </div>
 
 
-Gegen Mittag stieg unser Wasserkonsum derart, dass sogar der Spritverbrauch unseres Landcruisers dagegen verblasst. Daher verließen wir diesen Nationalpark mit unserem vorläufigen Ziel: Halls Creek. Auf dem Weg fegten wieder kleine Tornados an uns vorbei. 
+Gegen Mittag stieg unser Wasserkonsum derart, dass sogar der Spritverbrauch unseres Landcruisers dagegen verblasst. Daher verließen wir diesen Nationalpark mit unserem vorläufigen Ziel: Halls Creek. Auf dem Weg fegten wieder kleine Tornados an uns vorbei.
 
 <div class="row">
   <div class="col-sm-6">
@@ -231,7 +234,7 @@ Gegen Mittag stieg unser Wasserkonsum derart, dass sogar der Spritverbrauch unse
 </div>
 
 
-In Halls Creek informierten wir uns ueber den Zustand der Zufahrtsstrasse zu dem Highlight im Nordwesten, dem Purnululu Nationalpark bzw. den Bungle Bungles. Die erste Information ließ Böses erahnen, da die Strasse angeblich aufgrund eines Unwetter gesperrt sein sollte. Dazu muss man anmerken, dass diese unasphaltierten Strasse auch im Normalzustand in einem äußerst schlechten Zustand ist und nur von 4wd Fahrzeugen befahren werden kann und darf. Ein zweiter Anruf beim Ranger vom Park ließ aber etwas Hoffnung aufkommen, da dieser meinte es wäre doch möglich. Dennoch wäre das Unterfangen mit einigem Risiko verbunden, denn im Falle starker Regenfaelle kann die Rückfahrt theoretisch unmöglich werden. Da wir in wenigen Tagen Australien verlassen, können wir uns keine Panne im Park erlauben. Aus diesem Grunde campten wir auf einem Autobahnparkplatz neben einer Autobahnbrücke direkt bei der Abfahrt zum Nationalpark . 
+In Halls Creek informierten wir uns ueber den Zustand der Zufahrtsstrasse zu dem Highlight im Nordwesten, dem Purnululu Nationalpark bzw. den Bungle Bungles. Die erste Information ließ Böses erahnen, da die Strasse angeblich aufgrund eines Unwetter gesperrt sein sollte. Dazu muss man anmerken, dass diese unasphaltierten Strasse auch im Normalzustand in einem äußerst schlechten Zustand ist und nur von 4wd Fahrzeugen befahren werden kann und darf. Ein zweiter Anruf beim Ranger vom Park ließ aber etwas Hoffnung aufkommen, da dieser meinte es wäre doch möglich. Dennoch wäre das Unterfangen mit einigem Risiko verbunden, denn im Falle starker Regenfaelle kann die Rückfahrt theoretisch unmöglich werden. Da wir in wenigen Tagen Australien verlassen, können wir uns keine Panne im Park erlauben. Aus diesem Grunde campten wir auf einem Autobahnparkplatz neben einer Autobahnbrücke direkt bei der Abfahrt zum Nationalpark .
 
 <div class="row">
   <div class="col-sm-6">
@@ -243,41 +246,47 @@ In Halls Creek informierten wir uns ueber den Zustand der Zufahrtsstrasse zu dem
 </div>
 
 
-Wir wollten das weitere Wetter abwarten, um die endgültige Entscheidung für/gegen einen Besuch des Nationalparks zu treffen. Die ganze Nacht durch blieb es trocken und da das Wetter am nächsten Tag nicht ganz schlecht war, beschlossen wir, den 4wd Track, der durch 30 Flüsse bzw. Bäche führt, in Angriff zu nehmen. Nach 2 Stunden und 54 km erreichten wir schließlich den Park. Zuerst ging es zum südlichen Teil, in dem die für diesen Park typischen Bungle Bungles stehen. Dabei handelt es sich um bis zu 200 Meter hohe bienenkorbförmige, gestreifte Sandsteinformationen, die innerhalb von 400 Millionen Jahren entstanden sind. 
+Wir wollten das weitere Wetter abwarten, um die endgültige Entscheidung für/gegen einen Besuch des Nationalparks zu treffen. Die ganze Nacht durch blieb es trocken und da das Wetter am nächsten Tag nicht ganz schlecht war, beschlossen wir, den 4wd Track, der durch 30 Flüsse bzw. Bäche führt, in Angriff zu nehmen. Nach 2 Stunden und 54 km erreichten wir schließlich den Park. Zuerst ging es zum südlichen Teil, in dem die für diesen Park typischen Bungle Bungles stehen. Dabei handelt es sich um bis zu 200 Meter hohe bienenkorbförmige, gestreifte Sandsteinformationen, die innerhalb von 400 Millionen Jahren entstanden sind.
 
 <div class="row">
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-h_NTfvb_ALY/VVBlzhhAidI/AAAAAAAAQLM/1nptPp7Udn0/s2048/0465%252520-%252520Bungle%252520Bungles.jpg' %}
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-ABYBdhOeb2g/VVBlsU9_fqI/AAAAAAAAQLM/IaGrJwLQ6Yc/s2048/0456%252520-%252520Bungle%252520Bungles.jpg' %}
   </div>
-  <div class="col-sm-3">
+
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-EsTnatNTOec/VVBltecPtmI/AAAAAAAAQLM/DkM2BhaUlQ0/s2048/0457%252520-%252520Bungle%252520Bungles.jpg' %}
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-r-KYOExlTn4/VVBlyF0B6zI/AAAAAAAAQLM/9qE5J3cOkSE/s2048/0463%252520-%252520Bungle%252520Bungles.jpg' %}
   </div>
 </div>
 
-
-Nach diesen beeindruckende  Skulpturen und 8km Marsch, ging es zum nördlichen Abschnitt des Parks, wo wir ebenfalls 7km zurücklegten. Die Felsformationen unterschieden sich deutlich von jenen im Süden. Diesmal bekamen wir 100 Meter steile Felswände, enge Schluchten und markante Vegetation, bestehend aus Palmen und anderen Pflanzen, zu sehen. 
+Nach diesen beeindruckende  Skulpturen und 8km Marsch, ging es zum nördlichen Abschnitt des Parks, wo wir ebenfalls 7km zurücklegten. Die Felsformationen unterschieden sich deutlich von jenen im Süden. Diesmal bekamen wir 100 Meter steile Felswände, enge Schluchten und markante Vegetation, bestehend aus Palmen und anderen Pflanzen, zu sehen.
 
 <div class="row">
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-xOCQz5uf2cA/VVBl4Y44MBI/AAAAAAAAQLM/1-oj4xJ5_FU/s2048/0472%252520-%252520Purnululu%252520Nationalpark.jpg' %}
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-DB_idkMUqpM/VVBl_v7z-CI/AAAAAAAAQLM/Yx2wcLWeuiU/s2048/0483%252520-%252520Purnululu%252520Nationalpark.jpg' %}
   </div>
-  <div class="col-sm-3">
+
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-h9bbNYYMoJQ/VVBl7317s_I/AAAAAAAAQLM/6zH5GOJPQhs/s2048/0477%252520-%252520Purnululu%252520Nationalpark.jpg' %}
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-dfgfMznvmRU/VVBl66ixJ1I/AAAAAAAAQLM/18OdnZsX9f4/s2048/0476%252520-%252520Purnululu%252520Nationalpark.jpg' %}
   </div>
 </div>
-
 
 Mit Einbruch der Dunkelheit schlugen wir unsere Zelte auf der einzigen offenen Campsite im Nationalpark auf. Als Abendessen gab es Chilli sin Carne mit persischem Reis. Danach flüchteten wir vor den Gelsen ins Zelt. Die Nacht im Purnululu Nationalpark war überrachand kühl. Kurz nach Sonnenaufgang um 5 Uhr standen wir auf und nach einem kurzen Frühstück verließen wir den Nationalpark wieder über die holprige Zufahrtsstrasse. Am Highway ging es dann weiter Richtung Kununurra, einer kleinen Stadt direkt an der Grenze zum Northern Territory. Dort ließen wir die Abdeckung unseres Dachzeltes flicken und überquerten gegen 15 Uhr die Bundesstaatengrenze. Da die Zeit schon sehr weit fortgeschritten war, beschlossen wir, auf halbem Weg nach Katherine - in Timber Creek - einem Roadhouse, zu übernachten. Zuvor mussten wir aber durch ein gewaltiges tropisches Unwetter hindurch. Folgende Videos zeigen Eindruecke davon:
 
@@ -294,7 +303,7 @@ Mit Einbruch der Dunkelheit schlugen wir unsere Zelte auf der einzigen offenen C
 </div>
 
 
-Die Übernachtung in Timber Creek sollte das letzte Mal Campen in Australien, und wahrscheinlich auf der gesamten Weltreise, sein. Diesen Umstand feierten wir mit einem Festmahl. 
+Die Übernachtung in Timber Creek sollte das letzte Mal Campen in Australien, und wahrscheinlich auf der gesamten Weltreise, sein. Diesen Umstand feierten wir mit einem Festmahl.
 
 {% include video.html title='' img='https://lh3.googleusercontent.com/-olZdCiqssiE/VVBmDgp2YCI/AAAAAAAAQLM/sfXSBVlrvzk/s800/0484%252520-%252520Video%2525204.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=eefd1f231acf07d1&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435144098&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=729ED6BC9B256298B3E055C7DAD01411BAF2BD1E.23AA1B7EE2F6604D925C0956C2B3C34164B93395&key=lh1&cpn=UsEd2-H4VI26GfFE&c=WEB&cver=html5' %}
 

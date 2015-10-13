@@ -12,12 +12,12 @@ header-img: img/australien/tag_12_17.jpg
 location: Karijini National Park, Karijini, Westaustralien, Australien
 ---
 
-In der Früh ging es etwas gemächlicher zu, als die letzten Tage. Nach einem gesunden Frühstück (Spiegelei mit Tomaten, Paprika, Pilzen ) verliessen wir die Halbinsel um Coral Bay und Exmouth und fuhren nach Osten. Dabei verschätzten wir uns etwas mit dem Treibstoff, aber letztlich ging es sich doch knapp aus. Dummerweise mussten wir bei der Tankstelle vom Roadhouse (die nächte Tankstelle war hunderte km entfernt) einen um ca. 30 cent/l teureren Preis zahlen. 	
+In der Früh ging es etwas gemächlicher zu, als die letzten Tage. Nach einem gesunden Frühstück (Spiegelei mit Tomaten, Paprika, Pilzen ) verliessen wir die Halbinsel um Coral Bay und Exmouth und fuhren nach Osten. Dabei verschätzten wir uns etwas mit dem Treibstoff, aber letztlich ging es sich doch knapp aus. Dummerweise mussten wir bei der Tankstelle vom Roadhouse (die nächte Tankstelle war hunderte km entfernt) einen um ca. 30 cent/l teureren Preis zahlen.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-QB4pcfUkmNY/VVBklcOKR9I/AAAAAAAAQLM/ANwaL2wHglo/s2048/0359%252520-%252520Highway.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-QB4pcfUkmNY/VVBklcOKR9I/AAAAAAAAQLM/ANwaL2wHglo/s2048/0359%252520-%252520Highway.jpg' %}
 
 
-Das Ziel der Reise war die Stadt Tom Price bzw. der angrenzende Karijini Nationalpark. Die Strecke zeichnete sich durch einfache Vegetation von Sträuchern und Bäumen, als auch durch die für Australien typischen 400 Meter hohen Tafelberge inmitten der Landschaft aus. 
+Das Ziel der Reise war die Stadt Tom Price bzw. der angrenzende Karijini Nationalpark. Die Strecke zeichnete sich durch einfache Vegetation von Sträuchern und Bäumen, als auch durch die für Australien typischen 400 Meter hohen Tafelberge inmitten der Landschaft aus.
 
 <div class="row">
   <div class="col-sm-6">
@@ -30,7 +30,7 @@ Das Ziel der Reise war die Stadt Tom Price bzw. der angrenzende Karijini Nationa
 
 Da wir ca. 400 km ins Landesinnere vorstießen, wurde es auch deutlich heißer. Sogar der Wind war heiß. Kurz vor der Stadt gab es so etwas wie ein Highlight, nämlich ein etwas zu groß geratener Laster.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-BD0ImOWEvzo/VVBjmIuU5UI/AAAAAAAAQLM/n6dyC2Tfs7o/s2048/0274%252520-%252520Tom%252520Price.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-BD0ImOWEvzo/VVBjmIuU5UI/AAAAAAAAQLM/n6dyC2Tfs7o/s2048/0274%252520-%252520Tom%252520Price.jpg' %}
 
 Diese Riesenlaster wurden und werden für den Erzabbau verwendet.In der Stadt tankten wir das Auto voll und besorgten uns Lebensmittel im Supermarkt. Danach ging es auch schon zum Campingplatz, denn wir wollten heute bei Tageslicht kochen. Als kulinarisches Highlight gab es diesen Abend Palatschinken mit Marmelade und Fruchtsalat (Video vom Palatschinken schupfen).
 
@@ -43,7 +43,7 @@ Diese Riesenlaster wurden und werden für den Erzabbau verwendet.In der Stadt ta
   </div>
 </div>
 
-Am nächsten Morgen ging es zuerst auf den Mount Nameless, der von uns fälschlicherweise für den höchsten Berg in Westaustralien gehalten wurde. 
+Am nächsten Morgen ging es zuerst auf den Mount Nameless, der von uns fälschlicherweise für den höchsten Berg in Westaustralien gehalten wurde.
 
 <div class="row">
   <div class="col-sm-6">
@@ -67,7 +67,7 @@ Danach fuhren wir nach Tom Price um an der 1 1/2 - stuendigen Busführung durch 
 </div>
 
 
-Nach einem kurzen Mittagessen in Tom Price ging es zum eigentliche Ziel unseres Abstechers in den Osten, nämlich dem Karijini Nationalpark. Dieser Nationalpark zeichnet sich auf der einen Seite durch seine zahlreichen, zum Teil offen liegenden Asbestadern aus (im Zuge des Abbaus sind 2000 Menschen an den Spätfolgen gestorben) und auf der anderen Seite wird dieser Park besonders wegen seiner zerklüfteten Schluchten geschützt und besucht. Da uns nur noch ein halber Tag zur Verfügung stand, beschlossen wir an jenem Tag nur 2 von den 6 Schluchtensystemen zu besuchen. Bezeichnend für diese Schluchten ist, dass meist ein kleiner Bach durchfließt und man immer wieder auf natürlich entstande Pools trifft. Die Wege sind nach Schwierigkeitsgraden klassifiziert, wobei die Bandbreite von ganz einfachen Strecken bis hin zu jenen reicht, für die man Kletterkenntnisse (Abseilen und free climbing) benötigt. Unsere erste Schlucht, die Weano Gorge, bestand aus einem Klasse 3 und ganz zum Schluss aus einem Klasse 5 (zweitschwierigster Level ) Weg. 
+Nach einem kurzen Mittagessen in Tom Price ging es zum eigentliche Ziel unseres Abstechers in den Osten, nämlich dem Karijini Nationalpark. Dieser Nationalpark zeichnet sich auf der einen Seite durch seine zahlreichen, zum Teil offen liegenden Asbestadern aus (im Zuge des Abbaus sind 2000 Menschen an den Spätfolgen gestorben) und auf der anderen Seite wird dieser Park besonders wegen seiner zerklüfteten Schluchten geschützt und besucht. Da uns nur noch ein halber Tag zur Verfügung stand, beschlossen wir an jenem Tag nur 2 von den 6 Schluchtensystemen zu besuchen. Bezeichnend für diese Schluchten ist, dass meist ein kleiner Bach durchfließt und man immer wieder auf natürlich entstande Pools trifft. Die Wege sind nach Schwierigkeitsgraden klassifiziert, wobei die Bandbreite von ganz einfachen Strecken bis hin zu jenen reicht, für die man Kletterkenntnisse (Abseilen und free climbing) benötigt. Unsere erste Schlucht, die Weano Gorge, bestand aus einem Klasse 3 und ganz zum Schluss aus einem Klasse 5 (zweitschwierigster Level ) Weg.
 
 <div class="row">
   <div class="col-sm-4">
@@ -82,7 +82,7 @@ Nach einem kurzen Mittagessen in Tom Price ging es zum eigentliche Ziel unseres 
 </div>
 
 
-Am Ende des Klasse 5 Weges fanden wir den natürlich entstandenen Handrail Pool vor, in dem wir für eine kurze Abkühlung eine Runde schwammen. 
+Am Ende des Klasse 5 Weges fanden wir den natürlich entstandenen Handrail Pool vor, in dem wir für eine kurze Abkühlung eine Runde schwammen.
 
 <div class="row">
   <div class="col-sm-4">
@@ -97,7 +97,7 @@ Am Ende des Klasse 5 Weges fanden wir den natürlich entstandenen Handrail Pool 
 </div>
 
 
-Man konnte über einen Klasse 6 Weg dem Schluchtverlauf weiter folgen, da wir aber unsere Kameras dabei hatten und die Steine äußerst rutschig sind, beschlossen wir, uns die zweite Schlucht, den Hancock Gorge mit dem Kermit Pool anzusehen. 
+Man konnte über einen Klasse 6 Weg dem Schluchtverlauf weiter folgen, da wir aber unsere Kameras dabei hatten und die Steine äußerst rutschig sind, beschlossen wir, uns die zweite Schlucht, den Hancock Gorge mit dem Kermit Pool anzusehen.
 
 <div class="row">
   <div class="col-sm-4">
@@ -112,17 +112,17 @@ Man konnte über einen Klasse 6 Weg dem Schluchtverlauf weiter folgen, da wir ab
 </div>
 
 
-Hierbei ueberwanden wir einen Klasse 4 und wieder einen Klasse 5 Weg. Ganz zum Schluss marschierten wir zu einem Lookout von wo aus man die Kreuzung von 4 Schluchtensystemen  (in 2 von 4 waren wir davor) ueberblicken konnte. 
+Hierbei ueberwanden wir einen Klasse 4 und wieder einen Klasse 5 Weg. Ganz zum Schluss marschierten wir zu einem Lookout von wo aus man die Kreuzung von 4 Schluchtensystemen  (in 2 von 4 waren wir davor) ueberblicken konnte.
 
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-H2TUZ4FQ7Dg/VVBj0ybfdMI/AAAAAAAAQLM/tvaIHe_KuAg/s2048/0295%252520-%252520Karijini%252520Nationalpark.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-H2TUZ4FQ7Dg/VVBj0ybfdMI/AAAAAAAAQLM/tvaIHe_KuAg/s2048/0295%252520-%252520Karijini%252520Nationalpark.jpg' %}
 
 
 Mit dem Einbruch der Dunkelheit fuhren wir zu einem Campground direkt im Nationalpark, wo Georg Raviolis zum Abendessen zubereitete.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-GPkZd-62CL0/VVBj4lFtqVI/AAAAAAAAQLM/3k8DTOkTdLI/s2048/0301%252520-%252520Karijini%252520Nationalpark.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-GPkZd-62CL0/VVBj4lFtqVI/AAAAAAAAQLM/3k8DTOkTdLI/s2048/0301%252520-%252520Karijini%252520Nationalpark.jpg' %}
 
 
-Da wir am nächsten Tag noch einiges vor hatten und die Gelsen  ziemlich lästig wurden, gingen wir relativ früh schlafen (Ausserdem kann man in einem Nationalpark nach Einbruch der Dunkelheit nicht mehr wirklich irgendetwas anderes tun, ausser schlafen...). Am nächsten Morgen standen wir früher auf, als die Sonne, und zwar um 5 Uhr. Dementsprechend sahen wir auch aus. 
+Da wir am nächsten Tag noch einiges vor hatten und die Gelsen  ziemlich lästig wurden, gingen wir relativ früh schlafen (Ausserdem kann man in einem Nationalpark nach Einbruch der Dunkelheit nicht mehr wirklich irgendetwas anderes tun, ausser schlafen...). Am nächsten Morgen standen wir früher auf, als die Sonne, und zwar um 5 Uhr. Dementsprechend sahen wir auch aus.
 
 <div class="row">
   <div class="col-sm-6">
@@ -134,7 +134,7 @@ Da wir am nächsten Tag noch einiges vor hatten und die Gelsen  ziemlich lästig
 </div>
 
 
-Wir hatten relativ viel vor an diesem Tag und deswegen brachen wir nach dem Frühstück auf und fuhren zu den restlichen Schluchten des Karijini Nationalparks. Wir besuchten beeindruckende Aussichtspunkte und Schluchten, welche von Wasserfällen, interessanten geologischen Formationen und natürlich kleinen Bächen und Pools durchzogen waren. 
+Wir hatten relativ viel vor an diesem Tag und deswegen brachen wir nach dem Frühstück auf und fuhren zu den restlichen Schluchten des Karijini Nationalparks. Wir besuchten beeindruckende Aussichtspunkte und Schluchten, welche von Wasserfällen, interessanten geologischen Formationen und natürlich kleinen Bächen und Pools durchzogen waren.
 
 <div class="row">
   <div class="col-sm-3">
@@ -152,7 +152,7 @@ Wir hatten relativ viel vor an diesem Tag und deswegen brachen wir nach dem Frü
 </div>
 
 
-Zuweilen mussten wir uns durch dichte Vegetation zwängen oder gefährlich wirkenden Tieren ausweichen. 
+Zuweilen mussten wir uns durch dichte Vegetation zwängen oder gefährlich wirkenden Tieren ausweichen.
 
 <div class="row">
   <div class="col-sm-4">
@@ -167,7 +167,7 @@ Zuweilen mussten wir uns durch dichte Vegetation zwängen oder gefährlich wirke
 </div>
 
 
-An manchen Stellen mussten wir artistische Einlagen hinlegen und andere waren ueberhaupt zu gefährlich oder unwegsam. 
+An manchen Stellen mussten wir artistische Einlagen hinlegen und andere waren ueberhaupt zu gefährlich oder unwegsam.
 
 <div class="row">
   <div class="col-sm-4">
@@ -181,7 +181,7 @@ An manchen Stellen mussten wir artistische Einlagen hinlegen und andere waren ue
   </div>
 </div>
 
-Alles in allem ein aeusserst sehenswerter Nationalpark. 
+Alles in allem ein aeusserst sehenswerter Nationalpark.
 
 <div class="row">
   <div class="col-sm-4">
@@ -196,7 +196,7 @@ Alles in allem ein aeusserst sehenswerter Nationalpark.
 </div>
 
 
-Der einzige Wermutstropfen war, dass die beliebteste Schlucht wegen einem Buschfeuer gesperrt war. Daher verliessen wir den Nationalpark und somit unseren "kurzen" Abstecher in den Osten und fuhren auf einer nicht asphaltierten Strasse zurück zum, an der Kueste verlaufenden, Highway No. 1. Zum ersten Mal kam auf dieser zum Teil sehr ruppigen Strecke Outback-Feeling auf. 
+Der einzige Wermutstropfen war, dass die beliebteste Schlucht wegen einem Buschfeuer gesperrt war. Daher verliessen wir den Nationalpark und somit unseren "kurzen" Abstecher in den Osten und fuhren auf einer nicht asphaltierten Strasse zurück zum, an der Kueste verlaufenden, Highway No. 1. Zum ersten Mal kam auf dieser zum Teil sehr ruppigen Strecke Outback-Feeling auf.
 
 <div class="row">
   <div class="col-sm-4">
@@ -210,11 +210,11 @@ Der einzige Wermutstropfen war, dass die beliebteste Schlucht wegen einem Buschf
   </div>
 </div>
 
-Nicht nur dass uns ca. 250 km keine Menschenseele entgegenkam, mussten wir uns auch noch an unbeschilderten Weggabelungen für den richtigen Weg entscheiden. Irrfahrten im Outback können auch schon mal böse enden. Während der Fahrt auf dieser Gravel-Road konnten wir immer wieder beobachten wie kleine Tornados bzw. Windhosen entstanden. Eine davon fegte auf dem Parkplatz, auf dem wir zu Mittag assen, nur einige Meter entfernt, an uns vorbei. 
+Nicht nur dass uns ca. 250 km keine Menschenseele entgegenkam, mussten wir uns auch noch an unbeschilderten Weggabelungen für den richtigen Weg entscheiden. Irrfahrten im Outback können auch schon mal böse enden. Während der Fahrt auf dieser Gravel-Road konnten wir immer wieder beobachten wie kleine Tornados bzw. Windhosen entstanden. Eine davon fegte auf dem Parkplatz, auf dem wir zu Mittag assen, nur einige Meter entfernt, an uns vorbei.
 
 {% include video.html title='' img='https://lh3.googleusercontent.com/-wKAdugdzHuQ/VVBkUoFBThI/AAAAAAAAQLM/svbl7CZGXjE/s800/0335%252520-%252520Video.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=89179291598beb54&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1434983965&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=7443FA922579DCF960838ED6B4D004A26892A965.97BF67269FB51745AA63EAB6B1A95AC56FEE600E&key=lh1&cpn=xrm0_flpthYzou1-&c=WEB&cver=html5' %}
 
-Entlang dieser unasphaltierten Strasse lag auch der Millstream-Chichester Nationalpark, den wir ebenfalls durchquerten. Der Anblick der mit Spinifex Pflanzen übersaeten kargen Landschaft ist wahrlich beeindruckend und lässt sich schwer in Fotos oder Worte packen. 
+Entlang dieser unasphaltierten Strasse lag auch der Millstream-Chichester Nationalpark, den wir ebenfalls durchquerten. Der Anblick der mit Spinifex Pflanzen übersaeten kargen Landschaft ist wahrlich beeindruckend und lässt sich schwer in Fotos oder Worte packen.
 
 <div class="row">
   <div class="col-sm-4">
@@ -242,7 +242,7 @@ Mit dem Einbruch der Dunkelheit verliessen wir diese Gravel-Road und erreichten 
 2728
 2730
 
-Nach ca. 67 km erreichten wir auch die Stadt Karratha, wo wir zu übernachten gedachten. 	
+Nach ca. 67 km erreichten wir auch die Stadt Karratha, wo wir zu übernachten gedachten.
 
 Der naechste Tag sollte sich zu einem schwarzen Tag entwickeln, da nichts funktionierte, wie es sollte. Geplant war eine der zwei interessanten Touren in Karratha und Umgebung. Doch zu unserem Leidwesen mussten wir erfahren, dass die Tour zu den Salzfeldern seit einem Jahr eingestellt  war und die Tour zu der Verschiffung des Eisenerzes just an diesem Tag nicht stattfand. Wir beschlossen, zum zweiten Highlight, mehreren 6000 Jahre alten Felsgravuren von den Ureinwohner, zu fahren. Unglücklicherweise haben sich viele im Laufe der Zeit mit  eigenen Gravuren verewigt. Aufgrund des unwegsamen Geländes und der schlechten Beschreibung konnten wir nur eine von den 8 alten Gravuren entdecken. (zumindest glauben wir, dass es sich dabei um ein Original handelt...)
 
@@ -272,7 +272,7 @@ Somit waren diese Felsgravuren nicht nur wenig beeindruckend, sondern - aufgrund
 2761
 
 Jedoch war auch dieses Museum kein besonderes Highlight, da es nur sehr klein war. Damit reihte es sich nahtlos in den Verlauf dieses wenig ereignisreichen Tages ein :-(
-Als Mittagessen mussten wir uns mit einem Körbchen Pommes zufrieden geben, da wir die Lunchtime um 5 Minuten verpasst hatten. In Port Headland mussten wir erfahren, dass die Touren zu den Brutplätzen der Meeresschildkröten an anderen Tagen stattfinden (Die Gezeiten müssen nämlich stimmen). Zumindest konnten wir uns für eine Tour zu den Hafenanlagen für den naechsten Tag anmelden, im Zuge derer einem das Verladen von Eisenerz von Zuegen auf Ozeanriesen gezeigt wird. 
+Als Mittagessen mussten wir uns mit einem Körbchen Pommes zufrieden geben, da wir die Lunchtime um 5 Minuten verpasst hatten. In Port Headland mussten wir erfahren, dass die Touren zu den Brutplätzen der Meeresschildkröten an anderen Tagen stattfinden (Die Gezeiten müssen nämlich stimmen). Zumindest konnten wir uns für eine Tour zu den Hafenanlagen für den naechsten Tag anmelden, im Zuge derer einem das Verladen von Eisenerz von Zuegen auf Ozeanriesen gezeigt wird.
 Am Campingplatz gelang uns wenigstens das Abendessen. Es  gab wieder Palatschinken. Um halb 9 fuhren wir zum Stand um vielleicht doch zufällig Meeresschildkröten beim Eierlegen zu beobachten. Doch alles was wir dort antrafen, war ein verschreckter Krebs.
 
 <div class="row">
@@ -286,7 +286,7 @@ Am Campingplatz gelang uns wenigstens das Abendessen. Es  gab wieder Palatschink
 
 
 
-Die Fuehrung durch die Eisenerzverschiffung dauerte 1 1/2 Stunden und war ganz ok. 
+Die Fuehrung durch die Eisenerzverschiffung dauerte 1 1/2 Stunden und war ganz ok.
 
 <div class="row">
   <div class="col-sm-6">
@@ -298,7 +298,7 @@ Die Fuehrung durch die Eisenerzverschiffung dauerte 1 1/2 Stunden und war ganz o
 </div>
 
 
-Bald sind wir aber schon Eisenerz Experten. 
+Bald sind wir aber schon Eisenerz Experten.
 
 Zu Mittag verliessen wir schliesslich Port Headland und fuhren entlang des 1er Highways Richtung Broome. Nach ca. 600 km Fahrerei kamen wir schliesslich in Broome an. 2781
 
@@ -313,7 +313,7 @@ Den Samstag Vormittag verbrachten wir in Broome im Grunde nur mit administrative
   </div>
 </div>
 
-Dort nahmen wir an einer (jaja Schande ueber unser Haupt) Touristenattraktion teil.  
+Dort nahmen wir an einer (jaja Schande ueber unser Haupt) Touristenattraktion teil.
 
 <div class="row">
   <div class="col-sm-4">
@@ -342,7 +342,7 @@ Broome hat halt nicht so viel zu bieten, ausser einen schoenen Sonnenuntergang a
 
 Am Samstag werden wir das Nachtleben von Broome "erforschen".
 
-Hoppalas: 
+Hoppalas:
 
 <div class="row">
   <div class="col-sm-4">

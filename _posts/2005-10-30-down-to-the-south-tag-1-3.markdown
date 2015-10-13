@@ -12,15 +12,15 @@ header-img: img/australien/tag_1_3.jpg
 location: Perth
 ---
 
-Der Flug von Tokyo nach Perth war relativ ereignislos. Das Service der Quantas Airline war ausgezeichnet und begeistern konnte das Movie on Demand System des Airbusses, das sogar auch alte ATARI Spiele in Petto hatte. Zusaetzlich kam der Umstand hinzu, dass wir seit einem Monat wieder einmal Filme sehen konnten, die wir auch verstanden ;-). Gegen 6 Uhr Frueh landeten wir in Perth. Zuerst ging es durch die Personenkontrollen und Gepaeckchecks. Dabei kam es zu einem kleinen Zwischenfall, denn Uemit hatte anscheinend vergessen, im Einreiseformular die beiden Taschenmesser in seinem Reisegepaeck als gefaehrliche "Waffen" zu deklarieren. 
+Der Flug von Tokyo nach Perth war relativ ereignislos. Das Service der Quantas Airline war ausgezeichnet und begeistern konnte das Movie on Demand System des Airbusses, das sogar auch alte ATARI Spiele in Petto hatte. Zusaetzlich kam der Umstand hinzu, dass wir seit einem Monat wieder einmal Filme sehen konnten, die wir auch verstanden ;-). Gegen 6 Uhr Frueh landeten wir in Perth. Zuerst ging es durch die Personenkontrollen und Gepaeckchecks. Dabei kam es zu einem kleinen Zwischenfall, denn Uemit hatte anscheinend vergessen, im Einreiseformular die beiden Taschenmesser in seinem Reisegepaeck als gefaehrliche "Waffen" zu deklarieren.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-abhx9IfF458/VWQ9BN6WQMI/AAAAAAAAQcQ/6lkZYQiUu3k/s2048/IMG_0004.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-abhx9IfF458/VWQ9BN6WQMI/AAAAAAAAQcQ/6lkZYQiUu3k/s2048/IMG_0004.jpg' %}
 
 Daher kam eine "nette" Sicherheitsbeamtin zu ihm, massregelte ihn, wie einen kleinen Schueler und machte ihn auf den Satz "if you fail to provide correct information, this may have **serious consequences**" aufmerksam. Seit den Anschlaegen am 9/11 reagieren die etwas uebertrieben. Was waere wohl gewesen, wenn Uemit mit dem Buschmesser nach Australien gereist waere und nicht mit 2 harmlosen Taschenmessern.
-Uemit entschuldigte sich mehrmals und versicherte ihr, dass er das Messer versehentlich nicht angegeben hatte (in Wirklichkeit haben wir natuerlich alle Fragen nach moeglichen kriminellen Vergangenheiten und sonstigen Absurditaeten, ohne sie genau durchgelesen zu haben, mit nein angekreuzt). Letztlich durfte Uemit doch die Kontrollstation passieren. In der Lobby reservierten wir ein Quartier fuer den Tag und nahmen den Shuttle Bus in die Stadt. 
+Uemit entschuldigte sich mehrmals und versicherte ihr, dass er das Messer versehentlich nicht angegeben hatte (in Wirklichkeit haben wir natuerlich alle Fragen nach moeglichen kriminellen Vergangenheiten und sonstigen Absurditaeten, ohne sie genau durchgelesen zu haben, mit nein angekreuzt). Letztlich durfte Uemit doch die Kontrollstation passieren. In der Lobby reservierten wir ein Quartier fuer den Tag und nahmen den Shuttle Bus in die Stadt.
 
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-HS4GHeUI9AE/VWQ9BMcAA-I/AAAAAAAAQcA/BMVwaCTDWpQ/s2048/IMG_0001.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-HS4GHeUI9AE/VWQ9BMcAA-I/AAAAAAAAQcA/BMVwaCTDWpQ/s2048/IMG_0001.jpg' %}
 
 
 Nach einem verfruehten Mittagessen (geschmacksneutraler australischer Kebab) gings zur Stadtbesichtung. Perth ist eine mittelgrosse Stadt, in der einige alte Haeuser (wobei man alt hier etwas relativieren muss) neben beeindruckenden Hochhaeusern stehen. Es gibt einige nette Parks und sehr viele Shopping Arcaden. Das eigentlich Interessante an der Stadt ist, dass 80 % der Ampeln und 70% der Bevoelkerung von Westaustralien sich in dieser Stadt befinden. Dementsprechend duenn besiedelt ist der Rest ;-).
@@ -41,24 +41,24 @@ Nach einem verfruehten Mittagessen (geschmacksneutraler australischer Kebab) gin
 </div>
 
 
-Den Abend verbrachten wir in unserer Herberge, da es relativ stark zu regnen begann. 
+Den Abend verbrachten wir in unserer Herberge, da es relativ stark zu regnen begann.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-He6Nye2L4fk/VWQ9CKmudjI/AAAAAAAAQcE/ZapQv3KchKw/s2048/IMG_0006.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-He6Nye2L4fk/VWQ9CKmudjI/AAAAAAAAQcE/ZapQv3KchKw/s2048/IMG_0006.jpg' %}
 
 
-Am naechsten Morgen suchten wir einen Supermarkt auf und es war ueberwaeltigend, sich in einem  Supermarkt mit Gemuese und Obst aufzuhalten. Wir fanden sogar einige persische Spezialitaeten, die wir uns nicht engehen lassen konnten (Laboshak und Chorma). 
+Am naechsten Morgen suchten wir einen Supermarkt auf und es war ueberwaeltigend, sich in einem  Supermarkt mit Gemuese und Obst aufzuhalten. Wir fanden sogar einige persische Spezialitaeten, die wir uns nicht engehen lassen konnten (Laboshak und Chorma).
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-jIg1N7kHMYE/VWQ9BPTSWVI/AAAAAAAAQcM/26qHkTjio2Y/s2048/IMG_0005.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-jIg1N7kHMYE/VWQ9BPTSWVI/AAAAAAAAQcM/26qHkTjio2Y/s2048/IMG_0005.jpg' %}
 
 
 Nach dem Fruehstueck, dass wir ebenfalls in dem Supermarkt einnahmen, fuhren wir mit dem Taxi zur Autovermietung, wo wir unseren Campervan in Empfang nehmen sollten. Der Vermieter, ein Schweizer, zeigte uns alle Funktionen dieses maechtigen Gefaehrts, das uns die naechsten 3 1/2 Wochen staendig begleiten wird.  (2 Dieseltanks, 1 Wassertank, 2 Batterien, 1 Kuehlschrank, 2 Dachzelte und vieles mehr).
-Wir beschlossen, zuerst einen Abstecher in den Sueden zu machen, noch bevor wir in den Norden aufbrechen. Zum einen gibt es im Sueden ein Schiffswrack, zu dem man tauchen kann, und zum anderen liegt dort der Warren Nationalpark mit unglaublich hohen Baeumen. 
-Anfangs hatten wir Schwierigkeiten, uns an die Schaltung auf der linken Seite und das 2 Tonnen schwere Auto zu gewoehnen, doch nach einigen km sollte dies kein Problem mehr darstellen. Auf halbem Weg in den Sueden riefen wir beim Tauchbuero an, um uns wegen eines Tauchgangs am naechsten Morgen zu erkundigen. Leider mussten sie diesen wegen schlechtem Wetter absagen und so entschieden wir, zuerst nach Pemperton, bzw. zum Warren Nationalpark zu fahren und zu hoffen, dass es am Sonntag schoener ist. Die Strecke nach Pemperton ist ca. 300 km lang und relativ gut ausgebaut. Der Freitagabendverkehr verzoegerte die Fahrt aber ein wenig. Gegen Abend kamen wir dann in Pemperton an und wir beschlossen die Campingfunktionen unseres Landcruisers am naheliegenden Campingplatz zu testen. Nach dem Aufbau des Dachzeltes, der verhaeltnismaessig unkompliziert von statten ging, assen wir in einem Lokal zu Abend. 
+Wir beschlossen, zuerst einen Abstecher in den Sueden zu machen, noch bevor wir in den Norden aufbrechen. Zum einen gibt es im Sueden ein Schiffswrack, zu dem man tauchen kann, und zum anderen liegt dort der Warren Nationalpark mit unglaublich hohen Baeumen.
+Anfangs hatten wir Schwierigkeiten, uns an die Schaltung auf der linken Seite und das 2 Tonnen schwere Auto zu gewoehnen, doch nach einigen km sollte dies kein Problem mehr darstellen. Auf halbem Weg in den Sueden riefen wir beim Tauchbuero an, um uns wegen eines Tauchgangs am naechsten Morgen zu erkundigen. Leider mussten sie diesen wegen schlechtem Wetter absagen und so entschieden wir, zuerst nach Pemperton, bzw. zum Warren Nationalpark zu fahren und zu hoffen, dass es am Sonntag schoener ist. Die Strecke nach Pemperton ist ca. 300 km lang und relativ gut ausgebaut. Der Freitagabendverkehr verzoegerte die Fahrt aber ein wenig. Gegen Abend kamen wir dann in Pemperton an und wir beschlossen die Campingfunktionen unseres Landcruisers am naheliegenden Campingplatz zu testen. Nach dem Aufbau des Dachzeltes, der verhaeltnismaessig unkompliziert von statten ging, assen wir in einem Lokal zu Abend.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-eVWWH7n-oHQ/VVBhJUUXHKI/AAAAAAAAQLM/kv91tctQ1_w/s2048/0022%252520-%252520Pemperton.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-eVWWH7n-oHQ/VVBhJUUXHKI/AAAAAAAAQLM/kv91tctQ1_w/s2048/0022%252520-%252520Pemperton.jpg' %}
 
 
-Wir wollten zwar kochen, hatten aber noch keine Lebensmittel. Am naechsten Morgen ging es zuerst in den Gloucester Nationalpark, wo der gleichnamige Tree steht. 
+Wir wollten zwar kochen, hatten aber noch keine Lebensmittel. Am naechsten Morgen ging es zuerst in den Gloucester Nationalpark, wo der gleichnamige Tree steht.
 
 <div class="row">
   <div class="col-sm-4">
@@ -87,7 +87,7 @@ Dieser 60 Meter hohe Baum hat eine Aussichtsplatfform in der Krone. Um diese zu 
   </div>
 </div>
 
-Auf jeden Fall muss man schwindelfrei sein und auch einiges an Mut mitbringen, aber oben angelangt, hat man eine sehr schone Aussicht auf den Nationalpark (Video).  
+Auf jeden Fall muss man schwindelfrei sein und auch einiges an Mut mitbringen, aber oben angelangt, hat man eine sehr schone Aussicht auf den Nationalpark (Video).
 
 <div class="row">
   <div class="col-sm-4">
@@ -101,8 +101,8 @@ Auf jeden Fall muss man schwindelfrei sein und auch einiges an Mut mitbringen, a
   </div>
 </div>
 
-Die meisten, die versuchten raufzuklettern, gaben bereits nach 10 Metern auf.  Spaeter bestiegen wir auch den Bicentennial Tree im Warrennationakpark, der mit 70 Metern noch ein Stueckchen hoeher ist. 
-Danach ging es weiter zu einem Damm und Stromschnellen und nach dem Bicentennial Tree zu einer 10 km Einbahnstrasse, die einige schoene Aussichtspunkte bot. 
+Die meisten, die versuchten raufzuklettern, gaben bereits nach 10 Metern auf.  Spaeter bestiegen wir auch den Bicentennial Tree im Warrennationakpark, der mit 70 Metern noch ein Stueckchen hoeher ist.
+Danach ging es weiter zu einem Damm und Stromschnellen und nach dem Bicentennial Tree zu einer 10 km Einbahnstrasse, die einige schoene Aussichtspunkte bot.
 
 <div class="row">
   <div class="col-sm-3">

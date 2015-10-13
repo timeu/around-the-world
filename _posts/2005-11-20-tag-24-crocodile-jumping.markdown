@@ -12,9 +12,9 @@ header-img: img/australien/tag_24.jpg
 location: Darwin, Northern Territory, Australien
 ---
 
-Am heutigen Sonntag beschlossen wir den Tag "sinnvoll" zu nutzen, indem wir an einer Crocodile Jumping Tour, nicht unweit von Darwin, teilnahmen. Dabei werden den "Krokos" Fleischbrocken vors Maul gehalten und abhaengig vom Hunger und dem Gemuetszustand, springt dieses mehr oder weniger weit aus dem Wasser. 
+Am heutigen Sonntag beschlossen wir den Tag "sinnvoll" zu nutzen, indem wir an einer Crocodile Jumping Tour, nicht unweit von Darwin, teilnahmen. Dabei werden den "Krokos" Fleischbrocken vors Maul gehalten und abhaengig vom Hunger und dem Gemuetszustand, springt dieses mehr oder weniger weit aus dem Wasser.
 Fotos:
- 
+
  <div class="row">
   <div class="col-sm-4">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-NYKKIATsQ9U/VVBmGbW9sXI/AAAAAAAAQLM/lHlox6_VLxE/s2048/0491%252520-%252520Crocodile%252520Jumping.jpg' %}
@@ -38,26 +38,27 @@ Videos:
   </div>
 </div>
 
-Waehrend der Fahrt wurde unser Boot von einigen Greifvoegeln begleitet, die ebenfalls mit Fleisch gefuettert wurden (die einzigen die nichts bekamen, waren wir ;-)). 
+Waehrend der Fahrt wurde unser Boot von einigen Greifvoegeln begleitet, die ebenfalls mit Fleisch gefuettert wurden (die einzigen die nichts bekamen, waren wir ;-)).
 
 <div class="row">
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-kzpoLfB0juE/VVBmPpgU4pI/AAAAAAAAQLM/GDwIqmmnaRs/s2048/0496%252520-%252520Crocodile%252520Jumping.jpg' %}
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-Oh8IpTcBG1A/VVBmPhsTEGI/AAAAAAAAQLM/PRlMfTTqMFw/s2048/0499%252520-%252520Crocodile%252520Jumping.jpg' %}
   </div>
-  <div class="col-sm-3">
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-cM97hTzGZSc/VVBmQ51Y2QI/AAAAAAAAQLM/gQVJ4HPMH8A/s2048/0500%252520-%252520Crocodile%252520Jumping.jpg' %}
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include video.html title='' img='https://lh3.googleusercontent.com/-tskIfyLHvL8/VVBmStsZkWI/AAAAAAAAQLM/LgpezAGdDO0/s800/0500%252520-%252520Video.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=25e61f4b69066c7c&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435148811&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=5B27338ADE08104832D5083054675116D7E49EA2.BC861E09127BD8315502484A0F1A4EEE1D2EFC56&key=lh1&cpn=2o9mRfkm6OTBwfpw&c=WEB&cver=html5' %}
   </div>
 </div>
 
-
-
-Die Tour wurde leider durch die, fuer die Saison typischen monsunartigen Regenfaelle, verkuerzt. 
+Die Tour wurde leider durch die, fuer die Saison typischen monsunartigen Regenfaelle, verkuerzt.
 
 <div class="row">
   <div class="col-sm-6">
@@ -68,9 +69,9 @@ Die Tour wurde leider durch die, fuer die Saison typischen monsunartigen Regenfa
   </div>
 </div>
 
-Die letzten 2 Tagen trafen wir auch einen Tasmanier (der suedlichste Bundesstaat von Australien - eine Insel), der uns das Nachtleben von Darwin zeigte. 
+Die letzten 2 Tagen trafen wir auch einen Tasmanier (der suedlichste Bundesstaat von Australien - eine Insel), der uns das Nachtleben von Darwin zeigte.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-sdKopPShypU/VVBmGFOy3BI/AAAAAAAAQLM/8l0wMyqQznw/s2048/0490%252520-%252520Crocodile%252520Jumping.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-sdKopPShypU/VVBmGFOy3BI/AAAAAAAAQLM/8l0wMyqQznw/s2048/0490%252520-%252520Crocodile%252520Jumping.jpg' %}
 
 
 

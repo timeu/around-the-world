@@ -27,7 +27,7 @@ Am heutigen Tag stand mal zur Abwechselung nicht Autofahren am Programm, sondern
 
 In unserer Tauchgruppe befanden sich auch 2 Kärnter, die ebenfalls eine längere Reise in diesen Breiten unternahmen und der Tauchguide war eine Vorarlbergerin, die schon seit 5 Jahren in Coral Bay lebt. Überhaupt haben wir bisher sehr sehr viele Deutschprachige in Australien getroffen. Man muss aufpassen, dass man nicht zu viel über andere lästert, weil man nie sicher sein kann ob er/sie nicht deutsch versteht ;-). Anfangs hatten wir mit den Tauchplätzen etwas Pech, da die Bedingungen (Strömungen, Sicht) ein Tauchen unmöglich machten. Letzlich fanden wir doch ein geeignetes Plätzchen und dann ging es auch schon ab ins Wasser.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-N0VK6DYYGTw/VVBih-HMOSI/AAAAAAAAQLM/8N9rLq8UgnQ/s2048/0166%252520-%252520Ningaloo%252520Reef.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-N0VK6DYYGTw/VVBih-HMOSI/AAAAAAAAQLM/8N9rLq8UgnQ/s2048/0166%252520-%252520Ningaloo%252520Reef.jpg' %}
 
 Das Ningaloo Reef wird als Gegenstück zum Great Barrier Reef angesehen, mit dem entscheidenden Vorteil, dass es sogar bis zum Strand reicht. Dieses Riff ist in mehrere Zonen unterteilt und unser Tauchgang fand in der Sanctuary Zone statt. Diese Zone ist besonders geschützt und es ist verboten irgendetwas zu entnehmen, egal ob das Meerestiere oder Korallen sind. Nach dem Einstieg und dem Abtauchen offenbarten sich uns beeindruckende Hartkorallenformationen.
 
@@ -45,8 +45,8 @@ Das Ningaloo Reef wird als Gegenstück zum Great Barrier Reef angesehen, mit dem
 
 In einer 6er Gruppe tauchten wir durch Canyons von Korallen. Da es der erste Meerestauchgang fuer Uemit war, folgte er mit offenem Mund und Augen den bereits erfahreneren Tauchern. Georg, der bereits einige Tauchgänge am Konto hat, gewoehnte sich langsam wieder an den Umgang mit seiner Unterwasserkamera.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-ipZ48ebwE9o/VVBit6XSRsI/AAAAAAAAQLM/54kZbhrUJ_0/s2048/0192%252520-%252520Ningaloo%252520Reef.jpg' %}
- 
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-ipZ48ebwE9o/VVBit6XSRsI/AAAAAAAAQLM/54kZbhrUJ_0/s2048/0192%252520-%252520Ningaloo%252520Reef.jpg' %}
+
 Nach ca. 50 Minuten tauchten wir wieder auf. Am Boot gab es eine kleine Stärkung und dann ging es ab zum 2ten Tauchplatz. Der 2te Tauchgang erfolgte mit einer reduzierten Gruppe (3 Tauchern & Guide), da einigen das Wasser  zu kalt war (22 - 23 Grad); und das obwohl wir 2 Nasstauchanzüge uebereinander trugen. Diesmal sahen wir nicht nur interessante Korallen, sondern eine Reihe von interessanten Meeresbewohnern. Darunter waren z.B:
 
 
@@ -67,7 +67,7 @@ Nach ca. 50 Minuten tauchten wir wieder auf. Am Boot gab es eine kleine Stärkun
 
 <div class="row">
   <div class="col-sm-6 text-center">
-   Catfish 
+   Catfish
     {% include picture.html title='Catfish' img='https://lh3.googleusercontent.com/-VLj4t_tcgA0/VVBirD-TooI/AAAAAAAAQLM/F2H190cEYLw/s2048/0187%252520-%252520Ningaloo%252520Reef.jpg' %}
   </div>
   <div class="col-sm-6 text-center">
@@ -76,9 +76,9 @@ Nach ca. 50 Minuten tauchten wir wieder auf. Am Boot gab es eine kleine Stärkun
   </div>
 </div>
 
-Gegen 4 Uhr kamen wir vom 2ten Tauchgang zurück und verbrachten den Abend relativ relaxed bei unserem Campervan. 
+Gegen 4 Uhr kamen wir vom 2ten Tauchgang zurück und verbrachten den Abend relativ relaxed bei unserem Campervan.
 
-Am nächsten Morgen verliessen wir in aller Herrgottsfruehe Coral Bay in Richtung des nördlicher gelegenen Exmouth. Nachdem wir einen Platz am Campingplatz in Exmouth reserviert hatten, gings weiter in den Cape Range Nationalpark. Dort wanderten wir am Rande 2er Canyons, von denen aus man einen beindruckenden Blick auf das Ningaloo Reef hatte und verbrachten auch einige Zeit am Strand direkt vor dem Riff. 
+Am nächsten Morgen verliessen wir in aller Herrgottsfruehe Coral Bay in Richtung des nördlicher gelegenen Exmouth. Nachdem wir einen Platz am Campingplatz in Exmouth reserviert hatten, gings weiter in den Cape Range Nationalpark. Dort wanderten wir am Rande 2er Canyons, von denen aus man einen beindruckenden Blick auf das Ningaloo Reef hatte und verbrachten auch einige Zeit am Strand direkt vor dem Riff.
 
 <div class="row">
   <div class="col-sm-3">
@@ -95,14 +95,14 @@ Am nächsten Morgen verliessen wir in aller Herrgottsfruehe Coral Bay in Richtun
   </div>
 </div>
 
-Einzig und allein  die australischen Tiere liessen sich nicht blicken. Wir waren kurz vor dem verzweifeln. 
+Einzig und allein  die australischen Tiere liessen sich nicht blicken. Wir waren kurz vor dem verzweifeln.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-nB9rjp44VMM/VWQpo12rAYI/AAAAAAAAQaA/3P3l0ZeqaMg/s2048/IMG_0037.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-nB9rjp44VMM/VWQpo12rAYI/AAAAAAAAQaA/3P3l0ZeqaMg/s2048/IMG_0037.jpg' %}
 
 
 Doch dann tauchten die ersten Kaengurus auf.
-Ihnen folgten noch einige andere, sodass wir ausreichend Videos und Fotos machen konnten. 
-Videos: 
+Ihnen folgten noch einige andere, sodass wir ausreichend Videos und Fotos machen konnten.
+Videos:
 
 <div class="row">
   <div class="col-sm-4">
@@ -116,7 +116,7 @@ Videos:
   </div>
 </div>
 
-Fotos: 
+Fotos:
 
 <div class="row">
   <div class="col-sm-4">
@@ -132,15 +132,15 @@ Fotos:
 
 Um Tiere zu beobachten, hatten wir bis zum spaeten Nachmittag gewartet, da dies die beste Zeit dafuer ist. Daher begannen unsere Rückfahrt erst bei Einbruch der Dunkelheit.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-E3v8yBgp93Y/VWQplwhmylI/AAAAAAAAQZU/6MwwICehDPE/s2048/IMG_0155.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-E3v8yBgp93Y/VWQplwhmylI/AAAAAAAAQZU/6MwwICehDPE/s2048/IMG_0155.jpg' %}
 
 
-Jetzt wissen wir auch warum man uns vor dem Autofahren während der Dämmerung bzw. der Nacht gewarnt hat, denn entlang der Strasse standen alle paar Meter Kaengurus, die manchmal direkt vor dem Auto die Strasse querten. Nach 2 Vollbremsungen und einer Reisegeschwindigkeit von 50 km/h statt 110 erreichten wir gegen halb 9 Exmouth, aber ohne dass ein Kaenguru zu Schaden gekommen waere. Da wir am nächsten Morgen um 6 Uhr aufstehen mussten, gingen wir früh schlafen. Am Morgen musste alles relativ schnell von statten gehen. Schnell war eine Eierspeise gekocht und kurz darauf waren wir bereit fuer den ersten von 2 Tauchtagen in Exmouth. 
+Jetzt wissen wir auch warum man uns vor dem Autofahren während der Dämmerung bzw. der Nacht gewarnt hat, denn entlang der Strasse standen alle paar Meter Kaengurus, die manchmal direkt vor dem Auto die Strasse querten. Nach 2 Vollbremsungen und einer Reisegeschwindigkeit von 50 km/h statt 110 erreichten wir gegen halb 9 Exmouth, aber ohne dass ein Kaenguru zu Schaden gekommen waere. Da wir am nächsten Morgen um 6 Uhr aufstehen mussten, gingen wir früh schlafen. Am Morgen musste alles relativ schnell von statten gehen. Schnell war eine Eierspeise gekocht und kurz darauf waren wir bereit fuer den ersten von 2 Tauchtagen in Exmouth.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-rfpYjs5ytaY/VVBjIwnX45I/AAAAAAAAQLM/bXnESqIHNj0/s2048/0235%252520-%252520Ningaloo%252520Reef.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-rfpYjs5ytaY/VVBjIwnX45I/AAAAAAAAQLM/bXnESqIHNj0/s2048/0235%252520-%252520Ningaloo%252520Reef.jpg' %}
 
 
-Wie schon in Coral Bay ging es mit einem Boot ueber das Kap hinweg zum noerdlichen Ende vom Ningaloo Reef. Der erste Tauchgang bescherte uns diesmal statt harter Korallen weiche. Darueber hinaus gab es eine Reihe von interessanten Meeresbewohner zu bewundern (vor allem letzteres wurde oefters gesichtet ;-)). 
+Wie schon in Coral Bay ging es mit einem Boot ueber das Kap hinweg zum noerdlichen Ende vom Ningaloo Reef. Der erste Tauchgang bescherte uns diesmal statt harter Korallen weiche. Darueber hinaus gab es eine Reihe von interessanten Meeresbewohner zu bewundern (vor allem letzteres wurde oefters gesichtet ;-)).
 
 <div class="row">
   <div class="col-sm-4">
@@ -155,12 +155,12 @@ Wie schon in Coral Bay ging es mit einem Boot ueber das Kap hinweg zum noerdlich
 </div>
 
 
-Darunter einige ziemlich grosse Sea Turtles, die gerade ihre Paarungszeit hatten und auch einen schuechternen Octopus. Dieser war dermassen gut getarnt, dass man ihn kaum von den umliegenden Korallen unterscheiden konnte. Erst wenn man seine Tentakel beruehrte, aenderte er seine Farbe und wurde somit gegen den Hintergrund sichtbar, nur um Sekunden spaeter, seine Farbe zu aendern und defacto unsichtbar zu sein (18 MB Video).  
+Darunter einige ziemlich grosse Sea Turtles, die gerade ihre Paarungszeit hatten und auch einen schuechternen Octopus. Dieser war dermassen gut getarnt, dass man ihn kaum von den umliegenden Korallen unterscheiden konnte. Erst wenn man seine Tentakel beruehrte, aenderte er seine Farbe und wurde somit gegen den Hintergrund sichtbar, nur um Sekunden spaeter, seine Farbe zu aendern und defacto unsichtbar zu sein (18 MB Video).
 
 {% include video.html title='' img='https://lh3.googleusercontent.com/-ZDFQXdQ0h_g/VVBjS4jVlKI/AAAAAAAAQLM/zDJ_tqzLEMI/s800/0246%252520-%252520Video%2525202.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=3bebe660d45513ff&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1434979819&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=C69DE4854CF54ED960D5B9D4CB246E9DC5A5191D.B404BD11E304FB81B89BFFEA4237BC0A9805A9F0&key=lh1&cpn=kMgLIOyIA7aYKxw4&c=WEB&cver=html5' %}
 
 
-Nach einer 40 minuetigen Pause am Boot und einer kleinen Staerkung, ging es zum 2ten Tauchplatz. 
+Nach einer 40 minuetigen Pause am Boot und einer kleinen Staerkung, ging es zum 2ten Tauchplatz.
 
 <div class="row">
   <div class="col-sm-4">
@@ -175,7 +175,7 @@ Nach einer 40 minuetigen Pause am Boot und einer kleinen Staerkung, ging es zum 
 </div>
 
 
-Diesmal wurden wir regelrecht von der Artenvielfalt ueberwaeltigt. Neben den gewohnten Rochen, Turtles, Anemonen und Teppichhaien, sahen wir auch zum ersten Mal einen Riff-Hai. Dieser kreiste in einer Art und Weise um uns herum, die an Eleganz nichts zu wuenschen uebrig liess. 
+Diesmal wurden wir regelrecht von der Artenvielfalt ueberwaeltigt. Neben den gewohnten Rochen, Turtles, Anemonen und Teppichhaien, sahen wir auch zum ersten Mal einen Riff-Hai. Dieser kreiste in einer Art und Weise um uns herum, die an Eleganz nichts zu wuenschen uebrig liess.
 
 <div class="row">
   <div class="col-sm-6">
@@ -187,7 +187,7 @@ Diesmal wurden wir regelrecht von der Artenvielfalt ueberwaeltigt. Neben den gew
 </div>
 
 
-Nach diesem Schauspiel und angesichts der Tatsache, dass unsere Luft sich dem Ende zuneigte, kehrten wir zum Boot zurueck. Die Rueckfahrt zum Hafen war aber auch nicht ereignislos. Unterwegs sahen wir nicht nur Delphine, die munter neben unserem Boot mitschwammen, sondern auch eine Buckelwal-Mutter mit ihrem Baby (ist aber auch ein ganz schoenes Trumm). 
+Nach diesem Schauspiel und angesichts der Tatsache, dass unsere Luft sich dem Ende zuneigte, kehrten wir zum Boot zurueck. Die Rueckfahrt zum Hafen war aber auch nicht ereignislos. Unterwegs sahen wir nicht nur Delphine, die munter neben unserem Boot mitschwammen, sondern auch eine Buckelwal-Mutter mit ihrem Baby (ist aber auch ein ganz schoenes Trumm).
 
 <div class="row">
   <div class="col-sm-6">
@@ -199,7 +199,7 @@ Nach diesem Schauspiel und angesichts der Tatsache, dass unsere Luft sich dem En
 </div>
 
 
-Um 3 Uhr waren wir wieder zurueck in Exmouth und versuchten eigentlich nur, der gluehenden Sonne zu entkommen (Pool und Internet Cafe). Etwas verspaetet nahmen wir auch unser naechstes grosses Kochprojekt in Angriff, naemlich Chilli mit Basmati Reis und Karottensalat. Das Chilli war ja relativ gelungen, leider ging der Basmati Reis etwas daneben. Zu Uemit's Verteidigung muss man sagen, dass es schon dunkel war, als wir zu Kochen begangen und 2 Taschenlampen, von denen eine nur sehr schwach leuchtet, helfen da auch nicht viel ;-). 
+Um 3 Uhr waren wir wieder zurueck in Exmouth und versuchten eigentlich nur, der gluehenden Sonne zu entkommen (Pool und Internet Cafe). Etwas verspaetet nahmen wir auch unser naechstes grosses Kochprojekt in Angriff, naemlich Chilli mit Basmati Reis und Karottensalat. Das Chilli war ja relativ gelungen, leider ging der Basmati Reis etwas daneben. Zu Uemit's Verteidigung muss man sagen, dass es schon dunkel war, als wir zu Kochen begangen und 2 Taschenlampen, von denen eine nur sehr schwach leuchtet, helfen da auch nicht viel ;-).
 
 <div class="row">
   <div class="col-sm-6">
@@ -211,13 +211,13 @@ Um 3 Uhr waren wir wieder zurueck in Exmouth und versuchten eigentlich nur, der 
 </div>
 
 
-Da wir aber vom Tauchen schon sehr hungrig waren, schmeckte das Essen trotzdem und es blieb sogar noch ein bisschen was fuer das Fruehstueck und das Abendessen am naechsten Tag uebrig. 
+Da wir aber vom Tauchen schon sehr hungrig waren, schmeckte das Essen trotzdem und es blieb sogar noch ein bisschen was fuer das Fruehstueck und das Abendessen am naechsten Tag uebrig.
 
 Am naechsten Morgen sollte unser voraussichtlich letzter Tauchtag in Australien stattfinden. Diesmal ging es raus auf die Muiron Inseln. Die 1 1/2 stuendige Fahrt war relativ ereignislos, ungluecklicherweise war die Stroemung am Grund bei 12 Meter so stark, dass das Risiko, zu den Inseln gespuelt und sich womoeglich zu verletzen zu gross war. Sogar klein Nemo tat sich dabei schwer:
 
 {% include video.html title='' img='https://lh3.googleusercontent.com/-0hgwG3Qbnc4/VVBjaNDkAEI/AAAAAAAAQLM/Xcn-Qli90wQ/s800/0258%252520-%252520Ningaloo%252520Reef.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=f48d159ae3b1b03f&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1434980295&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=307C6B367F1A6F1ED76F200A073204FA79EFA428.399F451C9923189F28A2FA4CCE98383FCBC106AA&key=lh1&cpn=J9lpf9GK5A99jfoR&c=WEB&cver=html5' %}
 
-Der Guide beschloss daher, den Tauchgang abzubrechen. Am Boot wurde entschieden, die Inseln zu verlassen und zur Leuchtturmbucht zurueckzukehren. Dort sollte die Stroemung nicht so stark sein. Die Stroemung war auch nicht zu stark und wir konnten den 2ten Tauchgang erfolgreich durchfuehren. Dabei sahen wir sowohl altbekannte Meeresfreunde, als auch neue. 
+Der Guide beschloss daher, den Tauchgang abzubrechen. Am Boot wurde entschieden, die Inseln zu verlassen und zur Leuchtturmbucht zurueckzukehren. Dort sollte die Stroemung nicht so stark sein. Die Stroemung war auch nicht zu stark und wir konnten den 2ten Tauchgang erfolgreich durchfuehren. Dabei sahen wir sowohl altbekannte Meeresfreunde, als auch neue.
 
 <div class="row">
   <div class="col-sm-4">
@@ -235,11 +235,11 @@ Der Guide beschloss daher, den Tauchgang abzubrechen. Am Boot wurde entschieden,
 In dieser Jahreszeit ist die Paarungszeit der Sea Turtles und daher sieht man relativ viele von ihnen. Hier ist ein kleines Video von einem solchen Gesellen (Uemit schwimmt mit).
 
  {% include video.html title='' img='https://lh3.googleusercontent.com/-X3Ov_DpRO7Y/VVBjRW7N9PI/AAAAAAAAQLM/zrJkK3SA1Lg/s800/0244%252520-%252520Ningaloo%252520Reef.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=c6a1dc7ea3db6b93&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1434980394&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=3D613B2F08349AE34449F6EA570A113AB4EF2C6E.9DA2981842A3939A3FAF9794D90916F75F6E836C&key=lh1&cpn=xZ4lJw4pTbIXio5J&c=WEB&cver=html5' %}
- 
-Auf der Rueckfahrt zum Hafen trafen wir auch zum ersten mal auf einen Mantarochen (Manta Ray). 
-Ein wirklich beeindruckender Anblick. 
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-YOlkoQbVuic/VWCD6glL9tI/AAAAAAAAQRw/Xn9u0JM1auY/s2048/IMG_0156.JPG' %}
+Auf der Rueckfahrt zum Hafen trafen wir auch zum ersten mal auf einen Mantarochen (Manta Ray).
+Ein wirklich beeindruckender Anblick.
+
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-YOlkoQbVuic/VWCD6glL9tI/AAAAAAAAQRw/Xn9u0JM1auY/s2048/IMG_0156.JPG' %}
 
 
 Gegen 4 Uhr Nachmittags erreichten wir wieder unseren Campingplatz. Da wir erst morgen Frueh diese Halbinsel verlassen werden und sonst auch keine grossen Kochvorhaben vor uns liegen, wird dieser Abend sehr gemuetlich.
