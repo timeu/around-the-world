@@ -15,7 +15,7 @@ location: Osaka
 header-img: img/tag_13_15.jpg
 ---
 
-In der Frueh verliessen wir Kyoto mit dem Zug in Richtung Koyasan, einem der heiligsten Berge von Japan. Die Zugstrecke fuehrte durch die Berge zum Fusse einer Standseilbahn, die uns zum Ort "Koya" fuehrte. 
+In der Frueh verliessen wir Kyoto mit dem Zug in Richtung Koyasan, einem der heiligsten Berge von Japan. Die Zugstrecke fuehrte durch die Berge zum Fusse einer Standseilbahn, die uns zum Ort "Koya" fuehrte.
 
 <div class="row">
   <div class="col-sm-6">
@@ -26,11 +26,11 @@ In der Frueh verliessen wir Kyoto mit dem Zug in Richtung Koyasan, einem der hei
   </div>
 </div>
 
-Von dort aus ging es dann weiter zu den historischen Sehenswuerdigkeiten, die ca. 2 km von der Stadt entfernt liegen.  Koyasan ist sehr gut besucht und daher sah man eine Reihe von Touristengruppen. 
+Von dort aus ging es dann weiter zu den historischen Sehenswuerdigkeiten, die ca. 2 km von der Stadt entfernt liegen.  Koyasan ist sehr gut besucht und daher sah man eine Reihe von Touristengruppen.
 
-{% include picture.html title='Koyasan' img='https://lh3.googleusercontent.com/-VnrjkVFEpmY/VUILfvPZw2I/AAAAAAAALIw/D-RdzHWwtik/s2048/0331%252520-%252520Koyasan.jpg' %}
+{% include picture.html title='Koyasan' dim="750"  img='https://lh3.googleusercontent.com/-VnrjkVFEpmY/VUILfvPZw2I/AAAAAAAALIw/D-RdzHWwtik/s2048/0331%252520-%252520Koyasan.jpg' %}
 
-Das erste Ziel war der Okunoin Tempel, wobei der Weg dorthin durch einen riesigen Friedhof (mit ca. 200.000 Skulpturen) inmitten eines morschen Zedernwaldes fuehrt. 
+Das erste Ziel war der Okunoin Tempel, wobei der Weg dorthin durch einen riesigen Friedhof (mit ca. 200.000 Skulpturen) inmitten eines morschen Zedernwaldes fuehrt.
 
 <div class="row">
   <div class="col-sm-4">
@@ -47,25 +47,29 @@ Das erste Ziel war der Okunoin Tempel, wobei der Weg dorthin durch einen riesige
 Von dort ging es weiter zu den anderen beruehmten Sehenswuerdigkeiten von Koyasan, darunter der eindrucksvolle Tempelkomplex "Garan".
 
 <div class="row">
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include picture.html title='Garan' img='https://lh3.googleusercontent.com/-gwtzywy8jiw/VUILoo_VoUI/AAAAAAAALIw/dPPO3KkvX7k/s2048/0346%252520-%252520Koyasan.jpg' %}
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include picture.html title='Garan' img='https://lh3.googleusercontent.com/-LUhoOjq8zF0/VUILw8RykGI/AAAAAAAALIw/fEITfLjyCTc/s2048/0348%252520-%252520Koyasan.jpg' %}
   </div>
-  <div class="col-sm-3">
+
+</div>
+
+<div class="row">
+   <div class="col-sm-6">
     {% include picture.html title='Garan' img='https://lh3.googleusercontent.com/-Zmnf5Mq9Ixk/VUILrbNt5CI/AAAAAAAALIw/HXnWApfDf9A/s2048/0351%252520-%252520Koyasan.jpg' %}
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-6">
     {% include picture.html title='Garan' img='https://lh3.googleusercontent.com/-CxWvtJdAmWI/VUILpdhBZ4I/AAAAAAAALIw/gSSclg7BMp0/s2048/0347%252520-%252520Koyasan.jpg' %}
   </div>
 </div>
 
-Gegen 17 Uhr nahmen wir dann den Zug Richtung Osaka und um 19 Uhr erreichten wir schliesslich die Stadt. Der erste Eindruck entsprach ca. den Klischees, die wir von Japan bzw. den Grossstaedten hatten und die in Tokyo "enttaeuscht" wurden. Die Stadt leuchtete und vibrierte regelrecht und alles war gross und bombastisch. Dementsprechend hatten wir anfangs Probleme unser Quartier, das im Bermudadreick von Osaka lag, zu finden. 
+Gegen 17 Uhr nahmen wir dann den Zug Richtung Osaka und um 19 Uhr erreichten wir schliesslich die Stadt. Der erste Eindruck entsprach ca. den Klischees, die wir von Japan bzw. den Grossstaedten hatten und die in Tokyo "enttaeuscht" wurden. Die Stadt leuchtete und vibrierte regelrecht und alles war gross und bombastisch. Dementsprechend hatten wir anfangs Probleme unser Quartier, das im Bermudadreick von Osaka lag, zu finden.
 
-{% include picture.html title='Osaka' img='https://lh3.googleusercontent.com/-wr9y5gbYhZM/VUIL1BKYFTI/AAAAAAAALIw/XjcWluCPlbI/s2048/0365%252520-%252520Osaka.jpg' %}
+{% include picture.html title='Osaka' dim="750"  img='https://lh3.googleusercontent.com/-wr9y5gbYhZM/VUIL1BKYFTI/AAAAAAAALIw/XjcWluCPlbI/s2048/0365%252520-%252520Osaka.jpg' %}
 
-Auch Passanten, die wir nach dem Weg fragten, kannten sich nicht wirklich aus. Schliesslich fanden wir unser Capsule Hotel, das umgeben von sogenannten Love Hotels war. 
+Auch Passanten, die wir nach dem Weg fragten, kannten sich nicht wirklich aus. Schliesslich fanden wir unser Capsule Hotel, das umgeben von sogenannten Love Hotels war.
 
 <div class="row">
   <div class="col-sm-6">
@@ -91,7 +95,7 @@ Manchmal sieht man aber auch ziemlich merkwuerdige Gestalten, besonders im Kelle
 
 Am Abend  sahen wir uns die naeheren Umgebung an und waren etwas von den Massen von Menschen und Leuchtreklamen ueberwaeltigt. Man kommt sich fremder vor, als in jeder anderer Stadt, die wir bisher besucht haben, besonders da man kaum Touristen sieht. In einer Seitenstrasse beschlossen wir dann in eine American Bar zu gehen, um etwas zu essen und zu trinken. Das war aber ein Fehler. Ein gutgmeinter Rat: Meidet wenn moeglich in Japan Cocktails und Pizzen oder besser, meidet American Bars.  Man bekommt schlechte Cocktails und die Pizzen sind zum Teil aus Blaetterteig. Das ist auch fuer den Meister des Apfelstrudels zu viel des Guten ;-).
 
-Der naechste Tag in Osaka war etwas gemuetlicher angelegt. Nachdem wir wieder mal ausschlafen konnten, suchten wir den Electronic District auf, wo wir wie kleine Kinder in einem Spielwarengeschaeft, die elektronischen Neuheiten bewunderten. In einem dieser riesigen Einkaufskomplexe wurden wir auch Zeugen einer lustigen japanischen Angewohnheit. Jedesmal wenn ein Kunde ein etwas groesseres Produkt kauft, klingelt der/die Angestellte an der Kasse mit einer Glocke und ploetzlich beginnen alle Angestellten im Kaufhaus euphorisch zu klatschen. 
+Der naechste Tag in Osaka war etwas gemuetlicher angelegt. Nachdem wir wieder mal ausschlafen konnten, suchten wir den Electronic District auf, wo wir wie kleine Kinder in einem Spielwarengeschaeft, die elektronischen Neuheiten bewunderten. In einem dieser riesigen Einkaufskomplexe wurden wir auch Zeugen einer lustigen japanischen Angewohnheit. Jedesmal wenn ein Kunde ein etwas groesseres Produkt kauft, klingelt der/die Angestellte an der Kasse mit einer Glocke und ploetzlich beginnen alle Angestellten im Kaufhaus euphorisch zu klatschen.
 Nach dem Windowshopping fuhren wir am Nachmittag zum Osaker Aquarium, das zwar etwas teuer aber auf jeden Fall sehenswert war.
 Die Bilder und das Video sprechen hoffentlich fuer sich:
 
@@ -120,11 +124,11 @@ Die Bilder und das Video sprechen hoffentlich fuer sich:
 
 Nach dem Abendessen wollten wir mal miterleben was die JapanerInnen so am Samstag Abend treiben. Also suchten wir eine vom Guidebook empfohlene Bar "The Cellar" in der naeheren Umgebung auf. Leider begann es zu der Zeit etwas zu regnen, was der Stimmung in The Cellar  keinen Abbruch tat, denn 3 junge Japaner (Kontrabass, Gitarre,  Schlagzeug) in Elvis Look (Frisur und Habitus) spielten Rock'n Roll Lieder und das nicht einmal so schlecht. Der "Kontrabassist" spielte sogar stehend auf seinem Instrument (manche Instrumentenliebhaber werden jetzt erschaudern ;-). Nach dem Konzert wollten wir die Location wechseln. Ungluecklicherweise begann es nun etwas staerker zu regnen und wir mussten in einen Hauseingang fluechten. So das Schicksal wollte, trafen wir dabei 3 gaijins (Fremde), naemlich Randy und Mandy aus Kanada und Hayden aus den USA. Alle 3 sind bereits seit 3 Wochen in Osaka und arbeiten als Englischlehrer, aber sie kannten sich genauso wenig aus, wie wir. Da alle froh waren, endlich Menschen zu treffen mit denen man sich relativ problemlos unterhalten kann, beschlossen wir alle gemeinsam in eine vielversprechende Bar (Moon Walk) zu gehen. Dort trafen wir einen Englaender, der bereits 4 Monate in Japan lebte und der Sprache maechtig war und sich vor allem in Osaka auskannte. Er brachte uns zur "Undergroundlounge", eine der hippesten und angeblich besten Drum`n Base, Techno Schuppen in Osaka. Dementsprechend hoch war aber auch der Eintrittpreis (3000 Yen = 22 Euro). Zum Glueck trafen wir kurz vorher eine Japanerin, die auf der Gaesteliste stand und mit ihrer Hilfe kamen wir alle fuer 1500 Yen rein. Dort blieben wir auch bis in die fruehen Morgenstunden. Abschliessend koennen wir festhalten:  Die JapanerInnen feiern auch nicht anders als wir ;-)
 
-Am naechsten Morgen nach einem Fruehstueck, einer Spezialitaet aus Osaka, fuhren wir mit dem Zug nach Nara, der ersten Hauptstadt Japans. 
+Am naechsten Morgen nach einem Fruehstueck, einer Spezialitaet aus Osaka, fuhren wir mit dem Zug nach Nara, der ersten Hauptstadt Japans.
 
-{% include picture.html title='Frühstück' img='https://lh3.googleusercontent.com/-GUFP97bXDdU/VUILtmBi5UI/AAAAAAAALIw/NL_3AtXQYtU/s2048/0353%252520-%252520Osaka.jpg' %}
+{% include picture.html title='Frühstück' dim="750"  img='https://lh3.googleusercontent.com/-GUFP97bXDdU/VUILtmBi5UI/AAAAAAAALIw/NL_3AtXQYtU/s2048/0353%252520-%252520Osaka.jpg' %}
 
-Dementsprechend wichtige und alte historische Gebauede fanden wir dort vor. Interessanterweise fand zur selben Zeit auch ein besonderes jaehrliches Ereignis statt. In der Umgebung der historischen Kulturgueter befinden sich eine Vielzahl von Rehen auf freiem Fuss. Damit die maennlichen, mit einem Geweih ausgestatteten, Rehe nicht die Menschen attackieren, werden diese Geweihe von buddhistischen Moenchen in einer eigenen Arena abgesaegt. 
+Dementsprechend wichtige und alte historische Gebauede fanden wir dort vor. Interessanterweise fand zur selben Zeit auch ein besonderes jaehrliches Ereignis statt. In der Umgebung der historischen Kulturgueter befinden sich eine Vielzahl von Rehen auf freiem Fuss. Damit die maennlichen, mit einem Geweih ausgestatteten, Rehe nicht die Menschen attackieren, werden diese Geweihe von buddhistischen Moenchen in einer eigenen Arena abgesaegt.
 
 Rehe wohin man blickt:
 
@@ -177,9 +181,9 @@ Horuyuji Tempel:
 </div>
 
 
-Am Abend fanden wir auch in einer Passage zwischen den Karaoke Bars einen echten tuerkischen Dondurma-ci mit einem Tuerken dahinter. (wer schon mal in Istanbul bzw. in der Tuerkei war, kennt wohl diese tuerkische Eisspezialitaet). Uemit wechselte einige Worte auf tuerkisch mit ihm und wir assen noch ein Eis. 
+Am Abend fanden wir auch in einer Passage zwischen den Karaoke Bars einen echten tuerkischen Dondurma-ci mit einem Tuerken dahinter. (wer schon mal in Istanbul bzw. in der Tuerkei war, kennt wohl diese tuerkische Eisspezialitaet). Uemit wechselte einige Worte auf tuerkisch mit ihm und wir assen noch ein Eis.
 
-{% include picture.html title='Dondurma-ci' img='https://lh3.googleusercontent.com/-YEKOMkNxFGc/VUILuIiQnwI/AAAAAAAALIw/i7ofYPWMgLI/s2048/0354%252520-%252520Osaka.jpg' %}
+{% include picture.html title='Dondurma-ci' dim="750"  img='https://lh3.googleusercontent.com/-YEKOMkNxFGc/VUILuIiQnwI/AAAAAAAALIw/i7ofYPWMgLI/s2048/0354%252520-%252520Osaka.jpg' %}
 
 Alles in allem waren es relativ erholsame 3 Tage in Osaka und Nara.
 

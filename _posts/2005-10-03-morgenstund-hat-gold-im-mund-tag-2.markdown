@@ -12,7 +12,7 @@ location: Tokyo
 header-img: img/tag_2.jpg
 ---
 
-Masochistisch wie wir sind, wurden wir um 5 Uhr in der Frueh vom Wecker geweckt. Der Grund war der beruehmte Fischmarkt im Hafen von Tokyo, der bereits um diese Uhrzeit seine Pforten oeffnete. 
+Masochistisch wie wir sind, wurden wir um 5 Uhr in der Frueh vom Wecker geweckt. Der Grund war der beruehmte Fischmarkt im Hafen von Tokyo, der bereits um diese Uhrzeit seine Pforten oeffnete.
 
 
 <div class="row">
@@ -38,7 +38,7 @@ Dieser Fischmarkt ist einer der groessten Umschlagplaetze fuer Meerestiere:
  </div>
 </div>
 
-Nachdem wir uns ausgiebig am Fischmarkt umgesehen haben, bestellten wir uns ein Sushi-Fruehstueck in der angeblichen besten Sushi-Bar in ganz Tokyo. Frischeren Sushi findet man wohl nirgendwo. 
+Nachdem wir uns ausgiebig am Fischmarkt umgesehen haben, bestellten wir uns ein Sushi-Fruehstueck in der angeblichen besten Sushi-Bar in ganz Tokyo. Frischeren Sushi findet man wohl nirgendwo.
 Nahe beim Fischmarkt fanden wir zu unserer Verwunderung auch einen indischen Tempel, dem wir ebenfalls einen Besuch abstatteten. Danach setzten wir unsere Tour zu Fuss weiter durch das Business District zum Imperial Palace. Ungluecklicherweise zieht es der Kaiser vor anonym zu bleiben, zumindest was seine Gemaecher anbelangt. Alles was zu sehen war, waren seine Palastwachen.
 
 <div class="row">
@@ -87,7 +87,7 @@ Auf dem Weg zwischen den einzelnen Tempel, besuchten wir auch den wohl schoenste
 
 Da es bereits Mittag war und das Sushi-Fruehstueck gut aber nicht ausgiebig war, besorgen wir uns eine Bento-Box, welches vor allem bei Geschaeftsleuten beliebt ist.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-RU10onEQVWw/VVClF3Z5rxI/AAAAAAAAP-8/haZDq8PY690/s2048/ds_IMG_0168.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-RU10onEQVWw/VVClF3Z5rxI/AAAAAAAAP-8/haZDq8PY690/s2048/ds_IMG_0168.jpg' %}
 
 
 Die vermeintlich letzte Sehenswuerdigkeit sollte der Schrein des Kaisers und der Kaiserin,genannt Meiji- jingu sein.
@@ -125,13 +125,13 @@ Beim Verlassen des Parks, in dem sich der Schrein befand, trafen wir auch auf di
 
 Nach der kurzen Showeinlage wollten wir uns auf den Weg zurueck ins Quartier machen. Dabei verirrten wir uns und landeten im grell erleuchteten und stark belebten Fashion District.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-CyX7FvyQAbw/VUIJIY1Ln0I/AAAAAAAALIw/ScziaVeBdEo/s2048/0095%252520-%252520Tokyo.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-CyX7FvyQAbw/VUIJIY1Ln0I/AAAAAAAALIw/ScziaVeBdEo/s2048/0095%252520-%252520Tokyo.jpg' %}
 
 
 Nach  ca. 14 Stunden Sightseeing erreichten wir schliesslich unser Quartier, wo wir uns die wohlverdiente Dusche gönnten (leider keine Bilder ;-))
 
 Uemit & Georg
 
-P.S.: Mehr Bilder findet ihr in der Gallery.  
-P.P.S: In der Gallery (Tag 2) findet ihr auch 3 Videos.   
-P.P.P.S: Morgen verlassen wir Tokyo und wissen nicht wann und wo wir wieder Internet Zugang haben. Wahrscheinlich werden wir nur woechentlich Berichte Online stellen.  
+P.S.: Mehr Bilder findet ihr in der Gallery.
+P.P.S: In der Gallery (Tag 2) findet ihr auch 3 Videos.
+P.P.P.S: Morgen verlassen wir Tokyo und wissen nicht wann und wo wir wieder Internet Zugang haben. Wahrscheinlich werden wir nur woechentlich Berichte Online stellen.

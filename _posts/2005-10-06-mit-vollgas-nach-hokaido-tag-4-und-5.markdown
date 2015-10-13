@@ -26,7 +26,7 @@ Fuer die Reise von Tokyo nach Nikko und spaeter nach Sapporo auf der Insel Hokai
   </div>
 </div>
 
-In der Tokyo Station besorgten wir uns dann die Tickets fuer die Reise und 15 Minuten spaeter ging es schon mit dem schnellen Shinkansen Zug los Richtung Ustunomyia und von dort weiter nach Nikko.  
+In der Tokyo Station besorgten wir uns dann die Tickets fuer die Reise und 15 Minuten spaeter ging es schon mit dem schnellen Shinkansen Zug los Richtung Ustunomyia und von dort weiter nach Nikko.
 
 
 <div class="row">
@@ -39,33 +39,36 @@ In der Tokyo Station besorgten wir uns dann die Tickets fuer die Reise und 15 Mi
 </div>
 
 
-Nikko ist eine 128 km von Tokyo entfernte kleine Stadt, die den beruehmten Schrein "Toscho-gu" (ist ein Weltkulturdenkmal) beiheimatet. Tosho gu bedeutet Sonnenlicht und dementsprechend beeindruckend sind der Schrein und die Gebaeude rund um den Schrein. Sogar die 3 "hoere nicht, sehe nicht und rede nicht" Affen kann man dort in Holz verewigt bestaunen. 
+Nikko ist eine 128 km von Tokyo entfernte kleine Stadt, die den beruehmten Schrein "Toscho-gu" (ist ein Weltkulturdenkmal) beiheimatet. Tosho gu bedeutet Sonnenlicht und dementsprechend beeindruckend sind der Schrein und die Gebaeude rund um den Schrein. Sogar die 3 "hoere nicht, sehe nicht und rede nicht" Affen kann man dort in Holz verewigt bestaunen.
 
 <div class="row">
-  <div class="col-sm-3">
+  <div class="col-sm-6">
      {% include picture.html title='Toschu-gu' img='https://lh3.googleusercontent.com/-Zkay3yvrbUU/VUIJidTZriI/AAAAAAAALIw/6McArifgf5w/s2048/0133%252520-%252520Nikko.jpg' %}
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-6">
      {% include picture.html title='Toschu-gu' img='https://lh3.googleusercontent.com/-ApIjrLMCG1U/VUIJeO9ZfdI/AAAAAAAALIw/9DJ890fIoys/s2048/0127%252520-%252520Nikko.jpg' %}
   </div>
-  <div class="col-sm-3">
+
+</div>
+
+<div class="row">
+   <div class="col-sm-6">
      {% include picture.html title='Toschu-gu' img='https://lh3.googleusercontent.com/-pHfMn6DLweU/VUIJggOKObI/AAAAAAAALIw/P283p4EAvMY/s2048/0131%252520-%252520Nikko.jpg' %}
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-6">
      {% include picture.html title='Toschu-gu' img='https://lh3.googleusercontent.com/-EBy3kniQrjk/VUIJhwxGTJI/AAAAAAAALIw/hc7-VuYFts0/s2048/0132%252520-%252520Nikko.jpg' %}
   </div>
 </div>
 
-
 Nach dem Besuch kehrten wir in unsere Jugendherberge zurueck, wo wir einen als Katze getarnten Vampir entdeckten :)
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-23V1NtwJL-4/VUIJk3fZegI/AAAAAAAALIw/SQCh_0dqxsY/s2048/0135%252520-%252520Nikko.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-23V1NtwJL-4/VUIJk3fZegI/AAAAAAAALIw/SQCh_0dqxsY/s2048/0135%252520-%252520Nikko.jpg' %}
 
 
 Damit endete auch der vierte Tag.
 
 
-Am naechsten Morgen sollte es gleich weiter Richtung Sapporo, eine 2 Millionen Stadt auf der Insel Hokaido, gehen.  Viel gibt es von der Reise nicht zu berichten, ausser dass wir mit dem Shinkansen 3 Stunden und dann mit dem wesentlich langsameren Express Zug 7 Stunden unterwegs waren. Schliesslich erreichten wir aber Sappora und fanden auch eine relativ guenstige und gemuetliche Jugendherberge.  
+Am naechsten Morgen sollte es gleich weiter Richtung Sapporo, eine 2 Millionen Stadt auf der Insel Hokaido, gehen.  Viel gibt es von der Reise nicht zu berichten, ausser dass wir mit dem Shinkansen 3 Stunden und dann mit dem wesentlich langsameren Express Zug 7 Stunden unterwegs waren. Schliesslich erreichten wir aber Sappora und fanden auch eine relativ guenstige und gemuetliche Jugendherberge.
 
 <div class="row">
   <div class="col-sm-6">

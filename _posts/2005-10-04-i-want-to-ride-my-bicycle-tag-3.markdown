@@ -13,7 +13,7 @@ header-img: img/tag_3.jpg
 ---
 
 Nachdem wir am Vortag ca. 14 Stunden zu Fuss durch Tokyo unterwegs waren und unsere Fuesse dementsprechend gelitten haben, beschlossen wir den heutigen Tag in Tokyo mit einem fahrbaren Untersatz zu bewaeltigen. Unser  Hotel bot gluecklicherweise Fahrraeder zun Verleih an (3 Euro pro Tag).
-Es war zwar kein luxurioeses Fahrrad, aber fuer das Fortkommen in Tokyo war es allemal ausreichend. 
+Es war zwar kein luxurioeses Fahrrad, aber fuer das Fortkommen in Tokyo war es allemal ausreichend.
 
 <div class="row">
   <div class="col-sm-6">
@@ -27,7 +27,7 @@ Es war zwar kein luxurioeses Fahrrad, aber fuer das Fortkommen in Tokyo war es a
 Einzig und allein das Wetter liess Boeses befuerchten. Der am Vortag mit 80% Wahrscheinlichkeit erwartete Regen wurde zwar in der Frueh auf 30% revidiert, aber der Himmel war bedeckt und es war nicht abzusehen, ob, wann und wie stark es regnen wuerde.
 Aber wie heisst es so treffend? "no risk no fun", aso machten wir uns nach einem Fruehstueck in einem traditionellen Ryokan auf den Weg.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-ZCmRfy_TKrk/VUIJJsjx4rI/AAAAAAAALIw/jHpv-M3PhJ0/s2048/0096%252520-%252520Tokyo.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-ZCmRfy_TKrk/VUIJJsjx4rI/AAAAAAAALIw/jHpv-M3PhJ0/s2048/0096%252520-%252520Tokyo.jpg' %}
 
 Bevor jemand fragt, wie verrueckt wir doch sind, im Tokyoer Stadtverkehr mit dem Rad zu fahren, so sei gesagt, dass hier in Tokyo die Fahrradfahrer am Gehsteig fahren. Die Fussgaenger kann man sozusagen als bewegliche Slalomschlangen sehen.
 
@@ -42,7 +42,7 @@ Bevor jemand fragt, wie verrueckt wir doch sind, im Tokyoer Stadtverkehr mit dem
 
 Das erste Ziel war der Ueno Park, in dem wir einen Markt, einige historische Gebaeude und Statuen, sowie einen kleinen See vorfanden.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-wJHZ66nJGNQ/VUIJSeMXmpI/AAAAAAAALIw/yUoJNzHd6oA/s2048/0109%252520-%252520Tokyo.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-wJHZ66nJGNQ/VUIJSeMXmpI/AAAAAAAALIw/yUoJNzHd6oA/s2048/0109%252520-%252520Tokyo.jpg' %}
 
 Zu Mittag entdeckten wir zufaellig eine relativ guenstige Sushi Bar in Downtown von Tokyo und diese Gelegenheit liessen wir uns nicht entgehen.
 
@@ -58,7 +58,7 @@ Zu Mittag entdeckten wir zufaellig eine relativ guenstige Sushi Bar in Downtown 
 Danach furen wir weiter zur Tokyo Station, um die Tourist Information bezueglich unserer geplanten Reise durch ganz Japan zu befragen. Das naechste Ziel sollten die Ropphongi Hills, eine relativ reiche Gegend, in der sich hippe Wohnhaeuser und ein grosser Entertainment Komplex befinden, sein.
 
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-ZvW_XPFBaJQ/VUIJU0pXArI/AAAAAAAALIw/ls6RdRm-juE/s2048/0113%252520-%252520Tokyo.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-ZvW_XPFBaJQ/VUIJU0pXArI/AAAAAAAALIw/ls6RdRm-juE/s2048/0113%252520-%252520Tokyo.jpg' %}
 
 Wie der Name ("hills") andeutet, mussten wir einen Huegel rauf, was doch etwas an den Kraeften zehrte.
 Da es bereits dem Abend entgegen ging, beschlossen wir zum Hotel zurueckzufahren.
@@ -74,10 +74,10 @@ Dabei kamen wir an einer orthodoxen Kathedrale und einem Tempel vorbei und passi
   </div>
 </div>
 
-Am Abend traffen wir Hiroko eine Freundin eines Freundes. Sie und ihre Freundin Masako luden uns zum Essen ein (danke an dieser Stelle) und zeigten uns  Tokyo Station bei Nacht (leider ohne Beleuchtung). 
+Am Abend traffen wir Hiroko eine Freundin eines Freundes. Sie und ihre Freundin Masako luden uns zum Essen ein (danke an dieser Stelle) und zeigten uns  Tokyo Station bei Nacht (leider ohne Beleuchtung).
 
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-WHRs7JKIr4Q/VUIJW7Hn3oI/AAAAAAAALIw/o3u7iXdqyCM/s2048/0116%252520-%252520Tokyo.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-WHRs7JKIr4Q/VUIJW7Hn3oI/AAAAAAAALIw/o3u7iXdqyCM/s2048/0116%252520-%252520Tokyo.jpg' %}
 
 In einem Anflug von Wahn ueberlegten wir kurz, ob wir mit Ihnen gemeinsam typisch japanisch Karaoke singen wuerden. Das wollten wir ihnen aber dann doch nicht antun.
 

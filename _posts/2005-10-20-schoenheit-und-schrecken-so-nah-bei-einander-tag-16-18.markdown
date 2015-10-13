@@ -12,7 +12,7 @@ header-img: img/tag_16_18.jpg
 location: Nagasaki
 ---
 
-Nach dem 3-taegigen Aufenthalt in Osaka ging es in der Frueh des 16ten  Tages Richtung Hiroshima. Die Rush-Hour von Osaka ist zwar nicht so schlimm, wie in Tokyo, doch das Gedraenge war nicht zu unterschaetzen. 
+Nach dem 3-taegigen Aufenthalt in Osaka ging es in der Frueh des 16ten  Tages Richtung Hiroshima. Die Rush-Hour von Osaka ist zwar nicht so schlimm, wie in Tokyo, doch das Gedraenge war nicht zu unterschaetzen.
 
 
 <div class="row">
@@ -81,13 +81,13 @@ Nach dem Mittagessen ging es dann schliesslich nach Hiroshima, wo wir wieder erk
 </div>
 
 
-Die heutige Nacht sollten wir wieder in einem traditionellen Ryokan, geleitet von einer vitalen alten Dame, die in Yoda Manier akrobatische Einlagen hinlegte, uebernachten. Interssanterweise hatte das Ryokan eine sehr futoristische Klobrille mit vielen bunten Knoepfen (automatische Dusche, etc). Leider blieben uns deren Funktionen zum Teil verborgen. 
+Die heutige Nacht sollten wir wieder in einem traditionellen Ryokan, geleitet von einer vitalen alten Dame, die in Yoda Manier akrobatische Einlagen hinlegte, uebernachten. Interssanterweise hatte das Ryokan eine sehr futoristische Klobrille mit vielen bunten Knoepfen (automatische Dusche, etc). Leider blieben uns deren Funktionen zum Teil verborgen.
 
-{% include picture.html title='Hiroshima' img='https://lh3.googleusercontent.com/-mdQdGXG6XUw/VUol_yTzFQI/AAAAAAAALQw/zBtmvFkrCQ4/s2048/IMG_0007_001.JPG' %}
+{% include picture.html title='Hiroshima' dim="750"  img='https://lh3.googleusercontent.com/-mdQdGXG6XUw/VUol_yTzFQI/AAAAAAAALQw/zBtmvFkrCQ4/s2048/IMG_0007_001.JPG' %}
 
-Im Quartier gaben wir uns das japanische Fernsehen. Besonders interessant war der Bericht ueber den Taifun, der zum Glueck Japan nicht treffen sollte und die Diskussion ueber den Besuch von Koizumi bei dem umstrittenen Schrein in Tokyo.   
+Im Quartier gaben wir uns das japanische Fernsehen. Besonders interessant war der Bericht ueber den Taifun, der zum Glueck Japan nicht treffen sollte und die Diskussion ueber den Besuch von Koizumi bei dem umstrittenen Schrein in Tokyo.
 
-{% include picture.html title='Hiroshima' img='https://lh3.googleusercontent.com/-F4Dcly39rCA/VUIMjJFDtAI/AAAAAAAALQo/hD8dH0LoE_Y/s2048/0427%252520-%252520Hiroshima.jpg' %}
+{% include picture.html title='Hiroshima' dim="750"  img='https://lh3.googleusercontent.com/-F4Dcly39rCA/VUIMjJFDtAI/AAAAAAAALQo/hD8dH0LoE_Y/s2048/0427%252520-%252520Hiroshima.jpg' %}
 
 Da wir schon muede waren und das japanische Fernsehen doch nicht so spannend war, gingen wir relativ frueh schlafen.
 
@@ -107,7 +107,7 @@ Am naechsten Morgen stand Hiroshima am Programm. Viel muss ueber Hiroshima nicht
 </div>
 
 
-Am 6ten August 1945 um genau 08:15 explodierte die erste Atombombe 580 Meter ueber dem Boden ca. 160 Meter vom A-Bomb Dome entfernt. Die Bombe hatte eine Sprengkraft von 16.000 Tonnen TNT. Die Temperatur im Zentrum betrug ca. 1 Million Grad und waehrend sich die Druckwelle und Hizewelle ausbreiteten ca. 3000-4000 Grad. Gebaeude und Menschen in einem Radius von 2km Entfernung verbrannten. Ca. 80.000 Menschen starben als direkte Folge der Explosion und weitere 60.000 als Folge der Strahlung. Das Museum rueckte die unglaubliche Zerstoerungsgewalt derartiger Bomben, die heutzutage 3.500 fach staerker als die Hiroshima Bombe sind,  ins Bewusstsein. In diesem Licht erscheinen die Ueberlegungen mancher Politiker begrenzt Nuklearwaffen einzusetzen, als Schlag in das Gesicht der Opfer. 
+Am 6ten August 1945 um genau 08:15 explodierte die erste Atombombe 580 Meter ueber dem Boden ca. 160 Meter vom A-Bomb Dome entfernt. Die Bombe hatte eine Sprengkraft von 16.000 Tonnen TNT. Die Temperatur im Zentrum betrug ca. 1 Million Grad und waehrend sich die Druckwelle und Hizewelle ausbreiteten ca. 3000-4000 Grad. Gebaeude und Menschen in einem Radius von 2km Entfernung verbrannten. Ca. 80.000 Menschen starben als direkte Folge der Explosion und weitere 60.000 als Folge der Strahlung. Das Museum rueckte die unglaubliche Zerstoerungsgewalt derartiger Bomben, die heutzutage 3.500 fach staerker als die Hiroshima Bombe sind,  ins Bewusstsein. In diesem Licht erscheinen die Ueberlegungen mancher Politiker begrenzt Nuklearwaffen einzusetzen, als Schlag in das Gesicht der Opfer.
 Alles in allem zeigte das Museum  ziemlich bewegende und schockierende Bilder und Einzelschicksale. Beeindruckend und gleichsam schockierend war die Austellung der  Protestschreiben, die der Buergermeister von Hiroshima anlaesslich jedes Atombombentests verfasste und auch weiterhin schreibt.
 
 <div class="row">
@@ -120,7 +120,7 @@ Alles in allem zeigte das Museum  ziemlich bewegende und schockierende Bilder un
 </div>
 
 (der rote Punkt im ersten Bild markiert den Feuerball der Explosion)
-Nach dem Schrecken aber zurueck zu etwas Schoenem, denn nach dem Besuch in Peace Park und im Mueseum machten wir uns auf den Weg nach Miyajima, einem Schrein, dessen Tor im Wasser wohl zu den bekanntesten Sehenswuerdigkeiten von Japan gehoert. Es liegt am Fusse des Bergs Misen. Gegen 3 Uhr erreichten wir die Insel mit der Faehre, auf dem der Schrein und das Tor liegen. 
+Nach dem Schrecken aber zurueck zu etwas Schoenem, denn nach dem Besuch in Peace Park und im Mueseum machten wir uns auf den Weg nach Miyajima, einem Schrein, dessen Tor im Wasser wohl zu den bekanntesten Sehenswuerdigkeiten von Japan gehoert. Es liegt am Fusse des Bergs Misen. Gegen 3 Uhr erreichten wir die Insel mit der Faehre, auf dem der Schrein und das Tor liegen.
 
 <div class="row">
   <div class="col-sm-4">
@@ -136,7 +136,7 @@ Nach dem Schrecken aber zurueck zu etwas Schoenem, denn nach dem Besuch in Peace
 
 
 
-Abhaengig von den Gezeiten liegt das Tor im Wasser oder nicht und nachdem es bei unserer Ankuft noch nicht im Wasser lag, entschlossen wir uns, mit der Gondel auf den Berg Misen zu fahren, von wo man eine gute Aussicht auf das Inland Meer hat. 
+Abhaengig von den Gezeiten liegt das Tor im Wasser oder nicht und nachdem es bei unserer Ankuft noch nicht im Wasser lag, entschlossen wir uns, mit der Gondel auf den Berg Misen zu fahren, von wo man eine gute Aussicht auf das Inland Meer hat.
 
 <div class="row">
   <div class="col-sm-4">
@@ -151,7 +151,7 @@ Abhaengig von den Gezeiten liegt das Tor im Wasser oder nicht und nachdem es bei
 </div>
 
 
-Oben angekommen kamen wir uns aber eher vor wie im Film "Planet der Affen", bzw. sahen wir uns der Armee der Twelve Monkeys gegenueber. Eine Gruppe von wilden Affen hielt sich in der Umgebung der Bergstation auf (letztes Bild ist ein Video. In der Gallery sind noch mehr kurze Videoaufnahmen von der Armee der 12 Monkeys). 
+Oben angekommen kamen wir uns aber eher vor wie im Film "Planet der Affen", bzw. sahen wir uns der Armee der Twelve Monkeys gegenueber. Eine Gruppe von wilden Affen hielt sich in der Umgebung der Bergstation auf (letztes Bild ist ein Video. In der Gallery sind noch mehr kurze Videoaufnahmen von der Armee der 12 Monkeys).
 
 
 <div class="row">
@@ -179,7 +179,7 @@ Oben angekommen kamen wir uns aber eher vor wie im Film "Planet der Affen", bzw.
   </div>
 </div>
 
-Nachdem wir eine zeitlang Feldforschung betrieben hatten und sich der Abend naeherte fuhren wir wieder runter zum Tor und diesmal sorgte die Flut dafuer, dass das Tor im Wasser stand. Mit der untergehenden Sonne im Hintergrund sah das Ganze ziemlich idyllisch aus. 
+Nachdem wir eine zeitlang Feldforschung betrieben hatten und sich der Abend naeherte fuhren wir wieder runter zum Tor und diesmal sorgte die Flut dafuer, dass das Tor im Wasser stand. Mit der untergehenden Sonne im Hintergrund sah das Ganze ziemlich idyllisch aus.
 
 
 <div class="row">
@@ -191,21 +191,21 @@ Nachdem wir eine zeitlang Feldforschung betrieben hatten und sich der Abend naeh
   </div>
 </div>
 
-Auf der Insel lernten wir auch eine Brasilianerin, Agnes, mit japanischen Wurzeln kennen. Sie erzaehlte uns von ihrer bevorstehenden 6 monatigen Reise durch Suedostasien und wir von unserer Weltreise. 
+Auf der Insel lernten wir auch eine Brasilianerin, Agnes, mit japanischen Wurzeln kennen. Sie erzaehlte uns von ihrer bevorstehenden 6 monatigen Reise durch Suedostasien und wir von unserer Weltreise.
 
-{% include picture.html title='' img='https://lh3.googleusercontent.com/-Y5Cet3mlVqA/VUINNSgb9-I/AAAAAAAALIw/ecwWlQqbXes/s2048/0486%252520-%252520Miyajima.jpg' %}
+{% include picture.html title='' dim="750"  img='https://lh3.googleusercontent.com/-Y5Cet3mlVqA/VUINNSgb9-I/AAAAAAAALIw/ecwWlQqbXes/s2048/0486%252520-%252520Miyajima.jpg' %}
 
 
 So verging auch die Zugfahrt zurueck nach Hiroshima wie im Flug.
 
-Der Anschlusszug brachte uns dann nach Nagasaki, wo wir leider wieder etwas Pech mit unserem Quartier hatten, da dieses keinen Checkin nach 10 Uhr erlaubte. 
+Der Anschlusszug brachte uns dann nach Nagasaki, wo wir leider wieder etwas Pech mit unserem Quartier hatten, da dieses keinen Checkin nach 10 Uhr erlaubte.
 
-{% include picture.html title='Train' img='https://lh3.googleusercontent.com/-U39Sk9483DU/VUINOElXXzI/AAAAAAAALIw/U3q5w4gzimA/s2048/0487%252520-%252520Miyajima.jpg' %}
+{% include picture.html title='Train' dim="750"  img='https://lh3.googleusercontent.com/-U39Sk9483DU/VUINOElXXzI/AAAAAAAALIw/U3q5w4gzimA/s2048/0487%252520-%252520Miyajima.jpg' %}
 
 
 Also beschlossen wir, die Nacht durchzumachen und am naechsten Tag gleich in der Frueh die Stadt zu besichtigen, da wir noch am selben Tag bis nach Kagoshima kommen wollten.
 
-{% include picture.html title='Nagasaki' img='https://lh3.googleusercontent.com/-mSxOA5gr7wQ/VUINQyPLw3I/AAAAAAAALIw/ZTf6loptK0Q/s2048/0490%252520-%252520Nagasaki.jpg' %}
+{% include picture.html title='Nagasaki' dim="750"  img='https://lh3.googleusercontent.com/-mSxOA5gr7wQ/VUINQyPLw3I/AAAAAAAALIw/ZTf6loptK0Q/s2048/0490%252520-%252520Nagasaki.jpg' %}
 
 
 Gleich in der Frueh nach Morgendaemmerung besuchten wir den Glover Garden. In diesem befanden sich eine Reihe von europaeischen Haeusern von Haendlern aus Europa, denen ab Mitte des 19. Jahrhunderts erlaubt wurde, in Nagasaki ihrem Gewerbe nachzugehen. Davor betrieb Japan eine Isolationspolitik und waehrend dieser Zeit war es nur mit besonderen Genehmigungen moeglich sich als Europaer in Japan niederzulassen (Hollaender, Chinesen, etc). Interessanterweise hatte der Park einige Rolltreppen ;-)
@@ -226,7 +226,7 @@ Gleich in der Frueh nach Morgendaemmerung besuchten wir den Glover Garden. In di
 </div>
 
 
-Danach besuchten wir unseren ersten chinesischen Schrein, der sich deutlich von den bisher gesehenen unterschied. 
+Danach besuchten wir unseren ersten chinesischen Schrein, der sich deutlich von den bisher gesehenen unterschied.
 
 <div class="row">
   <div class="col-sm-4">
@@ -256,7 +256,7 @@ Weiter ging es mit dem wichtigsten chinesischen Schrein von Nagasaki, gefolgt vo
 </div>
 
 
-Nachdem wir weitere 3 Schreine/Tempel gesehen hatten, begaben wir uns zu einer Gedenkkirche fuer die ersten christlichen Maertyrer in Japan. 
+Nachdem wir weitere 3 Schreine/Tempel gesehen hatten, begaben wir uns zu einer Gedenkkirche fuer die ersten christlichen Maertyrer in Japan.
 
 <div class="row">
   <div class="col-sm-4">
@@ -271,12 +271,12 @@ Nachdem wir weitere 3 Schreine/Tempel gesehen hatten, begaben wir uns zu einer G
 </div>
 
 
-Ende des 16. Jahrhunderts, nach einer Rebellion der Christen in Japan, die sich gegen die damaligen Repressalien durch den Kaiser mit einem Aufstand gewehrt hatten, wurden 6 auslaendische Missionare und 20 japanische Christen an der Stelle der heutigen Kirche vom Shogunat gekreuzigt.  
+Ende des 16. Jahrhunderts, nach einer Rebellion der Christen in Japan, die sich gegen die damaligen Repressalien durch den Kaiser mit einem Aufstand gewehrt hatten, wurden 6 auslaendische Missionare und 20 japanische Christen an der Stelle der heutigen Kirche vom Shogunat gekreuzigt.
 
-{% include picture.html title='Kirche vom Shogunat' img='https://lh3.googleusercontent.com/-zCFHORnZ10w/VUpAwXI-cNI/AAAAAAAALSQ/HsdAc2Zax6I/s2048/IMG_0054.JPG' %}
+{% include picture.html title='Kirche vom Shogunat' dim="750"  img='https://lh3.googleusercontent.com/-zCFHORnZ10w/VUpAwXI-cNI/AAAAAAAALSQ/HsdAc2Zax6I/s2048/IMG_0054.JPG' %}
 
 
-Nach diesem Ausflug in die Tokugawa-Shogunatszeit, ging es zurueck in die modernere Geschichte, naemlich zum Peace Memorial Park fuer die Atombombenopfer von Nagasaki. 
+Nach diesem Ausflug in die Tokugawa-Shogunatszeit, ging es zurueck in die modernere Geschichte, naemlich zum Peace Memorial Park fuer die Atombombenopfer von Nagasaki.
 
 <div class="row">
   <div class="col-sm-4">
@@ -305,7 +305,7 @@ Nach dem Besuch im angrenzenden Museum  fuhren wir mit der Strassenbahn zum letz
 
 Gegen spaeten Nachmittag verliessen wir Nagasaki Richtung Kagoshima. Aehnlich wie in Nagasaki hatte die Jugendherberge eine sehr fruehe Checkin-Deadline (8 Uhr). Gegen 19 Uhr erreichten wir schliesslich Kagoshima, waren aber nicht in der Lage eine Wegbeschreibung zu erhalten, weder von den Passanten noch sonstwie. In unserer Verzweiflung gingen wir zu einer Police-Box (der ueblich Weg um eine Adresse in Japan zu finden), wo eine nette Polizistin bei der Jugendherberge anrief (wir kamen telefonisch nie durch). Daraufhin holte uns Besitzer von der Police-Box ab. Dieser war ein exzentrischer, etwas rundlicher Japaner mit Schnurrbart, der uns zur Jugendherberge (wo wir ganz allein waren) brachte.
 
-{% include picture.html title='Jugendherberge' img='https://lh3.googleusercontent.com/-5bYXzQa57_o/VUINi8LvCmI/AAAAAAAALIw/7yQI_-WEEAU/s2048/0515%252520-%252520Kagoshima.jpg' %}
+{% include picture.html title='Jugendherberge' dim="750"  img='https://lh3.googleusercontent.com/-5bYXzQa57_o/VUINi8LvCmI/AAAAAAAALIw/7yQI_-WEEAU/s2048/0515%252520-%252520Kagoshima.jpg' %}
 
 
 <h3>Reiseroute (Osaka- Kagushima)</h3>
