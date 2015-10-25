@@ -84,7 +84,7 @@ Man erhielt dann einige Anweisungen, wie man mavoevriert und dann ging es auch s
 
 <div class="row">
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-WZccsOTyzJg/Vhk1DVvznQI/AAAAAAAARvY/x9-kUrcGLa8/s2048-Ic42/PB290049%252520_640%252520x%252520480_.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-Rd5wyGmBVcs/Viz9cL1TNJI/AAAAAAAAS1o/x0U-T1ZzVOc/s2048-Ic42/PB290049.JPG' %}
   </div>
   <div class="col-sm-4">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-2mCHG0seyEA/VVBuS06fUXI/AAAAAAAAQjI/KZ2USYiAFuA/s2048-Ic42/0211%252520-%252520Queenstown%252520-%252520Body%252520Rafting.jpg' %}
@@ -192,7 +192,7 @@ Danach ging es erstmals ueber von Hand ins Eis geschlagene Stufen hinauf.
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-vrV3d94kH_A/VVBumEZKRJI/AAAAAAAAQjI/MzS9GW-sTDk/s2048-Ic42/0236%252520-%252520Franz%252520Josef%252520Gletscher.jpg' %}
   </div>
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-TM6Eo7ROuHE/VhovPpJiduI/AAAAAAAARyc/CSdYi240_Zc/s2048-Ic42/IMG_0028.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-IzRk1d1eDdE/Viz9cE4ePnI/AAAAAAAASxM/9qEPGH1zsbQ/s2048-Ic42/IMG_0028.JPG' %}
   </div>
 </div>
 
@@ -213,13 +213,13 @@ Die ersten 2 Stunden  marschierten wir hinter den Halb- und Ganztagsgruppen, wel
 
 Dort, wo wir uns entlang von Gletscherspalten bewegen mussten, gab es Seile zum anhalten.
 
-{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-Mnvrr3uWofs/Vhosd6vJ-_I/AAAAAAAARxo/x8vcRuxTgpM/s2048-Ic42/IMG_0032.JPG' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-XXYVYfbBaPw/Viz9cCTxC0I/AAAAAAAAS1o/BEPfptL7i_8/s2048-Ic42/IMG_0032.JPG' %}
 
 Irgendwann verliessen wir den normalen Pfad und auch die anderen Gruppen und suchten uns eine geeignete Eiswand zum Eisklettern.
 
 <div class="row">
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-dvSKpMHLNts/VhouecP1sYI/AAAAAAAARyM/iOYIEnoMUGE/s2048-Ic42/IMG_0057.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-Z1WjMQASazc/Viz9cEbgOBI/AAAAAAAASxM/-jVeXWuq-Jo/s2048-Ic42/IMG_0057.JPG' %}
   </div>
   <div class="col-sm-6">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-n-zhu4Gqrrs/VVBuwo2dyLI/AAAAAAAAQjI/Ygiu-V7y8T4/s2048-Ic42/0249%252520-%252520Franz%252520Josef%252520Gletscher.jpg' %}
@@ -232,19 +232,19 @@ Georg:
 
 <div class="row">
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-BcYDDx7QKI0/VhowLG-Ty0I/AAAAAAAARzA/mwqtxP6JfvM/s2048-Ic42/IMG_0084.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-MclnfD8RXWI/Viz9cIuCCgI/AAAAAAAAS1o/7epu_Txx5yE/s2048-Ic42/IMG_0084.JPG' %}
   </div>
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-JTshVbKspx0/VhowLCOLM0I/AAAAAAAARzA/7TLYOaorwrQ/s2048-Ic42/IMG_0086.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-AAxC2Gwgf1E/Viz9cCzINhI/AAAAAAAAS1s/t_cMJlWWIe8/s2048-Ic42/IMG_0086.JPG' %}
   </div>
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-qB99w_0kH_w/VhowLPtz5ZI/AAAAAAAARzI/3Fk49c9DvtQ/s2048-Ic42/IMG_0087.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-aqAEvU58TmQ/Viz9cOkNEDI/AAAAAAAAS1o/bLzqVOji1Jk/s2048-Ic42/IMG_0087.JPG' %}
   </div>
 </div>
 
 <div class="row">
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-WwnLBgrgb2w/VhowLAbUFXI/AAAAAAAARzI/4drZXYM-nr0/s2048-Ic42/IMG_0092.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-8mUXJxqEacE/Viz9cLAZ77I/AAAAAAAAS1s/4lEI5h4hYIQ/s2048-Ic42/IMG_0092.JPG' %}
   </div>
   <div class="col-sm-6">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-RxHFhE9gSkA/VVBu0jHvkuI/AAAAAAAAQjI/KIekzCtgV6o/s2048-Ic42/0255%252520-%252520Franz%252520Josef%252520Gletscher.jpg' %}
@@ -255,24 +255,17 @@ Uemit (Video):
 
 <div class="row">
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-lGfND9y3vFA/VhoxPSfhN8I/AAAAAAAARz8/1U_8LOZ7eSA/s2048-Ic42/IMG_0063.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-w4gsytAYiAc/Viz9cH3jQwI/AAAAAAAAS1s/Fe4e9Lyc9R8/s2048-Ic42/IMG_0064.JPG' %}
   </div>
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-pANVf8X7l6A/VhoxPfInUHI/AAAAAAAARz0/nBjuoYKuDIg/s2048-Ic42/IMG_0064.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-yeHshhvQttg/Viz9cGklpDI/AAAAAAAAS1s/owQl6ZDMRK0/s2048-Ic42/IMG_0065.JPG' %}
   </div>
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-ZJvULoNYIM4/VhoxPe-fHeI/AAAAAAAARz0/poFZ1ROjtWM/s2048-Ic42/IMG_0065.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-QOupjnSUABw/VVBuxPaTI0I/AAAAAAAAQjI/kGGp2zTUX5s/s2048-Ic42/0251%252520-%252520Franz%252520Josef%252520Gletscher.jpg' %}
   </div>
 </div>
 
-<div class="row">
-  <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-QOupjnSUABw/VVBuxPaTI0I/AAAAAAAAQjI/kGGp2zTUX5s/s2048-Ic42/0251%252520-%252520Franz%252520Josef%252520Gletscher.jpg' %}
-  </div>
-  <div class="col-sm-6">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/--L3KLhTiRcE/VVBu2c7nb1I/AAAAAAAAQjs/3GvEfJSlvlY/s288-Ic42/0257%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/vdw02WhNV3q-PqB5XwPXRZxO_3l1Y6Mi6oAUpI9B-JMd=m18?cpn=y16ENrg8_kqMlu96&c=WEB&cver=html5' %}
-  </div>
-</div>
+{% include video.html title='' img='https://lh3.googleusercontent.com/--L3KLhTiRcE/VVBu2c7nb1I/AAAAAAAAQjs/3GvEfJSlvlY/s288-Ic42/0257%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/vdw02WhNV3q-PqB5XwPXRZxO_3l1Y6Mi6oAUpI9B-JMd=m18?cpn=y16ENrg8_kqMlu96&c=WEB&cver=html5' %}
 
 Manche taten sich leichter und andere schwerer, aber alle hatten Spass dabei. Leider blieb es nur beim Ueben an einigen wenigen Waenden. Der Rueckweg bergab dauerte naturgemaess kuerzer, als der Aufstieg und gegen 5 Uhr waren wir wieder zurueck im Ort.
 
@@ -304,7 +297,7 @@ Dieses bringt einen an eine gewuenschte Bucht und holt einen wieder an einer and
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-x9Ujx7_gFF8/VVBvEBcM78I/AAAAAAAAQjI/spNnHrBDnds/s2048-Ic42/0277%252520-%252520Abel%252520Tasman%252520Nationalpark.jpg' %}
   </div>
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-_CPVgeY66NQ/Vho1Ojb7gYI/AAAAAAAAR08/tgnDnCtalTw/s2048-Ic42/IMG_0132.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-nP7UXmwI-2c/Viz9cKpAFUI/AAAAAAAAS1s/WVuAcGRALHE/s2048-Ic42/IMG_0132.JPG' %}
   </div>
 </div>
 
@@ -327,7 +320,7 @@ Dabei kamen wir an unglaublich schoenen Buchten und Kuestenabschnitten vorbei.
 
 <div class="row">
   <div class="col-sm-3">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-dqDi2myF8CQ/VhozCncjekI/AAAAAAAAR0g/ybHdxsfpP6Y/s2048-Ic42/IMG_0143.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-BOVFUXAD7zc/Viz9cOrRc0I/AAAAAAAAS1o/7HLfkqUjYSg/s2048-Ic42/IMG_0143.JPG' %}
   </div>
   <div class="col-sm-3">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-VhyeU6XXHZs/VVBvF3j270I/AAAAAAAAQjI/t9vubus9aWA/s2048-Ic42/0279%252520-%252520Abel%252520Tasman%252520Nationalpark.jpg' %}

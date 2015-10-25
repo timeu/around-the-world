@@ -23,7 +23,7 @@ Auf dem Weg dorthin liegen aber eine Reihe von sehenswerten Nationalparks. Der e
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-yzsetnmikOk/VVCP0ePujdI/AAAAAAAASNI/0uDeHXJD1D4/s2048-Ic42/0060%252520-%252520Anza-Borrego%252520Desert%252520State%252520Park.jpg' %}
   </div>
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-mWx4IpyksIc/Vhy6dElJydI/AAAAAAAASRQ/heKENAdsQqc/s2048-Ic42/IMG_0047.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-AWA9yR6rjfU/Viz9yo_J6BI/AAAAAAAAS1g/htsfhfLYjDI/s2048-Ic42/IMG_0047.JPG' %}
   </div>
   <div class="col-sm-4">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-6tdgVCkJO4g/VVCP7BzsuFI/AAAAAAAASNI/l-glrLR1m3A/s2048-Ic42/0068%252520-%252520Anza-Borrego%252520Desert%252520State%252520Park.jpg' %}
@@ -34,7 +34,7 @@ Sogar unser 4WD Auto kam fuer die Fahrt entlang einer Sandpiste zu einem schoene
 
 <div class="row">
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-dPy7Wr-cqPc/Vhy60sSjx6I/AAAAAAAASR0/rRBw2TWZ264/s2048-Ic42/IMG_0061.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-LuD3l2yU8NY/Viz9yraSypI/AAAAAAAAS1g/WJPq6UCjZPw/s2048-Ic42/IMG_0061.JPG' %}
   </div>
   <div class="col-sm-6">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-ch01jlfhxaw/VVCP6fVQELI/AAAAAAAASNI/OAnN0zqbW04/s2048-Ic42/0067%252520-%252520Anza-Borrego%252520Desert%252520State%252520Park.jpg' %}
@@ -186,7 +186,7 @@ Das Zitat klingt zwar abgedroschen. Aber die Fotos sagen mehr als 1000 Worte.
 
 <div class="row">
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-BsGyqcd2vSM/VhzBhWpUG4I/AAAAAAAASSs/IDhnEGpgjnY/s2048-Ic42/IMG_0014.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-KruzO7LW2EM/Viz9ykLMTsI/AAAAAAAAS1g/7gpl81XwGXE/s2048-Ic42/IMG_0014.JPG' %}
   </div>
   <div class="col-sm-6">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-Z-VEchGVw5Y/VVCQenUXJQI/AAAAAAAASNI/ss81dMmktHc/s2048-Ic42/0127%252520-%252520Grand%252520Canyon.jpg' %}
@@ -201,10 +201,10 @@ Das Zitat klingt zwar abgedroschen. Aber die Fotos sagen mehr als 1000 Worte.
 
 <div class="row">
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-0w73q8-oq9s/VhzBstNiHeI/AAAAAAAASS8/glJPaLEEtqA/s2048-Ic42/IMG_0022.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-t14G1uUpCGI/Viz9yjDgGXI/AAAAAAAAS1g/bVGBUNLBhcE/s2048-Ic42/IMG_0022.JPG' %}
   </div>
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-bICzN6UhKKk/VhzH2RiDXKI/AAAAAAAASVw/K6hRr0FvTxA/s2048-Ic42/IMG_0057.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-DNBMLSsOhqM/Viz9ykYmJLI/AAAAAAAAS1g/qYphaIu_beQ/s2048-Ic42/IMG_0057.JPG' %}
   </div>
 </div>
 
@@ -220,20 +220,20 @@ Natuerlich kann man auch im Grand Canyon wandern, und da wir dies bisher immer g
   {% include picture.html title='' img='https://lh3.googleusercontent.com/-2qhsgXyeonY/VVCQnxe5jfI/AAAAAAAASNI/ulsCEudU4r4/s2048-Ic42/0141%252520-%252520Grand%252520Canyon.jpg' %}
   </div>
   <div class="col-sm-4">
-	 {% include picture.html title='' img='https://lh3.googleusercontent.com/-Wqp-e8dYnsU/VhzG-6E7cvI/AAAAAAAASU0/aWHTQBt2hdo/s2048-Ic42/IMG_0073.JPG' %}
+	 {% include picture.html title='' img='https://lh3.googleusercontent.com/-CayhF9Lm-B8/Viz9ys3TPQI/AAAAAAAAS1g/C0S7WuCgglE/s2048-Ic42/IMG_0073.JPG' %}
   </div>
 </div>
 
 
 <div class="row">
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-Nhflcw_hvQ4/VhzFvbFcXOI/AAAAAAAASUM/GlOu_Zc6uKg/s2048-Ic42/IMG_0062.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-inYk0QpxzfM/Viz9yrwrLkI/AAAAAAAAS1g/jpJlLMRE1HI/s2048-Ic42/IMG_0062.JPG' %}
   </div>
   <div class="col-sm-4">
   {% include video.html title='' img='https://lh3.googleusercontent.com/-Ps4X331WaOU/VVCQo1ysVUI/AAAAAAAASNQ/4sH5iMEOvLM/s800-Ic42/0141%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/2qSAK5srEUPO-rXjtVt8kuMOaVGSFLyAka-TD60SvOIT=m18?cpn=8LNmIB7DAKoKiKWa&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-lFrnL3SYQVo/VhzGV6spg7I/AAAAAAAASUg/4vWZi1ViNHQ/s2048-Ic42/IMG_0072.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-M4sopaqiEDg/Viz9yjvzlxI/AAAAAAAAS1g/VmPxIKcAJzw/s2048-Ic42/IMG_0072.JPG' %}
   </div>
 </div>
 
@@ -255,7 +255,7 @@ Danach ging es ueber den beleuchteten Hoover Damm zurück nach Las Vegas und wei
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-24GGkb8y55o/VVCQwi8vvvI/AAAAAAAASNI/b9f-hp2hhsk/s2048-Ic42/0153%252520-%252520Grand%252520Canyon.jpg' %}
   </div>
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-9BCsKtwtuiI/VhzDnk-N1mI/AAAAAAAASTg/MPVrTbhOShc/s2048-Ic42/IMG_0112.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-ahmnpUDu0Q0/Viz9yvZWzFI/AAAAAAAAS1g/0IcVquON5lI/s2048-Ic42/IMG_0112.JPG' %}
   </div>
 </div>
 

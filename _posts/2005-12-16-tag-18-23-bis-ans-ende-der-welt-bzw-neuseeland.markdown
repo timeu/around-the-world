@@ -222,7 +222,7 @@ Hervorzuheben ist ein grosser und sehr gut getarnter Scorpion Fisch und eine gro
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-gmVLpdbUQoM/VVBxzC1NVYI/AAAAAAAAQjI/6YbKDNjlBC0/s2048-Ic42/0499%252520-%252520Poor%252520Knights%252520Islands.jpg' %}
   </div>
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-ctTWZ1ubhMU/Vhpk64lO1CI/AAAAAAAAR_A/CbQMHzJkRYg/s2048-Ic42/IMG_0009_001.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-37DVHVz2yas/Viz9cAZwrHI/AAAAAAAAS1s/S2QB0KY2XhI/s2048-Ic42/IMG_0009.JPG' %}
   </div>
   <div class="col-sm-4">
 	 {% include video.html title='' img='https://lh3.googleusercontent.com/-XEmZRGC8oic/VVBxs2-bWRI/AAAAAAAAQkc/xKqhveaSAUE/s800-Ic42/0489%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/Tale9H1EKdu-Y-R-qvOuKVWuHbPM71zZPf4o5u7EYt0W=m18?cpn=MqZrSQafwDUu--Et&c=WEB&cver=html5' %}
@@ -236,7 +236,7 @@ Nach ca. 50 Minuten tauchten wir auf. In der Oberflaechenpause fuhren wir mit de
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-FZFG1QrrYJo/VVBxuyXNOKI/AAAAAAAAQkw/nNb8jUS_fFA/s2048-Ic42/0492%252520-%252520Poor%252520Knights%252520Islands.jpg' %}
   </div>
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-9T8cb9iFOiI/Vhplsa5gA2I/AAAAAAAAR_U/dXOPuv1yVm8/s2048-Ic42/IMG_0045.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-zevYZydx7q8/Viz9cNAToYI/AAAAAAAAS1o/5kMPDQTDZto/s2048-Ic42/IMG_0045.JPG' %}
   </div>
 </div>
 
@@ -503,7 +503,7 @@ An gewissen Stellen konnten wir unseren Mut mit einigen Spruengen in dunkle, nas
 
 Um 4 erreichten wir wieder die Base, wo wir uns umzogen und den angrenzenden Strand besuchten. Dort konnte man naemlich auf den Lions Rock steigen, der fuer die Maoris ein wichtiger Ort ist und der so aussieht, wie ein Loewe, welcher liegend raus auf den Ozean blickt.
 
-{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-h2KJIXtwCL4/Vht3P9CLQdI/AAAAAAAASCE/F7Lnxroyaz4/s2048-Ic42/IMG_0001_001.JPG' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-8VQk9aX5gYQ/Viz9cFu5dMI/AAAAAAAAS1s/uKyKzxxLdDA/s2048-Ic42/IMG_0001%252520%2525284%252529.JPG' %}
 
 Anschliessend ging es wieder zurueck nach Auckland.
 

@@ -33,7 +33,7 @@ Ziel war nämlich die Yasawa Inselgruppe, die aus (wie der Name schon sagt) etli
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-hH6VTpP_aQA/VVB4xkW_WOI/AAAAAAAASEw/o7YZQlFFfIY/s2048-Ic42/0015%252520-%252520Yasawa%252520Islands%252520Group.jpg' %}
   </div>
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-1s_7ZIGiAKg/VhuwqvlGLjI/AAAAAAAASG8/sg6y7fe7aWA/s2048-Ic42/IMG_0037.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-8jWW_1Vi5Qw/Vi0L_UVnfFI/AAAAAAAAS_Q/A8N6YY7ySEg/s2048-Ic42/IMG_0037.JPG' %}
   </div>
 </div>
 
@@ -83,7 +83,7 @@ Strom gab es nur für einige Stunden am Abend und Kommunikationsmittel gab es au
 
 <div class="row">
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-P-ranq6YS7E/VhuyQ21TmnI/AAAAAAAASHk/Uz27rCs8C6c/s2048-Ic42/fiji%2525202%252520001.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-N0yEkMHo5Ho/Vi0N6lIQ73I/AAAAAAAATAg/VKaaBmmbo3s/s2048-Ic42/fiji%2525202%252520001.jpg' %}
   </div>
   <div class="col-sm-4">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-y-VMKYKLrSU/VVB47nGwh7I/AAAAAAAASEw/WPMjYLKrSss/s2048-Ic42/0029%252520-%252520Yasawa%252520Islands%252520Group.jpg' %}
@@ -168,10 +168,10 @@ Dank der Regenzeit ist auch nicht allzuviel los. Von unserer OceanView-Bure aus 
 
 <div class="row">
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-V7KtFUMjQ7M/Vhu0MgURDtI/AAAAAAAASIE/VuGyM6Cn0Nk/s2048-Ic42/IMG_0032.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-xeSWA492rdQ/Vi0MwednvdI/AAAAAAAAS_4/n50FWnXuINU/s2048-Ic42/IMG_0032.JPG' %}
   </div>
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-51OhkUbbFaE/Vhu0SKA0VMI/AAAAAAAASIY/l6KcJ63JAnk/s2048-Ic42/IMG_0033.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-jI5_T3X1veA/Vi0MwYX9LQI/AAAAAAAAS_4/Mf6gHFFJGg4/s2048-Ic42/IMG_0033.JPG' %}
   </div>
   <div class="col-sm-4">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-CvPrtpOzHQk/VVB5b20ggJI/AAAAAAAASEw/Mxy1aeuymZ0/s2048-Ic42/0060%252520-%252520Wananavu%252520Beach%252520Ressort.jpg' %}
@@ -201,7 +201,7 @@ Was wir zu sehen bekamen, war eine unglaubliche Sichtweite und eine schier unend
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-Q1PuIt6DZ_0/VVB5rRit9pI/AAAAAAAASEw/imMiGp0ap08/s2048-Ic42/0078%252520-%252520Bligh%252520Water.jpg' %}
   </div>
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-SVW4Od2hZgo/Vhu6FjxPVJI/AAAAAAAASJQ/ItfHINYdzaE/s2048-Ic42/IMG_0437.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-Xy53qM27hbc/Vi0MkZ6AkaI/AAAAAAAAS_s/CqUk-B10GI4/s2048-Ic42/IMG_0437.JPG' %}
   </div>
 </div>
 
@@ -259,7 +259,7 @@ Soft Corals, die auf Kontakt ihre Farbe änderten.
 
 Schüchterne Muränen und Hummer.
 
-{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-QGyMqn3niLk/Vhu3-niLsQI/AAAAAAAASI0/Qs19TOw18hI/s2048-Ic42/IMG_0304.JPG' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-AE7foaaYZaU/Vi0MbAj0roI/AAAAAAAAS_g/5jmbJNX4eMs/s2048-Ic42/IMG_0304.JPG' %}
 
 Beeindruckende und große Barracudas.
 
@@ -364,11 +364,11 @@ Der Flug dauerte ca. 45 Minuten und schließlich landeten wir auf einer kleinen 
 
 Das Terminal bestand aus einer einfachen, kleinen Holzbaracke.
 
-{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-PkDF4IIsIA4/Vhu8zHFZPoI/AAAAAAAASJw/6lo-Qs4i0mE/s2048-Ic42/IMG_0354.JPG' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-9-HnEXm_ptg/Vi0NWWFuirI/AAAAAAAATAQ/cI0MOIkNLJE/s2048-Ic42/IMG_0354.JPG' %}
 
 Wir wurden von einem Boot abgeholt und dann zu einem sehr idyllischen Ressort, das Platz für ca. 30 Gäste bietet, gebracht.
 
-{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-s9wZrbFc5zs/Vhu9JV8fvvI/AAAAAAAASKA/1b8gpJ4N2w4/s2048-Ic42/IMG_0018.JPG' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-9orWmAS6ywk/Vi0NF-4Mk1I/AAAAAAAATAI/kT1UHCe5Gr0/s2048-Ic42/IMG_0018.JPG' %}
 
 Wir erhielten wieder eine Bure.
 
@@ -381,7 +381,7 @@ Diese lag inmitten von Kokosnusspalmen und Mangobäumen.
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-xox62QDmM4Q/VVB6yjDCkuI/AAAAAAAASEw/z66DVyL5FhU/s2048-Ic42/0165%252520-%252520Kadavu.jpg' %}
   </div>
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-oMdBN_0Edws/Vhu9yIjCejI/AAAAAAAASKU/GbYOE5YR6QM/s2048-Ic42/IMG_0010.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-orfXnxmqykI/Vi0NFyEfujI/AAAAAAAATAE/l_lmTZLk1PM/s2048-Ic42/IMG_0010.JPG' %}
   </div>
 </div>
 
@@ -399,7 +399,7 @@ Dadurch war es immer schattig genug, dass man sehr gut ohne Klimaanlage zurechtk
 
 Immerwährend deswegen, weil hier Flut und Ebbe keine Rolle spielen. Doch nicht nur die Lage und der Aufbau des Ressorts sind hervorzuheben, sondern auch das Essen. So gut haben wir auf der gesamten Weltreise nicht gegessen. Jeden Abend gab es Delikatessen, wie z.B Hummer, Schwertfisch, sonstiges Seafood, Anti-Pasta, frische Früchte und vieles mehr.
 
-{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-7QLvKx-cGkg/Vhu_-jqhxEI/AAAAAAAASLc/WyKMcQPSQI8/s2048-Ic42/IMG_0353.JPG' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-6bCVD3AWc7Y/Vi0NF8ruh5I/AAAAAAAATAI/hAlV1pFIQoE/s2048-Ic42/IMG_0353.JPG' %}
 
 Doch der eigentliche Grund für unsere Reise waren nicht das gute Essen oder die Strände, die zu den schönsten in ganz Fiji gehören, sondern der Umstand, dass auf Kadavu die berühmten Mantarochen zu sehen sind. Die nächsten 3 Tage galten wiedermal dem Tauchen. Am ersten Tag ging es zum King Kong Mountain, wo das Original gedreht wurde.
 
@@ -548,7 +548,7 @@ Wir beobachteten diese anmutigen Geschöpfe und deren Flugmanöver minutenlang u
 
 Wir begegneten den Mantas noch einmal während des zweiten Tauchgangs. Dazu muss gesagt werden, dass eine Mantasichtung auch an diesem Tauchplatz bei Weitem keine Selbstverstaendlichkeit ist - eine andere Gruppe war an 2 verschiedenen Tagen dort und sah nur einmal ein einziges Tier fuer ganz kurze Zeit. Es war also wirklich grosses Glueck fuer uns, dass wir den Mantas begegnen konnten. Höchst zufrieden kehrten wir um 5 Uhr zurück und beim Abendessen sahen wir uns die Videomitschnitte eines Tauchers mit Unterwasservideokamera an. Der nächste und eigentlich letzte Tag war dem Relaxen gewidmet.
 
-{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-RGAPOpNKOMA/VhvC6eSbiBI/AAAAAAAASMk/mhZFYRviuGo/s2048-Ic42/IMG_0352.JPG' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-56xe5Xypjaw/Vi0NFwxc_2I/AAAAAAAATAI/G_VB9qKZQqA/s2048-Ic42/IMG_0352.JPG' %}
 
 Georg las das zweite Dan Brown Buch (Angels and Demons) und Ümit widmete sich, nachdem er im Eiltempo an 2 Nachmittagen den Da Vinci Code fertiggelesen hatte, Phillip Roths "A Plot against America".
 

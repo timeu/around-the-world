@@ -53,7 +53,7 @@ Der Rangitata River zählt zu den besten White Water Rafting Flüssen in ganz Ne
 
 Die ersten 25 Minuten waren sehr ruhig, was auch gut war, weil uns Steve die Grundlagen, Kommandos und Sicherheitsaspekte erkärte. Unsere erste Stromschnelle war eine der Stufe 2, was als Einstieg ganz gut war. Danach kam aber schon eine 4er Stromschnelle, welche uns ganz schön durch die Luft wirbeln ließ. Nach diesem ersten Härtetest, sollte die erste der beiden 5er Stromschnellen in Angriff genommen werden.
 
-{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-X_K9aIAs6Fs/VWskPYndoFI/AAAAAAAAQms/xSGJtbZT-Jw/s2048/100N-0001_DSC%252520_720%252520x%252520480_.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-NBCm2VpJAd4/Viz9cNVp4DI/AAAAAAAAS1s/TPYkHIAxp-U/s2048-Ic42/100N-0001_DSC.JPG' %}
 
 
 Zuvor sahen wir uns diese von Land aus an und unser Guide Steve fragte nochmals nach, ob irgendwer aussteigen will. Natürlich waren alle dabei. Somit war alles gesagt und wir fuhren mutig und ohne zu Kentern durch diese kurze aber heftige Stromschnelle.
@@ -85,13 +85,13 @@ Nach dieser Kraftanstrengung ging es mit einer lockeren 4er Stromschnelle weiter
 
 <div class="row">
   <div class="col-sm-3">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-HQL6rilaHO4/VWsmjmYUk5I/AAAAAAAAQns/-JQgsQGYK7M/s2048-Ic42/100N-0030_DSC%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-rFkN9gncTSE/Viz9cAk-ADI/AAAAAAAAS1o/ZRxTzTTof08/s2048-Ic42/100N-0030_DSC.JPG' %}
   </div>
   <div class="col-sm-3">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-1UkYATjKAxE/VWsmdLMkaNI/AAAAAAAAQnk/z_nGbkKvIXE/s2048-Ic42/100N-0034_DSC%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-bPv0R0cN_DE/Viz9cGbc6wI/AAAAAAAAS1o/zFF7ZAVoYng/s2048-Ic42/100N-0034_DSC.JPG' %}
   </div>
   <div class="col-sm-3">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-0gO-hRWfCLw/VWsl9Mf3qRI/AAAAAAAAQm8/FKfiUvZ8DzE/s2048-Ic42/100N-0035_DSC%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-ojt1zTenHX4/Viz9cFUNzXI/AAAAAAAASxM/lom4I1tLzRs/s2048-Ic42/100N-0035_DSC.JPG' %}
   </div>
   <div class="col-sm-3">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-hizeYWB7w1w/VVBsonBmx4I/AAAAAAAAQjI/fMEwCIbkKxs/s2048/0044%252520-%252520Rangitata%252520River%252520Rafting.jpg' %}
@@ -103,16 +103,16 @@ Einer anderen Gruppe erging es aber nicht so gut und aufgrund einer falschen Gew
 
 <div class="row">
   <div class="col-sm-3">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-abq3CHLCsFA/VWsmSayXFGI/AAAAAAAAQnc/T9izz2wod00/s2048-Ic42/100N-0041_DSC%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-Lt941X8Qy5A/Viz9cNcArfI/AAAAAAAAS1s/QuI-MDTeXDE/s2048-Ic42/100N-0041_DSC.JPG' %}
   </div>
   <div class="col-sm-3">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-fZ_SaIVHw5k/VVBsqLaWA_I/AAAAAAAAQjI/72xQlzo1v_w/s2048/0047%252520-%252520Rangitata%252520River%252520Rafting.jpg' %}
   </div>
   <div class="col-sm-3">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-Jcw02qCqazo/VWsmQqpAo_I/AAAAAAAAQnU/uuttjO0Qz_A/s2048-Ic42/100N-0043_DSC%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-ShVSLyoHQ20/Viz9cAbQtdI/AAAAAAAAS1s/gRz5nQK3A0w/s2048-Ic42/100N-0043_DSC.JPG' %}
   </div>
   <div class="col-sm-3">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-WdDeyQYFJBY/VhkIvcf0abI/AAAAAAAARqo/TZptKGOkh7o/s2048-Ic42/400-0012_IMG%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-6NfaCtLMIc4/Viz9cMAUI5I/AAAAAAAAS1o/TVJoPTo1cOE/s2048-Ic42/100N-0044_DSC.JPG' %}
   </div>
 </div>
 
@@ -120,13 +120,13 @@ Wir paddelten zu Hilfe und zogen die über Bord Gefallenen in unser Raft. Der Gu
 
 <div class="row">
   <div class="col-sm-4">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-cS6VAGiDqAo/VWsmJgQg4sI/AAAAAAAAQnE/DsFDO6XDiUw/s2048-Ic42/100N-0048_DSC%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-qxEDxWAemmY/Viz9cDhfcNI/AAAAAAAAS1o/W9U7Yxdy1M4/s2048-Ic42/100N-0048_DSC.JPG' %}
   </div>
   <div class="col-sm-4">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-61ZF83JACrc/VWsm5jDEYPI/AAAAAAAAQoA/fJPeGYwkvYI/s2048-Ic42/400-0013_IMG%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-neYBNf3Foec/Viz9cD3VdOI/AAAAAAAAS1o/y61N7Z27yKI/s2048-Ic42/400-0013_IMG.JPG' %}
   </div>
   <div class="col-sm-4">
-    {% include picture.html title='' img='https://lh3.googleusercontent.com/-1UkYATjKAxE/VWsmdLMkaNI/AAAAAAAAQnk/z_nGbkKvIXE/s2048-Ic42/100N-0034_DSC%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='' img='https://lh3.googleusercontent.com/-zI8zkt97Opg/Viz9cFy-weI/AAAAAAAAS1o/1q44Rq6lj7Y/s2048-Ic42/400-0011_IMG.JPG' %}
   </div>
 </div>
 

@@ -35,7 +35,7 @@ location: Auckland, Neuseeland
       <dt>Strecke</dt>
       <dd>~5600 km</dd>
       <dt>Verkehrsmittel</dt>
-      <dd><a href="https://lh3.googleusercontent.com/-wMdizhw_D2U/VWsepdQ5trI/AAAAAAAAQls/v8ZMlUxqm98/s2048-Ic42/IMG_0001.JPG" target="_blank" style="text-decoration:underline;">Toyota Corolla</a></dd>
+      <dd><a href="https://lh3.googleusercontent.com/-CR2oXwNIgXI/Viz9cHCpoLI/AAAAAAAAS1s/GsoG8s6sn1A/s2048-Ic42/IMG_0001.JPG" target="_blank" style="text-decoration:underline;">Toyota Corolla</a></dd>
       <dt>Verbrauch</dt>
       <dd>ca. 405 Liter (~325 Euro)</dd>
       <dt>Kosten</dt>
@@ -160,7 +160,7 @@ Es gibt natuerlich auch einige  negative Aspekte, wie in jedem Land. Zum einen i
     {% include picture.html title='Dunedin' caption='true' img='https://lh3.googleusercontent.com/-OnE5Fjic-m4/VVBsrIEQ_OI/AAAAAAAAQjI/7TRhf_Gm52k/s2048-Ic42/0048%252520-%252520Dunedin.jpg' %}
   </div>
   <div class="col-sm-4 text-center">
-    {% include picture.html title='Küste' caption='true' img='https://lh3.googleusercontent.com/-tJnpSFtwQf0/VhuYsPBm5iI/AAAAAAAASCo/VJt0D_FTQqc/s2048-Ic42/IMG_0070.JPG' %}
+    {% include picture.html title='Küste' caption='true' img='https://lh3.googleusercontent.com/-5L62NqtugZs/Viz9cKqbe4I/AAAAAAAAS1s/6cmKxxtBPTU/s2048-Ic42/IMG_0070.JPG' %}
   </div>
   <div class="col-sm-4 text-center">
     {% include picture.html title='Tierwelt' caption='true' img='https://lh3.googleusercontent.com/-R49NJp27mhQ/VVBtEre2W6I/AAAAAAAAQjI/P3JDtqmyDbY/s2048-Ic42/0085%252520-%252520Otago%252520Peninsula.jpg' %}
@@ -299,7 +299,7 @@ Es gibt natuerlich auch einige  negative Aspekte, wie in jedem Land. Zum einen i
     {% include picture.html title='Geothermisches Gebiet' caption='true' img='https://lh3.googleusercontent.com/-CL2CSwCaBhE/VVBvqICbu-I/AAAAAAAAQjI/mm2fcn9aDog/s2048-Ic42/0330%252520-%252520Roturua%252520-%252520Wai-O-Tapu%252520Thermal%252520Wonderland.jpg' %}
   </div>
   <div class="col-sm-3 text-center">
-    {% include picture.html title='Thermal Village' caption='true' img='https://lh3.googleusercontent.com/--B7pw8UM11k/VhugQlXyiCI/AAAAAAAASDM/KQhHymTmkGA/s2048-Ic42/IMG_0088.JPG' %}
+    {% include picture.html title='Thermal Village' caption='true' img='https://lh3.googleusercontent.com/-KcdcCpITyFk/Viz9cE6ynXI/AAAAAAAAS1s/4Oox9VPVAV4/s2048-Ic42/IMG_0088.JPG' %}
   </div>
   <div class="col-sm-3 text-center">
     {% include picture.html title='Maori Tanz' caption='true' img='https://lh3.googleusercontent.com/-rPUJfgNexn8/VVBwCIVzgjI/AAAAAAAAQjI/Um5joodmo94/s2048-Ic42/0364%252520-%252520Roturua%252520-%252520Maori%252520Thermal%252520Village.jpg' %}
@@ -398,7 +398,7 @@ Es gibt natuerlich auch einige  negative Aspekte, wie in jedem Land. Zum einen i
     </div>
   </div>
   <div class="col-sm-4 text-center">
-    {% include picture.html title='' caption='true' img='https://lh3.googleusercontent.com/-BpGtazU4dns/Vhui7kHlZVI/AAAAAAAASDo/EA6BwSTAMv0/s2048-Ic42/IMG_0008_001.JPG' %}
+    {% include picture.html title='' caption='true' img='https://lh3.googleusercontent.com/-Mtv3qilLwHw/Viz9cBgneLI/AAAAAAAAS1s/BMiXE6mMxx4/s2048-Ic42/IMG_0008.JPG' %}
   </div>
   <div class="col-sm-4 text-center">
     {% include picture.html title='Hole in the Rock' caption='true' img='https://lh3.googleusercontent.com/-1czHF5riTsY/VVBx8ivFQDI/AAAAAAAAQjI/FoBbPPgqFEI/s2048-Ic42/0511%252520-%252520Bay%252520of%252520Islands.jpg' %}

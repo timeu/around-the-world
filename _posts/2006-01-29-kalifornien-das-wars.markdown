@@ -35,7 +35,7 @@ location: New York City, USA
       <dt>Strecke</dt>
       <dd>4277 miles (~6883 km)</dd>
       <dt>Verkehrsmittel</dt>
-      <dd><a href="https://lh3.googleusercontent.com/-hzf1bLnD1RE/VhviLvdSXBI/AAAAAAAASPU/pR07LfcLIfI/s2048-Ic42/IMG_0032_001.JPG" target="_blank" style="text-decoration:underline;">Rav4</a></dd>
+      <dd><a href="https://lh3.googleusercontent.com/-HhoToVQzpZE/Viz9ygStQiI/AAAAAAAAS1g/9g37MPuc7QU/s2048-Ic42/IMG_0032.JPG" target="_blank" style="text-decoration:underline;">Rav4</a></dd>
       <dt>Verbrauch</dt>
       <dd>ca. 750 Liter (~415 Euro)</dd>
       <dt>Kosten</dt>
@@ -73,7 +73,7 @@ location: New York City, USA
         <ol start="14">
           <li><a href="https://goo.gl/maps/r4oXe9A3oor" target="_blank">Redwood Nationalpark</a></li>
           <li><a href="https://goo.gl/maps/BFppGMnRKoQ2" target="_blank">Point Reyes</a></li>
-          <li><a href=https://goo.gl/maps/PoQdotGA4a42" target="_blank">San Francisco</a></li>
+          <li><a href="https://goo.gl/maps/PoQdotGA4a42" target="_blank">San Francisco</a></li>
           <li><a href="https://goo.gl/maps/hikE1gub7nQ2" target="_blank">Santa Cruz</a></li>
           <li><a href="https://goo.gl/maps/Ev63r7MQxwE2" target="_blank">Monterey</a></li>
           <li><a href="https://goo.gl/maps/Ra7bkcbJoV82" target="_blank">Cambria</a></li>
@@ -209,7 +209,7 @@ Alles in allem bietet Kalifornien sehr viel und waere fuer alle, die dem Winter 
     {% include picture.html title='Luxor' caption='true' img='https://lh3.googleusercontent.com/-h1Y9EGMSrbs/VVCQZ0rADDI/AAAAAAAASNI/6yEJr4y_QvY/s2048-Ic42/0120%252520-%252520Las%252520Vegas.jpg' %}
   </div>
   <div class="col-sm-4 text-center">
-    {% include picture.html title='Hover Damm' caption='true' img='https://lh3.googleusercontent.com/-9BCsKtwtuiI/VhzDnk-N1mI/AAAAAAAASTg/MPVrTbhOShc/s2048-Ic42/IMG_0112.JPG' %}
+    {% include picture.html title='Hover Damm' caption='true' img='https://lh3.googleusercontent.com/-ahmnpUDu0Q0/Viz9yvZWzFI/AAAAAAAATC0/pNJVfgt4Bm4/s2048-Ic42/IMG_0112.JPG' %}
   </div>
 </div>
 
@@ -221,7 +221,7 @@ Alles in allem bietet Kalifornien sehr viel und waere fuer alle, die dem Winter 
     </div>
   </div>
   <div class="col-sm-4 text-center">
-    {% include picture.html title='' caption='true' img='https://lh3.googleusercontent.com/-bICzN6UhKKk/VhzH2RiDXKI/AAAAAAAASVw/K6hRr0FvTxA/s2048-Ic42/IMG_0057.JPG' %}
+    {% include picture.html title='' caption='true' img='https://lh3.googleusercontent.com/-DNBMLSsOhqM/Viz9ykYmJLI/AAAAAAAAS1g/qYphaIu_beQ/s2048-Ic42/IMG_0057.JPG' %}
   </div>
   <div class="col-sm-4 text-center">
     {% include picture.html title='' caption='true' img='https://lh3.googleusercontent.com/-t8Iu6fZzerM/VVCQc1W-nGI/AAAAAAAASNI/Iud3PrZiGr4/s2048-Ic42/0125%252520-%252520Grand%252520Canyon.jpg' %}

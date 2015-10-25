@@ -76,7 +76,7 @@ Auf dem Weg zum südlichen Zipfel von Manhatten machten wir auch Abstecher nach 
 
 <div class="row">
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-wxq3Z5AzkaY/Vhz4zMUeNFI/AAAAAAAASd8/fBMwD4dp33E/s2048-Ic42/IMG_0058.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-UYUTXlgTamY/Viz9yv09ckI/AAAAAAAAS14/Os_mjsxaWXI/s2048-Ic42/IMG_0058.JPG' %}
   </div>
   <div class="col-sm-4">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-oGuGHpA3GZE/VVCUDbMCsyI/AAAAAAAASNI/gQnK4-LMWbA/s2048-Ic42/0500%252520-%252520New%252520York.jpg' %}
@@ -121,10 +121,10 @@ Die Ausstellungen und Führungen auf Ellis Island sind sehr interessant. Mit dem
 
 <div class="row">
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-wQm8g1mlcK8/Vhz6BKn0n-I/AAAAAAAASeg/udifZhX5Gjc/s2048-Ic42/IMG_0121.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-9MX_OW_Juh4/Viz9yg1y3GI/AAAAAAAAS14/gsopj4AFM6s/s2048-Ic42/IMG_0121.JPG' %}
   </div>
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-sT0ob_d59pE/Vhz6QbqPCDI/AAAAAAAASe8/FecSt0aZ2T8/s2048-Ic42/IMG_0128.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-5TvPrhSKU98/Viz9yqJrBzI/AAAAAAAAS14/fthuC4Ltb4g/s2048-Ic42/IMG_0128.JPG' %}
   </div>
 </div>
 
@@ -136,7 +136,7 @@ Danach ging es zum berühmten Timessquare und zum Abschluss genoßen wir die Aus
 
 <div class="row">
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-xDISLbX3Gv4/Vhz6m3rAEfI/AAAAAAAASfM/copXmHNhUYc/s2048-Ic42/IMG_0143.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-YPOlDm4Fxcg/Viz9yuYUEcI/AAAAAAAAS10/41t1W-T3RiE/s2048-Ic42/IMG_0143.JPG' %}
   </div>
   <div class="col-sm-6">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-89xpvXqnt78/VVCUT-YseRI/AAAAAAAASNI/FR3jpbjMSXk/s2048-Ic42/0529%252520-%252520New%252520York.jpg' %}
@@ -180,7 +180,7 @@ Schließlich kamen wir beim berühmten Central Park an und nach einem kurzen Spa
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-EF_nvZ6LXnQ/VVCUfQIAh4I/AAAAAAAASNI/UqXsU7KtpFg/s2048-Ic42/0549%252520-%252520New%252520York.jpg' %}
   </div>
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-Bgp8fix16R8/Vhz7137a1wI/AAAAAAAASfo/vJEUejoAMcg/s2048-Ic42/IMG_0213.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-Oosk6pLdFcc/Viz9yqGcnZI/AAAAAAAAS14/tGZW_sESi5Q/s2048-Ic42/IMG_0213.JPG' %}
   </div>
 </div>
 
@@ -194,7 +194,7 @@ Zu sehen war das Whitney Museum, das Guggenheim, das Metropolitan, die österrei
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-DVO15kkohtI/VVCUkDuSVMI/AAAAAAAASNI/5VO7ntLduI8/s2048-Ic42/0558%252520-%252520New%252520York.jpg' %}
   </div>
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-uJNWDqL_Iww/Vhz8OC4KkbI/AAAAAAAASf4/wKLPFu9Rgps/s2048-Ic42/IMG_0222.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-9eeUOWjLE6U/Viz9yppKgAI/AAAAAAAAS14/I7-oOs7HZGA/s2048-Ic42/IMG_0222.JPG' %}
   </div>
 </div>
 
@@ -233,7 +233,7 @@ Danach besuchten wir den Intrepid Flugzeugträger.
 
 Am Nachmittag legten wir einen Spaziergang in Harlem ein.
 
-{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-LNAAF6pZss0/Vhz9VPeqInI/AAAAAAAASgc/XYQTg0jUrwE/s2048-Ic42/IMG_0053.jpg' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-hHYgrF5U0-c/Viz9yr7W6-I/AAAAAAAAS14/EOQrsPVzilQ/s2048-Ic42/IMG_0053.JPG' %}
 
 Da dies der de facto letzte Abend in New York (und gleichzeitig für die gesamte Weltreise) war, beschlossen wir, ein letztes Mal gut Essen zu gehen.
 Diesmal fiel die Entscheidung auf ein Ostafrikanisches Restaurant in der Nähe der Columbia Universität.
@@ -243,7 +243,7 @@ Diesmal fiel die Entscheidung auf ein Ostafrikanisches Restaurant in der Nähe d
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-E-h_7gnVubI/VVCU3uAHI5I/AAAAAAAASNI/AshNLjFpvFY/s2048-Ic42/0592%252520-%252520New%252520York.jpg' %}
   </div>
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-87CDUJ7Ypwc/Vhz9ZU0HMTI/AAAAAAAASgs/0CXw39jkEyc/s2048-Ic42/IMG_0058_001.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-9w9jynxsF0M/Viz9yqjtZvI/AAAAAAAAS14/KJHUqZv6bYk/s2048-Ic42/IMG_0058%252520%2525282%252529.JPG' %}
   </div>
 </div>
 

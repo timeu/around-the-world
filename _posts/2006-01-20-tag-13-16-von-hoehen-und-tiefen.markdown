@@ -23,7 +23,7 @@ Am naechsten Morgen fuhren wir entlang einer 13 Meilen Scenic Road durch den Red
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-Wh8rxckX65o/VVCQz1KFxkI/AAAAAAAASNI/-R7uhsPg6LY/s2048-Ic42/0157%252520-%252520Red%252520Rock%252520Canyon.jpg' %}
   </div>
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-KfYFN3IyRqA/VhzRE-C0rGI/AAAAAAAASYY/WENn3g4KWIA/s2048-Ic42/IMG_0115%252520_720%252520x%252520480_.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-PPuHwrDUNRQ/Viz9yoAtBMI/AAAAAAAAS1g/CxxQdZ1VkQg/s2048-Ic42/IMG_0115.JPG' %}
   </div>
 </div>
 
@@ -177,7 +177,7 @@ Gegen Mittag machten wir uns auf eine 3 stündige Wanderung zu den Nevada Falls.
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-DMoJiofGefc/VVCRWzkQZLI/AAAAAAAASNI/Vp2P_HJYM44/s2048-Ic42/0202%252520-%252520Yosemite%252520Park.jpg' %}
   </div>
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-_gS8UnMhtc0/VhzUUFr6eOI/AAAAAAAASY0/9OKmOvh_tck/s2048-Ic42/IMG_0224%252520_720%252520x%252520480_.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-FMjT3uxVQFs/Viz9ypl84CI/AAAAAAAAS10/2emxtqH3HXY/s2048-Ic42/IMG_0224.JPG' %}
   </div>
 </div>
 

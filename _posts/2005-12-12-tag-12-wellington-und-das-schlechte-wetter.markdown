@@ -35,7 +35,7 @@ Danach ging es auch zum bekanntesten Highlight von Wellington, dem Te Papa Museu
 
 <div class="row">
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-ca4yjAyLnoc/VhpBG-FWuFI/AAAAAAAAR5o/PGyThE2sLcc/s2048-Ic42/IMG_0001%252520_720%252520x%252520480_.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-V0m1aQLTiFc/Viz9cL7atLI/AAAAAAAAS1s/EIU7icyAht0/s2048-Ic42/IMG_0001%252520%2525282%252529.JPG' %}
   </div>
   <div class="col-sm-6">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-SWIXHnSHg0w/VVBvXcPtqnI/AAAAAAAAQjI/EOUtWWQDSIk/s2048-Ic42/0305%252520-%252520Wanganui%252520River.jpg' %}
@@ -178,7 +178,7 @@ Man bekam auch einen recht imposanten Geysir zu sehen, welcher von Zeit zu Zeit 
 
 <div class="row">
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-ypRP3IPsjoM/VhpFjUsjUcI/AAAAAAAAR6o/kJX69gbXdMQ/s2048-Ic42/IMG_0125.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-hK4_1tK0AKs/Viz9cLDTdbI/AAAAAAAAS1s/kjj59IhOHUc/s2048-Ic42/IMG_0125.JPG' %}
   </div>
   <div class="col-sm-6">
 	{% include video.html title='' img='https://lh3.googleusercontent.com/-HL7E5VTGuXY/VVBwGwDUTaI/AAAAAAAAQjU/b44q2skxNxA/s800-Ic42/0368%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/SjFSxe2OtMxGet_adEoXTYjeaw-KQss9FwuXtVBJ3ivU=m18?cpn=BuTKWNdJZwS4L83e&c=WEB&cver=html5' %}
@@ -295,7 +295,7 @@ An jenem Tag waren nur wir 2 fuer die Cave Tour gemeldet. Justine holte uns vom 
 
 <div class="row">
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-tW72vgkJISI/VhpId4QVkAI/AAAAAAAAR7o/yza34RlOTkg/s2048-Ic42/IMG_0001.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-sRWIk7RNHzo/Viz9cEA71_I/AAAAAAAAS1o/3MHjqlIny-M/s2048-Ic42/IMG_0001%252520%2525283%252529.JPG' %}
   </div>
   <div class="col-sm-6">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-4slJzNYtpnE/VVBwHTZ_SpI/AAAAAAAAQjI/DJ-XME2QXJc/s2048-Ic42/0369%252520-%252520Waitomo%252520Caves.jpg' %}
@@ -523,7 +523,7 @@ Das letzte Highlight unserer relativen kurzen Auckland Rundfahrt war der One Tre
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-SOx4F7T1Ux4/VVBxAOLDiDI/AAAAAAAAQjI/E8pPbFycsiY/s2048-Ic42/0436%252520-%252520Auckland.jpg' %}
   </div>
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-xk9s4V2iLxo/VhpR-9jloII/AAAAAAAAR-E/SNuLREXKIpc/s2048-Ic42/IMG_0033_002.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-RUZVp8pqobo/Viz9cM5_H4I/AAAAAAAAS1s/zci7Lj58520/s2048-Ic42/IMG_0033.JPG' %}
   </div>
 </div>
 Zu dem Huegel gibt es eine etwas skurrile Geschichte. Dieser Huegel war lange Zeit ein heiliger Ort fuer die Maori und auf diesem befand sich auch ein typisches Fort der Maori. Die Ueberreste kann man heute noch sehen. 4667

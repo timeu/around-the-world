@@ -50,7 +50,7 @@ Der Weg dorthin war aber mit einigen Hindernissen gespickt. Ein umgefallener Bau
 
 <div class="row">
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-wLIU7s8BAqw/VhzmjLNBJGI/AAAAAAAASbE/a6FmcakA9QI/s2048-Ic42/IMG_0100%252520_720%252520x%252520480_.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-GbeQ3h6aUE8/Viz9ynd2-7I/AAAAAAAAS1g/ujV32QCIjcw/s2048-Ic42/IMG_0100.JPG' %}
   </div>
   <div class="col-sm-6">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-OmHladurZaU/VVCSCVj-EFI/AAAAAAAASNI/JBtor_T6Qww/s2048-Ic42/0279%252520-%252520Redwood%252520Nationalpark.jpg' %}
@@ -59,7 +59,7 @@ Der Weg dorthin war aber mit einigen Hindernissen gespickt. Ein umgefallener Bau
 
 Wir ließen uns aber nicht entmutigen und fanden eine Alternativroute über einen umgefallenen Baum.
 
-{% include picture.html  dim="750" title='' img='https://lh3.googleusercontent.com/-VyAcuwwzCOg/VhznCm_jCPI/AAAAAAAASbY/GovLQIQ8IBM/s2048-Ic42/IMG_0099%252520_720%252520x%252520480_.jpg' %}
+{% include picture.html  dim="750" title='' img='https://lh3.googleusercontent.com/-GiFL5J-L2gA/Viz9ysIQQHI/AAAAAAAAS14/GR5CCe_smX4/s2048-Ic42/IMG_0099.JPG' %}
 
 Wenig später kamen wir - diesmal ohne weitere Hindernisse - bei der Lichtung an. Die Redwood Bäume, die wir zu sehen bekamen waren gewaltig und wir schienen winzig im Vergleich zu den alten Riesen.
 
@@ -84,7 +84,7 @@ Man sah eine Reihe von surreal wirkenden Baumstümpfen und sowohl der Nebel als 
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-hJb4rpv5D58/VVCSAbErbQI/AAAAAAAASNI/w5wc_VmNXmI/s2048-Ic42/0276%252520-%252520Redwood%252520Nationalpark.jpg' %}
   </div>
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-6Uts1CM1JCY/VhzobR6QLyI/AAAAAAAASb8/5FwRn9nerYQ/s2048-Ic42/IMG_0096%252520_720%252520x%252520480_.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-o36TcthJooM/Viz9yoxC0WI/AAAAAAAAS10/ZnZrsSW7-qk/s2048-Ic42/IMG_0096.JPG' %}
   </div>
 </div>
 
@@ -301,7 +301,7 @@ Warteraum, Speisezimmer & Kino
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-jtCXyeWPiMY/VVCS9BF8FfI/AAAAAAAASNI/BfaC_zYuKKg/s2048-Ic42/0379%252520-%252520Hearst%252520Castle.jpg' %}
   </div>
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-G84FTRW1y4U/VhzvjqdL3-I/AAAAAAAASc8/jfLYUMc3Nz4/s2048-Ic42/IMG_0140_resize.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-32fPW1Ow2RU/Viz9yr_6fGI/AAAAAAAAS14/a7ST2UTUTbU/s2048-Ic42/IMG_0140.JPG' %}
   </div>
 </div>
 
@@ -436,7 +436,7 @@ In Venice Beach sahen wir die aus der Serie Baywatch bekannten Lifeguards.
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-P4aSoiUg9CQ/VVCTqxfScrI/AAAAAAAASNI/qee4K0kkiJg/s2048-Ic42/0457%252520-%252520Los%252520Angeles.jpg' %}
   </div>
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-SapnmmfCDBA/Vhzz4prdDGI/AAAAAAAASdY/TENSbpgx6xo/s2048-Ic42/IMG_0039.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-h6gLo15tdQk/Viz9yk1xAvI/AAAAAAAAS10/ZIMV3Y5KvJ8/s2048-Ic42/IMG_0039.JPG' %}
   </div>
 </div>
 

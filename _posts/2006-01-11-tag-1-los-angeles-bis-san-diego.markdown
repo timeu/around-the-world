@@ -14,7 +14,7 @@ location: Las Vegas, USA
 
 Der Flug von Nadi nach Los Angeles verlief reibungslos. Am Flughafen bekamen wir es zum ersten Mal mit den neuen amerikanischen Post-9/11 Gesetzen zu tun. Wir wurden fotografiert und unsere Fingerabdrücke wurden elektronisch gespeichert. Im Flughafengebäude besorgten wir uns zuerst ein Guidebook für die USA und dann ein günstiges Mietauto, einen kleinen Toyoto Geländewagen.
 
-{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-hzf1bLnD1RE/VhviLvdSXBI/AAAAAAAASPU/pR07LfcLIfI/s2048-Ic42/IMG_0032_001.JPG' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-HhoToVQzpZE/Viz9ygStQiI/AAAAAAAAS1g/9g37MPuc7QU/s2048-Ic42/IMG_0032.JPG' %}
 
 Der Besitzer des Mietwagenunternehmens war ein Perser und daher konnten wir auch etwas zu unseren Gunsten handeln. Nach einem verspätetem Mittagessen, fuhren wir nach Los Angeles um ein Quartier für die nächsten Tage zu suchen. Aber erst nach dem 4. Versuch fanden wir letztlich ein freies Zimmer in einem alten, antiquierten Haus, in einer Seitenstrasse des Hollywood Blv.
 
@@ -81,7 +81,7 @@ Aber leider verfuhren wir uns mehrmals und da es bereits dunkel war, machten wir
 
 <div class="row">
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-pcsoOuTEWxg/Vhvmul1kz_I/AAAAAAAASQU/kr5xgeU7KaI/s2048-Ic42/IMG_0015_001.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/-OcosyvaMrsw/Viz9yoopGAI/AAAAAAAAS14/n7WSucrqExA/s2048-Ic42/IMG_0015.JPG' %}
   </div>
   <div class="col-sm-4">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-fVTYnL4qBBk/VVCPgPn7M2I/AAAAAAAASNI/iCat3tnlHTE/s2048-Ic42/0036%252520-%252520Universal%252520Studios.jpg' %}
@@ -170,7 +170,7 @@ Dem folgte eine Fahrt entlang des Mission Beach, an dem Baywatch gedreht wurde b
 
 Am Abend stuerzten wir uns ins eher exquisite Nachtleben. Dank des neu gekauften Outfits kamen wir ueberall rein, auch wenn sie von Uemit nicht nur den Pass, sondern auch noch einen zweiten Ausweis sehen wollten.
 
-{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-P9v0lzR08GU/Vhvl8pcEQgI/AAAAAAAASQE/-WzQBjDUe54/s2048-Ic42/IMG_0033_002.JPG' %}
+{% include picture.html title='' dim="750" img='https://lh3.googleusercontent.com/-pEbaCoNeEZ8/Viz9ykKefRI/AAAAAAAAS10/RfY7SicFR50/s2048-Ic42/IMG_0033.JPG' %}
 
 Das Nachtleben endet in San Diego aber immer um Punkt 2 Uhr in der Frueh.
 
