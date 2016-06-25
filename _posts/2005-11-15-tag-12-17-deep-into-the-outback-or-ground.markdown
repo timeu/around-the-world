@@ -239,8 +239,6 @@ Mit dem Einbruch der Dunkelheit verliessen wir diese Gravel-Road und erreichten 
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-4orMDr_MMQs/VVBkZgjuyaI/AAAAAAAAQLM/jwcXwb6y3-c/s2048/0345%252520-%252520Millstream-Chichester.jpg' %}
   </div>
 </div>
-2728
-2730
 
 Nach ca. 67 km erreichten wir auch die Stadt Karratha, wo wir zu übernachten gedachten.
 
@@ -267,9 +265,6 @@ Somit waren diese Felsgravuren nicht nur wenig beeindruckend, sondern - aufgrund
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-UuNKfs_2SS0/VVBkfIPrr3I/AAAAAAAAQLM/sXkbe6vcO0o/s2048/0352%252520-%252520Karratha%252520Umgebung.jpg' %}
   </div>
 </div>
-
-2759
-2761
 
 Jedoch war auch dieses Museum kein besonderes Highlight, da es nur sehr klein war. Damit reihte es sich nahtlos in den Verlauf dieses wenig ereignisreichen Tages ein :-(
 Als Mittagessen mussten wir uns mit einem Körbchen Pommes zufrieden geben, da wir die Lunchtime um 5 Minuten verpasst hatten. In Port Headland mussten wir erfahren, dass die Touren zu den Brutplätzen der Meeresschildkröten an anderen Tagen stattfinden (Die Gezeiten müssen nämlich stimmen). Zumindest konnten wir uns für eine Tour zu den Hafenanlagen für den naechsten Tag anmelden, im Zuge derer einem das Verladen von Eisenerz von Zuegen auf Ozeanriesen gezeigt wird.
@@ -337,8 +332,6 @@ Broome hat halt nicht so viel zu bieten, ausser einen schoenen Sonnenuntergang a
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-0Ck9UKCy5DQ/VVBktl6SvmI/AAAAAAAAQLM/opkg0QzUCqY/s2048/0371%252520-%252520Broome.jpg' %}
   </div>
 </div>
-2821
-2823
 
 Am Samstag werden wir das Nachtleben von Broome "erforschen".
 
