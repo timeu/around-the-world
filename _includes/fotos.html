@@ -8,12 +8,12 @@
           <div>
             {% unless foto.video %}
             <a href="{{ foto.img }}"  title="{{ foto.title }}"  data-gallery >
-                <img src="{{ foto.img | replace : '/s2048/','/s480/' }}"  />
+                <img src="{{ foto.img | replace : '/s2048/','/s480/' | replace: '=w2560-','=w480-' }}"  />
             </a>
             {% else %}
-            <a href="{{ foto.video }}" type="video/mp4"  data-poster="{{ foto.img }}"  data-gallery>                     
-                  <img src="{{ foto.img }}"/>                                                                                                                     
-              </a> 
+            <a href="{{ foto.video }}" type="video/mp4"  data-poster="{{ foto.img }}"  data-gallery>
+                  <img src="{{ foto.img }}"/>
+              </a>
             {% endunless %}
 
           </div>
