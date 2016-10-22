@@ -431,7 +431,7 @@ Es gibt natuerlich auch einige  negative Aspekte, wie in jedem Land. Zum einen i
     {% include picture.html title='Abseilen' caption='true' img='https://lh3.googleusercontent.com/-nRrNBV7MHaQ/VVByeAAbb0I/AAAAAAAAQjI/OTwdc9-Aq9E/s2048-Ic42/0540%252520-%252520Piha%252520Canyon.jpg' %}
   </div>
   <div class="col-sm-6">
-    {% include picture.html title='Lion Rock' caption='true' img='https://lh3.googleusercontent.com/-h2KJIXtwCL4/Vht3P9CLQdI/AAAAAAAASCE/F7Lnxroyaz4/s2048-Ic42/IMG_0001_001.JPG' %}
+    {% include picture.html title='Lion Rock' caption='true' img='https://lh3.googleusercontent.com/KM12428jx54hCKLSPWVjMaufgPdT7TC_RCM1UJ8QcPeG2x9GeuWg-fUmKYygC7ya0tOPiZPJwPTGC9c=w2560-h1600-rw-no' %}
   </div>
    </div>
 </div>
