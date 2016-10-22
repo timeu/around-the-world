@@ -22,13 +22,13 @@ Zuerst sprang Georg. Er bevorzugte den Sprung nach vorne mit viel Anlauf.
 
 <div class="row">
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-DkS8VLKvq6Q/VhkmIFiuC-I/AAAAAAAARto/n6W99sZodr8/s2048-Ic42/Canyon%252520Swing%25252010001%252520_640%252520x%252520480_.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/hGbomQctgnjxDAEFVH4NxRRUim7z5SH37omOiUvYhLZRQF4n6bmAbeMRt6YsVg97JdbK6MO5s6XkNWs=w2560-h1600-rw-no' %}
   </div>
   <div class="col-sm-4">
 	{% include video.html title='' img='https://lh3.googleusercontent.com/-4QgpPz_JTV4/VVBuLi3lMGI/AAAAAAAAQkM/9Z25n5rC4oc/s800-Ic42/0202%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/oyLd16SrJZt2wrLgQXOnb0pFXhsQMiQRA5rgK1p1nH3J=m18?cpn=uoaGg7kF5n3Gybm7&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-awa55PdYNjo/VhkmIHlLlCI/AAAAAAAARts/pTmqlMujG5g/s2048-Ic42/Canyon%252520Swing%2525201%252520_640%252520x%252520480_.jpg' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/JXgPVY4Fk89IPV7cj5CHgzYO1krky_Z0d2geMEY5Luk3we5TtlaZ6PQbvRv4R3qdvHHbqiE9IFvtteA=w2560-h1600-rw-no' %}
   </div>
 </div>
 
