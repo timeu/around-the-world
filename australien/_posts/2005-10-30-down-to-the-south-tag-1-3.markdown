@@ -83,7 +83,7 @@ Dieser 60 Meter hohe Baum hat eine Aussichtsplatfform in der Krone. Um diese zu 
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-rfVvDCuP8iI/VVBhbviAGBI/AAAAAAAAQLM/iVoz67sVCok/s2048/0048%252520-%252520Warren%252520Nationalpark.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-kgC9q2XoK5k/VVBhTb-o-cI/AAAAAAAAQLM/EVF5nskc9E4/s800/0035%252520-%252520Video%2525201.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=6b0d9c4cda6c5ed8&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1434968496&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=7EDC8C1E1242C5A8B55963321D6C8A06CAE80175.847A14517B2FC59815462B8DD79C8419BBCD16AB&key=lh1&cpn=nfOh7tPNm8ACEr49&c=WEB&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/4qzUVBWfAp6RmZdFFRvoXjYbl1e9l8OVKaj1DSXwmtenEcwYoO4mTGDdnTR-sX1m7WYQorFoSHm95a0=w293-h220-rw' video='https://lh3.googleusercontent.com/4qzUVBWfAp6RmZdFFRvoXjYbl1e9l8OVKaj1DSXwmtenEcwYoO4mTGDdnTR-sX1m7WYQorFoSHm95a0=m18?cpn=wtE_QLUIbCBAW4pj&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -97,7 +97,7 @@ Auf jeden Fall muss man schwindelfrei sein und auch einiges an Mut mitbringen, a
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-5NV3p8iUvvU/VVBhQRQ8_pI/AAAAAAAAQLM/KeutObl7Z2I/s2048/0034%252520-%252520Gloucester%252520Nationalpark.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-9-4xFv9oQdA/VVBhTqoM2AI/AAAAAAAAQLM/zVe7kUIpYw4/s800/0035%252520-%252520Video%2525202.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=0ac55cb96d101980&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1434968498&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=3502C020A1C50D6D106AB08ED848C0F30D8EB48F.1E7B887A615C976EE7B410159C23C893FD77F11&key=lh1&cpn=DZMsOBRA6Ro1npL0&c=WEB&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/5KHh3uckJtNo5GVMu91brTQcG8DgHTVAR7Z593P11FD8o__X-bk15nzdVUE3cbNLW0VPXQFsNd2wZuc=w293-h220-rw' video='https://lh3.googleusercontent.com/5KHh3uckJtNo5GVMu91brTQcG8DgHTVAR7Z593P11FD8o__X-bk15nzdVUE3cbNLW0VPXQFsNd2wZuc=m18?cpn=QYAMJLh2FA6jWW9e&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -129,10 +129,10 @@ Uebrigens, in Australien gibt es ja bekanntlich eine Reihe von merkwuerdigen Tie
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-BMExr_qaRTM/VVBhfXIxLhI/AAAAAAAAQLM/4cjZ-hMSAyo/s2048/0053%252520-%252520Warren%252520Nationalpark.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-KWW4OWYG_WA/VVBhgB0-o4I/AAAAAAAAQLM/29BuCCZFJMk/s800/0054%252520-%252520Video%2525201.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=b77cfdc62747e86b&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1434969572&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=B2A0F70C79E746CE39D2A054AA041507857CC501.9597447AC279E695355F24E5E5E7256A26952B06&key=lh1&cpn=Ct2pEocENUiWMn2B&c=WEB&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/o1Hbp7wKzGDlz2cpBqMeH0S87bNEuwgAC1vFyHa3dG55WfRgFkUadUoBoELAfCn5lOKqKK3KY1FeSAE=w293-h220-rw' video='https://lh3.googleusercontent.com/o1Hbp7wKzGDlz2cpBqMeH0S87bNEuwgAC1vFyHa3dG55WfRgFkUadUoBoELAfCn5lOKqKK3KY1FeSAE=m18?cpn=R4IG5Y0GRFxhGn8t&c=WEB&cver=1.20161020'  %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-nl3-KElscTM/VVBhhW6wyEI/AAAAAAAAQLM/fQgnBH5Eg_A/s800/0054%252520-%252520Video%2525202.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=8172df5c0e59e5ba&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1434969573&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=B5D65E0A79A9E518DD5039C56F323328E13E483B.DBE9B8AEF280E3D735F109DA5346AAFB1D946A9&key=lh1&cpn=Zk6qllulrNBI3MJQ&c=WEB&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/yhcUBC3rEfYbqCuLxiOxo-C1M2qmSqzycqDLd5kUgWYXaDvqCgMt9h7ABXpMiX8EZymmEgjmDeWi25I=w293-h220-rw' video='https://lh3.googleusercontent.com/yhcUBC3rEfYbqCuLxiOxo-C1M2qmSqzycqDLd5kUgWYXaDvqCgMt9h7ABXpMiX8EZymmEgjmDeWi25I=m18?cpn=-lr63ce7Np2Bdzwh&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 

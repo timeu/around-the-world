@@ -31,10 +31,10 @@ Videos:
 
 <div class="row">
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-QaguB-sqMSk/VVBmFZlw6AI/AAAAAAAAQLM/XqnBR258-X8/s800/0487%252520-%252520Video%2525202.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=db6ebb5519817328&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435148909&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=977A76DE96CED089F99B52E42C19E9AA6E204470.90FBE2D2887BB3D0C9CFD4B8181BD882AC1F1476&key=lh1&cpn=SNQj599plKWT5FaI&c=WEB&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/6GMEsO-GX_tITEQm41Rmwe8pb78xxzUdg2s6vLwREiPpXx6afA314zfMuysqQZct-f0oLhsGLls_rsk=w293-h220-rw' video='https://lh3.googleusercontent.com/Gyu44s1PiMEXYacyA3sN67YVEdKjeKWLbXc7FFtiF3SKpP-qiovIY_DX9S5uua6dFxyVG3IYtqEDUo4=m18?cpn=7pEzFy0IrgZ2HYKx&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-syzO0JugaQo/VVBmLKN4agI/AAAAAAAAQLM/emnb9KTeccc/s800/0494%252520-%252520Video%2525201.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=1bf05e67b992ce15&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435148979&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=4FE48E4F7D8BCEEBC4FAEB53471A16B8FBDFAB9D.718FA9A8BC2CF565AA39728C4B8FADE98C678049&key=lh1&cpn=x3cHm_Il9UDDoYbY&c=WEB&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/Gyu44s1PiMEXYacyA3sN67YVEdKjeKWLbXc7FFtiF3SKpP-qiovIY_DX9S5uua6dFxyVG3IYtqEDUo4=w293-h220-rw' video='https://lh3.googleusercontent.com/Gyu44s1PiMEXYacyA3sN67YVEdKjeKWLbXc7FFtiF3SKpP-qiovIY_DX9S5uua6dFxyVG3IYtqEDUo4=m18?cpn=xA3U0bu-Y9YJ-qrs&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -54,7 +54,7 @@ Waehrend der Fahrt wurde unser Boot von einigen Greifvoegeln begleitet, die eben
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-cM97hTzGZSc/VVBmQ51Y2QI/AAAAAAAAQLM/gQVJ4HPMH8A/s2048/0500%252520-%252520Crocodile%252520Jumping.jpg' %}
   </div>
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-tskIfyLHvL8/VVBmStsZkWI/AAAAAAAAQLM/LgpezAGdDO0/s800/0500%252520-%252520Video.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=25e61f4b69066c7c&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435148811&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=5B27338ADE08104832D5083054675116D7E49EA2.BC861E09127BD8315502484A0F1A4EEE1D2EFC56&key=lh1&cpn=2o9mRfkm6OTBwfpw&c=WEB&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/SgP3xx6osVL3aAglgBomNoSyw53MWdG2ENGjerOmTZmNGQG6eS8tH4MAPJCC2SjRk-YA6nn7oNhL23E=w293-h220-rw' video='https://lh3.googleusercontent.com/SgP3xx6osVL3aAglgBomNoSyw53MWdG2ENGjerOmTZmNGQG6eS8tH4MAPJCC2SjRk-YA6nn7oNhL23E=m18?cpn=z-atXgiwdU0vczIn&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -62,7 +62,7 @@ Die Tour wurde leider durch die, fuer die Saison typischen monsunartigen Regenfa
 
 <div class="row">
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-GthAIprdQLs/VVBmav8HPOI/AAAAAAAAQLM/5t97T1pRGmg/s800/0509%252520-%252520Video%2525203.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=95e67d13e7e81441&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435148682&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=65D2A6FEB8503F953EE3C58BD5699BCC38E3362C.6FF3B135BD56D7F36FC4BADC91E3F20A14C13CA4&key=lh1&cpn=cwc8HSCWWvPupLtb&c=WEB&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/YzDUX2AUL3CS6jM5WFnxgcgtwsmiBetKEgM_mbkDcZE98Db4i8ORK5-ZMGJ6Gj72gl8W5OOJEBCQKus=w293-h220-rw' video='https://lh3.googleusercontent.com/YzDUX2AUL3CS6jM5WFnxgcgtwsmiBetKEgM_mbkDcZE98Db4i8ORK5-ZMGJ6Gj72gl8W5OOJEBCQKus=m18?cpn=KkdOOhXJySaU9G68&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-vwIuKYOF8ok/VVBmbRkvZ0I/AAAAAAAAQLM/zcJJMrEzaFI/s2048/0512%252520-%252520Crocodile%252520Jumping.jpg' %}

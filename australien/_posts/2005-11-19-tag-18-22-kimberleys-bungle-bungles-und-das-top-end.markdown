@@ -47,7 +47,7 @@ Gegen 5 Uhr Abends erreichten wir unser Tagesziel, den Bell Gorge Campingplatz. 
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-zwoL7IcHbqo/VWQph1quXeI/AAAAAAAAQYY/_ZJEUAwzFNY/s2048/IMG_0037a.jpg' %}
   </div>
   <div class="col-sm-6">
-     {% include video.html title='' img='https://lh3.googleusercontent.com/-uqUp7hO0x2M/VVBk-IP6GsI/AAAAAAAAQLM/LD0nwc9SJkw/s800/0387%252520-%252520Video.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=8fc8f493e4136ae9&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435142008&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=D6D3E978D7DEAC880F454674D87F1B0BFF5872A2.36D620184C0E341BCD3A969C3C9E64828793B02&key=lh1&cpn=AjO8_0VIBcDsIW26&c=WEB&cver=html5' %}
+     {% include video.html title='' img='https://lh3.googleusercontent.com/kZ-byVsNzAdYr6JOs-6CSteiPqSX1DjTuibgT613nuSTndkRA-zIk8Qi2x_uW6ulXIBVFtSc0uQGVpc=w293-h220-rw' video='https://lh3.googleusercontent.com/kZ-byVsNzAdYr6JOs-6CSteiPqSX1DjTuibgT613nuSTndkRA-zIk8Qi2x_uW6ulXIBVFtSc0uQGVpc=m18?cpn=4STgttefEqOSrS9j&c=WEB&cver=1.20161020'  %}
   </div>
 </div>
 
@@ -77,7 +77,7 @@ Dabei trafen wir auch auf  alte Freunde (Video)
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-QaXf4C2Zu-8/VVBk5qHH4tI/AAAAAAAAQLM/acA3n9Tx9zg/s2048/0384%252520-%252520Bell%252520Gorge.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-qZO_40J6P94/VVBk7YjMDgI/AAAAAAAAQLM/7FrAw8a4AEs/s800/0384%252520-%252520Video%2525202.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=b42118900607a212&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435142269&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=7626C1EA4D71F7ACAB00ACDDFDB163ED4FA8BE9.742A10E8F1C3DCBAE8B1CB03BA19D37F68AA2144&key=lh1&cpn=D8fdkjFhxA6NizQa&c=WEB&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/YrXuBcBN8riBQOyjvaIWNJXqwwgwvFh-N-WJF-H4hoslYe6kCi6fs1liNs0_6iTSIeNWJ2GPdiHZTmM=w293-h220-rw' video='https://lh3.googleusercontent.com/YrXuBcBN8riBQOyjvaIWNJXqwwgwvFh-N-WJF-H4hoslYe6kCi6fs1liNs0_6iTSIeNWJ2GPdiHZTmM=m18?cpn=LzKP1TgMnjOZsLNp&c=WEB&cver=1.20161020'  %}
   </div>
 </div>
 
@@ -92,7 +92,7 @@ Man merkte bereits am Vormittag wie heiß der Tag noch werden würde. Wenn ihr e
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-0iI-Xtl1v2M/VVBk1LdKx3I/AAAAAAAAQLM/1Paqwxmt0rM/s2048/0379%252520-%252520Bell%252520Gorge.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-m9r5AExSWfk/VVBk1gQzguI/AAAAAAAAQLM/Z0rNYZdGEtg/s800/0379%252520-%252520Video.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=89bee5ffe436b97e&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435142370&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=93DB8C32B3398DBA2F9CC143EA6656D3DA3F612A.346038D46739989077E92F9478363ECA4073E177&key=lh1&cpn=h-uA4kXTEhHtHFWC&c=WEB&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/yAegIcuOA3GmOL8qfSAUFWt1iIz8ezyAZoGpKMYHHrQoUufEvIhYqDFnyO5PKdFYH41Cg7YBKZrbXmw=w293-h220-rw' video='https://lh3.googleusercontent.com/yAegIcuOA3GmOL8qfSAUFWt1iIz8ezyAZoGpKMYHHrQoUufEvIhYqDFnyO5PKdFYH41Cg7YBKZrbXmw=m18?cpn=dl4d5frzwqwXkgWK&c=WEB&cver=1.20161020'  %}
   </div>
 </div>
 
@@ -137,7 +137,7 @@ Darüber hinaus  sieht man auch sogenannten Flughunde (Video).
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-SC-gjPAePmI/VVBlFLGqABI/AAAAAAAAQLM/d4nG3z26dO0/s2048/0399%252520-%252520Windjana%252520Gorge.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-wfqLi95daK0/VVBlI3CWtUI/AAAAAAAAQLM/yeayA_ia4OY/s800/0405%252520-%252520Video%2525201.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=13e21a67951ad6fb&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435142660&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=26202594A40A060D27E186BE37EE655239FDF82.C4E5A0A9EAB52E63712873A0F36E91F25EAD2C46&key=lh1&cpn=cNxaxPe77S_fDWnd&c=WEB&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/F07Zqe4qqOwXkk1tVHRJ6OfYCQXkOr9sCyRf2SBdw7SmgC0obihY0LGBYWtI8GlTF84b4e44bVV3hnE=w293-h220-rw' video='https://lh3.googleusercontent.com/F07Zqe4qqOwXkk1tVHRJ6OfYCQXkOr9sCyRf2SBdw7SmgC0obihY0LGBYWtI8GlTF84b4e44bVV3hnE=m18?cpn=KWxnk_OSFiYK07ed&c=WEB&cver=1.20161020'  %}
   </div>
 </div>
 
@@ -229,7 +229,7 @@ Gegen Mittag stieg unser Wasserkonsum derart, dass sogar der Spritverbrauch unse
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-Z_dbfLGRrrA/VVBllxoO4vI/AAAAAAAAQLM/Rp2Ob1n2FBE/s2048/0445%252520-%252520Tornado.jpg' %}
   </div>
   <div class="col-sm-6">
-     {% include video.html title='' img='https://lh3.googleusercontent.com/-fUm5WWKedrw/VVBlm5jYU7I/AAAAAAAAQLM/GKJhFO2vI4c/s800/0445%252520-%252520Video.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=4f321e0527415c68&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435143330&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=A941107F09B124096765AF30A7B3D3DDDF1FF17.9074E5BA1CFAAD6C479436F83683E3494F66B5E7&key=lh1&cpn=wKfrQVMOKO2WYU5E&c=WEB&cver=html5' %}
+     {% include video.html title='' img='https://lh3.googleusercontent.com/fAIIKpRDjfu9MSyaDMfsWXI6fzWBUeIvuT2Ch7lbqRVAHiOHR11--xzVht0XE2OZoXs0mMKornlQ3yg=w293-h220-rw' video='https://lh3.googleusercontent.com/fAIIKpRDjfu9MSyaDMfsWXI6fzWBUeIvuT2Ch7lbqRVAHiOHR11--xzVht0XE2OZoXs0mMKornlQ3yg=m18?cpn=YQBLi0Sxkmb0UYuL&c=WEB&cver=1.20161020'  %}
   </div>
 </div>
 
@@ -292,20 +292,20 @@ Mit Einbruch der Dunkelheit schlugen wir unsere Zelte auf der einzigen offenen C
 
 <div class="row">
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-NVcVyMQwc1I/VVBmBmHgQoI/AAAAAAAAQLM/6DvnoUaM4Qs/s800/0484%252520-%252520Video%2525201.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=9d677f90664b2b73&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435143934&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=CF9CC745060200BC9E5D009ABB068CE43B84FF75.69E80CE914543B5A511F53949D550F029E910763&key=lh1&cpn=w_0hvxInK1bIOIcl&c=WEB&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/RSb5z8bJQmqBH1vWkpZg8AkcwJsm5mEbeQsVz6NXQfLczjJJKV-Xb6Gs9_6OkUzBTQDpyq82P4sfFFg=w293-h220-rw' video='https://lh3.googleusercontent.com/RSb5z8bJQmqBH1vWkpZg8AkcwJsm5mEbeQsVz6NXQfLczjJJKV-Xb6Gs9_6OkUzBTQDpyq82P4sfFFg=m18?cpn=i_z5cn71mguIlrkG&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-haN2uWyPT04/VVBmCJTgqyI/AAAAAAAAQLM/FuLhnzlxCUQ/s800/0484%252520-%252520Video%2525202.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=52a78c65124dddfd&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435144023&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=6E41F94EF7F5FDF6CBB20686AC9DC21EC9C738DA.CAE9500324D5D02B9E610993C2B6043B5DB5D48D&key=lh1&cpn=6WP59szF_Xns4msS&c=WEB&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/2x7M2L3DLK6bZpEXwVupdiK1JgBfS0AAD2Dx5WHf5Jnok3YXy651iNYxUHGcqd3bhSCFMoPgkt1flMg=w293-h220-rw' video='https://lh3.googleusercontent.com/2x7M2L3DLK6bZpEXwVupdiK1JgBfS0AAD2Dx5WHf5Jnok3YXy651iNYxUHGcqd3bhSCFMoPgkt1flMg=m18?cpn=jUO9UnS0UH2Opp2p&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-Bvc0FtsOwA0/VVBmCU9fZDI/AAAAAAAAQLM/m_mRnsf5zcE/s800/0484%252520-%252520Video%2525203.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=231066c4d1132455&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435144024&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=5171D789673FFB1C0E232CEB0A47497DE2298AC4.2863A9A2AAC853D60A04903BB214867F0C81C846&key=lh1&cpn=kPKoaX1BN4AwD-3N&c=WEB&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/_VMWknOMUn2OlqO1dl77bhtqkdHJ1VTN8xdE24ndFfBeeZCrCNFtYl0aGD2vXYuy9qax9ZBFq-EvQQM=w293-h220-rw' video='https://lh3.googleusercontent.com/_VMWknOMUn2OlqO1dl77bhtqkdHJ1VTN8xdE24ndFfBeeZCrCNFtYl0aGD2vXYuy9qax9ZBFq-EvQQM=m18?cpn=q_fupPgnLFRt1TuX&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
 
 Die Übernachtung in Timber Creek sollte das letzte Mal Campen in Australien, und wahrscheinlich auf der gesamten Weltreise, sein. Diesen Umstand feierten wir mit einem Festmahl.
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/-olZdCiqssiE/VVBmDgp2YCI/AAAAAAAAQLM/sfXSBVlrvzk/s800/0484%252520-%252520Video%2525204.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=eefd1f231acf07d1&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435144098&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=729ED6BC9B256298B3E055C7DAD01411BAF2BD1E.23AA1B7EE2F6604D925C0956C2B3C34164B93395&key=lh1&cpn=UsEd2-H4VI26GfFE&c=WEB&cver=html5' %}
+{% include video.html title='' img='https://lh3.googleusercontent.com/yrTJEa6oskYQG0jYUThk8yG-RmqfSoujMJPardx4_xckehssTWVixuthqcDGag9oDIq8erJvdjdshJE=w293-h220-rw' video='https://lh3.googleusercontent.com/yrTJEa6oskYQG0jYUThk8yG-RmqfSoujMJPardx4_xckehssTWVixuthqcDGag9oDIq8erJvdjdshJE=m18?cpn=pnH79DCzLBSK4w0X&c=WEB&cver=1.20161020'  %}
 
 
 Am naechsten Morgen, nachdem wir das Chaos vom Kochen beseitigt hatten, verliessen wir Timber Creek mit dem endgueltigen Ziel unserer Australienreise, naemlich Darwin. Die 600 km lange Strecke fuehrte uns durch Katherine und durch das Top End, in dem sich einige interessante Nationalparks befinden (Kakadu Nationalpark), fuer die wir aber leider keine Zeit haben. Sowohl das Klima als auch die Vegetation aendert sich merk- bzw. spuerbar. Die Luftfeuchtigkeit steigt und der Highway fuehrt an einer satten gruenen Landschaft vorbei. In Darwin fuhren wir zur erstbesten Backpacker Unterkunft und marschierten auf direkten Weg in den hauseigenen Pool. Wir waren wiedermal froh, uns unter Menschen aufzuhalten, nachdem wir die letzten 3 1/2 Wochen mehr Kontakt mit Fliegen hatten, als mit Menschen. Die naechsten 2 1/2 Tage werden zum Teil organisatorischer und zum anderen Teil spassiger Natur sein. Auf jeden Fall muessen wir noch das Auto reinigen und zurueckbringen und die Fluege nach New Zealand confirmen. Am Sonntag um Mitternacht geht es dann los.

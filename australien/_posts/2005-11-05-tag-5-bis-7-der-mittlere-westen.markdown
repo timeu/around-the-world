@@ -25,7 +25,7 @@ Aufgrund der anstrengenden Fahrt am Vortag, standen wir erst um halb 10 auf. Nac
 
 <div class="row">
 <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-of7GadpcAb4/VVBh591cpOI/AAAAAAAAQLM/C6fkPF3uUSA/s800/0096%252520-%252520Pinnacles.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=d847ca095cceb281&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1434971686&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=5F54E709240C48B90155C2E483E9F1F986D17E50.486FE1A13A53C3CAEE92EEBACACC3D287BB4237F&key=lh1&cpn=LpfAJIoVWSWbU6VM&c=WEB&cver=html5' %}
+    {% include video.html title='' img = 'https://lh3.googleusercontent.com/Lw5EMyXiNllxddV6JDHB9VsJWl_dtxpfBcQrjddnMExk1ZoJys9VX6cQ7eQgtzwnfJNORi9TaiCFgv4=w293-h220-rw' video= 'https://lh3.googleusercontent.com/Lw5EMyXiNllxddV6JDHB9VsJWl_dtxpfBcQrjddnMExk1ZoJys9VX6cQ7eQgtzwnfJNORi9TaiCFgv4=m18?cpn=sGYQ4ToZR8ekxV3E&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-_LcDk6WlZkY/VVBh4lrxSFI/AAAAAAAAQLM/l0Bq6lP_Keo/s2048/0095%252520-%252520Pinnacles.jpg' %}

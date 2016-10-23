@@ -14,7 +14,7 @@ location: Darwin, Northern Territory, Australien
 
 <h1>Zusammenfassung der Westaustralien Reise:</h1>
 
-![]({{ "/assets/images/australian_flag_s.gif" | prepend : site.baseurl }}) 
+![]({{ "/assets/images/australian_flag_s.gif" | prepend : site.baseurl }})
 
 <h2>Reiseroute</h2>
 
@@ -26,7 +26,7 @@ location: Darwin, Northern Territory, Australien
     <hr />
     <dl class="dl-horizontal">
       <dt>Zeitraum</dt>
-      <dd>27.10.2005 bis   
+      <dd>27.10.2005 bis
 20.11.2005</dd>
       <dt>Dauer</dt>
       <dd>24 Tage</dd>
@@ -174,7 +174,7 @@ Westaustralien ist mit 32,9 % der australischen Gesamtfläche der größte Bunde
     {% include picture.html title='Buckelwal' caption='true' img='https://lh3.googleusercontent.com/-WPBipLMTmbA/VWCCMFOZweI/AAAAAAAAQRY/pW_erT1mbmM/s2048/IMG_0098.JPG' %}
   </div>
   <div class="col-sm-4 text-center">
-    {% include video.html title='Octopus' caption='true' img='https://lh3.googleusercontent.com/-ZDFQXdQ0h_g/VVBjS4jVlKI/AAAAAAAAQLM/zDJ_tqzLEMI/s800/0246%252520-%252520Video%2525202.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=3bebe660d45513ff&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1435152263&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=D806DB599B68F28BE129E170FBFCADC0FD324C25.2332DF9A1A311ED32FA4ABF8D090FC90F1023BF7&key=lh1&cpn=6n94_1PobduQ0D6O&c=WEB&cver=html5' %}
+    {% include video.html title='Octopus' caption='true' img='https://lh3.googleusercontent.com/zdSjFq_F3QIA25bclBR9J3ByCPvfffeuNCD5KmgxCmgvlEQ5jJRylMUW_OjZN7A8LyyvGUOerqex86w=w293-h220-rw' video='https://lh3.googleusercontent.com/zdSjFq_F3QIA25bclBR9J3ByCPvfffeuNCD5KmgxCmgvlEQ5jJRylMUW_OjZN7A8LyyvGUOerqex86w=m18?cpn=ushHZHc1jzokysxK&c=WEB&cver=1.20161020'  %}
   </div>
   <div class="col-sm-4 text-center">
     {% include picture.html title='Korallen' caption='true' img='https://lh3.googleusercontent.com/-Y569UcNhKLk/VVBii3GtmDI/AAAAAAAAQLM/kDrZ2TKC0LQ/s2048/0168%252520-%252520Ningaloo%252520Reef.jpg' %}
@@ -259,7 +259,7 @@ Westaustralien ist mit 32,9 % der australischen Gesamtfläche der größte Bunde
     {% include picture.html title='Windjana Gorge NP' caption='true' img='https://lh3.googleusercontent.com/-MaL1jztOzaw/VVBk-okpxOI/AAAAAAAAQUw/Ctl_RyDPvPo/s2048/0389%252520-%252520Windjana%252520Gorge.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include picture.html title='Tunnel Creek NP' caption='true' img='https://lh3.googleusercontent.com/-fXEFRdENvck/VWL9_kdPs9I/AAAAAAAAQVU/xFwGX_p_4wk/s2048/IMG_0170%252520_720%252520x%252520480_.jpg' %}
+    {% include picture.html title='Tunnel Creek NP' caption='true' img='https://lh3.googleusercontent.com/ayJkpabkeUSbFEfSIWMR7j9c5XYYIAvrPbYyjuNa9Zh8G0fjpw7DdVxVO9zPYMdOZj240g-zHvzIb-w=w2560-h1600-rw-no' %}
   </div>
   <div class="col-sm-4">
     {% include picture.html title='Geiko NP' caption='true' img='https://lh3.googleusercontent.com/-1FFqoE3Ej0k/VVBllX9_rXI/AAAAAAAAQLM/IvJtprgzJJk/s2048/0444%252520-%252520Geiko%252520Gorge.jpg' %}
