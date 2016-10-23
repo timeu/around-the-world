@@ -267,10 +267,10 @@ Wir schwammen ihm eine Zeit nach und versuchten, diesen einmaligen Anblick auf V
 
 <div class="row">
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-YTTHGM01DRE/Vhpn5QIc4iI/AAAAAAAASAc/TZVJ2QtYQ7c/s2048-Ic42/IMG_0089_001.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/to32ERRxfVbLxGNVYPLxO21gIfNgZhI_bPUvPXCfSuEbHqYLfRPDz6UYLVcxzwxoQoLMhIfwZrYAr94=w2560-h1600-rw-no' %}
   </div>
   <div class="col-sm-6">
-	{% include picture.html title='' img='https://lh3.googleusercontent.com/-v72_Q11TKjQ/Vhpn5Ti1FaI/AAAAAAAASAc/RDywSEen3ss/s2048-Ic42/IMG_0090_001.JPG' %}
+	{% include picture.html title='' img='https://lh3.googleusercontent.com/zrw4zzy6MJNscm7ephOS5GlSnKwbQwcMocigky-QTzq2wHSA69MhntZvvidP3TtIGyPYd-ApLzaSPJE=w2560-h1600-rw-no' %}
   </div>
 </div>
 
