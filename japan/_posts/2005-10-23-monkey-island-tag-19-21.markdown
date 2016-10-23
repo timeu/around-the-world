@@ -56,19 +56,19 @@ Um 6:45 am naechsten Tag wurden wir durch den Wecker unsanft aus dem Schlaf geri
 
 <div class="row">
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-npePy2wRcXs/VUIN8oc2j1I/AAAAAAAALIw/ETuTacqU1Bc/s800/0547%2520-%2520Video%25204-4.gif' video='https://r2---sn-jxnoxu-2gbe.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=f3bc8dbff361d680&itag=18&source=picasa&ip=193.170.94.190&ipbits=0&expire=1433082852&sparams=cmbypass,expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,shardbypass,source&signature=043582FE0865DFE42271CB4CB261C0D6E6EA40C0.715A4B82370B962B2B6AD7F5F92B707F7CD47AE3&key=cms1&cpn=SoQ5XIPHOkk1zTbJ&c=web&cver=html5&cms_redirect=yes&mm=31&mn=sn-jxnoxu-2gbe&ms=au&mt=1430491229&mv=m&pl=22' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/m1ES_4NenOxAIdUFdLbD07PrJS7bIqIa8bZEVx27xLJ3zI8F2lCBc-0uM-qsSkWGM6EvRGh2PaRH2g=w293-h220-rw' video='https://lh3.googleusercontent.com/m1ES_4NenOxAIdUFdLbD07PrJS7bIqIa8bZEVx27xLJ3zI8F2lCBc-0uM-qsSkWGM6EvRGh2PaRH2g=m18?cpn=OFOfcQStRD7maSBW&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-eL-zFWSukBs/VUIN9UrF2dI/AAAAAAAALIw/LJYG3iY_MRQ/s800/0547%2520-%2520Video%25205-5.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=c0693f5f95470c21&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1433085393&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=8931B684D2139153540AC6F4256AFD248A8928EA.72B2FF9CBB831F3362637AB2BB42F0F5F0BF2846&key=lh1&cpn=f1aPn-4XkOZ20U74&c=web&cver=html5' %}
+    {% include video.html title='' img ='https://lh3.googleusercontent.com/ECQaBTh2Xdei0Sn8Ro5A4Ansq-fg2K9l5ZKWycOacmwi2033AcQmq39kHi5vEqzqKoubADleaF8o0Q=w293-h220-rw' video='https://lh3.googleusercontent.com/ECQaBTh2Xdei0Sn8Ro5A4Ansq-fg2K9l5ZKWycOacmwi2033AcQmq39kHi5vEqzqKoubADleaF8o0Q=m18?cpn=XaUrg1YkfQsrttcw&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
 <div class="row">
-  <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-bTwG_n39Emo/VUIN7ajFYVI/AAAAAAAALIw/eerE2GzKIKE/s800/0547%2520-%2520Video%25202-2.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=d0c2fc7efb2c8786&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1433085894&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=238ED68EC282B4CBE2240CD7DEEC1B29207DFA57.3394B42FF0689EA3DA7906D6B1A7BFF6D9CC1328&key=lh1&cpn=TIUgDRPMmaErbbg0&c=web&cver=html5' %}
+ <div class="col-sm-6">
+    {% include video.html title='' img='https://lh3.googleusercontent.com/jsXcswlVnDcSd8GvzB7aiN9Bj0rMDq8kHRBpx5ptE1TzYV8MNNF28LurwRnxL9lmkBlgiLGbmKbfvQ=w293-h220-rw' video='https://lh3.googleusercontent.com/jsXcswlVnDcSd8GvzB7aiN9Bj0rMDq8kHRBpx5ptE1TzYV8MNNF28LurwRnxL9lmkBlgiLGbmKbfvQ=m18?cpn=RnIPaU54C_8LZADI&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-dl02ENtzLss/VUIN-DjY-9I/AAAAAAAALIw/hEDnrjYlVoo/s800/0547%2520-%2520Video%25206-6.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=23dbac46daa34e2e&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1433085535&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=397568D7B7828C7F2A9A9F9069A27854190E800D.DC61BDAF4B7D5A2AB533DE67FC1C401A1E852312&key=lh1&cpn=Q38alQ_IlhYx2HJQ&c=web&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/mom9CMBpffGtFWwDylkfrNPuKoYOAXXGbdoEoQOwsxR_HyMeyMgqB1zSn6UeGpCAQP6I0ujftDIS5g=w293-h220-rw' video='https://lh3.googleusercontent.com/mom9CMBpffGtFWwDylkfrNPuKoYOAXXGbdoEoQOwsxR_HyMeyMgqB1zSn6UeGpCAQP6I0ujftDIS5g=m18?cpn=zzHZ5qxzBmp1QMZp&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -134,9 +134,9 @@ Nach ca. 4 Stunden erreichten wir schliesslich die eigentliche Sehenswuerdigkeit
 </div>
 
 Nach einer halben Stunde Bestaunen und Fotografieren, begannen wir mit dem Abstieg. Dabei ueberholten wir die Hikinggruppen, welche uns beim Aufstieg entgegengekommen waren, was diese mit einem kollektiven, jovialen Oho und WOW zur Kenntnis nahmen.
-{% include video.html title='' img='https://lh3.googleusercontent.com/-Wa55Y7KXnvA/VUIOVTkvTcI/AAAAAAAALIw/VxN5jBxSDLQ/s800/0574%2520-%2520Yakushima.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=ebe6a9ec980e3ef4&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1433086750&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=C36F53B540806288C39D1AAE6CF28831C41C3080.C891942BFDFAD18BE57B4C53201D096435C2BBF0&key=lh1&cpn=HTIeyUSx54_2E4Bc&c=web&cver=html5' %}
+{% include video.html title='' img='https://lh3.googleusercontent.com/rtjAWKkXMyIs-pgemYWxZjyaNbOFwS3UOpz7XH_NtSAaIEL-VGVOwPrAb6OMD82qmtMrm3qRP8FNVQ=w293-h220-rw' video='https://lh3.googleusercontent.com/rtjAWKkXMyIs-pgemYWxZjyaNbOFwS3UOpz7XH_NtSAaIEL-VGVOwPrAb6OMD82qmtMrm3qRP8FNVQ=m18?cpn=dbWp1WT4hcmSKc5P&c=WEB&cver=1.20161020' %}
 Dieses Tempo setzten wir bis zur Basisstation fort und so absolvierten wir die Wanderung statt in 9 Stunden in 7 Stunden und darueber hinaus entwischten wir dem naeherkommenden Unwetter.
-{% include video.html title='' img='https://lh3.googleusercontent.com/-u-nbOFIn1v8/VUIOWj1EilI/AAAAAAAALIw/A2LlaOcDZqc/s800/0575%2520-%2520Yakushima.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=0f6778e60643c9fb&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1433086835&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=321657DDCFBD5DBB98E70E1246BE8C80D0351E07.B1ED49575180EA45E9A3C17A273045B9B69F65C7&key=lh1&cpn=9pUXhwWoF2HWOdnS&c=web&cver=html5' %}
+{% include video.html title='' img='https://lh3.googleusercontent.com/ayx-nO-Xl-xVZfYztpnBSuLPMPF2LKvqS1j3dxLkkpanUvjFHso4AgavIlV1V5M6NAryXtSYuOBRuA=w293-h220-rw' video='https://lh3.googleusercontent.com/ayx-nO-Xl-xVZfYztpnBSuLPMPF2LKvqS1j3dxLkkpanUvjFHso4AgavIlV1V5M6NAryXtSYuOBRuA=m18?cpn=1gv9bs1Tu2jDnAfj&c=WEB&cver=1.20161020' %}
 Doch der Mangel an Ernaehrung zaehrte ziemlich an den Kraeften und so besorgten wir uns noch ein Abendessen beim Supermarkt. Dem Hunger war der schlechte Geschmack des Essens gleichgueltig ;-)
 
 Der letzte Tag auf Yakushima stand im Zeichen der Gemuetlichkeit.
@@ -148,7 +148,7 @@ Gegen 8 Uhr wachten wir auf und goennten uns ein kleines Fruehstueck und fuhren 
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-fBSYu49OZu0/VUIOZ6229aI/AAAAAAAALIw/-rF_Y1F49vY/s2048/0579%252520-%252520Yakushima.jpg' %}
   </div>
   <div class="col-sm-6">
-{% include video.html title='' img='https://lh3.googleusercontent.com/-BMRoY7FPrZg/VUIOYOCiPnI/AAAAAAAALIw/Zi2BJ0X5xMo/s800/0577%2520-%2520Yakushima.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=bb31d97c8200e044&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1433087266&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=46ABC33CA2EA2389D9A8856913AA445756C94704.16D8398DA2C03B10C70DC81BAABDC04950B24E28&key=lh1&cpn=QpIvtvi1My3HrDiM&c=web&cver=html5' %}
+{% include video.html title='' img='https://lh3.googleusercontent.com/UugpgCo6CvNjaGV8-CQ593QZjEwViCYlAppgjv6THdRtlQ6Zod8JZQLCrID_uhsOKjFItxHqVx0S-VY=w293-h220-rw' video='https://lh3.googleusercontent.com/UugpgCo6CvNjaGV8-CQ593QZjEwViCYlAppgjv6THdRtlQ6Zod8JZQLCrID_uhsOKjFItxHqVx0S-VY=m18?cpn=lCdLFtKSa6xjf5fw&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -178,7 +178,7 @@ Die Fahrt mit der Fahere zurueck zum Festland war relativ ereignislos. Einer sch
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-Ctn89Q0fyM4/VUIOj-gjToI/AAAAAAAALIw/jLieMmgLEgA/s2048/0591%252520-%252520Yakushima.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-VLh9omUWS14/VUIOrA3m82I/AAAAAAAALIw/cMcqDUuDyJ0/s800/0591%2520-%2520Yakushima.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=fc9277981994b6d6&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1433087762&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=38A935131200AA4146443BF18AB996BF06A75575.7D990C9351168F3E9BA8F0BAA5FC159ABBF06416&key=lh1&cpn=jNHSipuSt9PKPKui&c=web&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/9f2LGM6SCKjhYy9AjV52sQWO32dA64IC3KD8wJuTwmEsuDBSvEjcPLUUknqmJ47m_EXo94ZjZThpyw=w293-h220-rw' video='https://lh3.googleusercontent.com/9f2LGM6SCKjhYy9AjV52sQWO32dA64IC3KD8wJuTwmEsuDBSvEjcPLUUknqmJ47m_EXo94ZjZThpyw=m18?cpn=GtcC7oz3RFpcSsmS&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 

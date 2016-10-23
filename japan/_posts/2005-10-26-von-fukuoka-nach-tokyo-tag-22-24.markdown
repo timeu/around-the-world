@@ -78,7 +78,7 @@ Gegen 10 Uhr kamen wir dann in einem kleinen Ort unweit vom Mount Fuji an und su
 
 Die Jugendherbege war bis dato das schlechteste Quartier, das wir hatten. Es war eiskalt im Zimmer, es roch nach Zigarettenrauch und um 7 Uhr in der Frueh wurden wir von klassischer Musik, die durch Mikrofone im Gang ertoente, unsanft geweckt.
 
-{% include video.html title='Mount Fuji' img='https://lh3.googleusercontent.com/-fbBFI8JIetM/VUIO0vhsLOI/AAAAAAAALIw/0xNB1IZg78A/s800/0612%2520-%2520Mount%2520Fuji.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=16a9e11c918516ea&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1433488874&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=1C3308C9845AB41640C35DE549467AA5F292569E.72C8237CCF3CC34E6BFABA2E900647337B392DB&key=lh1&cpn=HQbL-K1r-ZQTAJOf&c=web&cver=html5' %}
+{% include video.html title='Mount Fuji' img='https://lh3.googleusercontent.com/Ga0iFHRb7JkcV1-bzqoSgVMa4mqPIKjykIPW20VpyDqqRbsfL5fXXU-rKS1Cw3biN7MLngN0kUK59Q=w293-h220-rw' video='https://lh3.googleusercontent.com/Ga0iFHRb7JkcV1-bzqoSgVMa4mqPIKjykIPW20VpyDqqRbsfL5fXXU-rKS1Cw3biN7MLngN0kUK59Q=m18?cpn=uhfDRzN3GzqjTbSd&c=WEB&cver=1.20161020' %}
 
 
 In unserem Zimmer lag noch ein Englaender, der am Vortag 5 Stunden auf den Mount Fuji geklettert ist. Er riet uns eher davon ab, da es angeblich eisskalt ist. Also beschlossen wir, nur auf einem gegenueberliegen Berg mit einer etwas skurrilen Seilbahn zu fahren und von dort aus unsere Fotos vom beeindruckenden Mount Fuji zu machen.
@@ -98,7 +98,7 @@ In unserem Zimmer lag noch ein Englaender, der am Vortag 5 Stunden auf den Mount
       {% include picture.html title='Seilbahn zum Mount Fuji' img='https://lh3.googleusercontent.com/-wzVUZJPhkzU/VUIO1mZW3qI/AAAAAAAALIw/ZOOeZbOoGQs/s2048/0612%252520-%252520Mount%252520Fuji.jpg' %}
   </div>
   <div class="col-sm-6 text-center">
-      {% include video.html title='Mount Fuji' img='https://lh3.googleusercontent.com/-hd6FIIWVnyA/VUIO3gx02tI/AAAAAAAALIw/TSnbmKQ8WGY/s800/0616%2520-%2520Mount%2520Fuji.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=a9a665d5e873f9cf&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1433488307&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=D9AB80AF318F7185B7DDE6C0E9F053C6B800307E.A2228B87607D876FE80A34647E207311D3CC99DE&key=lh1&cpn=VIa1rtV0GLygVnMu&c=web&cver=html5' %}
+      {% include video.html title='Mount Fuji' img='https://lh3.googleusercontent.com/-hd6FIIWVnyA/VUIO3gx02tI/AAAAAAAALIw/TSnbmKQ8WGY/s800/0616%2520-%2520Mount%2520Fuji.gif' video='https://lh3.googleusercontent.com/LdlFiHvmYJGB1I4-y_IXioMqcDvhc1JqNVuG1E9AixtcB5y3VIwxPpjAvOdiBDh7KvB7hcx8GbivQRI=m18?cpn=nZW5H43IIPr7r_fl&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 

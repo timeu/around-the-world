@@ -118,7 +118,7 @@ Die Bilder und das Video sprechen hoffentlich fuer sich:
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-8i4olwV3LtM/VUIL07HUPSI/AAAAAAAALIw/suJQtRW2g3A/s2048/0364%252520-%252520Osaka.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-EpFU5pTMxSo/VUILxf41THI/AAAAAAAALIw/sy2sBn9zdQA/s800/0359%2520-%2520Osaka.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=b4a2890ec989d6b7&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1433597829&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=D2FD8FAAA2E0C3C9F26EADB82F89FB831F695D60.417C31D8D8BA3C34E3B691A6AA159790E76D4E17&key=lh1&cpn=OasFYGLpekE2TwOn&c=web&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/NeQ02BxjShGJAuyBSchCWFTp40DGUUGECareeq1ddSGY7-DzD-aFMmQ_nNvT2xr3cVD8JXCxfyrJXAo=w293-h220-rw' video='https://lh3.googleusercontent.com/NeQ02BxjShGJAuyBSchCWFTp40DGUUGECareeq1ddSGY7-DzD-aFMmQ_nNvT2xr3cVD8JXCxfyrJXAo=m18?cpn=CV9JgKwem3WpN2XE&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -162,7 +162,7 @@ Hochzeitszeremonie in einem Tempel:
     {% include picture.html title='Hochzeit' img='https://lh3.googleusercontent.com/-fjtx6TpS5es/VUIMLK2aAwI/AAAAAAAALIw/XzJAugJ35r8/s2048/0395%252520-%252520Nara.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='Hochzeit' img='https://lh3.googleusercontent.com/-uNsJxj6IuhI/VUIMJ_Pi3HI/AAAAAAAALIw/LLtTYiSRcho/s800/0395%2520-%2520Nara.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=2ab71922134a2b18&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1433598325&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=D620843C79ABAF9FD505FDEA319048A9F5A31C8B.1A5218EA7A6659ED2EEDF98F94DB40EAA23390DE&key=lh1&cpn=hr877aEI5aawgIpR&c=web&cver=html5' %}
+    {% include video.html title='Hochzeit' img='https://lh3.googleusercontent.com/tkxOsTwRn4EXR_a76PlAkZoDDEdxiGKJJL8JA7azPCm3BQN2jypHwkn1n13QIzuB6EiZjcuF-Nay7w=w293-h220-rw' video='https://lh3.googleusercontent.com/tkxOsTwRn4EXR_a76PlAkZoDDEdxiGKJJL8JA7azPCm3BQN2jypHwkn1n13QIzuB6EiZjcuF-Nay7w=m18?cpn=hYe8V1_2yMie0Z5W&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-4">
     {% include picture.html title='Hochzeit' img='https://lh3.googleusercontent.com/-QSeP59XHvFs/VUIN1QBan7I/AAAAAAAALIw/cKiR81xxDmA/s2048/0400%252520-%252520Nara.jpg' %}

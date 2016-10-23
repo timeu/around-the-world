@@ -175,7 +175,7 @@ Oben angekommen kamen wir uns aber eher vor wie im Film "Planet der Affen", bzw.
     {% include picture.html title='Monkeys of Miyajimi' img='https://lh3.googleusercontent.com/-yXW2iwAS_Hg/VUINJuumOkI/AAAAAAAALIw/_OrNg4sNHfM/s2048/0482%252520-%252520Miyajima.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-guqfhagsiRc/VUIO_qG69OI/AAAAAAAALIw/nWVfCB0HmtU/s800/482%2520-%2520Video%252002-2.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=304a8d708dad91ae&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1433519264&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=DCC76D50EE9248ECB76A2D41E07C45EDA1D1E80A.694FFC499BC6741AEBB3D0709909DDFBC695C031&key=lh1&cpn=MY65y0dVrl51J1v7&c=web&cver=html5' %}
+    {% include video.html title='' img='https://lh3.googleusercontent.com/S_xnpBIG-TBUsvws5gd7IpFlOvUq8fdbMpjMICNNrbE4-0lMVLnogPcaVtbCRk8mz9mZbtuuX2m4pjI=w293-h220-rw' video='https://lh3.googleusercontent.com/S_xnpBIG-TBUsvws5gd7IpFlOvUq8fdbMpjMICNNrbE4-0lMVLnogPcaVtbCRk8mz9mZbtuuX2m4pjI=m18?cpn=HXwbwRT-KTpKeZkJ&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
