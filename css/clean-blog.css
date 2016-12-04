@@ -439,3 +439,12 @@ ul.comments div {
 body {
   webkit-tap-highlight-color: #e67850;
 }
+
+.lazyload,
+.lazyloading {
+    opacity: 0;
+}
+.lazyloaded {
+    opacity: 1;
+    transition: opacity 300ms;
+}

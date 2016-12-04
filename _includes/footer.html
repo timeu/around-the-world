@@ -51,35 +51,21 @@
 
 <!-- jQuery -->
 <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
-
+<script src="https://cdn.jsdelivr.net/g/lightgallery,lg-autoplay,lg-fullscreen,lg-hash,lg-pager,lg-share,lg-thumbnail,lg-video,lg-zoom"></script>
 <!-- Bootstrap Core JavaScript -->
 <script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
-
-<script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
-
-<script src="{{ "/js/bootstrap-image-gallery.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/js/salvattore.min.js" | prepend: site.baseurl }}"></script>
 
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
 <script>
-var maps = $("div.map[url]").each(function() {
-   map =  L.map(this).setView([51.505, -0.09], 10);  
-   initKML(map,"{{ "/assets/routen/" | prepend : site.baseurl }}" + this.getAttribute('url'));   
-});
-
 $(document).ready(function() {
     $('#fotoLink').on('click', function() {
        window.scrollTo(0,0);
-       $('.nav-tabs a[href=#fotos]').tab('show'); 
+       $('.nav-tabs a[href=#fotos]').tab('show');
     });
-
-    blueimp.Gallery($('#foto_links a'),
-        {
-            container: '#gallery-carousel',
-            carousel: true,
-            useBootstrapModal:false
-        }
-    );
+    $("#lightgallery").lightGallery({
+        selector: ".lightgallery__image"
+    });
 });
 </script>

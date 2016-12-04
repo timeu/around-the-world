@@ -1,5 +1,5 @@
 <br>
-<div class="grid" data-columns>
+<div class="grid" id="lightgallery" data-columns>
   {% for foto_pages in site.data.fotos %}
     {% capture pageid %}{{ page.wordpress_id | strip }}{% endcapture %}
     {% if pageid == foto_pages[0] %}
@@ -7,12 +7,18 @@
         {% for foto in fotos %}
           <div>
             {% unless foto.video %}
-            <a href="{{ foto.img }}"  title="{{ foto.title }}"  data-gallery >
-                <img src="{{ foto.img | replace : '/s2048/','/s480/' | replace: '=w2560-','=w480-' }}"  />
+            <a href="{{ foto.img }}"  title="{{ foto.title }}" class="lightgallery__image" >
+                <img data-src="{{ foto.img | replace : '/s2048/','/s480/' | replace: '=w2560-','=w480-' }}" class="lazyload" />
             </a>
             {% else %}
-            <a href="{{ foto.video }}" type="video/mp4"  data-poster="{{ foto.img }}"  data-gallery>
-                  <img src="{{ foto.img }}"/>
+            <div style="display:none;" id="video{{ forloop.index}}">
+              <video class="lg-video-object lg-html5" controls preload="none">
+                  <source src="{{ foto.video }}">
+                  Your browser does not support HTML5 video.
+              </video>
+            </div>
+            <a  class="lightgallery__image" data-poster="{{ foto.img }}" data-sub-html="video caption1" data-html="#video{{ forloop.index}}" >
+                  <img data-src="{{ foto.img }}" class="lazyload"/>
               </a>
             {% endunless %}
 
