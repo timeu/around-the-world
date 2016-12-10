@@ -7,7 +7,7 @@
 {% endunless %}
 <div class="thumbnail">
 	<a href="{{ include.img }}"  title="{{ include.title }}"  class="lightgallery__image" >
-		<img src="{{ include.img | replace : '/s2048',size | replace: '=w2560-',size_alt }}" class="img-responsive" style="margin:0 auto;" />
+		<img data-src="{{ include.img | replace : '/s2048',size | replace: '=w2560-',size_alt }}" class="img-responsive lazyload" style="margin:0 auto;" />
 	</a>
 	{% if include.title and include.caption %}
 	<div class="caption">
