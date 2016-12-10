@@ -139,7 +139,7 @@ Das Wetter haette nach dem regnerischen Norden nicht besser sein koennen. Wir be
 
 Von dort aus kann man die Wale bei ihrer Wanderung vom Norden in den Sueden beobachten. Um 6 Uhr Abends kamen wir ueber die beruehmte Golden Gate Bridge in San Francisco an.
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/-HGicNwXxzOM/VVCSMrYL47I/AAAAAAAASOk/061Qn6V9UKQ/s800-Ic42/0297%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/NX3dsx7HeGw5o6O8UwAe63E3fFxU8brZTyBhZv637aTM=m18?cpn=W0Ub2h-tG7GKJV1a&c=WEB&cver=html5' %}
+{% include video.html id='1' title='' img='https://lh3.googleusercontent.com/-HGicNwXxzOM/VVCSMrYL47I/AAAAAAAASOk/061Qn6V9UKQ/s800-Ic42/0297%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/NX3dsx7HeGw5o6O8UwAe63E3fFxU8brZTyBhZv637aTM=m18?cpn=W0Ub2h-tG7GKJV1a&c=WEB&cver=html5' %}
 
 Am naechsten Morgen schliefen wir erst einmal aus und starteten die Stadtbesichtung um 11 Uhr.
 
@@ -339,13 +339,13 @@ Video
 
 <div class="row">
   <div class="col-sm-4">
-	   {% include video.html title='' img='https://lh3.googleusercontent.com/-yANOdUwJbMM/VVCTal9SpYI/AAAAAAAASNo/7yz_5paFrw8/s800-Ic42/0428%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/OqLENDf1Z2f0LlFobDcqiGvXYzyKolaMj5jvMOsz3Ejj=m18?cpn=MzCPuwoYhsJCgH9d&c=WEB&cver=html5' %}
+	   {% include video.html id='2' title='' img='https://lh3.googleusercontent.com/-yANOdUwJbMM/VVCTal9SpYI/AAAAAAAASNo/7yz_5paFrw8/s800-Ic42/0428%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/OqLENDf1Z2f0LlFobDcqiGvXYzyKolaMj5jvMOsz3Ejj=m18?cpn=MzCPuwoYhsJCgH9d&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-	   {% include video.html title='' img='https://lh3.googleusercontent.com/-GCgTyTZa_NI/VVCTbf-ERmI/AAAAAAAASPE/w3JBOlxt8Lc/s800-Ic42/0428%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/CK0j7sTuY2wRfuUMRx0FZqJXTJQIfz-vU4-eVL_0MPC8=m18?cpn=brrXD4U9U5FPhTTq&c=WEB&cver=html5' %}
+	   {% include video.html id='3' title='' img='https://lh3.googleusercontent.com/-GCgTyTZa_NI/VVCTbf-ERmI/AAAAAAAASPE/w3JBOlxt8Lc/s800-Ic42/0428%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/CK0j7sTuY2wRfuUMRx0FZqJXTJQIfz-vU4-eVL_0MPC8=m18?cpn=brrXD4U9U5FPhTTq&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-	  {% include video.html title='' img='https://lh3.googleusercontent.com/-fZymPZyqdy0/VVCTcFuCgRI/AAAAAAAASNg/ehx59bfB7xk/s800-Ic42/0428%252520-%252520Video%2525204.gif' video='https://lh3.googleusercontent.com/CFXkHuOL8Fdjl87ITv6DuwYsVP_2XE32g1XkPCsi8VKM=m18?cpn=5nYNn6uF1LM3nFv-&c=WEB&cver=html5' %}
+	  {% include video.html id='4' title='' img='https://lh3.googleusercontent.com/-fZymPZyqdy0/VVCTcFuCgRI/AAAAAAAASNg/ehx59bfB7xk/s800-Ic42/0428%252520-%252520Video%2525204.gif' video='https://lh3.googleusercontent.com/CFXkHuOL8Fdjl87ITv6DuwYsVP_2XE32g1XkPCsi8VKM=m18?cpn=5nYNn6uF1LM3nFv-&c=WEB&cver=html5' %}
   </div>
 </div>
 

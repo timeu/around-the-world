@@ -249,4 +249,4 @@ Diesmal fiel die Entscheidung auf ein Ostafrikanisches Restaurant in der Nähe d
 
 Den letzten Abend in New York verbrachten wir sehr entspannt im Quartier (Video).
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/-vgWDZ82OUR8/VVCU4s81OkI/AAAAAAAASNk/G0nMKnnEXDg/s800-Ic42/0592%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/r3zb1s16FWsF8g_HHXllAWnK7kMppL50gcREdyE6-C7a=m18?cpn=QajXnZfAS9GeL9qy&c=WEB&cver=html5' %}
+{% include video.html id='1' title='' img='https://lh3.googleusercontent.com/-vgWDZ82OUR8/VVCU4s81OkI/AAAAAAAASNk/G0nMKnnEXDg/s800-Ic42/0592%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/r3zb1s16FWsF8g_HHXllAWnK7kMppL50gcREdyE6-C7a=m18?cpn=QajXnZfAS9GeL9qy&c=WEB&cver=html5' %}

@@ -299,7 +299,7 @@ Alles in allem bietet Kalifornien sehr viel und waere fuer alle, die dem Winter 
     {% include picture.html title='' caption='true' img='https://lh3.googleusercontent.com/-fvR0ebLd6bw/VVCRqnmmrcI/AAAAAAAASNI/vTQ0snRSRyQ/s2048-Ic42/0244%252520-%252520Lake%252520Tahoe.jpg' %}
   </div>
   <div class="col-sm-4 text-center">
-     {% include video.html title='Jumping' caption="true" img='https://lh3.googleusercontent.com/-nE6LbV3uPDY/VVCRpCJCjjI/AAAAAAAASNc/Ljl94MiqwmQ/s800-Ic42/0242%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/pJHVa1isPVBqheHlK_Whfyi_MA0DpeI0IM9Sz-ikovSr=m18?cpn=K4qDicfWSTIivMHK&c=WEB&cver=html5' %}
+     {% include video.html id='1' title='Jumping' caption="true" img='https://lh3.googleusercontent.com/-nE6LbV3uPDY/VVCRpCJCjjI/AAAAAAAASNc/Ljl94MiqwmQ/s800-Ic42/0242%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/pJHVa1isPVBqheHlK_Whfyi_MA0DpeI0IM9Sz-ikovSr=m18?cpn=K4qDicfWSTIivMHK&c=WEB&cver=html5' %}
   </div>
 </div>
 

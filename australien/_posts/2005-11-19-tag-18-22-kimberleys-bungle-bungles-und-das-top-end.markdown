@@ -47,7 +47,7 @@ Gegen 5 Uhr Abends erreichten wir unser Tagesziel, den Bell Gorge Campingplatz. 
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-zwoL7IcHbqo/VWQph1quXeI/AAAAAAAAQYY/_ZJEUAwzFNY/s2048/IMG_0037a.jpg' %}
   </div>
   <div class="col-sm-6">
-     {% include video.html title='' img='https://lh3.googleusercontent.com/kZ-byVsNzAdYr6JOs-6CSteiPqSX1DjTuibgT613nuSTndkRA-zIk8Qi2x_uW6ulXIBVFtSc0uQGVpc=w293-h220-rw' video='https://lh3.googleusercontent.com/kZ-byVsNzAdYr6JOs-6CSteiPqSX1DjTuibgT613nuSTndkRA-zIk8Qi2x_uW6ulXIBVFtSc0uQGVpc=m18?cpn=4STgttefEqOSrS9j&c=WEB&cver=1.20161020'  %}
+     {% include video.html id='1' title='' img='https://lh3.googleusercontent.com/kZ-byVsNzAdYr6JOs-6CSteiPqSX1DjTuibgT613nuSTndkRA-zIk8Qi2x_uW6ulXIBVFtSc0uQGVpc=w293-h220-rw' video='https://lh3.googleusercontent.com/kZ-byVsNzAdYr6JOs-6CSteiPqSX1DjTuibgT613nuSTndkRA-zIk8Qi2x_uW6ulXIBVFtSc0uQGVpc=m18?cpn=4STgttefEqOSrS9j&c=WEB&cver=1.20161020'  %}
   </div>
 </div>
 
@@ -77,7 +77,7 @@ Dabei trafen wir auch auf  alte Freunde (Video)
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-QaXf4C2Zu-8/VVBk5qHH4tI/AAAAAAAAQLM/acA3n9Tx9zg/s2048/0384%252520-%252520Bell%252520Gorge.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/YrXuBcBN8riBQOyjvaIWNJXqwwgwvFh-N-WJF-H4hoslYe6kCi6fs1liNs0_6iTSIeNWJ2GPdiHZTmM=w293-h220-rw' video='https://lh3.googleusercontent.com/YrXuBcBN8riBQOyjvaIWNJXqwwgwvFh-N-WJF-H4hoslYe6kCi6fs1liNs0_6iTSIeNWJ2GPdiHZTmM=m18?cpn=LzKP1TgMnjOZsLNp&c=WEB&cver=1.20161020'  %}
+    {% include video.html id='2' title='' img='https://lh3.googleusercontent.com/YrXuBcBN8riBQOyjvaIWNJXqwwgwvFh-N-WJF-H4hoslYe6kCi6fs1liNs0_6iTSIeNWJ2GPdiHZTmM=w293-h220-rw' video='https://lh3.googleusercontent.com/YrXuBcBN8riBQOyjvaIWNJXqwwgwvFh-N-WJF-H4hoslYe6kCi6fs1liNs0_6iTSIeNWJ2GPdiHZTmM=m18?cpn=LzKP1TgMnjOZsLNp&c=WEB&cver=1.20161020'  %}
   </div>
 </div>
 
@@ -92,7 +92,7 @@ Man merkte bereits am Vormittag wie heiß der Tag noch werden würde. Wenn ihr e
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-0iI-Xtl1v2M/VVBk1LdKx3I/AAAAAAAAQLM/1Paqwxmt0rM/s2048/0379%252520-%252520Bell%252520Gorge.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/yAegIcuOA3GmOL8qfSAUFWt1iIz8ezyAZoGpKMYHHrQoUufEvIhYqDFnyO5PKdFYH41Cg7YBKZrbXmw=w293-h220-rw' video='https://lh3.googleusercontent.com/yAegIcuOA3GmOL8qfSAUFWt1iIz8ezyAZoGpKMYHHrQoUufEvIhYqDFnyO5PKdFYH41Cg7YBKZrbXmw=m18?cpn=dl4d5frzwqwXkgWK&c=WEB&cver=1.20161020'  %}
+    {% include video.html id='3' title='' img='https://lh3.googleusercontent.com/yAegIcuOA3GmOL8qfSAUFWt1iIz8ezyAZoGpKMYHHrQoUufEvIhYqDFnyO5PKdFYH41Cg7YBKZrbXmw=w293-h220-rw' video='https://lh3.googleusercontent.com/yAegIcuOA3GmOL8qfSAUFWt1iIz8ezyAZoGpKMYHHrQoUufEvIhYqDFnyO5PKdFYH41Cg7YBKZrbXmw=m18?cpn=dl4d5frzwqwXkgWK&c=WEB&cver=1.20161020'  %}
   </div>
 </div>
 
@@ -137,7 +137,7 @@ Darüber hinaus  sieht man auch sogenannten Flughunde (Video).
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-SC-gjPAePmI/VVBlFLGqABI/AAAAAAAAQLM/d4nG3z26dO0/s2048/0399%252520-%252520Windjana%252520Gorge.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/F07Zqe4qqOwXkk1tVHRJ6OfYCQXkOr9sCyRf2SBdw7SmgC0obihY0LGBYWtI8GlTF84b4e44bVV3hnE=w293-h220-rw' video='https://lh3.googleusercontent.com/F07Zqe4qqOwXkk1tVHRJ6OfYCQXkOr9sCyRf2SBdw7SmgC0obihY0LGBYWtI8GlTF84b4e44bVV3hnE=m18?cpn=KWxnk_OSFiYK07ed&c=WEB&cver=1.20161020'  %}
+    {% include video.html id='4' title='' img='https://lh3.googleusercontent.com/F07Zqe4qqOwXkk1tVHRJ6OfYCQXkOr9sCyRf2SBdw7SmgC0obihY0LGBYWtI8GlTF84b4e44bVV3hnE=w293-h220-rw' video='https://lh3.googleusercontent.com/F07Zqe4qqOwXkk1tVHRJ6OfYCQXkOr9sCyRf2SBdw7SmgC0obihY0LGBYWtI8GlTF84b4e44bVV3hnE=m18?cpn=KWxnk_OSFiYK07ed&c=WEB&cver=1.20161020'  %}
   </div>
 </div>
 
@@ -229,7 +229,7 @@ Gegen Mittag stieg unser Wasserkonsum derart, dass sogar der Spritverbrauch unse
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-Z_dbfLGRrrA/VVBllxoO4vI/AAAAAAAAQLM/Rp2Ob1n2FBE/s2048/0445%252520-%252520Tornado.jpg' %}
   </div>
   <div class="col-sm-6">
-     {% include video.html title='' img='https://lh3.googleusercontent.com/fAIIKpRDjfu9MSyaDMfsWXI6fzWBUeIvuT2Ch7lbqRVAHiOHR11--xzVht0XE2OZoXs0mMKornlQ3yg=w293-h220-rw' video='https://lh3.googleusercontent.com/fAIIKpRDjfu9MSyaDMfsWXI6fzWBUeIvuT2Ch7lbqRVAHiOHR11--xzVht0XE2OZoXs0mMKornlQ3yg=m18?cpn=YQBLi0Sxkmb0UYuL&c=WEB&cver=1.20161020'  %}
+     {% include video.html id='5' title='' img='https://lh3.googleusercontent.com/fAIIKpRDjfu9MSyaDMfsWXI6fzWBUeIvuT2Ch7lbqRVAHiOHR11--xzVht0XE2OZoXs0mMKornlQ3yg=w293-h220-rw' video='https://lh3.googleusercontent.com/fAIIKpRDjfu9MSyaDMfsWXI6fzWBUeIvuT2Ch7lbqRVAHiOHR11--xzVht0XE2OZoXs0mMKornlQ3yg=m18?cpn=YQBLi0Sxkmb0UYuL&c=WEB&cver=1.20161020'  %}
   </div>
 </div>
 
@@ -292,20 +292,20 @@ Mit Einbruch der Dunkelheit schlugen wir unsere Zelte auf der einzigen offenen C
 
 <div class="row">
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/RSb5z8bJQmqBH1vWkpZg8AkcwJsm5mEbeQsVz6NXQfLczjJJKV-Xb6Gs9_6OkUzBTQDpyq82P4sfFFg=w293-h220-rw' video='https://lh3.googleusercontent.com/RSb5z8bJQmqBH1vWkpZg8AkcwJsm5mEbeQsVz6NXQfLczjJJKV-Xb6Gs9_6OkUzBTQDpyq82P4sfFFg=m18?cpn=i_z5cn71mguIlrkG&c=WEB&cver=1.20161020' %}
+    {% include video.html id='6' title='' img='https://lh3.googleusercontent.com/RSb5z8bJQmqBH1vWkpZg8AkcwJsm5mEbeQsVz6NXQfLczjJJKV-Xb6Gs9_6OkUzBTQDpyq82P4sfFFg=w293-h220-rw' video='https://lh3.googleusercontent.com/RSb5z8bJQmqBH1vWkpZg8AkcwJsm5mEbeQsVz6NXQfLczjJJKV-Xb6Gs9_6OkUzBTQDpyq82P4sfFFg=m18?cpn=i_z5cn71mguIlrkG&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/2x7M2L3DLK6bZpEXwVupdiK1JgBfS0AAD2Dx5WHf5Jnok3YXy651iNYxUHGcqd3bhSCFMoPgkt1flMg=w293-h220-rw' video='https://lh3.googleusercontent.com/2x7M2L3DLK6bZpEXwVupdiK1JgBfS0AAD2Dx5WHf5Jnok3YXy651iNYxUHGcqd3bhSCFMoPgkt1flMg=m18?cpn=jUO9UnS0UH2Opp2p&c=WEB&cver=1.20161020' %}
+    {% include video.html id='7' title='' img='https://lh3.googleusercontent.com/2x7M2L3DLK6bZpEXwVupdiK1JgBfS0AAD2Dx5WHf5Jnok3YXy651iNYxUHGcqd3bhSCFMoPgkt1flMg=w293-h220-rw' video='https://lh3.googleusercontent.com/2x7M2L3DLK6bZpEXwVupdiK1JgBfS0AAD2Dx5WHf5Jnok3YXy651iNYxUHGcqd3bhSCFMoPgkt1flMg=m18?cpn=jUO9UnS0UH2Opp2p&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/_VMWknOMUn2OlqO1dl77bhtqkdHJ1VTN8xdE24ndFfBeeZCrCNFtYl0aGD2vXYuy9qax9ZBFq-EvQQM=w293-h220-rw' video='https://lh3.googleusercontent.com/_VMWknOMUn2OlqO1dl77bhtqkdHJ1VTN8xdE24ndFfBeeZCrCNFtYl0aGD2vXYuy9qax9ZBFq-EvQQM=m18?cpn=q_fupPgnLFRt1TuX&c=WEB&cver=1.20161020' %}
+    {% include video.html id='8' title='' img='https://lh3.googleusercontent.com/_VMWknOMUn2OlqO1dl77bhtqkdHJ1VTN8xdE24ndFfBeeZCrCNFtYl0aGD2vXYuy9qax9ZBFq-EvQQM=w293-h220-rw' video='https://lh3.googleusercontent.com/_VMWknOMUn2OlqO1dl77bhtqkdHJ1VTN8xdE24ndFfBeeZCrCNFtYl0aGD2vXYuy9qax9ZBFq-EvQQM=m18?cpn=q_fupPgnLFRt1TuX&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
 
 Die Übernachtung in Timber Creek sollte das letzte Mal Campen in Australien, und wahrscheinlich auf der gesamten Weltreise, sein. Diesen Umstand feierten wir mit einem Festmahl.
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/yrTJEa6oskYQG0jYUThk8yG-RmqfSoujMJPardx4_xckehssTWVixuthqcDGag9oDIq8erJvdjdshJE=w293-h220-rw' video='https://lh3.googleusercontent.com/yrTJEa6oskYQG0jYUThk8yG-RmqfSoujMJPardx4_xckehssTWVixuthqcDGag9oDIq8erJvdjdshJE=m18?cpn=pnH79DCzLBSK4w0X&c=WEB&cver=1.20161020'  %}
+{% include video.html id='9' title='' img='https://lh3.googleusercontent.com/yrTJEa6oskYQG0jYUThk8yG-RmqfSoujMJPardx4_xckehssTWVixuthqcDGag9oDIq8erJvdjdshJE=w293-h220-rw' video='https://lh3.googleusercontent.com/yrTJEa6oskYQG0jYUThk8yG-RmqfSoujMJPardx4_xckehssTWVixuthqcDGag9oDIq8erJvdjdshJE=m18?cpn=pnH79DCzLBSK4w0X&c=WEB&cver=1.20161020'  %}
 
 
 Am naechsten Morgen, nachdem wir das Chaos vom Kochen beseitigt hatten, verliessen wir Timber Creek mit dem endgueltigen Ziel unserer Australienreise, naemlich Darwin. Die 600 km lange Strecke fuehrte uns durch Katherine und durch das Top End, in dem sich einige interessante Nationalparks befinden (Kakadu Nationalpark), fuer die wir aber leider keine Zeit haben. Sowohl das Klima als auch die Vegetation aendert sich merk- bzw. spuerbar. Die Luftfeuchtigkeit steigt und der Highway fuehrt an einer satten gruenen Landschaft vorbei. In Darwin fuhren wir zur erstbesten Backpacker Unterkunft und marschierten auf direkten Weg in den hauseigenen Pool. Wir waren wiedermal froh, uns unter Menschen aufzuhalten, nachdem wir die letzten 3 1/2 Wochen mehr Kontakt mit Fliegen hatten, als mit Menschen. Die naechsten 2 1/2 Tage werden zum Teil organisatorischer und zum anderen Teil spassiger Natur sein. Auf jeden Fall muessen wir noch das Auto reinigen und zurueckbringen und die Fluege nach New Zealand confirmen. Am Sonntag um Mitternacht geht es dann los.

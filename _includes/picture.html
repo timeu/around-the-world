@@ -6,7 +6,7 @@
 	{% capture size_alt %}=w{{ include.dim }}-{% endcapture %}
 {% endunless %}
 <div class="thumbnail">
-	<a href="{{ include.img }}"  title="{{ include.title }}"  data-gallery >
+	<a href="{{ include.img }}"  title="{{ include.title }}"  class="lightgallery__image" >
 		<img src="{{ include.img | replace : '/s2048',size | replace: '=w2560-',size_alt }}" class="img-responsive" style="margin:0 auto;" />
 	</a>
 	{% if include.title and include.caption %}

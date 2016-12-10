@@ -154,7 +154,7 @@ Dunedin liegt in einer Bucht am Rande der Otago Halbinsel und zeichnet sich auch
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-I7wvqnv2sSQ/VVBsvHHQh5I/AAAAAAAAQjI/5kN76aGwjso/s2048-Ic42/0054%252520-%252520Dunedin.jpg' %}
   </div>
   <div class="col-sm-6">
-      {% include video.html title='' img='https://lh3.googleusercontent.com/-9VHGiEox15I/VVBsxA56qWI/AAAAAAAAQk4/NvHJxiDah-M/s800-Ic42/0056%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/QMmuysWc1SS_N1UlAp6B1t5LiTuVOFBxT-YQRjtV5B8A=m18?cpn=OIy3mHaB71G8VwMD&c=WEB&cver=html5' %}
+      {% include video.html id='1' title='' img='https://lh3.googleusercontent.com/-9VHGiEox15I/VVBsxA56qWI/AAAAAAAAQk4/NvHJxiDah-M/s800-Ic42/0056%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/QMmuysWc1SS_N1UlAp6B1t5LiTuVOFBxT-YQRjtV5B8A=m18?cpn=OIy3mHaB71G8VwMD&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -168,7 +168,7 @@ Der steilsten Strasse der Welt - zumindest laut Guiness Buch der Rekorde stattet
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-2OvBtKKHafA/VVBsvjK6mJI/AAAAAAAAQjI/D0M5_y-KfrM/s2048-Ic42/0055%252520-%252520Dunedin.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-zyttZ4XS-XA/VVBsyNgXEmI/AAAAAAAAQk8/SdGQIoXYsik/s800-Ic42/0056%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/DjZvqDSEbPO2c4tQ_SM8EbjBLoahehmDdr7pSnNQCPNb=m18?cpn=C-1RfUUf9ygS55_g&c=WEB&cver=html5' %}
+    {% include video.html id='2' title='' img='https://lh3.googleusercontent.com/-zyttZ4XS-XA/VVBsyNgXEmI/AAAAAAAAQk8/SdGQIoXYsik/s800-Ic42/0056%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/DjZvqDSEbPO2c4tQ_SM8EbjBLoahehmDdr7pSnNQCPNb=m18?cpn=C-1RfUUf9ygS55_g&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -252,13 +252,13 @@ Videos:
 
 <div class="row">
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-97sZlrOYKiA/VVBtI_eLk7I/AAAAAAAAQko/7DQZIYRBw18/s800-Ic42/0091%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/xqTBGCN_1LT9CaT3st3fKr9xp62VYlSsNfsSueuu8ndK=m18?cpn=Sj1QW9sLASBbsjaI&c=WEB&cver=html5' %}
+    {% include video.html id='3' title='' img='https://lh3.googleusercontent.com/-97sZlrOYKiA/VVBtI_eLk7I/AAAAAAAAQko/7DQZIYRBw18/s800-Ic42/0091%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/xqTBGCN_1LT9CaT3st3fKr9xp62VYlSsNfsSueuu8ndK=m18?cpn=Sj1QW9sLASBbsjaI&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-jlJahGKwycI/VVBtN4G3B3I/AAAAAAAAQlI/wFmswP0VGaQ/s800-Ic42/0097%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/NhNyffaGml5UGJsPU0Eat-AjTN3UxpWq9zBl380m_Kcr=m18?cpn=QUoKBPN00FyqZnDy&c=WEB&cver=html5' %}
+    {% include video.html id='4' title='' img='https://lh3.googleusercontent.com/-jlJahGKwycI/VVBtN4G3B3I/AAAAAAAAQlI/wFmswP0VGaQ/s800-Ic42/0097%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/NhNyffaGml5UGJsPU0Eat-AjTN3UxpWq9zBl380m_Kcr=m18?cpn=QUoKBPN00FyqZnDy&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-O-bYXXsSOkQ/VVBtRi1dxRI/AAAAAAAAQj4/isFgl1jPC_4/s800-Ic42/0103%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/5hS-DqkZP7CvMkjdWhOsmyE1hcTtO_ipCy9Pjtx-7h8J=m18?cpn=v_91CUkU8kaX-lxZ&c=WEB&cver=html5' %}
+    {% include video.html id='5' title='' img='https://lh3.googleusercontent.com/-O-bYXXsSOkQ/VVBtRi1dxRI/AAAAAAAAQj4/isFgl1jPC_4/s800-Ic42/0103%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/5hS-DqkZP7CvMkjdWhOsmyE1hcTtO_ipCy9Pjtx-7h8J=m18?cpn=v_91CUkU8kaX-lxZ&c=WEB&cver=html5' %}
   </div>
 </div>
 

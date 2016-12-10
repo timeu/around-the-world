@@ -110,7 +110,7 @@ Die Fahrt durch die Mojave Wueste fuehrte uns an Sandduenen, vulkanischen Cones 
 
 Nach einem abermaligen Abstecher zu einer Shopping Mall, trafen wir schliesslich um 18 Uhr in der Stadt des Entertainments, Las Vegas, ein.
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/-_RoJomHCCiI/VVCQUPB1U5I/AAAAAAAASOk/w-Z7I2a4jpM/s800-Ic42/0109%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/iNXyRGx8B_L9KIbjTJMzpDhHGEIqPcDpS556o6sPzEpJ=m18?cpn=pa9zTU7ttaE8QK09&c=WEB&cver=html5' %}
+{% include video.html id='1' title='' img='https://lh3.googleusercontent.com/-_RoJomHCCiI/VVCQUPB1U5I/AAAAAAAASOk/w-Z7I2a4jpM/s800-Ic42/0109%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/iNXyRGx8B_L9KIbjTJMzpDhHGEIqPcDpS556o6sPzEpJ=m18?cpn=pa9zTU7ttaE8QK09&c=WEB&cver=html5' %}
 
 Wir suchten uns ein Casino-Hotel, zuerst ueberlegten wir, eines der  teureren Hotels zu nehmen (Caesar's Palace, Bellagio), doch aufgrund der Empfehlung eines Verkaeufers in der Mall, fiel die Wahl auf das Terribles Casino Hotel. Das Hotel wird dem Namen nicht gerecht.
 Den Abend verbrachten wir damit, zu Fuss entlang des beruehmten Las Vegas Blv, auch Strip genannt, zu marschieren und die unglaublichen Casinos und Hotels zu bestaunen.
@@ -135,7 +135,7 @@ Bellagio mit der Springbrunnenshow (Video)
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-pzVB_AKh39Y/VVCQWZXdi7I/AAAAAAAASNI/JvT1sVD-AgI/s2048-Ic42/0114%252520-%252520Las%252520Vegas.jpg' %}
   </div>
   <div class="col-sm-4">
-	  {% include video.html title='' img='https://lh3.googleusercontent.com/-P6zg_9PQ7-o/VVCQWjyDmZI/AAAAAAAASNM/dhhE0BPHZ1I/s800-Ic42/0114%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/tS77ni0CQraC49XzxIh7MxEjACqXAHR3TFzvMzVXRCBb=m18?cpn=CVxxy8HcvJP7j4lC&c=WEB&cver=html5' %}
+	  {% include video.html id='2' title='' img='https://lh3.googleusercontent.com/-P6zg_9PQ7-o/VVCQWjyDmZI/AAAAAAAASNM/dhhE0BPHZ1I/s800-Ic42/0114%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/tS77ni0CQraC49XzxIh7MxEjACqXAHR3TFzvMzVXRCBb=m18?cpn=CVxxy8HcvJP7j4lC&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -176,7 +176,7 @@ Am Tag danach ging es abermals gemaechlich los. Gegen 12 Uhr verliessen wir schl
 Am naechsten Morgen war es dann endlich soweit. Der grosse und maechtige Grand Canyon stand am Programm. In der Frueh mussten wir aber der Kaelte Tribut zollen und beschlossen, uns so warm wie moeglich anzuziehen. Obwohl es wolkenlos und sonnig war, war es relativ kalt, vor allem im Schatten.
 Doch der Anblick des Grand Canyon liess alle Beschwerden verschwinden (Video).
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/-OgQS519dUHU/VVCQfcKNpjI/AAAAAAAASN8/5lvo9l_tnRk/s800-Ic42/0127%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/e_-gmEDmAs1_4X1Bvapp0XzZFkERyQjgIcptE6zGYO2I=m18?cpn=AfEdFtDdcgmGZZmh&c=WEB&cver=html5' %}
+{% include video.html id='3' title='' img='https://lh3.googleusercontent.com/-OgQS519dUHU/VVCQfcKNpjI/AAAAAAAASN8/5lvo9l_tnRk/s800-Ic42/0127%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/e_-gmEDmAs1_4X1Bvapp0XzZFkERyQjgIcptE6zGYO2I=m18?cpn=AfEdFtDdcgmGZZmh&c=WEB&cver=html5' %}
 
 
 {% include picture.html dim="750" title='' img='https://lh3.googleusercontent.com/-t8Iu6fZzerM/VVCQc1W-nGI/AAAAAAAASNI/Iud3PrZiGr4/s2048-Ic42/0125%252520-%252520Grand%252520Canyon.jpg' %}
@@ -230,7 +230,7 @@ Natuerlich kann man auch im Grand Canyon wandern, und da wir dies bisher immer g
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-inYk0QpxzfM/Viz9yrwrLkI/AAAAAAAAS1g/jpJlLMRE1HI/s2048-Ic42/IMG_0062.JPG' %}
   </div>
   <div class="col-sm-4">
-  {% include video.html title='' img='https://lh3.googleusercontent.com/-Ps4X331WaOU/VVCQo1ysVUI/AAAAAAAASNQ/4sH5iMEOvLM/s800-Ic42/0141%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/2qSAK5srEUPO-rXjtVt8kuMOaVGSFLyAka-TD60SvOIT=m18?cpn=8LNmIB7DAKoKiKWa&c=WEB&cver=html5' %}
+  {% include video.html id='4' title='' img='https://lh3.googleusercontent.com/-Ps4X331WaOU/VVCQo1ysVUI/AAAAAAAASNQ/4sH5iMEOvLM/s800-Ic42/0141%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/2qSAK5srEUPO-rXjtVt8kuMOaVGSFLyAka-TD60SvOIT=m18?cpn=8LNmIB7DAKoKiKWa&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-M4sopaqiEDg/Viz9yjvzlxI/AAAAAAAAS1g/VmPxIKcAJzw/s2048-Ic42/IMG_0072.JPG' %}

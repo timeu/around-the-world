@@ -137,13 +137,13 @@ In den Hängematten sonnen oder Kokosnüsse werfen, spalten und essen (Videos!!!
 
 <div class="row">
   <div class="col-sm-4">
-	 {% include video.html title='' img='https://lh3.googleusercontent.com/-fNCfKggIzuc/VVB5BJ017EI/AAAAAAAASEw/EaFKr8Eatw4/s2048-Ic42/0038a%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/ZN6GVK_y3zzBxjyXbEIuPgUUvnPGZjCId5aG4B0kKkga=m18?cpn=LAuzLWuiGKUnkAdq&c=WEB&cver=html5' %}
+	 {% include video.html id='1' title='' img='https://lh3.googleusercontent.com/-fNCfKggIzuc/VVB5BJ017EI/AAAAAAAASEw/EaFKr8Eatw4/s2048-Ic42/0038a%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/ZN6GVK_y3zzBxjyXbEIuPgUUvnPGZjCId5aG4B0kKkga=m18?cpn=LAuzLWuiGKUnkAdq&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-WZQsuJlIVs4/VVB5BnpuY0I/AAAAAAAASEw/npECbif77Io/s800-Ic42/0038a%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/lVKmFI-sSSM0mcDkgJDxQF8I78xelrWwVI3kp-kEtjeN=m18?cpn=Uxv7t0jFhyO4WFDu&c=WEB&cver=html5' %}
+    {% include video.html id='2' title='' img='https://lh3.googleusercontent.com/-WZQsuJlIVs4/VVB5BnpuY0I/AAAAAAAASEw/npECbif77Io/s800-Ic42/0038a%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/lVKmFI-sSSM0mcDkgJDxQF8I78xelrWwVI3kp-kEtjeN=m18?cpn=Uxv7t0jFhyO4WFDu&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-	  {% include video.html title='' img='https://lh3.googleusercontent.com/-t8rKSHFlSqo/VVB5B0-AjCI/AAAAAAAASFs/UxufCDEjMNw/s800-Ic42/0038a%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/OtO8ZhiCgEs5CZ9coE2HrT0CVBikt6-vK8Omzz5-OH1h=m18?cpn=YqibQT1uoTOW_ZFd&c=WEB&cver=html5' %}
+	  {% include video.html id='3' title='' img='https://lh3.googleusercontent.com/-t8rKSHFlSqo/VVB5B0-AjCI/AAAAAAAASFs/UxufCDEjMNw/s800-Ic42/0038a%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/OtO8ZhiCgEs5CZ9coE2HrT0CVBikt6-vK8Omzz5-OH1h=m18?cpn=YqibQT1uoTOW_ZFd&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -209,7 +209,7 @@ Darüber hinaus stellten die topologischen Eigenheiten (1000 Meter Wände, Höhl
 
 <div class="row">
   <div class="col-sm-4">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-a1XJtRnnH-g/VVB6AaVLVlI/AAAAAAAASEw/lTLPcL8TX_E/s800-Ic42/0105%252520-%252520Underwater%252520Canyons%2525202.gif' video='https://lh3.googleusercontent.com/F4qE3_jQrx46tmPzxhU0gC7r4MPZNSCPGBYgzXBBlZ9z=m18?cpn=yDnIx7XO3lsrUcnV&c=WEB&cver=html5' %}
+	{% include video.html id='4' title='' img='https://lh3.googleusercontent.com/-a1XJtRnnH-g/VVB6AaVLVlI/AAAAAAAASEw/lTLPcL8TX_E/s800-Ic42/0105%252520-%252520Underwater%252520Canyons%2525202.gif' video='https://lh3.googleusercontent.com/F4qE3_jQrx46tmPzxhU0gC7r4MPZNSCPGBYgzXBBlZ9z=m18?cpn=yDnIx7XO3lsrUcnV&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/--9KNwF00Sqs/VVB58mN5ctI/AAAAAAAASEw/Ue9lSbKQcpk/s2048-Ic42/0102%252520-%252520Bligh%252520Water.jpg' %}
@@ -235,7 +235,7 @@ Elegante Raubtiere der Meere, die Riff Haie (Video).
 
 <div class="row">
   <div class="col-sm-6">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-lqwZNVft4Ss/VVB5kWkL1CI/AAAAAAAASEw/WctncmeZclM/s800-Ic42/0068%252520-%252520Whitetip%252520Reefshark.gif' video='https://lh3.googleusercontent.com/b2WXXWrsJo-sEju3mnXJP9a16rl3DdqfyMsJu5F18Yr7=m18?cpn=D4AV5PD_VxQLEWIz&c=WEB&cver=html5' %}
+	{% include video.html id='5' title='' img='https://lh3.googleusercontent.com/-lqwZNVft4Ss/VVB5kWkL1CI/AAAAAAAASEw/WctncmeZclM/s800-Ic42/0068%252520-%252520Whitetip%252520Reefshark.gif' video='https://lh3.googleusercontent.com/b2WXXWrsJo-sEju3mnXJP9a16rl3DdqfyMsJu5F18Yr7=m18?cpn=D4AV5PD_VxQLEWIz&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-6">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-KNqquq47xkY/VVB5j2-TA_I/AAAAAAAASEw/FkZdj0OTunY/s2048-Ic42/0068%252520-%252520Bligh%252520Water.jpg' %}
@@ -255,7 +255,7 @@ Mutige kleine Clownfische, die ihr Zuhause in den Soft Corals schützten.
 
 Soft Corals, die auf Kontakt ihre Farbe änderten.
 
-{% include video.html title=''  img='https://lh3.googleusercontent.com/-yABgP8CXz-0/VVB5xkwPQMI/AAAAAAAASEw/Xwcm5YTPfwg/s800-Ic42/0087%252520-%252520Korallen%252520%2525D0%252594ndern%252520Farbe%2525202.gif' video='https://lh3.googleusercontent.com/VhbRYG2BnIDb8tXcr-maFreSP_4oUkIQlXj_igPqo30F=m18?cpn=Xx_1E36S-2xQRO03&c=WEB&cver=html5' %}
+{% include video.html id='6' title=''  img='https://lh3.googleusercontent.com/-yABgP8CXz-0/VVB5xkwPQMI/AAAAAAAASEw/Xwcm5YTPfwg/s800-Ic42/0087%252520-%252520Korallen%252520%2525D0%252594ndern%252520Farbe%2525202.gif' video='https://lh3.googleusercontent.com/VhbRYG2BnIDb8tXcr-maFreSP_4oUkIQlXj_igPqo30F=m18?cpn=Xx_1E36S-2xQRO03&c=WEB&cver=html5' %}
 
 Schüchterne Muränen und Hummer.
 
@@ -285,7 +285,7 @@ Normalerweise putzen sie die Mundhöhlen von Fischen. Falls man aber mutig genug
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-J9hnBed-qVI/VVB6gxoUiLI/AAAAAAAASEw/wgx75qNHdQs/s2048-Ic42/0148%252520-%252520Bligh%252520Water.jpg' %}
   </div>
   <div class="col-sm-6">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-rdptqws-sR4/VVB6hgE0oCI/AAAAAAAASFA/M5wqNOJEjXU/s800-Ic42/0148%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/A8bZOe_MSmEcKa8lvBmkhl__6PbrbaspHomCebK9RZBE=m18?cpn=HT2kmS7cqFQigKwh&c=WEB&cver=html5' %}
+	{% include video.html id='7' title='' img='https://lh3.googleusercontent.com/-rdptqws-sR4/VVB6hgE0oCI/AAAAAAAASFA/M5wqNOJEjXU/s800-Ic42/0148%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/A8bZOe_MSmEcKa8lvBmkhl__6PbrbaspHomCebK9RZBE=m18?cpn=HT2kmS7cqFQigKwh&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -317,7 +317,7 @@ Die Abende nach den Tauchgängen verbrachten wir eigentlich immer im komplett vo
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-eGKZzfV3Jts/VVB5SZvZlkI/AAAAAAAASEw/nk1np8_IXvE/s2048-Ic42/0054%252520-%252520Wananavu%252520Beach%252520Ressort.jpg' %}
   </div>
   <div class="col-sm-3">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-RjRptcxNgdY/VVB5aKyDLXI/AAAAAAAASEw/ZDV3taUOKeE/s800-Ic42/0055%252520-%252520Video%2525204.gif' video='https://lh3.googleusercontent.com/QIyABlXpCynYYc3rWwG2WNr-k0HoPUqfhC3ItMOe-Mlk=m18?cpn=v_EO25B2kGm0OI5g&c=WEB&cver=html5' %}
+	{% include video.html id='8' title='' img='https://lh3.googleusercontent.com/-RjRptcxNgdY/VVB5aKyDLXI/AAAAAAAASEw/ZDV3taUOKeE/s800-Ic42/0055%252520-%252520Video%2525204.gif' video='https://lh3.googleusercontent.com/QIyABlXpCynYYc3rWwG2WNr-k0HoPUqfhC3ItMOe-Mlk=m18?cpn=v_EO25B2kGm0OI5g&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -341,10 +341,10 @@ Am nächsten Tag ging es zurück nach Nadi und von dort aus mit einer winzigen 2
 
 <div class="row">
   <div class="col-sm-6">
-	 {% include video.html title='' img='https://lh3.googleusercontent.com/-PBfUy6FQHBM/VVB6sOonKSI/AAAAAAAASEw/-93ujNOUj6s/s800-Ic42/0158%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/BYNwaGWnHI_IWbej7aHvYVz8PL9HZk4fGR6c4XkmK3_j=m18?cpn=-uxv2sGnmXDdMzi2&c=WEB&cver=html5' %}
+	 {% include video.html id='9' title='' img='https://lh3.googleusercontent.com/-PBfUy6FQHBM/VVB6sOonKSI/AAAAAAAASEw/-93ujNOUj6s/s800-Ic42/0158%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/BYNwaGWnHI_IWbej7aHvYVz8PL9HZk4fGR6c4XkmK3_j=m18?cpn=-uxv2sGnmXDdMzi2&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-6">
-	  {% include video.html title='' img='https://lh3.googleusercontent.com/-jMr9LnWHDK8/VVB6spEccJI/AAAAAAAASE8/WiiJ5se8KlY/s800-Ic42/0158%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/xSx8-YOSSweQuH_md_pIrQr6XZFwUqXi8eXEwYtMQvwS=m18?cpn=CR6Y6Va4_qjTnIbU&c=WEB&cver=html5' %}
+	  {% include video.html id='10' title='' img='https://lh3.googleusercontent.com/-jMr9LnWHDK8/VVB6spEccJI/AAAAAAAASE8/WiiJ5se8KlY/s800-Ic42/0158%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/xSx8-YOSSweQuH_md_pIrQr6XZFwUqXi8eXEwYtMQvwS=m18?cpn=CR6Y6Va4_qjTnIbU&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -355,7 +355,7 @@ Der Flug dauerte ca. 45 Minuten und schließlich landeten wir auf einer kleinen 
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-0GHMPGWC4u4/VVB6t4z3X7I/AAAAAAAASEw/beIJBcJgRSE/s2048-Ic42/0161%252520-%252520Kadavu.jpg' %}
   </div>
   <div class="col-sm-4">
-	  {% include video.html title='' img='https://lh3.googleusercontent.com/-8wGXOlqkujM/VVB6vgtyVHI/AAAAAAAASEw/gH5_RPFTPtI/s800-Ic42/0162%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/VIPGjpWJ7Bc3rZ2ZCnES04_hv11PUGeGl3hhiJ8HHEqV=m18?cpn=o-ZjTXAGj6wWptnJ&c=WEB&cver=html5' %}
+	  {% include video.html id='11' title='' img='https://lh3.googleusercontent.com/-8wGXOlqkujM/VVB6vgtyVHI/AAAAAAAASEw/gH5_RPFTPtI/s800-Ic42/0162%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/VIPGjpWJ7Bc3rZ2ZCnES04_hv11PUGeGl3hhiJ8HHEqV=m18?cpn=o-ZjTXAGj6wWptnJ&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-Ajb8wIspOy8/VVB6uG-7xvI/AAAAAAAASEw/usMqHKP2PuA/s2048-Ic42/0162%252520-%252520Kadavu.jpg' %}
@@ -432,7 +432,7 @@ Dort bekamen wir neben Korallen 2 giftige Seeschlangen und eine Gruppe von Barra
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-NkQey8K9lxk/VVB6726LdEI/AAAAAAAASEw/-TOCAxgrnQk/s2048-Ic42/0176%252520-%252520Kadavu.jpg' %}
   </div>
   <div class="col-sm-6">
-	 {% include video.html title='' img='https://lh3.googleusercontent.com/-zcIfGSFhNeE/VVB6_oyhQNI/AAAAAAAASFk/_zm2Gb1YtU4/s800-Ic42/0177%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/8TEYJRL8ympv1RC49CV7KkjYCkeOKEmbohWi72BPP4ya=m18?cpn=mgoOSdVeLRX2tXuq&c=WEB&cver=html5' %}
+	 {% include video.html id='12' title='' img='https://lh3.googleusercontent.com/-zcIfGSFhNeE/VVB6_oyhQNI/AAAAAAAASFk/_zm2Gb1YtU4/s800-Ic42/0177%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/8TEYJRL8ympv1RC49CV7KkjYCkeOKEmbohWi72BPP4ya=m18?cpn=mgoOSdVeLRX2tXuq&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -446,7 +446,7 @@ Am nächsten Tag stand ein Nachttauchgang am Programm. Ausgerüstet mit einer Ta
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-RbeK9HYcTXY/Vhu_nGTB3qI/AAAAAAAASLE/H81T4_oeh90/s2048-Ic42/IMG_1677.jpg' %}
   </div>
   <div class="col-sm-4">
-	 {% include video.html title='' img='https://lh3.googleusercontent.com/-trPDhShH_3w/VVB7yMTiegI/AAAAAAAASEw/IfGz03nkTfg/s800-Ic42/0242%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/G4eI7ptTOBCenQ3LguRSDvnGK9czHN7qTzqDxu7RMWOG=m18?cpn=idp_fMOeN9V9heBI&c=WEB&cver=html5' %}
+	 {% include video.html id='13' title='' img='https://lh3.googleusercontent.com/-trPDhShH_3w/VVB7yMTiegI/AAAAAAAASEw/IfGz03nkTfg/s800-Ic42/0242%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/G4eI7ptTOBCenQ3LguRSDvnGK9czHN7qTzqDxu7RMWOG=m18?cpn=idp_fMOeN9V9heBI&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -474,7 +474,7 @@ Am letzten Tauchtag standen schließlich die Mantas am Programm. Der Tauchplatz 
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/--y7MRjD1d5c/VVB75TgbaJI/AAAAAAAASEw/s7XeFXhuVJo/s2048-Ic42/0250%252520-%252520Kadavu.jpg' %}
   </div>
   <div class="col-sm-4">
-	  {% include video.html title='' img='https://lh3.googleusercontent.com/-oNj9YQcAnr4/VVB75IyWKfI/AAAAAAAASFk/MdaJfSx4Df0/s800-Ic42/0250%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/3beXYdIi6iZYQ3iAAaEY_0oWl7gZCkHbu9SoYZjdLFKM=m18?cpn=S7mX33PXtbpZEcFA&c=WEB&cver=html5' %}
+	  {% include video.html id='14' title='' img='https://lh3.googleusercontent.com/-oNj9YQcAnr4/VVB75IyWKfI/AAAAAAAASFk/MdaJfSx4Df0/s800-Ic42/0250%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/3beXYdIi6iZYQ3iAAaEY_0oWl7gZCkHbu9SoYZjdLFKM=m18?cpn=S7mX33PXtbpZEcFA&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -508,13 +508,13 @@ Sie schwebten, oder eigentlich flogen sie eher, kamen manchmal allein und mancha
 
 <div class="row">
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-rvWVvBUyUik/VVB6_rVGALI/AAAAAAAASE0/sFma8CiYf-4/s800-Ic42/0179%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/qSHhj2J6DerT4564qQjsRthJ6zSHt33SqV4uQo8mvenl=m18?cpn=DnXYaqmk5Osi52PX&c=WEB&cver=html5' %}
+    {% include video.html id='15' title='' img='https://lh3.googleusercontent.com/-rvWVvBUyUik/VVB6_rVGALI/AAAAAAAASE0/sFma8CiYf-4/s800-Ic42/0179%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/qSHhj2J6DerT4564qQjsRthJ6zSHt33SqV4uQo8mvenl=m18?cpn=DnXYaqmk5Osi52PX&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-     {% include video.html title='' img='https://lh3.googleusercontent.com/-AWBzs1LOmSQ/VVB8IfBZVOI/AAAAAAAASEw/rc1y47ajbpA/s800-Ic42/0269%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/af69-M7ijbFGSfszZJX1yoGfLkY7bvnwE-c6VMhOu6yE=m18?cpn=UFfVG-gotI0R1vnx&c=WEB&cver=html5' %}
+     {% include video.html id='16' title='' img='https://lh3.googleusercontent.com/-AWBzs1LOmSQ/VVB8IfBZVOI/AAAAAAAASEw/rc1y47ajbpA/s800-Ic42/0269%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/af69-M7ijbFGSfszZJX1yoGfLkY7bvnwE-c6VMhOu6yE=m18?cpn=UFfVG-gotI0R1vnx&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-     {% include video.html title='' img='https://lh3.googleusercontent.com/-bDFuBf-11KE/VVB8Lfz9L5I/AAAAAAAASEw/s8vDvCh5U24/s800-Ic42/0269%252520-%252520Video%2525208.gif' video='https://lh3.googleusercontent.com/qc4ISO8zPwp_qbCQN2JizRyt77HxRmWpWwEQ6heF4YW_=m18?cpn=0kw476Tm5bIU-Ahp&c=WEB&cver=html5' %}
+     {% include video.html id='17' title='' img='https://lh3.googleusercontent.com/-bDFuBf-11KE/VVB8Lfz9L5I/AAAAAAAASEw/s8vDvCh5U24/s800-Ic42/0269%252520-%252520Video%2525208.gif' video='https://lh3.googleusercontent.com/qc4ISO8zPwp_qbCQN2JizRyt77HxRmWpWwEQ6heF4YW_=m18?cpn=0kw476Tm5bIU-Ahp&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -525,10 +525,10 @@ Manchmal drehten sie direkt vor uns einige Loopings, was nicht ihre Freude über
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/--mFCK7KnLSA/VVB7-bZHu4I/AAAAAAAASEw/izaCc-_xfUg/s2048-Ic42/0258%252520-%252520Kadavu.jpg' %}
   </div>
   <div class="col-sm-4">
-     {% include video.html title='' img='https://lh3.googleusercontent.com/-lOZ_23OH22k/VVB8JWEOJII/AAAAAAAASEw/l2CMwvaWLGI/s800-Ic42/0269%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/JH_79KPZquDxgGwGqs1Ff5Ud469gxe4PyjhgjxrLoKjq=m18?cpn=O3hENJWos3r6wp7H&c=WEB&cver=html5' %}
+     {% include video.html id='18' title='' img='https://lh3.googleusercontent.com/-lOZ_23OH22k/VVB8JWEOJII/AAAAAAAASEw/l2CMwvaWLGI/s800-Ic42/0269%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/JH_79KPZquDxgGwGqs1Ff5Ud469gxe4PyjhgjxrLoKjq=m18?cpn=O3hENJWos3r6wp7H&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-     {% include video.html title='' img='https://lh3.googleusercontent.com/-IggjXLO4pD4/VVB8LK8-4JI/AAAAAAAASFA/hwSPyzxxy0c/s800-Ic42/0269%252520-%252520Video%2525207.gif' video='https://lh3.googleusercontent.com/jtbnSkW_zvq4V3ggYhzSA8Q6plQvrQfsI8A3YllGXbos=m18?cpn=fERlshn6IumPkgG9&c=WEB&cver=html5' %}
+     {% include video.html id='19' title='' img='https://lh3.googleusercontent.com/-IggjXLO4pD4/VVB8LK8-4JI/AAAAAAAASFA/hwSPyzxxy0c/s800-Ic42/0269%252520-%252520Video%2525207.gif' video='https://lh3.googleusercontent.com/jtbnSkW_zvq4V3ggYhzSA8Q6plQvrQfsI8A3YllGXbos=m18?cpn=fERlshn6IumPkgG9&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -542,7 +542,7 @@ Wir beobachteten diese anmutigen Geschöpfe und deren Flugmanöver minutenlang u
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-0MgqCjW0B44/VVB78-LnA_I/AAAAAAAASEw/8I39DMMu1w4/s2048-Ic42/0255%252520-%252520Kadavu.jpg' %}
   </div>
   <div class="col-sm-4">
-	 {% include video.html title='' img='https://lh3.googleusercontent.com/-EbT0l5TFi8o/VhvCZJCCpKI/AAAAAAAASMM/RZYBbhTLZ7c/s800-Ic42/MVI_0311_flv.flv.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=5afec3e053630801&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1444688621&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=652271BDD82D5A21EDBD1445CB0E5EBEABB665E8.6CE036DE224213A6C272FE3DDDC711E15334ACA6&key=lh1&cpn=QpCF9TZ_-4Tq6Ns-&c=WEB&cver=html5' %}
+	 {% include video.html id='20' title='' img='https://lh3.googleusercontent.com/-EbT0l5TFi8o/VhvCZJCCpKI/AAAAAAAASMM/RZYBbhTLZ7c/s800-Ic42/MVI_0311_flv.flv.gif' video='https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=5afec3e053630801&itag=18&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1444688621&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=652271BDD82D5A21EDBD1445CB0E5EBEABB665E8.6CE036DE224213A6C272FE3DDDC711E15334ACA6&key=lh1&cpn=QpCF9TZ_-4Tq6Ns-&c=WEB&cver=html5' %}
   </div>
 </div>
 

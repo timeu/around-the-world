@@ -1,6 +1,12 @@
 <div class="thumbnail">
-    <a href="{{ include.video }}" type="video/mp4"  data-poster="{{ include.img }}" class="thumbnail" data-gallery>
-      <img src="{{ include.img }}"/>
+    <div style="display:none;" id="video_{{ include.id}}">
+      <video class="lg-video-object lg-html5" controls preload="none">
+          <source src="{{ include.video }}">
+          Your browser does not support HTML5 video.
+      </video>
+    </div>
+    <a  class="lightgallery__image thumbnail" data-poster="{{ include.img }}" data-sub-html="video caption1" data-html="#video_{{ include.id}}" >
+          <img data-src="{{ include.img }}" class="lazyload"/>
     </a>
     {% if include.title and include.caption %}
 	<div class="caption">

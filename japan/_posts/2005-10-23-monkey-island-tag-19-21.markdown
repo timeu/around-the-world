@@ -56,19 +56,19 @@ Um 6:45 am naechsten Tag wurden wir durch den Wecker unsanft aus dem Schlaf geri
 
 <div class="row">
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/m1ES_4NenOxAIdUFdLbD07PrJS7bIqIa8bZEVx27xLJ3zI8F2lCBc-0uM-qsSkWGM6EvRGh2PaRH2g=w293-h220-rw' video='https://lh3.googleusercontent.com/m1ES_4NenOxAIdUFdLbD07PrJS7bIqIa8bZEVx27xLJ3zI8F2lCBc-0uM-qsSkWGM6EvRGh2PaRH2g=m18?cpn=OFOfcQStRD7maSBW&c=WEB&cver=1.20161020' %}
+    {% include video.html id='1' title='' img='https://lh3.googleusercontent.com/m1ES_4NenOxAIdUFdLbD07PrJS7bIqIa8bZEVx27xLJ3zI8F2lCBc-0uM-qsSkWGM6EvRGh2PaRH2g=w293-h220-rw' video='https://lh3.googleusercontent.com/m1ES_4NenOxAIdUFdLbD07PrJS7bIqIa8bZEVx27xLJ3zI8F2lCBc-0uM-qsSkWGM6EvRGh2PaRH2g=m18?cpn=OFOfcQStRD7maSBW&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-6">
-    {% include video.html title='' img ='https://lh3.googleusercontent.com/ECQaBTh2Xdei0Sn8Ro5A4Ansq-fg2K9l5ZKWycOacmwi2033AcQmq39kHi5vEqzqKoubADleaF8o0Q=w293-h220-rw' video='https://lh3.googleusercontent.com/ECQaBTh2Xdei0Sn8Ro5A4Ansq-fg2K9l5ZKWycOacmwi2033AcQmq39kHi5vEqzqKoubADleaF8o0Q=m18?cpn=XaUrg1YkfQsrttcw&c=WEB&cver=1.20161020' %}
+    {% include video.html id='2' title='' img ='https://lh3.googleusercontent.com/ECQaBTh2Xdei0Sn8Ro5A4Ansq-fg2K9l5ZKWycOacmwi2033AcQmq39kHi5vEqzqKoubADleaF8o0Q=w293-h220-rw' video='https://lh3.googleusercontent.com/ECQaBTh2Xdei0Sn8Ro5A4Ansq-fg2K9l5ZKWycOacmwi2033AcQmq39kHi5vEqzqKoubADleaF8o0Q=m18?cpn=XaUrg1YkfQsrttcw&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
 <div class="row">
  <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/jsXcswlVnDcSd8GvzB7aiN9Bj0rMDq8kHRBpx5ptE1TzYV8MNNF28LurwRnxL9lmkBlgiLGbmKbfvQ=w293-h220-rw' video='https://lh3.googleusercontent.com/jsXcswlVnDcSd8GvzB7aiN9Bj0rMDq8kHRBpx5ptE1TzYV8MNNF28LurwRnxL9lmkBlgiLGbmKbfvQ=m18?cpn=RnIPaU54C_8LZADI&c=WEB&cver=1.20161020' %}
+    {% include video.html id='3' title='' img='https://lh3.googleusercontent.com/jsXcswlVnDcSd8GvzB7aiN9Bj0rMDq8kHRBpx5ptE1TzYV8MNNF28LurwRnxL9lmkBlgiLGbmKbfvQ=w293-h220-rw' video='https://lh3.googleusercontent.com/jsXcswlVnDcSd8GvzB7aiN9Bj0rMDq8kHRBpx5ptE1TzYV8MNNF28LurwRnxL9lmkBlgiLGbmKbfvQ=m18?cpn=RnIPaU54C_8LZADI&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/mom9CMBpffGtFWwDylkfrNPuKoYOAXXGbdoEoQOwsxR_HyMeyMgqB1zSn6UeGpCAQP6I0ujftDIS5g=w293-h220-rw' video='https://lh3.googleusercontent.com/mom9CMBpffGtFWwDylkfrNPuKoYOAXXGbdoEoQOwsxR_HyMeyMgqB1zSn6UeGpCAQP6I0ujftDIS5g=m18?cpn=zzHZ5qxzBmp1QMZp&c=WEB&cver=1.20161020' %}
+    {% include video.html id='4' title='' img='https://lh3.googleusercontent.com/mom9CMBpffGtFWwDylkfrNPuKoYOAXXGbdoEoQOwsxR_HyMeyMgqB1zSn6UeGpCAQP6I0ujftDIS5g=w293-h220-rw' video='https://lh3.googleusercontent.com/mom9CMBpffGtFWwDylkfrNPuKoYOAXXGbdoEoQOwsxR_HyMeyMgqB1zSn6UeGpCAQP6I0ujftDIS5g=m18?cpn=zzHZ5qxzBmp1QMZp&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -134,9 +134,9 @@ Nach ca. 4 Stunden erreichten wir schliesslich die eigentliche Sehenswuerdigkeit
 </div>
 
 Nach einer halben Stunde Bestaunen und Fotografieren, begannen wir mit dem Abstieg. Dabei ueberholten wir die Hikinggruppen, welche uns beim Aufstieg entgegengekommen waren, was diese mit einem kollektiven, jovialen Oho und WOW zur Kenntnis nahmen.
-{% include video.html title='' img='https://lh3.googleusercontent.com/rtjAWKkXMyIs-pgemYWxZjyaNbOFwS3UOpz7XH_NtSAaIEL-VGVOwPrAb6OMD82qmtMrm3qRP8FNVQ=w293-h220-rw' video='https://lh3.googleusercontent.com/rtjAWKkXMyIs-pgemYWxZjyaNbOFwS3UOpz7XH_NtSAaIEL-VGVOwPrAb6OMD82qmtMrm3qRP8FNVQ=m18?cpn=dbWp1WT4hcmSKc5P&c=WEB&cver=1.20161020' %}
+{% include video.html id='5' title='' img='https://lh3.googleusercontent.com/rtjAWKkXMyIs-pgemYWxZjyaNbOFwS3UOpz7XH_NtSAaIEL-VGVOwPrAb6OMD82qmtMrm3qRP8FNVQ=w293-h220-rw' video='https://lh3.googleusercontent.com/rtjAWKkXMyIs-pgemYWxZjyaNbOFwS3UOpz7XH_NtSAaIEL-VGVOwPrAb6OMD82qmtMrm3qRP8FNVQ=m18?cpn=dbWp1WT4hcmSKc5P&c=WEB&cver=1.20161020' %}
 Dieses Tempo setzten wir bis zur Basisstation fort und so absolvierten wir die Wanderung statt in 9 Stunden in 7 Stunden und darueber hinaus entwischten wir dem naeherkommenden Unwetter.
-{% include video.html title='' img='https://lh3.googleusercontent.com/ayx-nO-Xl-xVZfYztpnBSuLPMPF2LKvqS1j3dxLkkpanUvjFHso4AgavIlV1V5M6NAryXtSYuOBRuA=w293-h220-rw' video='https://lh3.googleusercontent.com/ayx-nO-Xl-xVZfYztpnBSuLPMPF2LKvqS1j3dxLkkpanUvjFHso4AgavIlV1V5M6NAryXtSYuOBRuA=m18?cpn=1gv9bs1Tu2jDnAfj&c=WEB&cver=1.20161020' %}
+{% include video.html id='6' title='' img='https://lh3.googleusercontent.com/ayx-nO-Xl-xVZfYztpnBSuLPMPF2LKvqS1j3dxLkkpanUvjFHso4AgavIlV1V5M6NAryXtSYuOBRuA=w293-h220-rw' video='https://lh3.googleusercontent.com/ayx-nO-Xl-xVZfYztpnBSuLPMPF2LKvqS1j3dxLkkpanUvjFHso4AgavIlV1V5M6NAryXtSYuOBRuA=m18?cpn=1gv9bs1Tu2jDnAfj&c=WEB&cver=1.20161020' %}
 Doch der Mangel an Ernaehrung zaehrte ziemlich an den Kraeften und so besorgten wir uns noch ein Abendessen beim Supermarkt. Dem Hunger war der schlechte Geschmack des Essens gleichgueltig ;-)
 
 Der letzte Tag auf Yakushima stand im Zeichen der Gemuetlichkeit.
@@ -148,7 +148,7 @@ Gegen 8 Uhr wachten wir auf und goennten uns ein kleines Fruehstueck und fuhren 
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-fBSYu49OZu0/VUIOZ6229aI/AAAAAAAALIw/-rF_Y1F49vY/s2048/0579%252520-%252520Yakushima.jpg' %}
   </div>
   <div class="col-sm-6">
-{% include video.html title='' img='https://lh3.googleusercontent.com/UugpgCo6CvNjaGV8-CQ593QZjEwViCYlAppgjv6THdRtlQ6Zod8JZQLCrID_uhsOKjFItxHqVx0S-VY=w293-h220-rw' video='https://lh3.googleusercontent.com/UugpgCo6CvNjaGV8-CQ593QZjEwViCYlAppgjv6THdRtlQ6Zod8JZQLCrID_uhsOKjFItxHqVx0S-VY=m18?cpn=lCdLFtKSa6xjf5fw&c=WEB&cver=1.20161020' %}
+{% include video.html id='7' title='' img='https://lh3.googleusercontent.com/UugpgCo6CvNjaGV8-CQ593QZjEwViCYlAppgjv6THdRtlQ6Zod8JZQLCrID_uhsOKjFItxHqVx0S-VY=w293-h220-rw' video='https://lh3.googleusercontent.com/UugpgCo6CvNjaGV8-CQ593QZjEwViCYlAppgjv6THdRtlQ6Zod8JZQLCrID_uhsOKjFItxHqVx0S-VY=m18?cpn=lCdLFtKSa6xjf5fw&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -178,7 +178,7 @@ Die Fahrt mit der Fahere zurueck zum Festland war relativ ereignislos. Einer sch
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-Ctn89Q0fyM4/VUIOj-gjToI/AAAAAAAALIw/jLieMmgLEgA/s2048/0591%252520-%252520Yakushima.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/9f2LGM6SCKjhYy9AjV52sQWO32dA64IC3KD8wJuTwmEsuDBSvEjcPLUUknqmJ47m_EXo94ZjZThpyw=w293-h220-rw' video='https://lh3.googleusercontent.com/9f2LGM6SCKjhYy9AjV52sQWO32dA64IC3KD8wJuTwmEsuDBSvEjcPLUUknqmJ47m_EXo94ZjZThpyw=m18?cpn=GtcC7oz3RFpcSsmS&c=WEB&cver=1.20161020' %}
+    {% include video.html id='8' title='' img='https://lh3.googleusercontent.com/9f2LGM6SCKjhYy9AjV52sQWO32dA64IC3KD8wJuTwmEsuDBSvEjcPLUUknqmJ47m_EXo94ZjZThpyw=w293-h220-rw' video='https://lh3.googleusercontent.com/9f2LGM6SCKjhYy9AjV52sQWO32dA64IC3KD8wJuTwmEsuDBSvEjcPLUUknqmJ47m_EXo94ZjZThpyw=m18?cpn=GtcC7oz3RFpcSsmS&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 

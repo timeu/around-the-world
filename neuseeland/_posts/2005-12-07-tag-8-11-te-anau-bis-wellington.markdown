@@ -14,7 +14,7 @@ location: Wellington, New Zealand
 
 Am naechsten Tag verliessen wir bereits um 5:30 Te Anau und fuhren Richtung Queenstown. Wie manche vielleicht wissen, ist Neuseeland nicht nur wegen seiner atemberaubenden Landschaft beruehmt, sondern auch fuer seine adrenalinlastigen Extremsportarten. Es heisst ja, dass die Maoris das Bungy-Jumpen erfunden haben. Ausserdem ist ein Neuseelaender namens AJ Hacket als erster vom Eifelturm gesprungen und hat danach in Queenstown die erste kommerzielle Bungy Jumping Site eroeffnet. Queenstown bildet in diesem Umfeld den Dreh- und Angelpunkt fuer alle Extremsportarten. Manchmal erinnert die Szenerie an den Film Apocalypse Now. Jetboote fahren wild durch die Gegend, Sightseeing Hubschrauber starten, Skydiver springen vom Himmel und andere springen von Bruecken,  Seilbahnen und sonstigen Hoehen. Queenstown gehoert zu Neuseeland, wie alles andere und daher entschlossen wir uns auch, einen Tag diesen Freuden (die viel Ueberwindung und ebensoviel Geld kosten) hinzugeben. 3 Trips standen am Programm. Um 8:15 startete auch gleich der erste waghalsige, naemlich der Canyon Swing. Wie der Name schon andeutet, schwingt man ueber einen Canyon (Tarzan haette seine Freude). Der Canyon Swing ist eine Abwandlung vom Bungy Jump: Man springt von 109 Meter Hoehe, faellt 60 Meter im freien Fall und danach wird man vom Seil abgefangen und geht in eine Schwingbewegung ueber. Das Besondere ist, dass man sich - anders als beim Bungy - die Absprungmethode selbst aussuchen kann. Das reicht von Fernausloesung (fuer alle die sich nicht springen trauen) bis hin zu Rueckwaertssalto, Vorwaertssalto oder sogar mit dem Stuhl nach hinten kippen und fallen.
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/-Za_wL4esYqI/VVBuOrlS7OI/AAAAAAAAQjU/0Mp6L-nlUn8/s800-Ic42/0202%252520-%252520Video%2525204.gif' video='https://lh3.googleusercontent.com/JYwY9tDx7zgjMSUwYiJCloPJeKImtXI6yx41933-XwNE=m18?cpn=yvOtkcHNIBPAm0nI&c=WEB&cver=html5' %}
+{% include video.html id='1' title='' img='https://lh3.googleusercontent.com/-Za_wL4esYqI/VVBuOrlS7OI/AAAAAAAAQjU/0Mp6L-nlUn8/s800-Ic42/0202%252520-%252520Video%2525204.gif' video='https://lh3.googleusercontent.com/JYwY9tDx7zgjMSUwYiJCloPJeKImtXI6yx41933-XwNE=m18?cpn=yvOtkcHNIBPAm0nI&c=WEB&cver=html5' %}
 
 
 Zuerst sprang Georg. Er bevorzugte den Sprung nach vorne mit viel Anlauf.
@@ -25,7 +25,7 @@ Zuerst sprang Georg. Er bevorzugte den Sprung nach vorne mit viel Anlauf.
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/hGbomQctgnjxDAEFVH4NxRRUim7z5SH37omOiUvYhLZRQF4n6bmAbeMRt6YsVg97JdbK6MO5s6XkNWs=w2560-h1600-rw-no' %}
   </div>
   <div class="col-sm-4">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-4QgpPz_JTV4/VVBuLi3lMGI/AAAAAAAAQkM/9Z25n5rC4oc/s800-Ic42/0202%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/oyLd16SrJZt2wrLgQXOnb0pFXhsQMiQRA5rgK1p1nH3J=m18?cpn=uoaGg7kF5n3Gybm7&c=WEB&cver=html5' %}
+	{% include video.html id='2' title='' img='https://lh3.googleusercontent.com/-4QgpPz_JTV4/VVBuLi3lMGI/AAAAAAAAQkM/9Z25n5rC4oc/s800-Ic42/0202%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/oyLd16SrJZt2wrLgQXOnb0pFXhsQMiQRA5rgK1p1nH3J=m18?cpn=uoaGg7kF5n3Gybm7&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/JXgPVY4Fk89IPV7cj5CHgzYO1krky_Z0d2geMEY5Luk3we5TtlaZ6PQbvRv4R3qdvHHbqiE9IFvtteA=w2560-h1600-rw-no' %}
@@ -35,23 +35,23 @@ Zuerst sprang Georg. Er bevorzugte den Sprung nach vorne mit viel Anlauf.
 
 Uemit waehlte eine besondere Methode, genannt Indian Rope. Hierbei wird man an einer horizontalen Stange haengend ueber den Canyon geschwenkt und muss sich dann mit eigener Kraft an einem Seil halten: man kann dann selbst entscheiden, wann man loslaesst und in die Tiefe stuerzt.
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/-rL0YiiZp3gM/VVBuN_snnGI/AAAAAAAAQjM/upnS9bHHKC4/s800-Ic42/0202%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/pYA0K03eSmcPATBSBfpniLh-EMzXLSdfISAKx6xNhyge=m18?cpn=UipXhw2nLd9JsGAQ&c=WEB&cver=html5' %}
+{% include video.html id='3' title='' img='https://lh3.googleusercontent.com/-rL0YiiZp3gM/VVBuN_snnGI/AAAAAAAAQjM/upnS9bHHKC4/s800-Ic42/0202%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/pYA0K03eSmcPATBSBfpniLh-EMzXLSdfISAKx6xNhyge=m18?cpn=UipXhw2nLd9JsGAQ&c=WEB&cver=html5' %}
 
 Nach den Spruengen gings zurueck ins Tal und zu den Shotover Jetbooten. Diese - mit einem speziellen Jet-Motor gesteuerten - Boote koennen in 10 cm tiefem Wasser fahren und bestechen durch unglaubliche Manoevrierfaehigkeit und Geschwindigkeit. Sie koennen 360 Grad Spins durchfuehen und knapp an Felsen vorbeiflitzen.
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/-ulYUiHjmLDo/VVBuSVLlijI/AAAAAAAAQj4/7brQLKImi-E/s800-Ic42/0206%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/si9l-pXqP3vWp0WWQnL3twV4RJMQq45Gysmct88GJvDd=m18?cpn=4sFjpB-6_t5wZN23&c=WEB&cver=html5' %}
+{% include video.html id='4' title='' img='https://lh3.googleusercontent.com/-ulYUiHjmLDo/VVBuSVLlijI/AAAAAAAAQj4/7brQLKImi-E/s800-Ic42/0206%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/si9l-pXqP3vWp0WWQnL3twV4RJMQq45Gysmct88GJvDd=m18?cpn=4sFjpB-6_t5wZN23&c=WEB&cver=html5' %}
 
 Auf jeden Fall ein Heidenspass, obowhl eher ein Familientrip fuer wahre Adrenalin-Junkies.
 
 <div class="row">
   <div class="col-sm-4">
-  	{% include video.html title='' img='https://lh3.googleusercontent.com/-2Jzn6_U3exo/Vhkz1Ftip0I/AAAAAAAARuQ/5SJ-0daZkWU/s800-Ic42/MVI_0052.jpg' video='https://lh3.googleusercontent.com/UcJB6Zlg1mcihtJyQwXl2TK7lAT2zZbYVzCbNzisNzA9=m18?cpn=o_gY6tQBexcKA7Lg&c=WEB&cver=html5' %}
+  	{% include video.html id='5' title='' img='https://lh3.googleusercontent.com/-2Jzn6_U3exo/Vhkz1Ftip0I/AAAAAAAARuQ/5SJ-0daZkWU/s800-Ic42/MVI_0052.jpg' video='https://lh3.googleusercontent.com/UcJB6Zlg1mcihtJyQwXl2TK7lAT2zZbYVzCbNzisNzA9=m18?cpn=o_gY6tQBexcKA7Lg&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-  	{% include video.html title='' img='https://lh3.googleusercontent.com/--2ITWVAyUbk/Vhkz1JjDxlI/AAAAAAAARuQ/5Rvjy7q8Pb8/s800-Ic42/MVI_0055.jpg' video='https://lh3.googleusercontent.com/n2v3Vga9uPZSY1qQA8VhlmznLJPSHeUtc46R60tVOKV6=m18?cpn=PNAeZlpiHnsAWrZy&c=WEB&cver=html5' %}
+  	{% include video.html id='6' title='' img='https://lh3.googleusercontent.com/--2ITWVAyUbk/Vhkz1JjDxlI/AAAAAAAARuQ/5Rvjy7q8Pb8/s800-Ic42/MVI_0055.jpg' video='https://lh3.googleusercontent.com/n2v3Vga9uPZSY1qQA8VhlmznLJPSHeUtc46R60tVOKV6=m18?cpn=PNAeZlpiHnsAWrZy&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-r2ilTh-X_dM/Vhkz1JBtTAI/AAAAAAAARuY/KtEv9_HtfkM/s800-Ic42/MVI_0054.gif' video='https://lh3.googleusercontent.com/lV6hq7AhpqewPi8Phea819Z_GkGc92t7IpcTbuVsMw3-=m18?cpn=SGmfxaBK6YyYDHgr&c=WEB&cver=html5' %}
+	{% include video.html id='7' title='' img='https://lh3.googleusercontent.com/-r2ilTh-X_dM/Vhkz1JBtTAI/AAAAAAAARuY/KtEv9_HtfkM/s800-Ic42/MVI_0054.gif' video='https://lh3.googleusercontent.com/lV6hq7AhpqewPi8Phea819Z_GkGc92t7IpcTbuVsMw3-=m18?cpn=SGmfxaBK6YyYDHgr&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -108,7 +108,7 @@ Fotos:
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/--KNoTmv4Cx4/VhonWYPGGnI/AAAAAAAARwc/cMNNAFJ1IZk/s800-Ic42/PB290132%252520_640%252520x%252520480_.jpg' %}
   </div>
   <div class="col-sm-3">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-0IN9RZYtQYc/VVBuYjkXd7I/AAAAAAAAQj0/mVC1nSx_z0o/s288-Ic42/0218%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/1gdchEFERJUcTrWrtF2vZwuXnE4WNZ9WEnyeGbKO5Rxl=m18?cpn=lLZLhZV1EJtWtOpE&c=WEB&cver=html5' %}
+	{% include video.html id='8' title='' img='https://lh3.googleusercontent.com/-0IN9RZYtQYc/VVBuYjkXd7I/AAAAAAAAQj0/mVC1nSx_z0o/s288-Ic42/0218%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/1gdchEFERJUcTrWrtF2vZwuXnE4WNZ9WEnyeGbKO5Rxl=m18?cpn=lLZLhZV1EJtWtOpE&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -116,10 +116,10 @@ Nach den Stromschnellen wurden wir auch von einem Jet-Ski gezogen, was deutlich 
 
 <div class="row">
   <div class="col-sm-6">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-c8N2kriRmTM/VVBuYjS5eII/AAAAAAAAQjc/6y_VxeXf8bQ/s288-Ic42/0218%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/Mg7R3B9pisdT1muIh8D0VEssi9aPWqvdshnpv3ZAIdjL=m18?cpn=7GFh1yGuhSDjdgaW&c=WEB&cver=html5' %}
+	{% include video.html id='9' title='' img='https://lh3.googleusercontent.com/-c8N2kriRmTM/VVBuYjS5eII/AAAAAAAAQjc/6y_VxeXf8bQ/s288-Ic42/0218%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/Mg7R3B9pisdT1muIh8D0VEssi9aPWqvdshnpv3ZAIdjL=m18?cpn=7GFh1yGuhSDjdgaW&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-6">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-mxyx3xncQwk/VVBuZX6UPfI/AAAAAAAAQkQ/CTYQM6j7OIM/s288-Ic42/0218%252520-%252520Video%2525205.gif' video='https://lh3.googleusercontent.com/_BxglMQE9Hli4de-ZKKtDce9_1NE_51df_qsPBQMaMdX=m18?cpn=gCTweec8alV6cIH3&c=WEB&cver=html5' %}
+	{% include video.html id='10' title='' img='https://lh3.googleusercontent.com/-mxyx3xncQwk/VVBuZX6UPfI/AAAAAAAAQkQ/CTYQM6j7OIM/s288-Ic42/0218%252520-%252520Video%2525205.gif' video='https://lh3.googleusercontent.com/_BxglMQE9Hli4de-ZKKtDce9_1NE_51df_qsPBQMaMdX=m18?cpn=gCTweec8alV6cIH3&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -265,7 +265,7 @@ Uemit (Video):
   </div>
 </div>
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/--L3KLhTiRcE/VVBu2c7nb1I/AAAAAAAAQjs/3GvEfJSlvlY/s288-Ic42/0257%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/vdw02WhNV3q-PqB5XwPXRZxO_3l1Y6Mi6oAUpI9B-JMd=m18?cpn=y16ENrg8_kqMlu96&c=WEB&cver=html5' %}
+{% include video.html id='11' title='' img='https://lh3.googleusercontent.com/--L3KLhTiRcE/VVBu2c7nb1I/AAAAAAAAQjs/3GvEfJSlvlY/s288-Ic42/0257%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/vdw02WhNV3q-PqB5XwPXRZxO_3l1Y6Mi6oAUpI9B-JMd=m18?cpn=y16ENrg8_kqMlu96&c=WEB&cver=html5' %}
 
 Manche taten sich leichter und andere schwerer, aber alle hatten Spass dabei. Leider blieb es nur beim Ueben an einigen wenigen Waenden. Der Rueckweg bergab dauerte naturgemaess kuerzer, als der Aufstieg und gegen 5 Uhr waren wir wieder zurueck im Ort.
 
@@ -348,7 +348,7 @@ Obwohl es anfangs waehrend der Bootsfahrt noch gut ausgesehen hatte, beschloss d
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-qc7vxB6fdR0/VVBvPhCm6WI/AAAAAAAAQjI/Wjzw4YG4Oa4/s2048-Ic42/0292%252520-%252520Picton.jpg' %}
   </div>
   <div class="col-sm-4">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-X0bNkQXF2tE/Vho1kZCzEfI/AAAAAAAAR14/JUIsKXP5Oac/s800-Ic42/MVI_0021.gif' video='https://lh3.googleusercontent.com/AGFvGTauv89EzuMtGhDogoBv_M8mpA4vkyM-VJFCNHFN=m18?cpn=Q4vlUPg3zTp7SzfA&c=WEB&cver=html5' %}
+	{% include video.html id='12' title='' img='https://lh3.googleusercontent.com/-X0bNkQXF2tE/Vho1kZCzEfI/AAAAAAAAR14/JUIsKXP5Oac/s800-Ic42/MVI_0021.gif' video='https://lh3.googleusercontent.com/AGFvGTauv89EzuMtGhDogoBv_M8mpA4vkyM-VJFCNHFN=m18?cpn=Q4vlUPg3zTp7SzfA&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -370,10 +370,10 @@ Nach diesem eher enttaeuschenden Tauchgang ging es mit der gar nicht so billigen
 
 <div class="row">
   <div class="col-sm-6">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-NURik6uvvhQ/VVBvSFaNE-I/AAAAAAAAQlQ/_ibejK1Khrk/s800-Ic42/0297%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/_nVGz-6loZrhktO2eOW1yCSNAJHoXlb62OB5PRE42ZKe=m18?cpn=BgOh-HAabjDnhjQ5&c=WEB&cver=html5' %}
+	{% include video.html id='13' title='' img='https://lh3.googleusercontent.com/-NURik6uvvhQ/VVBvSFaNE-I/AAAAAAAAQlQ/_ibejK1Khrk/s800-Ic42/0297%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/_nVGz-6loZrhktO2eOW1yCSNAJHoXlb62OB5PRE42ZKe=m18?cpn=BgOh-HAabjDnhjQ5&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-6">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-Lpb4VvvIBlI/Vho1b4F8a3I/AAAAAAAAR1Q/YR-5-cMMA90/s800-Ic42/MVI_0034.gif' video='https://lh3.googleusercontent.com/Av7aybiuJnlQyUcdGj6GqWfX34ZCpt153NSJX-i2sfcP=m18?cpn=2Ilq2YzNVBK09VRO&c=WEB&cver=html5' %}
+	{% include video.html id='14' title='' img='https://lh3.googleusercontent.com/-Lpb4VvvIBlI/Vho1b4F8a3I/AAAAAAAAR1Q/YR-5-cMMA90/s800-Ic42/MVI_0034.gif' video='https://lh3.googleusercontent.com/Av7aybiuJnlQyUcdGj6GqWfX34ZCpt153NSJX-i2sfcP=m18?cpn=2Ilq2YzNVBK09VRO&c=WEB&cver=html5' %}
   </div>
 </div>
 

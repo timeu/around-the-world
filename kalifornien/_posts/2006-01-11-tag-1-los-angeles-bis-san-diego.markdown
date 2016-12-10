@@ -87,7 +87,7 @@ Aber leider verfuhren wir uns mehrmals und da es bereits dunkel war, machten wir
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-fVTYnL4qBBk/VVCPgPn7M2I/AAAAAAAASNI/iCat3tnlHTE/s2048-Ic42/0036%252520-%252520Universal%252520Studios.jpg' %}
   </div>
   <div class="col-sm-4">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-uu8KJfl2nvs/VVCPjYv3BAI/AAAAAAAASNw/XSPxGkqFTQU/s800-Ic42/0038%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/0qIcsAh4_SWs1h-d7To-3Y8Gsd1c9_oOG0xz4_Dp6C71=m18?cpn=xlIvHTaUmHSJntfe&c=WEB&cver=html5' %}
+	{% include video.html id='1' title='' img='https://lh3.googleusercontent.com/-uu8KJfl2nvs/VVCPjYv3BAI/AAAAAAAASNw/XSPxGkqFTQU/s800-Ic42/0038%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/0qIcsAh4_SWs1h-d7To-3Y8Gsd1c9_oOG0xz4_Dp6C71=m18?cpn=xlIvHTaUmHSJntfe&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -96,10 +96,10 @@ Aber leider verfuhren wir uns mehrmals und da es bereits dunkel war, machten wir
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-2CGu6ZK4tkU/VVCPdpegJKI/AAAAAAAASNI/BXJEwFKkNxA/s2048-Ic42/0033%252520-%252520Universal%252520Studios.jpg' %}
   </div>
   <div class="col-sm-4">
-	 {% include video.html title='' img='https://lh3.googleusercontent.com/-rDKi1eQOJlY/VVCPkQ1bzlI/AAAAAAAASOE/liYEU9kdyx8/s800-Ic42/0038%252520-%252520Video%2525205.gif' video='https://lh3.googleusercontent.com/L6_sczYTnwv3Yf4kOY9LZTFW3CqW25oSOITTqNHqHHdk=m18?cpn=FJ7Qer7zX12PP9mc&c=WEB&cver=html5' %}
+	 {% include video.html id='2' title='' img='https://lh3.googleusercontent.com/-rDKi1eQOJlY/VVCPkQ1bzlI/AAAAAAAASOE/liYEU9kdyx8/s800-Ic42/0038%252520-%252520Video%2525205.gif' video='https://lh3.googleusercontent.com/L6_sczYTnwv3Yf4kOY9LZTFW3CqW25oSOITTqNHqHHdk=m18?cpn=FJ7Qer7zX12PP9mc&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-	  {% include video.html title='' img='https://lh3.googleusercontent.com/-nRgrUqeufac/VVCPkhUPW3I/AAAAAAAASNk/AnE18UjUdeo/s800-Ic42/0038%252520-%252520Video%2525206.gif' video='https://lh3.googleusercontent.com/pGqYqM15otrVfIkQNRvWeLwW_sIhnSm-TYPEVRytPJJ6=m18?cpn=YSRwmig1cXHlwt8W&c=WEB&cver=html5' %}
+	  {% include video.html id='3' title='' img='https://lh3.googleusercontent.com/-nRgrUqeufac/VVCPkhUPW3I/AAAAAAAASNk/AnE18UjUdeo/s800-Ic42/0038%252520-%252520Video%2525206.gif' video='https://lh3.googleusercontent.com/pGqYqM15otrVfIkQNRvWeLwW_sIhnSm-TYPEVRytPJJ6=m18?cpn=YSRwmig1cXHlwt8W&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -108,7 +108,7 @@ Am naechsten Tag ging es mit Fun weiter. Diesmal fuhren wir zum beruehmten Six F
 
 <div class="row">
   <div class="col-sm-6">
-	  {% include video.html title='' img='https://lh3.googleusercontent.com/-R--Lk0XYEj8/VVCPmK48oMI/AAAAAAAASNU/CPj8APTZhi4/s800-Ic42/0039%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/PdSFEGD85__a1hJSOiHhvEHYVDqtlVEMULiQIlrMVn7r=m18?cpn=t6uwaedyi9Dl7Lit&c=WEB&cver=html5' %}
+	  {% include video.html id='4' title='' img='https://lh3.googleusercontent.com/-R--Lk0XYEj8/VVCPmK48oMI/AAAAAAAASNU/CPj8APTZhi4/s800-Ic42/0039%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/PdSFEGD85__a1hJSOiHhvEHYVDqtlVEMULiQIlrMVn7r=m18?cpn=t6uwaedyi9Dl7Lit&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-6">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-VDQd9uTfuk4/VVCPllYKLPI/AAAAAAAASNI/cjJjqDeeVWM/s2048-Ic42/0039%252520-%252520Six%252520Flags%252520-%252520Magic%252520Mountain.jpg' %}

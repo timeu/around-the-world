@@ -31,10 +31,10 @@ Videos:
 
 <div class="row">
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/6GMEsO-GX_tITEQm41Rmwe8pb78xxzUdg2s6vLwREiPpXx6afA314zfMuysqQZct-f0oLhsGLls_rsk=w293-h220-rw' video='https://lh3.googleusercontent.com/Gyu44s1PiMEXYacyA3sN67YVEdKjeKWLbXc7FFtiF3SKpP-qiovIY_DX9S5uua6dFxyVG3IYtqEDUo4=m18?cpn=7pEzFy0IrgZ2HYKx&c=WEB&cver=1.20161020' %}
+    {% include video.html id='1' title='' img='https://lh3.googleusercontent.com/6GMEsO-GX_tITEQm41Rmwe8pb78xxzUdg2s6vLwREiPpXx6afA314zfMuysqQZct-f0oLhsGLls_rsk=w293-h220-rw' video='https://lh3.googleusercontent.com/Gyu44s1PiMEXYacyA3sN67YVEdKjeKWLbXc7FFtiF3SKpP-qiovIY_DX9S5uua6dFxyVG3IYtqEDUo4=m18?cpn=7pEzFy0IrgZ2HYKx&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/Gyu44s1PiMEXYacyA3sN67YVEdKjeKWLbXc7FFtiF3SKpP-qiovIY_DX9S5uua6dFxyVG3IYtqEDUo4=w293-h220-rw' video='https://lh3.googleusercontent.com/Gyu44s1PiMEXYacyA3sN67YVEdKjeKWLbXc7FFtiF3SKpP-qiovIY_DX9S5uua6dFxyVG3IYtqEDUo4=m18?cpn=xA3U0bu-Y9YJ-qrs&c=WEB&cver=1.20161020' %}
+    {% include video.html id='2' title='' img='https://lh3.googleusercontent.com/Gyu44s1PiMEXYacyA3sN67YVEdKjeKWLbXc7FFtiF3SKpP-qiovIY_DX9S5uua6dFxyVG3IYtqEDUo4=w293-h220-rw' video='https://lh3.googleusercontent.com/Gyu44s1PiMEXYacyA3sN67YVEdKjeKWLbXc7FFtiF3SKpP-qiovIY_DX9S5uua6dFxyVG3IYtqEDUo4=m18?cpn=xA3U0bu-Y9YJ-qrs&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -54,7 +54,7 @@ Waehrend der Fahrt wurde unser Boot von einigen Greifvoegeln begleitet, die eben
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-cM97hTzGZSc/VVBmQ51Y2QI/AAAAAAAAQLM/gQVJ4HPMH8A/s2048/0500%252520-%252520Crocodile%252520Jumping.jpg' %}
   </div>
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/SgP3xx6osVL3aAglgBomNoSyw53MWdG2ENGjerOmTZmNGQG6eS8tH4MAPJCC2SjRk-YA6nn7oNhL23E=w293-h220-rw' video='https://lh3.googleusercontent.com/SgP3xx6osVL3aAglgBomNoSyw53MWdG2ENGjerOmTZmNGQG6eS8tH4MAPJCC2SjRk-YA6nn7oNhL23E=m18?cpn=z-atXgiwdU0vczIn&c=WEB&cver=1.20161020' %}
+    {% include video.html id='3' title='' img='https://lh3.googleusercontent.com/SgP3xx6osVL3aAglgBomNoSyw53MWdG2ENGjerOmTZmNGQG6eS8tH4MAPJCC2SjRk-YA6nn7oNhL23E=w293-h220-rw' video='https://lh3.googleusercontent.com/SgP3xx6osVL3aAglgBomNoSyw53MWdG2ENGjerOmTZmNGQG6eS8tH4MAPJCC2SjRk-YA6nn7oNhL23E=m18?cpn=z-atXgiwdU0vczIn&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -62,7 +62,7 @@ Die Tour wurde leider durch die, fuer die Saison typischen monsunartigen Regenfa
 
 <div class="row">
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/YzDUX2AUL3CS6jM5WFnxgcgtwsmiBetKEgM_mbkDcZE98Db4i8ORK5-ZMGJ6Gj72gl8W5OOJEBCQKus=w293-h220-rw' video='https://lh3.googleusercontent.com/YzDUX2AUL3CS6jM5WFnxgcgtwsmiBetKEgM_mbkDcZE98Db4i8ORK5-ZMGJ6Gj72gl8W5OOJEBCQKus=m18?cpn=KkdOOhXJySaU9G68&c=WEB&cver=1.20161020' %}
+    {% include video.html id='4' title='' img='https://lh3.googleusercontent.com/YzDUX2AUL3CS6jM5WFnxgcgtwsmiBetKEgM_mbkDcZE98Db4i8ORK5-ZMGJ6Gj72gl8W5OOJEBCQKus=w293-h220-rw' video='https://lh3.googleusercontent.com/YzDUX2AUL3CS6jM5WFnxgcgtwsmiBetKEgM_mbkDcZE98Db4i8ORK5-ZMGJ6Gj72gl8W5OOJEBCQKus=m18?cpn=KkdOOhXJySaU9G68&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-vwIuKYOF8ok/VVBmbRkvZ0I/AAAAAAAAQLM/zcJJMrEzaFI/s2048/0512%252520-%252520Crocodile%252520Jumping.jpg' %}

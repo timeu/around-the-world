@@ -47,7 +47,7 @@ Die 81,5 Meter unter Meeresspiegel liegende Badwater Ebene. Die hoechsten Temper
 
 <div class="row">
   <div class="col-sm-4">
-	  {% include video.html title='' img='https://lh3.googleusercontent.com/-waoYTwuJgBc/VVCQ7sV61tI/AAAAAAAASOM/5gNqT3_y9jY/s800-Ic42/0169%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/bbrmEFwE3PT-werCJwhB7m1di6h6eVWmLAsyYlKOhWRp=m18?cpn=AqPBmSZ6hGj0ETwF&c=WEB&cver=html5' %}
+	  {% include video.html id='1' title='' img='https://lh3.googleusercontent.com/-waoYTwuJgBc/VVCQ7sV61tI/AAAAAAAASOM/5gNqT3_y9jY/s800-Ic42/0169%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/bbrmEFwE3PT-werCJwhB7m1di6h6eVWmLAsyYlKOhWRp=m18?cpn=AqPBmSZ6hGj0ETwF&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-wO9azSjm_p0/VVCQ6ESWMHI/AAAAAAAASNI/rDwRrMqI_u8/s2048-Ic42/0168%252520-%252520Death%252520Valley.jpg' %}
@@ -118,7 +118,7 @@ Urspruenglich hatten wir geplant weiter in den Norden zu fahren, zum Yosemite Na
 
 <div class="row">
   <div class="col-sm-4">
-	  {% include video.html title='' img='https://lh3.googleusercontent.com/-GcFKjsP_tbU/VVCREr2oXOI/AAAAAAAASNs/zLGbamu5qRs/s800-Ic42/0184%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/FEHNsk7o9t-O-HLOXv0Nzr1EJaTzDXjmvgen8p1tt8je=m18?cpn=FOcopMHxQOFPgW7Z&c=WEB&cver=html5' %}
+	  {% include video.html id='2' title='' img='https://lh3.googleusercontent.com/-GcFKjsP_tbU/VVCREr2oXOI/AAAAAAAASNs/zLGbamu5qRs/s800-Ic42/0184%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/FEHNsk7o9t-O-HLOXv0Nzr1EJaTzDXjmvgen8p1tt8je=m18?cpn=FOcopMHxQOFPgW7Z&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-rqUcWPohJCo/VVCRDugsQtI/AAAAAAAASNI/finvsFBQKnQ/s2048-Ic42/0183%252520-%252520Death%252520Valley.jpg' %}
@@ -149,7 +149,7 @@ Man sieht auch eine Reihe von Wasserfällen (Video).
 
 <div class="row">
   <div class="col-sm-6">
-	 {% include video.html title='' img='https://lh3.googleusercontent.com/-cXtP_FcRI_s/VVCRKrL8doI/AAAAAAAASNM/lirfstFCCJA/s800-Ic42/0190%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/-9NNMtKbZ3wEX_Q05Uqw9K2OEgPFwKe_vCpwPftV_eGZ=m18?cpn=BdaCR1bVWVawp0fZ&c=WEB&cver=html5' %}
+	 {% include video.html id='3' title='' img='https://lh3.googleusercontent.com/-cXtP_FcRI_s/VVCRKrL8doI/AAAAAAAASNM/lirfstFCCJA/s800-Ic42/0190%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/-9NNMtKbZ3wEX_Q05Uqw9K2OEgPFwKe_vCpwPftV_eGZ=m18?cpn=BdaCR1bVWVawp0fZ&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-6">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-CXzWO9Sn-wI/VVCRLb77WTI/AAAAAAAASNI/I89HlO4lrYc/s2048-Ic42/0192%252520-%252520Yosemite%252520Park.jpg' %}
@@ -231,7 +231,7 @@ Gegen 22 Uhr kamen wir im Nordwesten von Lake Tahoe, in der Stadt Truckee, an un
 
 <div class="row">
   <div class="col-sm-6">
-	  {% include video.html title='' img='https://lh3.googleusercontent.com/-WlLhvMn_E5Q/VVCRo1L8rII/AAAAAAAASOc/QIsigEOk-Ow/s800-Ic42/0242%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/ifCFS8H3kQgbeTEUPGeWPVUTyCnbKDH5URF30AN7oj21=m18?cpn=dwz5MXapN_wrHiAk&c=WEB&cver=html5' %}
+	  {% include video.html id='4' title='' img='https://lh3.googleusercontent.com/-WlLhvMn_E5Q/VVCRo1L8rII/AAAAAAAASOc/QIsigEOk-Ow/s800-Ic42/0242%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/ifCFS8H3kQgbeTEUPGeWPVUTyCnbKDH5URF30AN7oj21=m18?cpn=dwz5MXapN_wrHiAk&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-6">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-fvR0ebLd6bw/VVCRqnmmrcI/AAAAAAAASNI/vTQ0snRSRyQ/s2048-Ic42/0244%252520-%252520Lake%252520Tahoe.jpg' %}
@@ -242,13 +242,13 @@ Die erste Überraschung nach der Ankunft in Squaw Valley waren die beinahe leere
 
 <div class="row">
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-zUrbBnmywMM/VhzVwcQM4wI/AAAAAAAASZ0/apDtelFosMI/s800-Ic42/MVI_0015_flv.flv.gif' video='https://lh3.googleusercontent.com/C68eSCOwbUdyBWHtC3Us2J5JMtU7mI0iAjMlsczBN00a=m18?cpn=cFm4wnnmwG6aps_6&c=WEB&cver=html5' %}
+    {% include video.html id='5' title='' img='https://lh3.googleusercontent.com/-zUrbBnmywMM/VhzVwcQM4wI/AAAAAAAASZ0/apDtelFosMI/s800-Ic42/MVI_0015_flv.flv.gif' video='https://lh3.googleusercontent.com/C68eSCOwbUdyBWHtC3Us2J5JMtU7mI0iAjMlsczBN00a=m18?cpn=cFm4wnnmwG6aps_6&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-	  {% include video.html title='' img='https://lh3.googleusercontent.com/-3XWI1rLSiAU/VVCRqGPvTaI/AAAAAAAASOg/nfBtMjYLFcs/s800-Ic42/0242%252520-%252520Video%2525205.gif' video='https://lh3.googleusercontent.com/lcFJA5nV4Qva4gmedVcE0HhvRIc5h2mHJr4_1SWvC-EQ=m18?cpn=VslaKwK7AX-1-egv&c=WEB&cver=html5' %}
+	  {% include video.html id='6' title='' img='https://lh3.googleusercontent.com/-3XWI1rLSiAU/VVCRqGPvTaI/AAAAAAAASOg/nfBtMjYLFcs/s800-Ic42/0242%252520-%252520Video%2525205.gif' video='https://lh3.googleusercontent.com/lcFJA5nV4Qva4gmedVcE0HhvRIc5h2mHJr4_1SWvC-EQ=m18?cpn=VslaKwK7AX-1-egv&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-     {% include video.html title='' img='https://lh3.googleusercontent.com/-VfbldCXRhVg/VVCRxXYa8JI/AAAAAAAASOQ/PrQbTk4YmG4/s800-Ic42/0242%252520-%252520Video%2525204.gif' video='https://lh3.googleusercontent.com/u9-USNd1dkDh_EZ4KE3eGQRL668iCDAahr187vYvi6jj=m18?cpn=5XfaXBILbNNsS4D8&c=WEB&cver=html5' %}
+     {% include video.html id='7' title='' img='https://lh3.googleusercontent.com/-VfbldCXRhVg/VVCRxXYa8JI/AAAAAAAASOQ/PrQbTk4YmG4/s800-Ic42/0242%252520-%252520Video%2525204.gif' video='https://lh3.googleusercontent.com/u9-USNd1dkDh_EZ4KE3eGQRL668iCDAahr187vYvi6jj=m18?cpn=5XfaXBILbNNsS4D8&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -257,20 +257,20 @@ Sogar an einigen waghalsigen Sprüngen versuchten wir uns (Videos).
 
 <div class="row">
   <div class="col-sm-4">
-     {% include video.html title='' img='https://lh3.googleusercontent.com/-WNbJGaffwqU/VhzWVKHcFII/AAAAAAAASaQ/C7jYxIn9Bjc/s800-Ic42/MVI_0009_flv.flv.gif' video='https://lh3.googleusercontent.com/YOKSNMN3xWzKtPtWR6d3gBo4Bk89dAj9YxK1g1QNfdro=m18?cpn=TVxDUueC4VjP4TOJ&c=WEB&cver=html5' %}
+     {% include video.html id='8' title='' img='https://lh3.googleusercontent.com/-WNbJGaffwqU/VhzWVKHcFII/AAAAAAAASaQ/C7jYxIn9Bjc/s800-Ic42/MVI_0009_flv.flv.gif' video='https://lh3.googleusercontent.com/YOKSNMN3xWzKtPtWR6d3gBo4Bk89dAj9YxK1g1QNfdro=m18?cpn=TVxDUueC4VjP4TOJ&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-     {% include video.html title='' img='https://lh3.googleusercontent.com/-NCOWwZol6fQ/VVCRpKv-MPI/AAAAAAAASPE/B_s09hw9g8M/s800-Ic42/0242%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/pGlJbcoPTsyhecNJnV8ABHwjS_n_PENu9PiQff3XLsfj=m18?cpn=99iy2PK2oOCpWTry&c=WEB&cver=html5' %}
+     {% include video.html id='9' title='' img='https://lh3.googleusercontent.com/-NCOWwZol6fQ/VVCRpKv-MPI/AAAAAAAASPE/B_s09hw9g8M/s800-Ic42/0242%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/pGlJbcoPTsyhecNJnV8ABHwjS_n_PENu9PiQff3XLsfj=m18?cpn=99iy2PK2oOCpWTry&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-     {% include video.html title='' img='https://lh3.googleusercontent.com/-nE6LbV3uPDY/VVCRpCJCjjI/AAAAAAAASNc/Ljl94MiqwmQ/s800-Ic42/0242%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/pJHVa1isPVBqheHlK_Whfyi_MA0DpeI0IM9Sz-ikovSr=m18?cpn=N9YhFXIb25HjeXZr&c=WEB&cver=html5' %}
+     {% include video.html id='10' title='' img='https://lh3.googleusercontent.com/-nE6LbV3uPDY/VVCRpCJCjjI/AAAAAAAASNc/Ljl94MiqwmQ/s800-Ic42/0242%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/pJHVa1isPVBqheHlK_Whfyi_MA0DpeI0IM9Sz-ikovSr=m18?cpn=N9YhFXIb25HjeXZr&c=WEB&cver=html5' %}
   </div>
 </div>
 
 
 Um 4 Uhr ging es ein letztes Mal hinunter und nachdem wir die Ausrüstung zurückgegeben hatten, machten wir uns auf den 500 km langen Weg zum  Redwood Nationalpark.
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/-arV2Rny2Oa0/VVCRr40QB1I/AAAAAAAASOg/-3nd0oj26cY/s800-Ic42/0244%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/CVNuCjdNE7vmNq9AUPczpPdPLxyNrkTWu_0xYmyMU6Sq=m18?cpn=5mmz2yGsFR5S9oTg&c=WEB&cver=html5' %}
+{% include video.html id='11' title='' img='https://lh3.googleusercontent.com/-arV2Rny2Oa0/VVCRr40QB1I/AAAAAAAASOg/-3nd0oj26cY/s800-Ic42/0244%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/CVNuCjdNE7vmNq9AUPczpPdPLxyNrkTWu_0xYmyMU6Sq=m18?cpn=5mmz2yGsFR5S9oTg&c=WEB&cver=html5' %}
 
 Unterwegs kamen wir an einigen Goldgraebersiedlungen im viktorianischen Stil vorbei.
 

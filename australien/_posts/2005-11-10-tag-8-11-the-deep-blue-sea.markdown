@@ -106,13 +106,13 @@ Videos:
 
 <div class="row">
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/17mpes2WZyErhtayfrPwYCjfvw58voGaBFKG3JlV-0o4u3d7u8_Ew6Q1sfxexs2sutcXn2C2IyvSnD0=w293-h220-rw' video='https://lh3.googleusercontent.com/17mpes2WZyErhtayfrPwYCjfvw58voGaBFKG3JlV-0o4u3d7u8_Ew6Q1sfxexs2sutcXn2C2IyvSnD0=m18?cpn=vSV2pT9PxxXPzJwM&c=WEB&cver=1.20161020'  %}
+    {% include video.html id='1' title='' img='https://lh3.googleusercontent.com/17mpes2WZyErhtayfrPwYCjfvw58voGaBFKG3JlV-0o4u3d7u8_Ew6Q1sfxexs2sutcXn2C2IyvSnD0=w293-h220-rw' video='https://lh3.googleusercontent.com/17mpes2WZyErhtayfrPwYCjfvw58voGaBFKG3JlV-0o4u3d7u8_Ew6Q1sfxexs2sutcXn2C2IyvSnD0=m18?cpn=vSV2pT9PxxXPzJwM&c=WEB&cver=1.20161020'  %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/AvKX7cfZVkWd5NdRvWtZfX803_lEIIyxH1Pxtkevm3sfp-3nOcCa0cdH2hluUoud5jbDmSK1MJw5tgI=w293-h220-rw' video='https://lh3.googleusercontent.com/AvKX7cfZVkWd5NdRvWtZfX803_lEIIyxH1Pxtkevm3sfp-3nOcCa0cdH2hluUoud5jbDmSK1MJw5tgI=m18?cpn=Hxza9cT14Bst_v7A&c=WEB&cver=1.20161020'  %}
+    {% include video.html id='2' title='' img='https://lh3.googleusercontent.com/AvKX7cfZVkWd5NdRvWtZfX803_lEIIyxH1Pxtkevm3sfp-3nOcCa0cdH2hluUoud5jbDmSK1MJw5tgI=w293-h220-rw' video='https://lh3.googleusercontent.com/AvKX7cfZVkWd5NdRvWtZfX803_lEIIyxH1Pxtkevm3sfp-3nOcCa0cdH2hluUoud5jbDmSK1MJw5tgI=m18?cpn=Hxza9cT14Bst_v7A&c=WEB&cver=1.20161020'  %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/KQwChJF58s22ti31XIBgi9OkTNx_SiYYlTe-xPe2Wkwww9HudEimrKkCtIjSTxbs6dzXyq7uqoGIXWc=w293-h220-rw' video='https://lh3.googleusercontent.com/KQwChJF58s22ti31XIBgi9OkTNx_SiYYlTe-xPe2Wkwww9HudEimrKkCtIjSTxbs6dzXyq7uqoGIXWc=m18?cpn=SFoX6omvCJbbIYK5&c=WEB&cver=1.20161020' %}
+    {% include video.html id='3' title='' img='https://lh3.googleusercontent.com/KQwChJF58s22ti31XIBgi9OkTNx_SiYYlTe-xPe2Wkwww9HudEimrKkCtIjSTxbs6dzXyq7uqoGIXWc=w293-h220-rw' video='https://lh3.googleusercontent.com/KQwChJF58s22ti31XIBgi9OkTNx_SiYYlTe-xPe2Wkwww9HudEimrKkCtIjSTxbs6dzXyq7uqoGIXWc=m18?cpn=SFoX6omvCJbbIYK5&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -157,7 +157,7 @@ Wie schon in Coral Bay ging es mit einem Boot ueber das Kap hinweg zum noerdlich
 
 Darunter einige ziemlich grosse Sea Turtles, die gerade ihre Paarungszeit hatten und auch einen schuechternen Octopus. Dieser war dermassen gut getarnt, dass man ihn kaum von den umliegenden Korallen unterscheiden konnte. Erst wenn man seine Tentakel beruehrte, aenderte er seine Farbe und wurde somit gegen den Hintergrund sichtbar, nur um Sekunden spaeter, seine Farbe zu aendern und defacto unsichtbar zu sein (18 MB Video).
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/zdSjFq_F3QIA25bclBR9J3ByCPvfffeuNCD5KmgxCmgvlEQ5jJRylMUW_OjZN7A8LyyvGUOerqex86w=w293-h220-rw' video='https://lh3.googleusercontent.com/zdSjFq_F3QIA25bclBR9J3ByCPvfffeuNCD5KmgxCmgvlEQ5jJRylMUW_OjZN7A8LyyvGUOerqex86w=m18?cpn=XxOPLeQlH_hmqkrM&c=WEB&cver=1.20161020' %}
+{% include video.html id='4' title='' img='https://lh3.googleusercontent.com/zdSjFq_F3QIA25bclBR9J3ByCPvfffeuNCD5KmgxCmgvlEQ5jJRylMUW_OjZN7A8LyyvGUOerqex86w=w293-h220-rw' video='https://lh3.googleusercontent.com/zdSjFq_F3QIA25bclBR9J3ByCPvfffeuNCD5KmgxCmgvlEQ5jJRylMUW_OjZN7A8LyyvGUOerqex86w=m18?cpn=XxOPLeQlH_hmqkrM&c=WEB&cver=1.20161020' %}
 
 
 Nach einer 40 minuetigen Pause am Boot und einer kleinen Staerkung, ging es zum 2ten Tauchplatz.
@@ -182,7 +182,7 @@ Diesmal wurden wir regelrecht von der Artenvielfalt ueberwaeltigt. Neben den gew
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-255-YpeqBUc/VWCBu3dLPyI/AAAAAAAAQRI/dkVje6vdcYk/s2048/IMG_0093_001.JPG' %}
   </div>
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/9f9MKXMAqK51ggpI7lI68wS0PW2AJc51m9pNW_VdfZihHtxDtlvtv5oTNXweBwXTJU6_HqPr8B74T3Q=w293-h220-rw' video='https://lh3.googleusercontent.com/9f9MKXMAqK51ggpI7lI68wS0PW2AJc51m9pNW_VdfZihHtxDtlvtv5oTNXweBwXTJU6_HqPr8B74T3Q=m18?cpn=gHNSvRy3d_fUxF2l&c=WEB&cver=1.20161020' %}
+    {% include video.html id='5' title='' img='https://lh3.googleusercontent.com/9f9MKXMAqK51ggpI7lI68wS0PW2AJc51m9pNW_VdfZihHtxDtlvtv5oTNXweBwXTJU6_HqPr8B74T3Q=w293-h220-rw' video='https://lh3.googleusercontent.com/9f9MKXMAqK51ggpI7lI68wS0PW2AJc51m9pNW_VdfZihHtxDtlvtv5oTNXweBwXTJU6_HqPr8B74T3Q=m18?cpn=gHNSvRy3d_fUxF2l&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -215,7 +215,7 @@ Da wir aber vom Tauchen schon sehr hungrig waren, schmeckte das Essen trotzdem u
 
 Am naechsten Morgen sollte unser voraussichtlich letzter Tauchtag in Australien stattfinden. Diesmal ging es raus auf die Muiron Inseln. Die 1 1/2 stuendige Fahrt war relativ ereignislos, ungluecklicherweise war die Stroemung am Grund bei 12 Meter so stark, dass das Risiko, zu den Inseln gespuelt und sich womoeglich zu verletzen zu gross war. Sogar klein Nemo tat sich dabei schwer:
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/oj8gBKsdHLEfS4nOC5j3c2hxcm-kNJkhvelRxDRhceUH5EwsKNyucDgVivEBGzy0BFyUtLOd9QT-omg=w293-h220-rw' video='https://lh3.googleusercontent.com/oj8gBKsdHLEfS4nOC5j3c2hxcm-kNJkhvelRxDRhceUH5EwsKNyucDgVivEBGzy0BFyUtLOd9QT-omg=m18?cpn=Ewvj58zQZa1uVk_q&c=WEB&cver=1.20161020' %}
+{% include video.html id='6' title='' img='https://lh3.googleusercontent.com/oj8gBKsdHLEfS4nOC5j3c2hxcm-kNJkhvelRxDRhceUH5EwsKNyucDgVivEBGzy0BFyUtLOd9QT-omg=w293-h220-rw' video='https://lh3.googleusercontent.com/oj8gBKsdHLEfS4nOC5j3c2hxcm-kNJkhvelRxDRhceUH5EwsKNyucDgVivEBGzy0BFyUtLOd9QT-omg=m18?cpn=Ewvj58zQZa1uVk_q&c=WEB&cver=1.20161020' %}
 
 Der Guide beschloss daher, den Tauchgang abzubrechen. Am Boot wurde entschieden, die Inseln zu verlassen und zur Leuchtturmbucht zurueckzukehren. Dort sollte die Stroemung nicht so stark sein. Die Stroemung war auch nicht zu stark und wir konnten den 2ten Tauchgang erfolgreich durchfuehren. Dabei sahen wir sowohl altbekannte Meeresfreunde, als auch neue.
 
@@ -234,7 +234,7 @@ Der Guide beschloss daher, den Tauchgang abzubrechen. Am Boot wurde entschieden,
 
 In dieser Jahreszeit ist die Paarungszeit der Sea Turtles und daher sieht man relativ viele von ihnen. Hier ist ein kleines Video von einem solchen Gesellen (Uemit schwimmt mit).
 
- {% include video.html title='' img='https://lh3.googleusercontent.com/q0GVtSpZWopQOUa5s8s8mLZTD8gmWQqIBF36y1RdgSZpKYLRHDoa3WSzoOdZ5z-rPA1n3OmPNinTMj4=w293-h220-rw' video='https://lh3.googleusercontent.com/q0GVtSpZWopQOUa5s8s8mLZTD8gmWQqIBF36y1RdgSZpKYLRHDoa3WSzoOdZ5z-rPA1n3OmPNinTMj4=m18?cpn=2s487odadDMB6KrW&c=WEB&cver=1.20161020'  %}
+ {% include video.html id='7' title='' img='https://lh3.googleusercontent.com/q0GVtSpZWopQOUa5s8s8mLZTD8gmWQqIBF36y1RdgSZpKYLRHDoa3WSzoOdZ5z-rPA1n3OmPNinTMj4=w293-h220-rw' video='https://lh3.googleusercontent.com/q0GVtSpZWopQOUa5s8s8mLZTD8gmWQqIBF36y1RdgSZpKYLRHDoa3WSzoOdZ5z-rPA1n3OmPNinTMj4=m18?cpn=2s487odadDMB6KrW&c=WEB&cver=1.20161020'  %}
 
 Auf der Rueckfahrt zum Hafen trafen wir auch zum ersten mal auf einen Mantarochen (Manta Ray).
 Ein wirklich beeindruckender Anblick.

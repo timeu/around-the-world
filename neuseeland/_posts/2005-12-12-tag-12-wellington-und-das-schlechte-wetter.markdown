@@ -82,7 +82,7 @@ Entgegen aller Erwartungen zog waehrend des letzten Abschnittes des Abstieges sc
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-bP9pwaoCBTo/VVBve65ZOwI/AAAAAAAAQjI/5V2BgveEhbg/s2048-Ic42/0315%252520-%252520Coromandel%252520Peninsula.jpg' %}
   </div>
   <div class="col-sm-6">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-SfW5O_r_cXg/VVBvgCmBn_I/AAAAAAAAQj0/lc3TI7EYQlU/s800-Ic42/0315%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/E4DjroHRfYpmZsf2-SnTZGJXKNn4NvC7nvWJjVdRMCWR=m18?cpn=LCQE9BwVPoM8x9rh&c=WEB&cver=html5' %}
+	{% include video.html id='1' title='' img='https://lh3.googleusercontent.com/-SfW5O_r_cXg/VVBvgCmBn_I/AAAAAAAAQj0/lc3TI7EYQlU/s800-Ic42/0315%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/E4DjroHRfYpmZsf2-SnTZGJXKNn4NvC7nvWJjVdRMCWR=m18?cpn=LCQE9BwVPoM8x9rh&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -108,13 +108,13 @@ Videos:
 
 <div class="row">
   <div class="col-sm-4">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-pwPFr-hA0gg/VVBvio8_B8I/AAAAAAAAQkY/X0r5nIK-3yE/s800-Ic42/0320%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/IToywcl3d52GC9yAqjsgltIFXEXgvVjmw8aGDy5bOqQG=m18?cpn=CCWKCVqkMhgaxpFk&c=WEB&cver=html5' %}
+	{% include video.html id='2' title='' img='https://lh3.googleusercontent.com/-pwPFr-hA0gg/VVBvio8_B8I/AAAAAAAAQkY/X0r5nIK-3yE/s800-Ic42/0320%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/IToywcl3d52GC9yAqjsgltIFXEXgvVjmw8aGDy5bOqQG=m18?cpn=CCWKCVqkMhgaxpFk&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-  	{% include video.html title='' img='https://lh3.googleusercontent.com/--YbZr3Sp__4/VVBvlculSMI/AAAAAAAAQjY/NxsgyjhQ9W0/s800-Ic42/0320%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/h87oKzVVxMRPXko0uWKplQ5s3ssb7CUnR4CkPFIMp9z9=m18?cpn=AAmALAJllJIsdh9U&c=WEB&cver=html5' %}
+  	{% include video.html id='3' title='' img='https://lh3.googleusercontent.com/--YbZr3Sp__4/VVBvlculSMI/AAAAAAAAQjY/NxsgyjhQ9W0/s800-Ic42/0320%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/h87oKzVVxMRPXko0uWKplQ5s3ssb7CUnR4CkPFIMp9z9=m18?cpn=AAmALAJllJIsdh9U&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-  	  {% include video.html title='' img='https://lh3.googleusercontent.com/-GP-whD0XsCc/VhpDDrrFfGI/AAAAAAAAR6E/XEC1QsS8Ajw/s800-Ic42/MVI_0004.gif' video='https://lh3.googleusercontent.com/EuS_fO4WgqLbeTp6CtTjzLDRzBq6qOf49gVVf_G887UB=m18?cpn=q8N7WuG7aG0SjAz0&c=WEB&cver=html5' %}
+  	  {% include video.html id='4' title='' img='https://lh3.googleusercontent.com/-GP-whD0XsCc/VhpDDrrFfGI/AAAAAAAAR6E/XEC1QsS8Ajw/s800-Ic42/MVI_0004.gif' video='https://lh3.googleusercontent.com/EuS_fO4WgqLbeTp6CtTjzLDRzBq6qOf49gVVf_G887UB=m18?cpn=q8N7WuG7aG0SjAz0&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -143,7 +143,7 @@ Zu sehen waren auch sogenannte Hot Mud Pools (Video). Ein Schlammbad darin ist w
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-PGB8cOcfJG4/VVBv1l7QF7I/AAAAAAAAQjI/RdSB-ET-JhU/s2048-Ic42/0346%252520-%252520Roturua%252520-%252520Wai-O-Tapu%252520Thermal%252520Wonderland.jpg' %}
   </div>
   <div class="col-sm-4">
-  	{% include video.html title=''  img='https://lh3.googleusercontent.com/-o4r7zVo6mdc/VVBv16v77hI/AAAAAAAAQkI/qftrbP9SGPs/s800-Ic42/0346%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/izH0xVi7ZYs5Ws0h9MeTgBhuODntdJ7-7yArmZsmHONg=m18?cpn=G_d9gnnaKRA0iRKV&c=WEB&cver=html5' %}
+  	{% include video.html id='5' title=''  img='https://lh3.googleusercontent.com/-o4r7zVo6mdc/VVBv16v77hI/AAAAAAAAQkI/qftrbP9SGPs/s800-Ic42/0346%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/izH0xVi7ZYs5Ws0h9MeTgBhuODntdJ7-7yArmZsmHONg=m18?cpn=G_d9gnnaKRA0iRKV&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -181,7 +181,7 @@ Man bekam auch einen recht imposanten Geysir zu sehen, welcher von Zeit zu Zeit 
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-hK4_1tK0AKs/Viz9cLDTdbI/AAAAAAAAS1s/kjj59IhOHUc/s2048-Ic42/IMG_0125.JPG' %}
   </div>
   <div class="col-sm-6">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-HL7E5VTGuXY/VVBwGwDUTaI/AAAAAAAAQjU/b44q2skxNxA/s800-Ic42/0368%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/SjFSxe2OtMxGet_adEoXTYjeaw-KQss9FwuXtVBJ3ivU=m18?cpn=BuTKWNdJZwS4L83e&c=WEB&cver=html5' %}
+	{% include video.html id='6' title='' img='https://lh3.googleusercontent.com/-HL7E5VTGuXY/VVBwGwDUTaI/AAAAAAAAQjU/b44q2skxNxA/s800-Ic42/0368%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/SjFSxe2OtMxGet_adEoXTYjeaw-KQss9FwuXtVBJ3ivU=m18?cpn=BuTKWNdJZwS4L83e&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -205,7 +205,7 @@ Bilder:
 
 Video:
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/-yciATPgTaoI/VVBwC2v3o9I/AAAAAAAAQj4/n-sC8LTZQ40/s800-Ic42/0364%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/pgH79CItum9Ni6bTCHu5TazQ1Giw4GPwOv5MJqw-C3e4=m18?cpn=f3RUAiQhbPWw9P0Z&c=WEB&cver=html5' %}
+{% include video.html id='7' title='' img='https://lh3.googleusercontent.com/-yciATPgTaoI/VVBwC2v3o9I/AAAAAAAAQj4/n-sC8LTZQ40/s800-Ic42/0364%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/pgH79CItum9Ni6bTCHu5TazQ1Giw4GPwOv5MJqw-C3e4=m18?cpn=f3RUAiQhbPWw9P0Z&c=WEB&cver=html5' %}
 
 
 Als kroenender Abschluss wurde der "haka" - ein Kriegstanz zur Einschuechterung des Gegners und zum Sich-Mut-Machen - aufgefuehrt (Video).
@@ -221,7 +221,7 @@ Als kroenender Abschluss wurde der "haka" - ein Kriegstanz zur Einschuechterung 
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-rPUJfgNexn8/VVBwCIVzgjI/AAAAAAAAQjI/Um5joodmo94/s2048-Ic42/0364%252520-%252520Roturua%252520-%252520Maori%252520Thermal%252520Village.jpg' %}
   </div>
   <div class="col-sm-3">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-9Pt3knQO-1Q/VVBwEzzYrgI/AAAAAAAAQjY/sSyV7xAgCQk/s800-Ic42/0364%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/mV85C2UlcmOCLAX6APkw-l453WYt44O510jQ2QKyGKEU=m18?cpn=6ByooUb9L5Gj8nzm&c=WEB&cver=html5' %}
+	{% include video.html id='8' title='' img='https://lh3.googleusercontent.com/-9Pt3knQO-1Q/VVBwEzzYrgI/AAAAAAAAQjY/sSyV7xAgCQk/s800-Ic42/0364%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/mV85C2UlcmOCLAX6APkw-l453WYt44O510jQ2QKyGKEU=m18?cpn=6ByooUb9L5Gj8nzm&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -361,13 +361,13 @@ Das Caven selbst war wirklich eine koerperliche Herausforderung, da man sich dur
 
 <div class="row">
   <div class="col-sm-4">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-LWx67qBBgD4/VVBwPXXmpwI/AAAAAAAAQkE/-ijl6eml1Z0/s800-Ic42/0379%252520-%252520Waitomo%252520Video.gif' video='https://lh3.googleusercontent.com/G5Xr6eEvPoUxLKZJxCmnM6n42WQIrXCPByGIeV1RlTvn=m18?cpn=3Rw6hLHqNm01hwAN&c=WEB&cver=html5' %}
+	{% include video.html id='9' title='' img='https://lh3.googleusercontent.com/-LWx67qBBgD4/VVBwPXXmpwI/AAAAAAAAQkE/-ijl6eml1Z0/s800-Ic42/0379%252520-%252520Waitomo%252520Video.gif' video='https://lh3.googleusercontent.com/G5Xr6eEvPoUxLKZJxCmnM6n42WQIrXCPByGIeV1RlTvn=m18?cpn=3Rw6hLHqNm01hwAN&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-  	{% include video.html title='' img='https://lh3.googleusercontent.com/-2txCAnA5uPA/VhpKNCtsQfI/AAAAAAAAR8U/aK8v-hwa2KI/s800-Ic42/MVI_0067.gif' video='https://lh3.googleusercontent.com/yl7wG8Lr-QcieRbO7Vhu4UWLCWUlgcyRzN9EW0-l0voR=m18?cpn=8xH-Z6HC7AkNhHuQ&c=WEB&cver=html5' %}
+  	{% include video.html id='10' title='' img='https://lh3.googleusercontent.com/-2txCAnA5uPA/VhpKNCtsQfI/AAAAAAAAR8U/aK8v-hwa2KI/s800-Ic42/MVI_0067.gif' video='https://lh3.googleusercontent.com/yl7wG8Lr-QcieRbO7Vhu4UWLCWUlgcyRzN9EW0-l0voR=m18?cpn=8xH-Z6HC7AkNhHuQ&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-NSngQ1jhwPY/VVBwlcbAVLI/AAAAAAAAQk4/nMFDRvKG9oo/s800-Ic42/0406%252520-%252520Waitomo%252520Video.gif' video='https://lh3.googleusercontent.com/bNUULegEzG9Rku3JGXPCtf6QJZzHNGYM2DkbApPCIc_V=m18?cpn=ncNEtHfy9NdCZxlM&c=WEB&cver=html5' %}
+	{% include video.html id='11' title='' img='https://lh3.googleusercontent.com/-NSngQ1jhwPY/VVBwlcbAVLI/AAAAAAAAQk4/nMFDRvKG9oo/s800-Ic42/0406%252520-%252520Waitomo%252520Video.gif' video='https://lh3.googleusercontent.com/bNUULegEzG9Rku3JGXPCtf6QJZzHNGYM2DkbApPCIc_V=m18?cpn=ncNEtHfy9NdCZxlM&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -384,13 +384,13 @@ An manchen Stellen mussten wir uns Abseilen und an anderen an Seilen hinaufziehe
 
 <div class="row">
   <div class="col-sm-4">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-1K26eXhPnJM/VVBwIwVCFKI/AAAAAAAAQjU/kEpMW0tdgEk/s800-Ic42/0371%252520-%252520Waitomo%252520Video.gif' video='https://lh3.googleusercontent.com/SeRjg4XCnaqwgKYdKMDXPmNGeIv71Ky_9tSYd1AfHCS4=m18?cpn=-5b3rzAYnvDkw8ez&c=WEB&cver=html5' %}
+	{% include video.html id='12' title='' img='https://lh3.googleusercontent.com/-1K26eXhPnJM/VVBwIwVCFKI/AAAAAAAAQjU/kEpMW0tdgEk/s800-Ic42/0371%252520-%252520Waitomo%252520Video.gif' video='https://lh3.googleusercontent.com/SeRjg4XCnaqwgKYdKMDXPmNGeIv71Ky_9tSYd1AfHCS4=m18?cpn=-5b3rzAYnvDkw8ez&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-JM3xth_654w/VVBwsIZ5HgI/AAAAAAAAQjc/QKso1wWkcYE/s800-Ic42/0412%252520-%252520Waitomo%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/B22VaWB5kQB3BjXD_woyQlxCjYcC7ND6W45yh_NZ-DAz=m18?cpn=uaNKorVCC7r-XNyq&c=WEB&cver=html5' %}
+	{% include video.html id='13' title='' img='https://lh3.googleusercontent.com/-JM3xth_654w/VVBwsIZ5HgI/AAAAAAAAQjc/QKso1wWkcYE/s800-Ic42/0412%252520-%252520Waitomo%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/B22VaWB5kQB3BjXD_woyQlxCjYcC7ND6W45yh_NZ-DAz=m18?cpn=uaNKorVCC7r-XNyq&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-t3w8xKNRo-4/VhpNgzTyQzI/AAAAAAAAR88/vMWuLGvGsgM/s800-Ic42/MVI_0084.gif' video='https://lh3.googleusercontent.com/q2V5TgjvALqFbRy-B8hnQ1Au_3bsnXg_xtaolD9Is1IR=m18?cpn=74GN4w6oK6muNG7G&c=WEB&cver=html5' %}
+	{% include video.html id='14' title='' img='https://lh3.googleusercontent.com/-t3w8xKNRo-4/VhpNgzTyQzI/AAAAAAAAR88/vMWuLGvGsgM/s800-Ic42/MVI_0084.gif' video='https://lh3.googleusercontent.com/q2V5TgjvALqFbRy-B8hnQ1Au_3bsnXg_xtaolD9Is1IR=m18?cpn=74GN4w6oK6muNG7G&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -427,7 +427,7 @@ Kurz darauf nahmen wir den Rueckweg in Angriff. Diesmal nahmen wir aber einen ko
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-JzdZFQXYD2Y/VVBwu6EuBbI/AAAAAAAAQjI/LWvZ4KBPcoc/s2048-Ic42/0415%252520-%252520Waitomo%252520Caves.jpg' %}
   </div>
   <div class="col-sm-3">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-Gw6Yb7vBbJA/VVBwMrv4rvI/AAAAAAAAQj0/c4I-xLGBUGM/s800-Ic42/0376%252520-%252520Waitomo%252520Video.gif' video='https://lh3.googleusercontent.com/u2gjrsqBw0rdwTKITaNaQbR4VuNDOvppKf4894oWEAKH=m18?cpn=0omBE0NU97i-6iuO&c=WEB&cver=html5' %}
+	{% include video.html id='15' title='' img='https://lh3.googleusercontent.com/-Gw6Yb7vBbJA/VVBwMrv4rvI/AAAAAAAAQj0/c4I-xLGBUGM/s800-Ic42/0376%252520-%252520Waitomo%252520Video.gif' video='https://lh3.googleusercontent.com/u2gjrsqBw0rdwTKITaNaQbR4VuNDOvppKf4894oWEAKH=m18?cpn=0omBE0NU97i-6iuO&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -444,7 +444,7 @@ Kurz vor dem Ausgang teilte uns Justin mit, dass wir das letzte Stueck auf uns a
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-dOc20JJ9aW8/VVBwyPKjMVI/AAAAAAAAQjI/p4gKtHTIALM/s2048-Ic42/0419%252520-%252520Waitomo%252520Caves.jpg' %}
   </div>
   <div class="col-sm-3">
-  	{% include video.html title='' img='https://lh3.googleusercontent.com/-FtI9X0aR-gI/VhpN_pG6VeI/AAAAAAAAR9Y/t1jdEiXizXw/s800-Ic42/MVI_0091.gif' video='https://lh3.googleusercontent.com/hNJ8bu8yfnPVLCF46t11wqyuj8qPnrh9oNFKpsw1tSXL=m18?cpn=FEH1v_SrwO5ZYKUI&c=WEB&cver=html5' %}
+  	{% include video.html id='16' title='' img='https://lh3.googleusercontent.com/-FtI9X0aR-gI/VhpN_pG6VeI/AAAAAAAAR9Y/t1jdEiXizXw/s800-Ic42/MVI_0091.gif' video='https://lh3.googleusercontent.com/hNJ8bu8yfnPVLCF46t11wqyuj8qPnrh9oNFKpsw1tSXL=m18?cpn=FEH1v_SrwO5ZYKUI&c=WEB&cver=html5' %}
   </div>
 </div>
 

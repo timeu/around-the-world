@@ -222,7 +222,7 @@ Nach dem Abschlussbriefing verließen wir Milford Sound und fuhren entlang der S
 
 Auch ein lustiger Vogel kreuzte unseren Weg (Video).
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/-ZCgWWdapB2s/VVBuDyGJ0wI/AAAAAAAAQjw/hPfK77fZ9nA/s800-Ic42/0190%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/WNv38SRGCttutkM1XgAIihMA2z-AhwpFtY8rhyfWMCaX=m18?cpn=swpL_UYAHko52Jnz&c=WEB&cver=html5' %}
+{% include video.html id='1' title='' img='https://lh3.googleusercontent.com/-ZCgWWdapB2s/VVBuDyGJ0wI/AAAAAAAAQjw/hPfK77fZ9nA/s800-Ic42/0190%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/WNv38SRGCttutkM1XgAIihMA2z-AhwpFtY8rhyfWMCaX=m18?cpn=swpL_UYAHko52Jnz&c=WEB&cver=html5' %}
 
 In Te Anau blieb uns wenig Zeit, da wir an einer Besichtigung einer Gloworm Cave teilnehmen sollten. Diese führte uns zu einer 120 Meter tiefen und 120 000 Jahre alten Höhle, die wir zu Fuß und per Floß bestaunen konnten. Am Ende gab es eine Grotte mit lauter Glühwürmern an der Decke zu bestaunen. Es glich einem Blick in einen sternenklaren Nachthimmel. Leider durften wir keine Fotos machen, da dies die Glühwürmer stören würde und deswegen wurden die Floße auch mit der Hand von  einem Guide gezogen. Nach dem Trip gab es ein Abendessen und dann war schon Bettruhe angesagt, da wir am naechsten Tag sehr zeitig aufbrechen mussten, um in Queenstown unsere Adrenalinaktivitaeten zu starten.
 

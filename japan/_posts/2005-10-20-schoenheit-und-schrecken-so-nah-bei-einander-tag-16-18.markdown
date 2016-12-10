@@ -175,7 +175,7 @@ Oben angekommen kamen wir uns aber eher vor wie im Film "Planet der Affen", bzw.
     {% include picture.html title='Monkeys of Miyajimi' img='https://lh3.googleusercontent.com/-yXW2iwAS_Hg/VUINJuumOkI/AAAAAAAALIw/_OrNg4sNHfM/s2048/0482%252520-%252520Miyajima.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/S_xnpBIG-TBUsvws5gd7IpFlOvUq8fdbMpjMICNNrbE4-0lMVLnogPcaVtbCRk8mz9mZbtuuX2m4pjI=w293-h220-rw' video='https://lh3.googleusercontent.com/S_xnpBIG-TBUsvws5gd7IpFlOvUq8fdbMpjMICNNrbE4-0lMVLnogPcaVtbCRk8mz9mZbtuuX2m4pjI=m18?cpn=HXwbwRT-KTpKeZkJ&c=WEB&cver=1.20161020' %}
+    {% include video.html id='1' title='' img='https://lh3.googleusercontent.com/S_xnpBIG-TBUsvws5gd7IpFlOvUq8fdbMpjMICNNrbE4-0lMVLnogPcaVtbCRk8mz9mZbtuuX2m4pjI=w293-h220-rw' video='https://lh3.googleusercontent.com/S_xnpBIG-TBUsvws5gd7IpFlOvUq8fdbMpjMICNNrbE4-0lMVLnogPcaVtbCRk8mz9mZbtuuX2m4pjI=m18?cpn=HXwbwRT-KTpKeZkJ&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 

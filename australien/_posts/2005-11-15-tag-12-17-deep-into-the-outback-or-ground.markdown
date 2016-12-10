@@ -36,7 +36,7 @@ Diese Riesenlaster wurden und werden für den Erzabbau verwendet.In der Stadt ta
 
 <div class="row">
   <div class="col-sm-6">
-     {% include video.html title='' img='https://lh3.googleusercontent.com/d73xfJxMcmQT2fi0XOxnZqRBI9sWpjdXT19_N2nGScwG7k5YB09zAT81h9ePaUwgNLPomOrXgqFPvKE=w293-h220-rw' video='https://lh3.googleusercontent.com/d73xfJxMcmQT2fi0XOxnZqRBI9sWpjdXT19_N2nGScwG7k5YB09zAT81h9ePaUwgNLPomOrXgqFPvKE=m18?cpn=JlXDrClAKjDf68CS&c=WEB&cver=1.20161020' %}
+     {% include video.html id='1' title='' img='https://lh3.googleusercontent.com/d73xfJxMcmQT2fi0XOxnZqRBI9sWpjdXT19_N2nGScwG7k5YB09zAT81h9ePaUwgNLPomOrXgqFPvKE=w293-h220-rw' video='https://lh3.googleusercontent.com/d73xfJxMcmQT2fi0XOxnZqRBI9sWpjdXT19_N2nGScwG7k5YB09zAT81h9ePaUwgNLPomOrXgqFPvKE=m18?cpn=JlXDrClAKjDf68CS&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-U9l_eYqFcuM/VVBjjaUac-I/AAAAAAAAQLM/OBbmC-LWXAk/s2048/0272%252520-%252520Tom%252520Price.jpg' %}
@@ -50,7 +50,7 @@ Am nächsten Morgen ging es zuerst auf den Mount Nameless, der von uns fälschli
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-2QpjHw8ir0c/VVBjn7lfSGI/AAAAAAAAQLM/qj614sAIgSE/s2048/0277%252520-%252520Mount%252520Nameless.jpg' %}
   </div>
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/zK6L-8hefLzHgIimephcsLCtzqbZRy9_cGi6NcDlY4DMe5SwyBiL77TCejKOsFxU3_1rkhCxh88C5RY=w293-h220-rw' video='https://lh3.googleusercontent.com/zK6L-8hefLzHgIimephcsLCtzqbZRy9_cGi6NcDlY4DMe5SwyBiL77TCejKOsFxU3_1rkhCxh88C5RY=m18?cpn=jegseHzk0Yjh1e7b&c=WEB&cver=1.20161020' %}
+    {% include video.html id='2' title='' img='https://lh3.googleusercontent.com/zK6L-8hefLzHgIimephcsLCtzqbZRy9_cGi6NcDlY4DMe5SwyBiL77TCejKOsFxU3_1rkhCxh88C5RY=w293-h220-rw' video='https://lh3.googleusercontent.com/zK6L-8hefLzHgIimephcsLCtzqbZRy9_cGi6NcDlY4DMe5SwyBiL77TCejKOsFxU3_1rkhCxh88C5RY=m18?cpn=jegseHzk0Yjh1e7b&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -92,7 +92,7 @@ Am Ende des Klasse 5 Weges fanden wir den natürlich entstandenen Handrail Pool 
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-orvE84X9ikk/VWQpiL-SFpI/AAAAAAAAQYk/LcV_OTRqgdw/s2048/IMG_0038.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/3_QXAAxZ1nWp8KUINSZiPmerbpqMUTCbuUss5EB_cP4MkuNr4hMkW9fmsjvPMJnWJHWCdzLqxBqVyh8=w293-h220-rw' video='https://lh3.googleusercontent.com/3_QXAAxZ1nWp8KUINSZiPmerbpqMUTCbuUss5EB_cP4MkuNr4hMkW9fmsjvPMJnWJHWCdzLqxBqVyh8=m18?cpn=5OMPuzcLcCslh5Gp&c=WEB&cver=1.20161020' %}
+    {% include video.html id='3' title='' img='https://lh3.googleusercontent.com/3_QXAAxZ1nWp8KUINSZiPmerbpqMUTCbuUss5EB_cP4MkuNr4hMkW9fmsjvPMJnWJHWCdzLqxBqVyh8=w293-h220-rw' video='https://lh3.googleusercontent.com/3_QXAAxZ1nWp8KUINSZiPmerbpqMUTCbuUss5EB_cP4MkuNr4hMkW9fmsjvPMJnWJHWCdzLqxBqVyh8=m18?cpn=5OMPuzcLcCslh5Gp&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -177,7 +177,7 @@ An manchen Stellen mussten wir artistische Einlagen hinlegen und andere waren ue
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-XdBsNTRpk3o/VVBkHBTiWTI/AAAAAAAAQLM/v--ucVEkcTg/s2048/0319%252520-%252520Karijini%252520Nationalpark.jpg' %}
   </div>
   <div class="col-sm-4">
-     {% include video.html title='' img='https://lh3.googleusercontent.com/Yv-EFXPV3De7rpTqUhYKHXr_QQp8nAcoRPFBG3x_0AyDlzEAoDVjUuC4pRte0SBl6UNiK9ULAHmVfnA=w293-h220-rw' video='https://lh3.googleusercontent.com/Yv-EFXPV3De7rpTqUhYKHXr_QQp8nAcoRPFBG3x_0AyDlzEAoDVjUuC4pRte0SBl6UNiK9ULAHmVfnA=m18?cpn=yHCeEJJSBYFlpJr3&c=WEB&cver=1.20161020' %}
+     {% include video.html id='4' title='' img='https://lh3.googleusercontent.com/Yv-EFXPV3De7rpTqUhYKHXr_QQp8nAcoRPFBG3x_0AyDlzEAoDVjUuC4pRte0SBl6UNiK9ULAHmVfnA=w293-h220-rw' video='https://lh3.googleusercontent.com/Yv-EFXPV3De7rpTqUhYKHXr_QQp8nAcoRPFBG3x_0AyDlzEAoDVjUuC4pRte0SBl6UNiK9ULAHmVfnA=m18?cpn=yHCeEJJSBYFlpJr3&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -212,7 +212,7 @@ Der einzige Wermutstropfen war, dass die beliebteste Schlucht wegen einem Buschf
 
 Nicht nur dass uns ca. 250 km keine Menschenseele entgegenkam, mussten wir uns auch noch an unbeschilderten Weggabelungen für den richtigen Weg entscheiden. Irrfahrten im Outback können auch schon mal böse enden. Während der Fahrt auf dieser Gravel-Road konnten wir immer wieder beobachten wie kleine Tornados bzw. Windhosen entstanden. Eine davon fegte auf dem Parkplatz, auf dem wir zu Mittag assen, nur einige Meter entfernt, an uns vorbei.
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/J7yYc7yx6Bsl7sILK_7RGqyWUzvDqyQweiKNVZGfp8B8ZvdJp5B1eH_mzLgmKp6nN4sFdWhVfwl6sec=w293-h220-rw' video='https://lh3.googleusercontent.com/J7yYc7yx6Bsl7sILK_7RGqyWUzvDqyQweiKNVZGfp8B8ZvdJp5B1eH_mzLgmKp6nN4sFdWhVfwl6sec=m18?cpn=IHfEEhUOVJ-vtD8P&c=WEB&cver=1.20161020' %}
+{% include video.html id='5' title='' img='https://lh3.googleusercontent.com/J7yYc7yx6Bsl7sILK_7RGqyWUzvDqyQweiKNVZGfp8B8ZvdJp5B1eH_mzLgmKp6nN4sFdWhVfwl6sec=w293-h220-rw' video='https://lh3.googleusercontent.com/J7yYc7yx6Bsl7sILK_7RGqyWUzvDqyQweiKNVZGfp8B8ZvdJp5B1eH_mzLgmKp6nN4sFdWhVfwl6sec=m18?cpn=IHfEEhUOVJ-vtD8P&c=WEB&cver=1.20161020' %}
 
 Entlang dieser unasphaltierten Strasse lag auch der Millstream-Chichester Nationalpark, den wir ebenfalls durchquerten. Der Anblick der mit Spinifex Pflanzen übersaeten kargen Landschaft ist wahrlich beeindruckend und lässt sich schwer in Fotos oder Worte packen.
 
@@ -318,7 +318,7 @@ Dort nahmen wir an einer (jaja Schande ueber unser Haupt) Touristenattraktion te
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-ZxIjq8MCe18/VVBkrOpxDTI/AAAAAAAAQLM/eQyokwhMjUY/s2048/0367%252520-%252520Broome.jpg' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/dT4X4UR5EGbd6tBqMmCCfk_UHhDoltZxaibQeEKKdvLGWx9Zhi9aUJB56YS5L1KCbNRtCwu9nzCpXUM=w293-h220-rw' video='https://lh3.googleusercontent.com/dT4X4UR5EGbd6tBqMmCCfk_UHhDoltZxaibQeEKKdvLGWx9Zhi9aUJB56YS5L1KCbNRtCwu9nzCpXUM=m18?cpn=zE104HoGt0p9afiI&c=WEB&cver=1.20161020' %}
+    {% include video.html id='6' title='' img='https://lh3.googleusercontent.com/dT4X4UR5EGbd6tBqMmCCfk_UHhDoltZxaibQeEKKdvLGWx9Zhi9aUJB56YS5L1KCbNRtCwu9nzCpXUM=w293-h220-rw' video='https://lh3.googleusercontent.com/dT4X4UR5EGbd6tBqMmCCfk_UHhDoltZxaibQeEKKdvLGWx9Zhi9aUJB56YS5L1KCbNRtCwu9nzCpXUM=m18?cpn=zE104HoGt0p9afiI&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 
@@ -339,13 +339,13 @@ Hoppalas:
 
 <div class="row">
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/uBfacpmdDXhUAemXG4Dig8jAQTwfYW2bWf_hB2HelodYmfJ3J_eU9SjMlcl-p_RW2xQERD3wiC44OGs=w293-h220-rw' video='https://lh3.googleusercontent.com/uBfacpmdDXhUAemXG4Dig8jAQTwfYW2bWf_hB2HelodYmfJ3J_eU9SjMlcl-p_RW2xQERD3wiC44OGs=m18?cpn=aoJClL8Yd8t2FCxT&c=WEB&cver=1.20161020' %}
+    {% include video.html id='7' title='' img='https://lh3.googleusercontent.com/uBfacpmdDXhUAemXG4Dig8jAQTwfYW2bWf_hB2HelodYmfJ3J_eU9SjMlcl-p_RW2xQERD3wiC44OGs=w293-h220-rw' video='https://lh3.googleusercontent.com/uBfacpmdDXhUAemXG4Dig8jAQTwfYW2bWf_hB2HelodYmfJ3J_eU9SjMlcl-p_RW2xQERD3wiC44OGs=m18?cpn=aoJClL8Yd8t2FCxT&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/9DUcB5aMcboGN_DDsrk2JzrHYi6yd0YDxMWA1t1TSDEocX1Cd0TQ7uYsB4x9sTnNqVo_g3AuK-4Shf4=w293-h220-rw' video='https://lh3.googleusercontent.com/9DUcB5aMcboGN_DDsrk2JzrHYi6yd0YDxMWA1t1TSDEocX1Cd0TQ7uYsB4x9sTnNqVo_g3AuK-4Shf4=m18?cpn=tr7zT6JvSlEa738x&c=WEB&cver=1.20161020' %}
+    {% include video.html id='8' title='' img='https://lh3.googleusercontent.com/9DUcB5aMcboGN_DDsrk2JzrHYi6yd0YDxMWA1t1TSDEocX1Cd0TQ7uYsB4x9sTnNqVo_g3AuK-4Shf4=w293-h220-rw' video='https://lh3.googleusercontent.com/9DUcB5aMcboGN_DDsrk2JzrHYi6yd0YDxMWA1t1TSDEocX1Cd0TQ7uYsB4x9sTnNqVo_g3AuK-4Shf4=m18?cpn=tr7zT6JvSlEa738x&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/Jmjwac6c8_g6ZaOtzo-vemei-Fy2h_rtSS4YSqljgICBKPt-gzAeqjJ5QDf5IA2pZooM7fpQGJb9yOc=w293-h220-rw' video='https://lh3.googleusercontent.com/Jmjwac6c8_g6ZaOtzo-vemei-Fy2h_rtSS4YSqljgICBKPt-gzAeqjJ5QDf5IA2pZooM7fpQGJb9yOc=m18?cpn=9c3YfMTDGe2uEqil&c=WEB&cver=1.20161020' %}
+    {% include video.html id='9' title='' img='https://lh3.googleusercontent.com/Jmjwac6c8_g6ZaOtzo-vemei-Fy2h_rtSS4YSqljgICBKPt-gzAeqjJ5QDf5IA2pZooM7fpQGJb9yOc=w293-h220-rw' video='https://lh3.googleusercontent.com/Jmjwac6c8_g6ZaOtzo-vemei-Fy2h_rtSS4YSqljgICBKPt-gzAeqjJ5QDf5IA2pZooM7fpQGJb9yOc=m18?cpn=9c3YfMTDGe2uEqil&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 

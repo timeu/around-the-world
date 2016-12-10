@@ -25,7 +25,7 @@ Aufgrund der anstrengenden Fahrt am Vortag, standen wir erst um halb 10 auf. Nac
 
 <div class="row">
 <div class="col-sm-6">
-    {% include video.html title='' img = 'https://lh3.googleusercontent.com/Lw5EMyXiNllxddV6JDHB9VsJWl_dtxpfBcQrjddnMExk1ZoJys9VX6cQ7eQgtzwnfJNORi9TaiCFgv4=w293-h220-rw' video= 'https://lh3.googleusercontent.com/Lw5EMyXiNllxddV6JDHB9VsJWl_dtxpfBcQrjddnMExk1ZoJys9VX6cQ7eQgtzwnfJNORi9TaiCFgv4=m18?cpn=sGYQ4ToZR8ekxV3E&c=WEB&cver=1.20161020' %}
+    {% include video.html id='1' title='' img = 'https://lh3.googleusercontent.com/Lw5EMyXiNllxddV6JDHB9VsJWl_dtxpfBcQrjddnMExk1ZoJys9VX6cQ7eQgtzwnfJNORi9TaiCFgv4=w293-h220-rw' video= 'https://lh3.googleusercontent.com/Lw5EMyXiNllxddV6JDHB9VsJWl_dtxpfBcQrjddnMExk1ZoJys9VX6cQ7eQgtzwnfJNORi9TaiCFgv4=m18?cpn=sGYQ4ToZR8ekxV3E&c=WEB&cver=1.20161020' %}
   </div>
   <div class="col-sm-6">
     {% include picture.html title='' img='https://lh3.googleusercontent.com/-_LcDk6WlZkY/VVBh4lrxSFI/AAAAAAAAQLM/l0Bq6lP_Keo/s2048/0095%252520-%252520Pinnacles.jpg' %}

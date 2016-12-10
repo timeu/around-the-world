@@ -78,7 +78,7 @@ Gegen 10 Uhr kamen wir dann in einem kleinen Ort unweit vom Mount Fuji an und su
 
 Die Jugendherbege war bis dato das schlechteste Quartier, das wir hatten. Es war eiskalt im Zimmer, es roch nach Zigarettenrauch und um 7 Uhr in der Frueh wurden wir von klassischer Musik, die durch Mikrofone im Gang ertoente, unsanft geweckt.
 
-{% include video.html title='Mount Fuji' img='https://lh3.googleusercontent.com/Ga0iFHRb7JkcV1-bzqoSgVMa4mqPIKjykIPW20VpyDqqRbsfL5fXXU-rKS1Cw3biN7MLngN0kUK59Q=w293-h220-rw' video='https://lh3.googleusercontent.com/Ga0iFHRb7JkcV1-bzqoSgVMa4mqPIKjykIPW20VpyDqqRbsfL5fXXU-rKS1Cw3biN7MLngN0kUK59Q=m18?cpn=uhfDRzN3GzqjTbSd&c=WEB&cver=1.20161020' %}
+{% include video.html id='1' title='Mount Fuji' img='https://lh3.googleusercontent.com/Ga0iFHRb7JkcV1-bzqoSgVMa4mqPIKjykIPW20VpyDqqRbsfL5fXXU-rKS1Cw3biN7MLngN0kUK59Q=w293-h220-rw' video='https://lh3.googleusercontent.com/Ga0iFHRb7JkcV1-bzqoSgVMa4mqPIKjykIPW20VpyDqqRbsfL5fXXU-rKS1Cw3biN7MLngN0kUK59Q=m18?cpn=uhfDRzN3GzqjTbSd&c=WEB&cver=1.20161020' %}
 
 
 In unserem Zimmer lag noch ein Englaender, der am Vortag 5 Stunden auf den Mount Fuji geklettert ist. Er riet uns eher davon ab, da es angeblich eisskalt ist. Also beschlossen wir, nur auf einem gegenueberliegen Berg mit einer etwas skurrilen Seilbahn zu fahren und von dort aus unsere Fotos vom beeindruckenden Mount Fuji zu machen.
@@ -98,7 +98,7 @@ In unserem Zimmer lag noch ein Englaender, der am Vortag 5 Stunden auf den Mount
       {% include picture.html title='Seilbahn zum Mount Fuji' img='https://lh3.googleusercontent.com/-wzVUZJPhkzU/VUIO1mZW3qI/AAAAAAAALIw/ZOOeZbOoGQs/s2048/0612%252520-%252520Mount%252520Fuji.jpg' %}
   </div>
   <div class="col-sm-6 text-center">
-      {% include video.html title='Mount Fuji' img='https://lh3.googleusercontent.com/-hd6FIIWVnyA/VUIO3gx02tI/AAAAAAAALIw/TSnbmKQ8WGY/s800/0616%2520-%2520Mount%2520Fuji.gif' video='https://lh3.googleusercontent.com/LdlFiHvmYJGB1I4-y_IXioMqcDvhc1JqNVuG1E9AixtcB5y3VIwxPpjAvOdiBDh7KvB7hcx8GbivQRI=m18?cpn=nZW5H43IIPr7r_fl&c=WEB&cver=1.20161020' %}
+      {% include video.html id='2' title='Mount Fuji' img='https://lh3.googleusercontent.com/-hd6FIIWVnyA/VUIO3gx02tI/AAAAAAAALIw/TSnbmKQ8WGY/s800/0616%2520-%2520Mount%2520Fuji.gif' video='https://lh3.googleusercontent.com/LdlFiHvmYJGB1I4-y_IXioMqcDvhc1JqNVuG1E9AixtcB5y3VIwxPpjAvOdiBDh7KvB7hcx8GbivQRI=m18?cpn=nZW5H43IIPr7r_fl&c=WEB&cver=1.20161020' %}
   </div>
 </div>
 

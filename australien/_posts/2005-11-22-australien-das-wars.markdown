@@ -174,7 +174,7 @@ Westaustralien ist mit 32,9 % der australischen Gesamtfläche der größte Bunde
     {% include picture.html title='Buckelwal' caption='true' img='https://lh3.googleusercontent.com/-WPBipLMTmbA/VWCCMFOZweI/AAAAAAAAQRY/pW_erT1mbmM/s2048/IMG_0098.JPG' %}
   </div>
   <div class="col-sm-4 text-center">
-    {% include video.html title='Octopus' caption='true' img='https://lh3.googleusercontent.com/zdSjFq_F3QIA25bclBR9J3ByCPvfffeuNCD5KmgxCmgvlEQ5jJRylMUW_OjZN7A8LyyvGUOerqex86w=w293-h220-rw' video='https://lh3.googleusercontent.com/zdSjFq_F3QIA25bclBR9J3ByCPvfffeuNCD5KmgxCmgvlEQ5jJRylMUW_OjZN7A8LyyvGUOerqex86w=m18?cpn=ushHZHc1jzokysxK&c=WEB&cver=1.20161020'  %}
+    {% include video.html id='1' title='Octopus' caption='true' img='https://lh3.googleusercontent.com/zdSjFq_F3QIA25bclBR9J3ByCPvfffeuNCD5KmgxCmgvlEQ5jJRylMUW_OjZN7A8LyyvGUOerqex86w=w293-h220-rw' video='https://lh3.googleusercontent.com/zdSjFq_F3QIA25bclBR9J3ByCPvfffeuNCD5KmgxCmgvlEQ5jJRylMUW_OjZN7A8LyyvGUOerqex86w=m18?cpn=ushHZHc1jzokysxK&c=WEB&cver=1.20161020'  %}
   </div>
   <div class="col-sm-4 text-center">
     {% include picture.html title='Korallen' caption='true' img='https://lh3.googleusercontent.com/-Y569UcNhKLk/VVBii3GtmDI/AAAAAAAAQLM/kDrZ2TKC0LQ/s2048/0168%252520-%252520Ningaloo%252520Reef.jpg' %}

@@ -84,10 +84,10 @@ Das Besondere am Cape Reinga ist - neben seiner Lage - auch noch die Tatsache, d
 
 <div class="row">
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-XKUjR31IO4s/VVBxQT-I8cI/AAAAAAAAQjw/cckWdHva8vo/s800-Ic42/0458%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/kBhwHBFCNzzTal8HfHY9f6zNqRec4xar0NBGA2jFCNw9=m18?cpn=Hv7mTvTOs4Dqttg_&c=WEB&cver=html5' %}
+    {% include video.html id='1' title='' img='https://lh3.googleusercontent.com/-XKUjR31IO4s/VVBxQT-I8cI/AAAAAAAAQjw/cckWdHva8vo/s800-Ic42/0458%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/kBhwHBFCNzzTal8HfHY9f6zNqRec4xar0NBGA2jFCNw9=m18?cpn=Hv7mTvTOs4Dqttg_&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-6">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-gHXV-RQkYLE/VVBxQuoVFZI/AAAAAAAAQlY/ugSE5sjUfnU/s800-Ic42/0458%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/ydAlWj7SBvbbjdFHhnxRihiYawWBhdFu0zJPzqlOGRI3=m18?cpn=nj8ysNhBCUWJoS6K&c=WEB&cver=html5' %}
+    {% include video.html id='2' title='' img='https://lh3.googleusercontent.com/-gHXV-RQkYLE/VVBxQuoVFZI/AAAAAAAAQlY/ugSE5sjUfnU/s800-Ic42/0458%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/ydAlWj7SBvbbjdFHhnxRihiYawWBhdFu0zJPzqlOGRI3=m18?cpn=nj8ysNhBCUWJoS6K&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -118,7 +118,7 @@ Bauch:
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-5dEY-qKttVI/VVBxjpj-79I/AAAAAAAAQjI/7jVEGMkcT2o/s2048-Ic42/0473%252520-%252520Sandboarding.jpg' %}
   </div>
   <div class="col-sm-3">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-FRTrDNEh1yY/VVBxdEyIxdI/AAAAAAAAQjU/goXhKB2dtPw/s800-Ic42/0473%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/jbzCtlzQ7qWgyfE_yBRitbzh6ZqhLinvC3X0RZFv5qn8=m18?cpn=cIX1EDCFZZpdUQRL&c=WEB&cver=html5' %}
+    {% include video.html id='3' title='' img='https://lh3.googleusercontent.com/-FRTrDNEh1yY/VVBxdEyIxdI/AAAAAAAAQjU/goXhKB2dtPw/s800-Ic42/0473%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/jbzCtlzQ7qWgyfE_yBRitbzh6ZqhLinvC3X0RZFv5qn8=m18?cpn=cIX1EDCFZZpdUQRL&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -139,10 +139,10 @@ Uemit:
 
 <div class="row">
   <div class="col-sm-6">
-	   {% include video.html title='' img='https://lh3.googleusercontent.com/-D3Cs2a1AX2o/VVBxaB07tpI/AAAAAAAAQko/Y6pj8yNodWk/s800-Ic42/0470%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/F9GbKikM-n9SZWWBeMl8zfmvEYex_YC3iB0_QJEVEjlN=m18?cpn=DHPW_MGQXqp_-8q2&c=WEB&cver=html5' %}
+	   {% include video.html id='4' title='' img='https://lh3.googleusercontent.com/-D3Cs2a1AX2o/VVBxaB07tpI/AAAAAAAAQko/Y6pj8yNodWk/s800-Ic42/0470%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/F9GbKikM-n9SZWWBeMl8zfmvEYex_YC3iB0_QJEVEjlN=m18?cpn=DHPW_MGQXqp_-8q2&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-6">
-	  {% include video.html title='' img='https://lh3.googleusercontent.com/-nA1nKGG7m0c/VVBxbQDI_KI/AAAAAAAAQlI/LSZzYfVrGnM/s800-Ic42/0470%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/Up9pbnsxBRidwzSkxbEAZuhQA48WoBKm8ow-uG7I6K8f=m18?cpn=gcYvXGGCURjSis3F&c=WEB&cver=html5' %}
+	  {% include video.html id='5' title='' img='https://lh3.googleusercontent.com/-nA1nKGG7m0c/VVBxbQDI_KI/AAAAAAAAQlI/LSZzYfVrGnM/s800-Ic42/0470%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/Up9pbnsxBRidwzSkxbEAZuhQA48WoBKm8ow-uG7I6K8f=m18?cpn=gcYvXGGCURjSis3F&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -162,7 +162,7 @@ Georg:
 
 Wir mussten sehr gut auf das Board aufpassen, da es aufgrund des starken Windes sofort weggeblasen würde, wenn man es kurz loslässt.
 
-{% include video.html title='' img='https://lh3.googleusercontent.com/-yymiaZsbahs/VVBxbLbmdFI/AAAAAAAAQkk/GW9Ig5VmP-c/s800-Ic42/0470%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/9cfmB93N5Qjo3XYTz3l3w4dpe5xFTNLWE49kgx0HRok2=m18?cpn=zEP_JoutMRy9Afn0&c=WEB&cver=html5' %}
+{% include video.html id='6' title='' img='https://lh3.googleusercontent.com/-yymiaZsbahs/VVBxbLbmdFI/AAAAAAAAQkk/GW9Ig5VmP-c/s800-Ic42/0470%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/9cfmB93N5Qjo3XYTz3l3w4dpe5xFTNLWE49kgx0HRok2=m18?cpn=zEP_JoutMRy9Afn0&c=WEB&cver=html5' %}
 
 Nach 2 erschöpfenden Stunden, fuhren wir wieder in den Süden Richtung Bay of Islands.
 
@@ -225,7 +225,7 @@ Hervorzuheben ist ein grosser und sehr gut getarnter Scorpion Fisch und eine gro
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-37DVHVz2yas/Viz9cAZwrHI/AAAAAAAAS1s/S2QB0KY2XhI/s2048-Ic42/IMG_0009.JPG' %}
   </div>
   <div class="col-sm-4">
-	 {% include video.html title='' img='https://lh3.googleusercontent.com/-XEmZRGC8oic/VVBxs2-bWRI/AAAAAAAAQkc/xKqhveaSAUE/s800-Ic42/0489%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/Tale9H1EKdu-Y-R-qvOuKVWuHbPM71zZPf4o5u7EYt0W=m18?cpn=MqZrSQafwDUu--Et&c=WEB&cver=html5' %}
+	 {% include video.html id='7' title='' img='https://lh3.googleusercontent.com/-XEmZRGC8oic/VVBxs2-bWRI/AAAAAAAAQkc/xKqhveaSAUE/s800-Ic42/0489%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/Tale9H1EKdu-Y-R-qvOuKVWuHbPM71zZPf4o5u7EYt0W=m18?cpn=MqZrSQafwDUu--Et&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -245,10 +245,10 @@ Dort hat man eine ausgezeichnete Akustik.
 
 <div class="row">
   <div class="col-sm-6">
-	  {% include video.html title='' img='https://lh3.googleusercontent.com/-q1Z6Lg2xelI/VVBxwO_8STI/AAAAAAAAQko/eVDBdkLMr0E/s800-Ic42/0492%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/6LgjbzFhCwRel2uzGJ2hTP00vv2w6BnP7qAjX4M7bz--=m18?cpn=_pHkGVSNB3QnsWDF&c=WEB&cver=html5' %}
+	  {% include video.html id='8' title='' img='https://lh3.googleusercontent.com/-q1Z6Lg2xelI/VVBxwO_8STI/AAAAAAAAQko/eVDBdkLMr0E/s800-Ic42/0492%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/6LgjbzFhCwRel2uzGJ2hTP00vv2w6BnP7qAjX4M7bz--=m18?cpn=_pHkGVSNB3QnsWDF&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-6">
-	  {% include video.html title='' img='https://lh3.googleusercontent.com/-hZaiYcfAOZo/VhpmLL_gv0I/AAAAAAAAR_w/mEgabOH_w8g/s800-Ic42/MVI_0039.gif' video='https://lh3.googleusercontent.com/b095gdoqgij1alEUWK3fgtOoKMS9rdCAVO970J5jOPk8=m18?cpn=42MSW-xj22zSTwpq&c=WEB&cver=html5' %}
+	  {% include video.html id='9' title='' img='https://lh3.googleusercontent.com/-hZaiYcfAOZo/VhpmLL_gv0I/AAAAAAAAR_w/mEgabOH_w8g/s800-Ic42/MVI_0039.gif' video='https://lh3.googleusercontent.com/b095gdoqgij1alEUWK3fgtOoKMS9rdCAVO970J5jOPk8=m18?cpn=42MSW-xj22zSTwpq&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -279,10 +279,10 @@ Das Gefuehl in ein schwarzes Loch zu schwimmen, koennen die Bilder leider nicht 
 
 <div class="row">
   <div class="col-sm-6">
-	   {% include video.html title='' img='https://lh3.googleusercontent.com/-nHrXqi9mTGc/VhpoONT4_9I/AAAAAAAASBA/F5YOLPj2fpc/s800-Ic42/MVI_0092.gif' video='https://lh3.googleusercontent.com/DP_lWPRWIRxBAAJm9ZVMy7ODHG9Y_QE8qxEr1AGb9_5Y=m18?cpn=F_xzWHO_cvFaPszo&c=WEB&cver=html5' %}
+	   {% include video.html id='10' title='' img='https://lh3.googleusercontent.com/-nHrXqi9mTGc/VhpoONT4_9I/AAAAAAAASBA/F5YOLPj2fpc/s800-Ic42/MVI_0092.gif' video='https://lh3.googleusercontent.com/DP_lWPRWIRxBAAJm9ZVMy7ODHG9Y_QE8qxEr1AGb9_5Y=m18?cpn=F_xzWHO_cvFaPszo&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-6">
-	   {% include video.html title='' img='https://lh3.googleusercontent.com/-SMSEva2eciE/VhpoOPbMe3I/AAAAAAAASAs/z1xv-O_30MU/s800-Ic42/MVI_0087.jpg' video='https://lh3.googleusercontent.com/HeHBi7ndZPXUKJ4ayUrtY6-g_CT0HDZBMJmvEev2RoTX=m18?cpn=onr6gLXzX5uFafMu&c=WEB&cver=html5' %}
+	   {% include video.html id='11' title='' img='https://lh3.googleusercontent.com/-SMSEva2eciE/VhpoOPbMe3I/AAAAAAAASAs/z1xv-O_30MU/s800-Ic42/MVI_0087.jpg' video='https://lh3.googleusercontent.com/HeHBi7ndZPXUKJ4ayUrtY6-g_CT0HDZBMJmvEev2RoTX=m18?cpn=onr6gLXzX5uFafMu&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -327,13 +327,13 @@ Videos:
 
 <div class="row">
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-FTMdL6865aw/VVByCsOynkI/AAAAAAAAQjg/hqpK004TAeg/s800-Ic42/0517%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/G4RktyIquj8QRwbxV6Dd-1RkGJAwkHW9t73Ee9HH71Za=m18?cpn=u5UMzwfOXXt0KwNQ&c=WEB&cver=html5' %}
+    {% include video.html id='12' title='' img='https://lh3.googleusercontent.com/-FTMdL6865aw/VVByCsOynkI/AAAAAAAAQjg/hqpK004TAeg/s800-Ic42/0517%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/G4RktyIquj8QRwbxV6Dd-1RkGJAwkHW9t73Ee9HH71Za=m18?cpn=u5UMzwfOXXt0KwNQ&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-     {% include video.html title='' img='https://lh3.googleusercontent.com/-tzQAU4SBtcU/VVByD_WP07I/AAAAAAAAQk8/ClfWZst9Bvc/s800-Ic42/0517%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/Lpk5divWgr2gkEvUudJDfVz0phFl7_QUmCJ-uclq2u4r=m18?cpn=U84osbyMyr4MAsiD&c=WEB&cver=html5' %}
+     {% include video.html id='13' title='' img='https://lh3.googleusercontent.com/-tzQAU4SBtcU/VVByD_WP07I/AAAAAAAAQk8/ClfWZst9Bvc/s800-Ic42/0517%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/Lpk5divWgr2gkEvUudJDfVz0phFl7_QUmCJ-uclq2u4r=m18?cpn=U84osbyMyr4MAsiD&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-	   {% include video.html title='' img='https://lh3.googleusercontent.com/-QZotyYj8l2o/VVByDRc3RuI/AAAAAAAAQkE/d9aoOtrjhYw/s800-Ic42/0517%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/DobIJb9WuvgBCVg53EGfICrCdw5lEsQMijOq3lFElm7Z=m18?cpn=SAjXYWk5PHtsJ8Jg&c=WEB&cver=html5' %}
+	   {% include video.html id='14' title='' img='https://lh3.googleusercontent.com/-QZotyYj8l2o/VVByDRc3RuI/AAAAAAAAQkE/d9aoOtrjhYw/s800-Ic42/0517%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/DobIJb9WuvgBCVg53EGfICrCdw5lEsQMijOq3lFElm7Z=m18?cpn=SAjXYWk5PHtsJ8Jg&c=WEB&cver=html5' %}
   </div>
 
 </div>
@@ -348,17 +348,17 @@ Natuerlich statteten wir dem Hunderwasser WC einen Besuch ab.
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-ZhMnU0EVEv8/VVByD9uX-OI/AAAAAAAAQjI/qaKoWEerK88/s2048-Ic42/0518%252520-%252520Kawakawa.jpg' %}
   </div>
   <div class="col-sm-4">
-	 {% include video.html title='' img='https://lh3.googleusercontent.com/-MK8qx2aA7Us/VVByFWg3ueI/AAAAAAAAQlA/-_QF0P-vJnk/s800-Ic42/0518%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/oDSKECLw77AdVuA0dz44YiEdqOfs0fmbQWf-CmGV3GGN=m18?cpn=8YMRW38_8gdGR2fM&c=WEB&cver=html5' %}
+	 {% include video.html id='15' title='' img='https://lh3.googleusercontent.com/-MK8qx2aA7Us/VVByFWg3ueI/AAAAAAAAQlA/-_QF0P-vJnk/s800-Ic42/0518%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/oDSKECLw77AdVuA0dz44YiEdqOfs0fmbQWf-CmGV3GGN=m18?cpn=8YMRW38_8gdGR2fM&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
-    {% include video.html title='' img='https://lh3.googleusercontent.com/-0eUaiygl5a0/VVByEPLU61I/AAAAAAAAQjM/ory-W-9tFhY/s800-Ic42/0518%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/qKM5SgfhqEudPZ7fzCU9ldyVnrtf1uBs0a_2Qpt9ua0F=m18?cpn=BQQZviNbdiW4G51P&c=WEB&cver=html5' %}
+    {% include video.html id='16' title='' img='https://lh3.googleusercontent.com/-0eUaiygl5a0/VVByEPLU61I/AAAAAAAAQjM/ory-W-9tFhY/s800-Ic42/0518%252520-%252520Video%2525201.gif' video='https://lh3.googleusercontent.com/qKM5SgfhqEudPZ7fzCU9ldyVnrtf1uBs0a_2Qpt9ua0F=m18?cpn=BQQZviNbdiW4G51P&c=WEB&cver=html5' %}
   </div>
 </div>
 
 
 Die restliche Strecke nach Auckland zeichnete sich besonders durch starke Regenfaelle aus.
 
-{% include video.html title=''  img='https://lh3.googleusercontent.com/-KcBDhMLqfeI/VVByF0iUncI/AAAAAAAAQkk/A5LBhowH-eg/s800-Ic42/0518%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/xaNW0r_OCsdMwrNUMKS9LVxncpqwZzAfxxLOTr9V3aZb=m18?cpn=OZjAYYrUGc_gza_u&c=WEB&cver=html5' %}
+{% include video.html id='17' title=''  img='https://lh3.googleusercontent.com/-KcBDhMLqfeI/VVByF0iUncI/AAAAAAAAQkk/A5LBhowH-eg/s800-Ic42/0518%252520-%252520Video%2525203.gif' video='https://lh3.googleusercontent.com/xaNW0r_OCsdMwrNUMKS9LVxncpqwZzAfxxLOTr9V3aZb=m18?cpn=OZjAYYrUGc_gza_u&c=WEB&cver=html5' %}
 
 Am naechsten Morgen stand unser letztes grosses Abenteuer hier in Neuseeland am Programm. Diesmal ging es 40 Minuten Richtung Westen an die Kueste des Tasmanischen Meers, wo der Piha Canyon auf uns wartete.
 Gemeinsam mit 3 weiteren Abenteuerlustigen und unserem Guide uebten wir zuerst das Abseilen an einem Baum und dann ging es zu Fuss zum Anfang des Canyons.
@@ -385,7 +385,7 @@ Dort durften wir uns mit einem 3 Meter Sprung in einen kalten Pool abkuehlen (Vi
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-S7m81ePC8Bk/VVByHqcpUzI/AAAAAAAAQjI/c7gN4qnydCk/s2048-Ic42/0524%252520-%252520Piha%252520Canyon.jpg' %}
   </div>
   <div class="col-sm-4">
-	{% include video.html title='' img='https://lh3.googleusercontent.com/-PzeHTDugmNo/VVByI_3mheI/AAAAAAAAQj8/gWcZBcdW3IY/s800-Ic42/0525%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/o27MYV2C6bI-XsD0BBiTGu62dRAbPU-sre3tktrIms-j=m18?cpn=L4UOyZhsgySNj6lQ&c=WEB&cver=html5' %}
+	{% include video.html id='18' title='' img='https://lh3.googleusercontent.com/-PzeHTDugmNo/VVByI_3mheI/AAAAAAAAQj8/gWcZBcdW3IY/s800-Ic42/0525%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/o27MYV2C6bI-XsD0BBiTGu62dRAbPU-sre3tktrIms-j=m18?cpn=L4UOyZhsgySNj6lQ&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-7sUy8QXX8mw/VVByIUVTXNI/AAAAAAAAQjI/NCjYiJskqno/s2048-Ic42/0525%252520-%252520Piha%252520Canyon.jpg' %}
@@ -397,7 +397,7 @@ Danach mussten wir uns zum ersten Mal ca. 15 Meter abseilen. Nachdem wir diese H
 
 <div class="row">
   <div class="col-sm-4">
-  {% include video.html title='' img='https://lh3.googleusercontent.com/-pfqIpU_cskg/VVByNCRiuqI/AAAAAAAAQkg/eG9aAusCFD0/s800-Ic42/0527%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/yOc6ACM6bI21fPqaoFfcZUOuTXB_GvCsXAuTRppRxZ5U=m18?cpn=hanLm0J7c5j6OWLL&c=WEB&cver=html5' %}
+  {% include video.html id='19' title='' img='https://lh3.googleusercontent.com/-pfqIpU_cskg/VVByNCRiuqI/AAAAAAAAQkg/eG9aAusCFD0/s800-Ic42/0527%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/yOc6ACM6bI21fPqaoFfcZUOuTXB_GvCsXAuTRppRxZ5U=m18?cpn=hanLm0J7c5j6OWLL&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-0BrMXkfwYQ0/VVByMbGkZMI/AAAAAAAAQjI/8BvtVfDHHTQ/s2048-Ic42/0527%252520-%252520Piha%252520Canyon.jpg' %}
@@ -426,7 +426,7 @@ Auch hier war dieses Hindernis nur durch Abseilen zu ueberwinden (Video).
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-3-wz2X3yCLA/VVByWZSsnGI/AAAAAAAAQjI/k-_fa1BNM-c/s2048-Ic42/0535%252520-%252520Piha%252520Canyon.jpg' %}
   </div>
   <div class="col-sm-3">
-	  {% include video.html title='' img='https://lh3.googleusercontent.com/-j5N-OBgHqSI/VVByXBU0PbI/AAAAAAAAQkE/zqk9ztHCvSs/s800-Ic42/0535%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/kIM26F6QUpwi172hMn7F2b3XBm-9VfGTJpgxToOHRbqN=m18?cpn=a95nDIFLFCtM_KHU&c=WEB&cver=html5' %}
+	  {% include video.html id='20' title='' img='https://lh3.googleusercontent.com/-j5N-OBgHqSI/VVByXBU0PbI/AAAAAAAAQkE/zqk9ztHCvSs/s800-Ic42/0535%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/kIM26F6QUpwi172hMn7F2b3XBm-9VfGTJpgxToOHRbqN=m18?cpn=a95nDIFLFCtM_KHU&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -454,7 +454,7 @@ Hier konnten wir nicht am Wasserfall vorbei, sondern mussten uns durch diesen hi
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-zgqS1dnEWao/VVByfhQQ6vI/AAAAAAAAQjI/Hm-dHmgnS1M/s2048-Ic42/0541%252520-%252520Piha%252520Canyon.jpg' %}
   </div>
   <div class="col-sm-4">
-	 {% include video.html title='' img='https://lh3.googleusercontent.com/-IGifyqs9TXw/VVByh7RjFmI/AAAAAAAAQjg/ZbkxrROJ71Y/s800-Ic42/0541%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/a0hDp2miONhrgr_8IANCIgMNFN7tFnS7V1PXal1bq489=m18?cpn=Yrzv-Dicv4vZv7_E&c=WEB&cver=html5' %}
+	 {% include video.html id='21' title='' img='https://lh3.googleusercontent.com/-IGifyqs9TXw/VVByh7RjFmI/AAAAAAAAQjg/ZbkxrROJ71Y/s800-Ic42/0541%252520-%252520Video%2525202.gif' video='https://lh3.googleusercontent.com/a0hDp2miONhrgr_8IANCIgMNFN7tFnS7V1PXal1bq489=m18?cpn=Yrzv-Dicv4vZv7_E&c=WEB&cver=html5' %}
   </div>
 </div>
 
@@ -493,7 +493,7 @@ An gewissen Stellen konnten wir unseren Mut mit einigen Spruengen in dunkle, nas
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-0jJ8lapWecc/VVByphjaUfI/AAAAAAAAQjI/xrwTZEVoHI0/s2048-Ic42/0551%252520-%252520Piha%252520Canyon.jpg' %}
   </div>
   <div class="col-sm-4">
-	 {% include video.html title='' img='https://lh3.googleusercontent.com/-nJX6AolbyJA/VVByN_rtISI/AAAAAAAAQk8/Fva8XfMZp0U/s800-Ic42/0528%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/bKMG0j3FllW3og1JXhYKb_yOpW97fnjHo5rnVnoxAgmG=m18?cpn=EtxawkmqREyNFuyo&c=WEB&cver=html5' %}
+	 {% include video.html id='22' title='' img='https://lh3.googleusercontent.com/-nJX6AolbyJA/VVByN_rtISI/AAAAAAAAQk8/Fva8XfMZp0U/s800-Ic42/0528%252520-%252520Video.gif' video='https://lh3.googleusercontent.com/bKMG0j3FllW3og1JXhYKb_yOpW97fnjHo5rnVnoxAgmG=m18?cpn=EtxawkmqREyNFuyo&c=WEB&cver=html5' %}
   </div>
   <div class="col-sm-4">
 	{% include picture.html title='' img='https://lh3.googleusercontent.com/-NKuE0QQl8h4/VVByqKk3tUI/AAAAAAAAQjI/gqGhHlzhL8c/s2048-Ic42/0552%252520-%252520Piha%252520Canyon.jpg' %}
