@@ -598,6 +598,7 @@ Nach 3 Naechten auf Mana fuhren wir dann mit einem billigen, aber sehr kleinen B
 
 Am Flughafen hatten wir dann noch ein letztes Hindernis fuer unseren Flug nach Los Angeles zu ueberwinden: die Amis verlangen seit neuestem bereits beim Check-In im Ausland die Angabe einer Adresse in den USA. War aber nicht wirklich ein Problem, da die Angestellten von Air Pacific bequemerweise eine Liste von Hotels fuer diesen Fall auf Lager haben. Dort sucht man sich eines aus und laesst diese Adresse eintragen. So konnte auch dieses Problem einfach geloest  werden.
 
+<h2><a href="https://goo.gl/photos/AmNdKByJSPeHpzV76" target="_blank" style="text-decoration:underline;">alle Fotos</a></h2>
 
 <h2>Reiseroute</h2>
 

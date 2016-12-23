@@ -96,7 +96,7 @@ Kalifornien ist auch ein Spiegelbild fuer die starke Polarisierung der amerikani
 Falls man Kalifornien besucht, sollte man auf jeden Fall auch nach Nevada und wenn moeglich nach Arizona fahren, weil nur dort sieht man diesen unglaublichen Gegensatz zwischen landschaftlicher Schoenheit (Grand Canyon) und dem Glimmer und Glitzer der Konsumgesellschaft (Las Vegas).
 Alles in allem bietet Kalifornien sehr viel und waere fuer alle, die dem Winter entfliehen wollen,  eine gute Moeglichkeit.
 
-<h2>Highlights [<a href="https://photos.google.com/album/AF1QipMsjY0O-QpIJkdCM2cGzWmefObKW20wMDo8_HFV" target="_blank" style="text-decoration:underline;">alle Fotos</a>]</h2>
+<h2>Highlights [<a href="https://goo.gl/photos/RbnyFpu8pNNyE6jN6" target="_blank" style="text-decoration:underline;">alle Fotos</a>]</h2>
 
 <div class="row">
   <div class="col-sm-12 text-center">

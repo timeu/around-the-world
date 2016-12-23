@@ -13,7 +13,7 @@ header-img: img/japan-bg.jpg
 
 <h1>Zusammenfassung der Japan Reise:</h1>
 
-![]({{ "/assets/images/Japanflag.gif" | prepend : site.baseurl }}) 
+![]({{ "/assets/images/Japanflag.gif" | prepend : site.baseurl }})
 
 
 <h2>Reiseroute</h2>
@@ -27,7 +27,7 @@ header-img: img/japan-bg.jpg
     <hr />
     <dl class="dl-horizontal">
       <dt>Zeitraum</dt>
-      <dd>2.10.2005 bis   
+      <dd>2.10.2005 bis
       26.10.2005</dd>
       <dt>Dauer</dt>
       <dd>24 Tage</dd>
@@ -87,12 +87,12 @@ header-img: img/japan-bg.jpg
 <h2>Unser Resume</h2>
 
 Japan ist wohl eines der faszinierendsten Laender, die wir bisher besuchten haben. Zum Teil wurden einige Klischees, die man vor der Reise hatte, relativiert, waehrend andere bestaetigt wurden. Zum Beispiel gingen wir vor der Reise davon aus, dass Japan sehr, sehr teuer sein wuerde. Japan ist zwar nicht billig, aber teurer als Oesterreich ist es sicher nicht. Manche Dinge sind teurer und andere sind wieder billiger und man kann immer relativ guenstig reisen, vorausgesetzt man legt nicht sehr viel Wert auf Luxus. Das Essen ist ein gutes Beispiel dafuer. Versucht man in Japan europaeische Speisen zu essen (Pizza, Pasta, etc) wird man vermutlich mehr zahlen muessen, als in Europa und der Geschmack bleibt weit hinter europaeischem Niveau. Laesst man sich hingegen auf die japanische Kueche ein, kann man sehr guenstig und sehr gut essen. Auf der anderen Seite findet man in Japan einige Dinge vor, die auch nur dort in dieser Form existieren. Besonders interessant ist das Zusammenwirken von traditionellen und modernen Werten. Man sieht wichtige und heilige Schreine und Tempel inmitten von modernen Hochhaeusern. Man sieht traditionelle Ryokans und Tempellodgins neben modernen Capsule- und Love Hotels. Wahrscheinlich machen gerade diese vermeintlichen Widersprueche, die fuer die Japner selbst wohl keine sind, fuer uns Aussenstehende den Reiz dieses Landes aus.
-Zum einen sieht man gleichgekleidete Menschenmassen in den U-Bahnen, wo sich jeder Einzelne kaum vom anderen unterscheidet und zum anderen gibt es so viele spezielle Eigenheiten und Geschmaecker, dass man sich Gemeinsamkeiten gar nicht vorstellen kann. 
-Alles in allem bietet das Land sowohl kulturell Wertvolles als auch eine wirklich beeindruckende Natur. 
+Zum einen sieht man gleichgekleidete Menschenmassen in den U-Bahnen, wo sich jeder Einzelne kaum vom anderen unterscheidet und zum anderen gibt es so viele spezielle Eigenheiten und Geschmaecker, dass man sich Gemeinsamkeiten gar nicht vorstellen kann.
+Alles in allem bietet das Land sowohl kulturell Wertvolles als auch eine wirklich beeindruckende Natur.
 Ungluecklicherweise sind wohl 3 1/2 Wochen zu wenig um dieses Land ganz zu verstehen und zu fassen. Wir haben letztlich nur an der Oberflaeche gekrazt, sind aber nie tiefer in die Kultur eingedrungen. Dies liegt aber auch daran, dass wir kein Japanisch sprechen und ohne die Sprache zu koennen, hat man es hier eben sehr schwer, die Menschen, die Kultur und deren Eigenheiten besser zu verstehen. Die 3 1/2 Wochen sind aber mehr als genug, um einen ersten Eindruck von dem Land und den Menschen zu bekommen und es zahlt sich auf jeden Fall aus.
 
 
-<h2>Highlights [<a href="https://plus.google.com/photos/+%C3%9CmitSeren/albums/6143481901665650433?sort=1" target="_blank">alle Fotos</a>]</h2>
+<h2>Highlights [<a href="https://goo.gl/photos/1qhtz1go8ePtBUqf8" target="_blank">alle Fotos</a>]</h2>
 <div class="row">
   <div class="col-sm-12 text-center">
     <div class="thumbnail">
